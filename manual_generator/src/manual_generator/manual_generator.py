@@ -98,54 +98,54 @@ class Item:
     def __str__(self):
         out = f"|**{self.name}**|\n"
         out+= f"|:-|\n"
-        out+= f"| Monster(s): {", ".join(self.monsters)} |\n"
+        out+= f"| **Monster(s)**: {", ".join(self.monsters)} |\n"
         all_sources = [src for src in self.source.values()]
         if len(self.monsters)>1 and not all(x==all_sources[0] for x in all_sources):
             out += f"| "
             for mon, sources in self.source.items():
-                out += f"Source: ({mon}): {", ".join(sources)}<br>"
+                out += f"**Source ({mon})**: {", ".join(sources)}<br><br>"
             out = out[:-4]
             out += " |\n"
         else:
-            out+= f"| Source: {", ".join(self.source[self.monsters[0]])} |\n"
+            out+= f"| **Source**: {", ".join(self.source[self.monsters[0]])} |\n"
         out+= f"| _{self.item_type}_ |\n"
         if self.ingredient_type[0]!="-":
-            out+= f"| Use as ingredient for: _{", ".join(self.ingredient_type)}_ |\n"
+            out+= f"| **Use as ingredient for**: _{", ".join(self.ingredient_type)}_ |\n"
         if self.crafting_value[0]!="-":
-            out+= f"| Crafting Value (when used as ingredient): _{", ".join(self.crafting_value)}_ |\n"
+            out+= f"| **Crafting Value (when used as ingredient)**: _{", ".join(self.crafting_value)}_ |\n"
         if self.use[0]!="-":
-            out+= f"| Use: _{", ".join(self.use)}_ |\n"
+            out+= f"| **Use**: _{", ".join(self.use)}_ |\n"
         if self.effect != "-":
-            out+= f"| Effect: {self.effect} |\n"
+            out+= f"| **Effect**: {self.effect} |\n"
         if self.cooking_effect != "-":
-            out+= f"| Cooking Effect: {self.cooking_effect} |\n"
+            out+= f"| **Cooking Effect**: {self.cooking_effect} |\n"
         if len(self.monsters)>1:
             out += f"| "
             for mon, checks in self.find_checks.items():
-                out += f"Find Checks ({mon}): {", ".join(checks)}<br>"
+                out += f"**Find Checks ({mon})**: {", ".join(checks)}<br><br>"
             out = out[:-4]
             out += " |\n"
         else:
             if self.find_checks[self.monsters[0]][0] != "-":
-                out+= f"| Find Checks: {", ".join(self.find_checks[self.monsters[0]])} |\n"
+                out+= f"| **Find Checks**: {", ".join(self.find_checks[self.monsters[0]])} |\n"
         if len(self.monsters)>1:
             out += f"| "
             for mon, dcs in self.find_dc.items():
-                out += f"Find DCs ({mon}): {", ".join(dcs)}<br>"
+                out += f"**Find DCs ({mon})**: {", ".join(dcs)}<br><br>"
             out = out[:-4]
             out += " |\n"
         else:
             if self.find_dc[self.monsters[0]][0] != "-":
-                out+= f"| Find DCs: {", ".join(self.find_dc[self.monsters[0]])} |\n"
+                out+= f"| **Find DCs**: {", ".join(self.find_dc[self.monsters[0]])} |\n"
         if len(self.monsters)>1:
             out += f"| "
             for mon, loc in self.location.items():
-                out += f"Locations ({mon}): {", ".join(loc)}<br>"
+                out += f"**Locations ({mon})**: {", ".join(loc)}<br><br>"
             out = out[:-4]
             out += " |\n"
         else:
             if self.location[self.monsters[0]][0] != "-":
-                out+= f"| Locations: {", ".join(self.location[self.monsters[0]])} |\n"
+                out+= f"| **Locations**: {", ".join(self.location[self.monsters[0]])} |\n"
         return out
 
 
@@ -165,7 +165,12 @@ class ManualGenerator:
         self.items = [Item(*MONSTER_DROPS.loc[x]) for x in range(len(MONSTER_DROPS))]
         self.mode = mode
     def by_item(self):
-        out = "\n\n".join([str(item) for item in self.items])
+        out = "\n\n".join(
+            [
+                f"### {item.name}\n\n"+str(item)
+                for item in self.items
+            ]
+        )
         return out
     @classmethod
     def item_to_items_by_monster(cls, item):
@@ -191,7 +196,7 @@ class ManualGenerator:
                     ))
         return items
     def by_monster(self):
-        monsters = list(set([mon for item in self.items for mon in item.monsters]))
+        monsters = sorted(list(set([mon for item in self.items for mon in item.monsters])))
         out = ""
         for monster in monsters:
             out+= f"### {monster}\n\n"
@@ -200,7 +205,12 @@ class ManualGenerator:
             for gi in gen_items:
                 split_items = self.item_to_items_by_monster(gi)
                 monster_items += [item for item in split_items if monster in item.monsters]
-            out+="\n\n".join([str(mi).replace(f"| Monster(s): {monster} |\n","") for mi in monster_items])
+            out+="\n\n".join(
+                [
+                    f"#### {mi.name}\n\n"+str(mi).replace(f"| Monster(s): {monster} |\n","")
+                    for mi in monster_items
+                ]
+            )
             out+="\n\n"
         return out
     def __str__(self):

@@ -1,8 +1,7 @@
 import argparse
 import pathlib
-import markdown
 from manual_generator.manual_generator import ManualGenerator
-# from markdown_pdf import MarkdownPdf, Section
+from manual_generator.markdown_html import MarkdownCompiler
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -12,9 +11,6 @@ if __name__ == '__main__':
     out = str(ManualGenerator(mode="by_monster"))
     with open(filename,"w") as f:
         f.write(out)
-    # html = markdown.markdown(out)
-    # with open(filename.with_suffix('.html'),"w") as f:
-    #     f.write(html)
-    # pdf = MarkdownPdf(optimize=True)
-    # pdf.add_section(Section(out))
-    # pdf.save(filename.with_suffix('.pdf'))
+    html,body = MarkdownCompiler().run(out,"Crooked Moon Harvesting Items (by monster)")
+    with open(filename.with_suffix('.html'),"w") as f:
+        f.write(html)
