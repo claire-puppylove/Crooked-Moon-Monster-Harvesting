@@ -1,23 +1,4 @@
 Item, Storage, Monster(s), Item Type, Ingredient Type, Crafting Value, Use, Effect, Cooking Effect, Find Checks, Find DC, Location
-"- note, can't use many of these because of it turning to ashes at the end.",-,-,-,-,-,-,-,-,-,-,-
--,-,-,-,-,-,-,"All items made with horned king harvesting are watched by the horned king, kinda like vecna",-,-,-,-
--,-,-,-,-,-,-,-,-,-,-,-
-Horned King's Ashes,bottle,The Horned King,Consumable (Legendary),??,??,??,??,??,"Survival, Perception, Investigation, Nature, Religion, Arcana, Fated Tarot Reading","??, Auto Success on Fated Tarot: The World", "The Wytchwood"
-Circlet of the Horned King,-,-,Wondrous Item (Legendary)(Requires Attunement),-,-,-,"Stronger telepathy and detect toughts, bonus to AC and saving throws, once per day wisdom save to avoid temptation",-,-,-,-
-Embers of Terror,bottle,The Horned King,Consumable (Legendary),??,??,??,??,??,"Survival, Perception, Investigation, Nature, Religion, Arcana, Fated Tarot Reading","??, Auto Success on Fated Tarot: The World", "The Wytchwood"
-Helm of Terror,-,-,Wondrous Item (Legendary)(Requires Attunement),-,-,-,"Great Fly speed, Terrorizing Breath, once per day wisdom save to avoid temptation",-,-,-,-
-Corrupting Sludge,bottle,The Horned King,Consumable (Legendary),??,??,??,"Like ectoplasm but worse, like malice from BOTW (in place of heart?), maybe shapechange to monster for 1 hour if consumed",??,"Survival, Perception, Investigation, Nature, Religion, Arcana, Fated Tarot Reading","??, Auto Success on Fated Tarot: The World", "The Wytchwood"
-Goat Eye of Sin Amulet,-,-,Wondrous Item (Legendary),-,-,-,"Made from Sludge. Truesight 60 ft, no attunement, once per day wisdom save to avoid temptation",-,-,-,-
-Ring of Temptation,-,-,Wondrous Item (Legendary)(Requires Attunement),-,-,-,"You receive double XP from monsters. Takes double damage from enemies",-,-,-,-
--,-,-,-,-,-,-,-,-,-,-,-
--,-,-,-,-,-,-,-,-,-,-,-
--,-,-,-,-,-,-,-,-,-,-,-
-Gem of Temptation,pouch,The Horned King,Consumable (Legendary),-,-,Absorb,"A gem of the crystalized temptation wielded by the Horned King. You can absorb its magic to cast the Wish spell, after which it crumbles to dust and becomes inert.",-,"Survival, Perception, Investigation, Nature, Religion, Arcana, Fated Tarot Reading","33(x1), Auto Success on Fated Tarot: The World(x1)","The Wytchwood"
-Crooked Moonstone,pouch,The Horned King,Consumable (Very Rare),-,-,Absorb,"A moonlight-like glowing gem of the crystalized magic in the Horned King, broken into enough shards for each member of your party. When consumed, you gain +2 to an ability score of your choice, to a maximum of 24",-,-,"Auto Success if campaign continues to Moonfall chapter(1 for each party member)", "The Wytchwood"
-Crooked Tree Ashes,vial,The Crooked Tree,Consumable (Legendary),??,??,??,??,??,??,??,"The Wytchwood"
--,-,-,-,-,-,-,-,-,-,-,-
--,-,-,-,-,-,-,-,-,-,-,-
--,-,-,-,-,-,-,-,-,-,-,-
 Primordial Necrolisk Slime,bottle,Primordial Necrolisk (Home-Brew Side Quest Boss Monster),Consumable (Very Rare),"Potions, Rods, Wands, Staffs, Rings, Wondrous Items",5000 GP,Throw,"??","??","Survival, Nature, Arcana, Alchemist Kit","??", "Maidenmist Cementery"
 Primordial Necrolisk Claw,??,Primordial Necrolisk (Home-Brew Side Quest Boss Monster),Consumable (Very Rare),??,??,??,??,??,"Survival, Nature","??", "Maidenmist Cementery"
 Spirit Predator Weapon,-,-,-,-,-,-,-,-,-,-,-
