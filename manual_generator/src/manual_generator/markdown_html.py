@@ -15,7 +15,14 @@ def load_utf8(filename):
 class MarkdownCompiler:
     """Python Markdown compiler."""
     compiler_name = "markdown"
-    default_css = ["./css/markdown.css"]
+    default_css = [
+        "./css/markdown.css",
+        "./css/libre-baskerville.css",
+        "./css/noto-sans.css",
+        "./css/dnd.min.css",
+        "./css/dnd_like.css",
+        # "./css/statblock-style.css",
+        ]
     def get_title(self):
         """Get HTML title."""
         if self.meta_title is not None:
@@ -29,7 +36,10 @@ class MarkdownCompiler:
     def get_default_css(self):
         """Locate the correct CSS with the `css` setting."""
         css_text = []
-        css_text.append("<style>%s</style>" % load_utf8(os.path.expanduser(self.default_css[0])))
+        css_text = [
+            f"<style>{load_utf8(os.path.expanduser(i))}</style>"
+            for i in self.default_css
+            ]
         return '\n'.join(css_text)
     def convert_markdown(self, markdown_text):
         """Convert input markdown to HTML, with GitHub, GitLab or builtin parser."""
