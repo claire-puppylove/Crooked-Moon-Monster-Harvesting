@@ -135,7 +135,7 @@ _ Consumable (Uncommon)_
 **Locations**: Ghostlight Express  
   
 
-### Haint Hooch Base  
+### Haint Hooch Berries  
 
 ---  
 **Monster(s)**: Wayward Haint  
@@ -144,7 +144,7 @@ _ Consumable (Uncommon)_
 **Use as ingredient for**: _Potion (Haint Hooch)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant_  
-**Description**: When this yet to be fermented Haint Hooch base is applied to a weapon, slashing, bludgeoning and piercing damage which would be resisted by incorporeal entities is not resisted for 1 minute.  
+**Description**: When this yet to be fermented Haint Hooch berry is applied to a weapon, slashing, bludgeoning and piercing damage which would be resisted by incorporeal entities is not resisted for 1 minute.  
 
 **Cooking Effect**: When added to food instead of distilling it to a Potion, up to 4 people can become not quite incorporeal, but not quite corporeal, for 1 hour. While under this effect, subtract 2 points of damage from Bludgeoning, Slashing, or Piercing damage.  
 
@@ -178,7 +178,7 @@ _ Consumable (Uncommon)_
 **Use as ingredient for**: _Potions, Scrolls, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw, Sprinkle, Armor enchant_  
-**Description**: The phantasmal Wildpyre might be a ghost, but it is still a cat. There is fur on your clothes just from being around it.<br>When sprinkled or thrown on the floor, a fire that gives out 15 ft Bright Light and 15 ft Dim Light occupying a diameter of appears for 1 minute. Creatures entering the fire or starting their turn there take 1d8 Necrotic and 2d6 Fire damage. After taking the damage for the first time, they make a DC 15 Dexterity Saving Throw, and become restrained if failed.<br>When sprinkled on armor or shields, it becomes magically covered in flames for 10 minutes, during which 15 ft of Dim Light emanates from the armor or shield, and when an enemy attacks the wearer with a melee attack they take 1d4 Necrotic and 1d6 Fire damage.  
+**Description**: The phantasmal Wildpyre might be a ghost, but it is still a cat. There is fur on your clothes just from being around it.<br>When sprinkled or thrown on the floor, a fire that gives out 15 ft Bright Light and 15 ft Dim Light occupying a 10 ft cube appears for 1 minute. Creatures entering the fire or starting their turn there take 1d8 Necrotic and 2d6 Fire damage. After taking the damage for the first time, they make a DC 15 Dexterity Saving Throw, and become restrained if failed.<br>When sprinkled on armor or shields, it becomes magically covered in flames for 10 minutes, during which 15 ft of Dim Light emanates from the armor or shield, and when an enemy attacks the wearer with a melee attack they take 1d4 Necrotic and 1d6 Fire damage.  
 
 **Find Checks**: Survival, Nature, Arcana  
 **Find DCs**: 13(x1), 15(x2), 17(x3)  
@@ -251,6 +251,21 @@ _ Wondrous Item (Rare)(Requires Attunement)_
 
 **Find Checks**: Survival, Perception, Investigation, Arcana, Fated Tarot Reading  
 **Find DCs**: 17(x1), Auto Success on Fated Tarot: The Fool  
+**Locations**: Ghostlight Crashsite  
+  
+
+### Oil of Acuteness  
+
+---  
+**Monster(s)**: -  
+**Source**:   
+_Consummable (Rare)_  
+**Use as ingredient for**: _Weapons, Armor, Shields_  
+**Crafting Value (when used as ingredient)**: _200 GP_  
+**Use**: _Weapon Enchant, Armor Enchant_  
+**Description**: When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane piece of armor or a mundane shield, it becomes a magical armor or shield with a +1 bonus to Armor Class.  
+
+**Find DCs**: Given as a choice of a reward by Adela and Philip instead of +1 Weapon or +1 shield as a reward for saving them from the Ghostlight Locomotive.  
 **Locations**: Ghostlight Crashsite  
   
 
