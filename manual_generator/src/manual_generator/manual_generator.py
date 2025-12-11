@@ -28,6 +28,7 @@ class Item:
         find_checks:     dict[str:list[str]]: Ability checks one might use to harvest or find the item as treasure
         find_dc:         dict[str:list[str]]: The DC for the Ability checks to find or harvest the item
         location:        dict[str:list[str]]: The location that the monsters that drop the item are in
+        source:          str                : The source book the item is cited from
     '''
     def __init__(
             self,
@@ -115,6 +116,8 @@ class Item:
             out+= f"**Source**: {", ".join(self.source[self.monsters[0]])}  \n"
         if self.item_type[0]!="-":
             out+= f"_{self.item_type}_  \n"
+        if self.storage!="-":
+            out+= f"**Store in**: _{self.storage}_  \n"
         if self.ingredient_type[0]!="-":
             out+= f"**Use as ingredient for**: _{", ".join(self.ingredient_type)}_  \n"
         if self.crafting_value[0]!="-":
@@ -283,4 +286,3 @@ class ManualGenerator:
             out+= "## Harvesting Items (By Monster, repeating items where necessary)  \n\n"
             out+= self.by_monster()
         return out
-    

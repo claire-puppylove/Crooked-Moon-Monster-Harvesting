@@ -105,8 +105,9 @@ I won't charge for this content but honestly it is taking me several full on day
 
 ---  
 **Monster(s)**: -  
-**Source**:   
+**Source**: Home-brew inspired by Solasta  
 _Consummable (Rare)_  
+**Store in**: _flask_  
 **Use as ingredient for**: _Weapons, Armor, Shields_  
 **Crafting Value (when used as ingredient)**: _200 GP_  
 **Use**: _Weapon Enchant, Armor Enchant_  
@@ -122,6 +123,7 @@ _Consummable (Rare)_
 **Monster(s)**: -  
 **Source**: Player's Handbook, Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use**: _Drink, (DM Eyes only: Weapon Enchant)_  
 **Description**: As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.<br>(DM Eyes only:The players might have the idea to coat a weapon with the antitoxin in fights against the Hartsblighted. In such a case, they can take a Bonus Action to apply the antitoxin to a weapon or 3 ammunition, and it lasts 1 minute or 1 hit, whichever comes first. When hit, creatures with the Blight Dependent trait are affected as stated.)  
 
@@ -135,6 +137,7 @@ _Consumable (Common)_
 **Monster(s)**: Air Elemental  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Wondrous Item (Elemental Gem)_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Description**: The magical remnants found in dust picked up by an Air Elemental can be used as 100 GP worth in materials to enchant a Blue Sapphire worth 100 GP to craft an Elemental Gem (Blue Sapphire)  
@@ -163,6 +166,7 @@ _Magic Item Except Relic (Rare)_
 **Monster(s)**: Alpengrendel  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Blow_  
@@ -179,6 +183,7 @@ _Consumable (Rare)_
 **Monster(s)**: Alpengrendel  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant_  
@@ -195,6 +200,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Alpengrendel  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Armor, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Armor enchant, Sprinkle_  
@@ -211,6 +217,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Alpengrendel  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Cooking Effect**: When cooked, you can make food with a special effect for 4 people. When eaten, you gain resistance to fire and cold damage for 1 hour, but this effect is negated if there are Holy Symbols or Relics (religious magic items) within 10 ft of you.  
 
 **Find Checks**: Survival, Nature  
@@ -226,6 +233,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Animated Rug of Smothering  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Wondrous Items (clothing)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Activate_  
@@ -257,6 +265,7 @@ _Implement (Rare)_
 **Monster(s)**: Awakened Tree  
 **Source**: Home-brew  
 _ Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon Enchant_  
@@ -275,6 +284,7 @@ _ Consumable (Common)_
 **Monster(s)**: Awakened Tree  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Eat_  
@@ -321,6 +331,7 @@ _Implement (Common)_
 **Monster(s)**: Bat Hound  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon enchant_  
@@ -339,6 +350,7 @@ _Consumable (Common)_
 **Monster(s)**: Bat Hound  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Arrow Fletchings, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Wear_  
@@ -355,6 +367,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Bat Hound  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Activate_  
@@ -373,6 +386,7 @@ _Consumable (Rare)_
 **Monster(s)**: Bat Hound  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Activate_  
@@ -393,6 +407,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Bayou Beast  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Cheat Fate_  
@@ -409,6 +424,7 @@ _Consumable (Rare)_
 **Monster(s)**: Bayou Beast  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial(x1),bottle(x10)_  
 **Use as ingredient for**: _Potion (Jinxed Rum)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Drink_  
@@ -442,6 +458,7 @@ _Armament (Common)_
 **Monster(s)**: Blink Dog  
 **Source**: Home-brew  
 _Consummable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Use**: _Drink_  
@@ -462,6 +479,7 @@ _Consummable (Uncommon)_
 **Monster(s)**: Boneflayer  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Activate_  
@@ -480,6 +498,7 @@ _Consumable (Rare)_
 **Monster(s)**: Boneflayer  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Activate_  
@@ -498,6 +517,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Boneflayer  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Arrow Fletchings_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: You can use these in place of 13 GP to craft ammunition that uses fletchings.  
@@ -513,6 +533,7 @@ _Ingredient (Common)_
 **Monster(s)**: Boneflayer  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Acid_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Description**: You can use this as 25 GP worth in crafting Acid (Players Handbook).  
@@ -530,6 +551,7 @@ _Ingredient (Common)_
 **Monster(s)**: Boogleswarm  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Clothing, Pouch, Wondrous Items (clothing, pouch)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: Ermine fur can be used to create small items, or as decoration on larger clothes.  
@@ -545,6 +567,7 @@ _Ingredient (Common)_
 **Monster(s)**: Boogleswarm  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potion_  
 **Crafting Value (when used as ingredient)**: _1 GP_  
 **Description**: Ew, what are you gonna do with that?  
@@ -562,6 +585,7 @@ _Ingredient (Common)_
 **Monster(s)**: Bulette (Land Shark)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (Scale)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Armor attachment_  
@@ -578,6 +602,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Bulette (Land Shark)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Use**: _Pick_  
@@ -629,6 +654,7 @@ _Spell Scroll (Very Rare)_
 **Monster(s)**: Centipede Hag  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use**: _Absorb_  
 **Description**: An orb containing the memories of a slain hero of the past. When you consume this item, you see the memories and feel them as if your own, and you gain a Feat of your choice. The orb shatters and becomes dust after use.  
 
@@ -643,6 +669,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Centipede Hag  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _vial, cloth, pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Description**: The remaining dust of the memory orb can be used as material worth 2500 GP when crafting a magical item  
@@ -655,6 +682,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: Centipede Hag  
 **Source**: Home-brew  
 _Ring (Very Rare)_  
+**Store in**: _vial_  
 **Description**: When worn, you have 1 more 3rd level spell slot.  
 
 **Find Checks**: Survival, Perception, Investigation, Arcana, Fated Tarot Reading  
@@ -668,6 +696,7 @@ _Ring (Very Rare)_
 **Monster(s)**: Centipede Hag  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw, Pour_  
@@ -686,6 +715,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Centipede Hag  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use**: _Throw_  
 **Description**: A bag of absolute vile filth. When thrown or opened, the filth is spread in a 20 ft radius from the point of impact, and creatures in the area make a DC 15 Constitution Saving Throw, or have the Poisoned condition. Immediately after the filth spreads, as if on cue, a swarm of insects fills the area, and the area is Lightly Obscured and Difficult Terrain. When the swarm appears, each creature in it makes a Constitution saving throw, taking 4d10 Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the swarm's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn. The swarm leaves after 10 minutes have passed.  
 
@@ -702,6 +732,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Chuul  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Silence of the Drowned)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Drink_  
@@ -720,6 +751,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Chuul  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use**: _Weapon Enchant_  
 **Description**: You can use a Bonus Action to coat your weapon or 10 pieces of ammunition, which become enhanced with a paralytic poison for 1 minute or 10 hits, whichever comes first. When hit, the target must succeeed on a DC 13 Constitution Saving Throw or have the Poisoned condition, repeating the saving throw at the end of each of its turns. While the target has the Poisoned condition, it also has the Paralyzed condition.  
 
@@ -750,6 +782,7 @@ _Crafted Item_
 **Monster(s)**: Clay Golem  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Throw(melee)_  
@@ -763,6 +796,7 @@ _Consumable (Common)_
 **Monster(s)**: Clay Golem  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Description**: The clay of the golem clay can sometimes be enhanced by the magic that keeps it alive. Some people swear by its use in beauty products, although it can get quite expensive.  
@@ -780,6 +814,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Clay Golem  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Clay Golem, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _30,000 GP or 10,000 GP_  
 **Description**: The core of a golem, when removed correctly, can be used to craft another clay golem. You can use this as 30,000 GP worth of materials towards the 65,000 GP necessary to craft a Golem (of the kind you defeated). However, you need a Manual of Golems (of the kind you defeated) to do so. You can also use it as 10,000 GP needed to craft other magic items.  
@@ -821,6 +856,7 @@ _Arcana (Uncommon)_
 **Monster(s)**: Corvodaemon  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant_  
@@ -841,6 +877,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Crimson Clergy  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _vial,bottle(x10)_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Absorb_  
@@ -869,6 +906,7 @@ _Ingredient (Common)_
 **Monster(s)**: Crimson Clergy  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial, bottle(x10)_  
 **Use as ingredient for**: _Potion (Draught of the Red Hunger)_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Drink_  
@@ -889,6 +927,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Crocodile  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can use this to cook mundane food for 4 people  
 
 **Find Checks**: Survival, Nature  
@@ -902,6 +941,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Crocodile  
 **Source**: Home-brew  
 _Ingredient(Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Jewelry, Arrowheads_  
 **Crafting Value (when used as ingredient)**: _10 GP_  
 **Description**: These small teeth are good to craft arrowheads, or jewelry.  
@@ -917,6 +957,7 @@ _Ingredient(Common)_
 **Monster(s)**: Crocodile  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: The skin of the Crocodile is perfect for crafting sturdy armor, both on its own for leather armor, as well as for straps and coatings on other types of armor.  
@@ -934,6 +975,7 @@ _Ingredient (Common)_
 **Monster(s)**: Crooked Effigy  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Sight of Sin)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: The sap of the Crooked Effigies is flowing with magic that enhances sight. You can use this in place of 50 GP worth of materials towards the 2000 GP necessary to craft a Sight of Sin potion (Rare).  
@@ -951,6 +993,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Crooked Hare  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use**: _Weapon Enchant_  
 **Description**: The Crooked Hare has a cursed effect, which you can take advantage of. You can use a Bonus Action to apply this to a weapon or 3 ammunition, you can use this effect for 1 minute or 3 hits, whichever comes first. On a hit, the target takes an additional 2d6 Poison damage. Additionally, the target must succeed on a DC 11 Charisma Saving Throw or be cursed for 24 hours. While cursed, the extremities of the target twitch incontrollably in inopportune moments, giving it Disadvantage on attack rolls and ability checks that rely on Charisma.  
 
@@ -967,6 +1010,7 @@ _Consumable (Common)_
 **Monster(s)**: Crooked Hare  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use**: _Drink_  
 **Description**: An antitoxin made from the venom of a Crooked Hare. When drunk, it removes the effects of the bite of the Crooked Hare, and gives Advantage on saving throws cuased by its venom for 1 hour.  
 
@@ -981,6 +1025,7 @@ _Crafted Item_
 **Monster(s)**: Crowstorm  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Arrow Fletchings_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Activate, Fire with arrow_  
@@ -1023,6 +1068,7 @@ _Consumable (Common)_
 **Monster(s)**: Deepdrek  
 **Source**: Home-brew  
 _Mundane_  
+**Store in**: _pouch_  
 **Description**: Locket with pictures of a loved one  
 
 **Find Checks**: Survival, Perception, Investigation  
@@ -1047,6 +1093,7 @@ _Implement (Uncommon)_
 **Monster(s)**: Deepdrek  
 **Source**: Home-brew  
 _Ingredient(uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Bomb, Bullets_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Description**: Enough gunpowder to craft 30 Revolver Ammunition, or a tenth of what's needed to craft a bomb.  
@@ -1066,6 +1113,7 @@ _Ingredient(uncommon)_
 **Monster(s)**: Devil's Glove  
 **Source**: Home-brew  
 _Consumable (common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon Enchant_  
@@ -1086,6 +1134,7 @@ _Consumable (common)_
 **Monster(s)**: Dire Wolf  
 **Source**: Home-brew  
 _Ingredient (Mundane)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can cook this to make mundane food for 4 people  
 
 **Find Checks**: Survival, Nature  
@@ -1099,6 +1148,7 @@ _Ingredient (Mundane)_
 **Monster(s)**: Dire Wolf  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (leather or hide), Mundane (leather), Wondrous Items (leather or hide)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Wear_  
@@ -1115,6 +1165,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Dire Wolf  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Weapons, Rings, Wondrous Items (jewelry), Ring of the Dire Wolf_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: The teeth of a Dire Wolf are large and sturdy, and can be used in crafting small parts of weapons, or jewelry. Particularly of note, they can be used as 50 GP worth in materials towards the 100 GP necessary to craft a Ring of the Dire Wolf (Uncommon).  
@@ -1130,6 +1181,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Dire Wolf  
 **Source**: Home-brew  
 _Ring (Uncommon)_  
+**Store in**: _pouch_  
 **Description**: When worn, whenever you might be knocked Prone but not Unconscious, you can take a Reaction to poise yourself. You roll a DC 16 Athletics check and stay upright if you succeed.  
 
 _Crafted Item_  
@@ -1143,6 +1195,7 @@ _Crafted Item_
 **Monster(s)**: Dragon(any)  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Empowered Spell Metamagic, rerolling up to 5 dice per use, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -1154,6 +1207,7 @@ _Crafted Item_
 **Monster(s)**: Dragon(any)  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Extended Spell Metamagic, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -1180,6 +1234,7 @@ _Crafted Item_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Empowered Spell Metamagic, rerolling up to 5 dice per use, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -1191,6 +1246,7 @@ _Crafted Item_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Extended Spell Metamagic, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -1202,6 +1258,7 @@ _Crafted Item_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Accessory Enchant, Drink_  
@@ -1253,6 +1310,7 @@ _Crafted Item_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (Scale), Shields_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Description**: The scales of the Drakkenhob can be used as 1000 GP worth in materials towards the 2000 GP necessary to make Dakkenhob Scale Armor (Rare), as well as other scale armors or shields.  
@@ -1279,6 +1337,7 @@ _Crafted Item_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Armor, Rings, Wondrous Items, Helm of the Drakkenhob_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Absorb_  
@@ -1295,6 +1354,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
+**Store in**: _bag_  
 **Use**: _Wear_  
 **Description**: A helm made with the horns of a Drakkenhob. While you are wearing the helm and are attuned to it, you can speak and understand Draconic, and gain Blindsight to 60 ft. The helm has 3 charges. You can use 1 charge and a Bonus Action to gain the ability to use the Drakkenhobs Terrifying Breath for 1 hour. When using the breath weapon, you exhale terror flames in a 30 ft Cone. Creatures in the area must succeed on a DC 17 Dexterity Saving Throw or take 4d6 Psychic damage and become Frightened until the start of your next turn. The helm regains 1d3 charges on a Long Rest.  
 
@@ -1307,6 +1367,7 @@ _Crafted Item_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Scrolls, Spells, Wondrous Items (Clothing)_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Description**: The mantle on the back of the Drakkenhob still emanates some of its magic. You can use this in place of 1000 GP worth of materials towards the 2000 GP necessary to craft the Drakkenhob Cloak (Rare), or other magic clothing items.  
@@ -1333,6 +1394,7 @@ _Crafted Item_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring, Ring of the Night Terror_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Eat_  
@@ -1351,6 +1413,7 @@ _Consumable (Rare)_
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ring (Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: You can speak and understand Draconic, gain Blindsight to 60 ft. You grow spectral dragon scales, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.<br>The ring has 4 charges.<br>You can use 1 charge and a Magic Action to cast Alter Self.<br>You can use 1 charge and a Bonus Action to gain the ability to use the Drakkenhobs Terrifying Breath for 1 hour. When using the breath weapon, you exhale terror flames in a 30 ft Cone. Creatures in the area must succeed on a DC 17 Dexterity Saving Throw or take 4d6 Psychic damage and become Frightened until the start of your next turn.<br>You can use 2 charges and a Magic Action to howl to the moon and cast Conjure Animals (wolf form).<br>Whenever you spend 1 or more charges, you must succeed on a DC 10 Wisdom Saving Throw or be afflicted by the Phantasmal Force spell until the start of your next turn.<br>The ring regains 1d4 charges on a Long Rest.  
 
 _Crafted Item_  
@@ -1364,6 +1427,7 @@ _Crafted Item_
 **Monster(s)**: Dream Eater  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Use**: _Absorb_  
@@ -1380,6 +1444,7 @@ _Consumable (Rare)_
 **Monster(s)**: Dream Eater  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Description**: The blood of the Dream Eater can be used in place of 2500 GP for crafting magic items.  
@@ -1397,6 +1462,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: Dream Eater  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Wondrous Items, Arrow Fletchings_  
 **Crafting Value (when used as ingredient)**: _2000 GP_  
 **Use**: _Activate, Fire with arrow_  
@@ -1413,6 +1479,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Dream Eater  
 **Source**: Home-brew  
 _Ammunition (Very Rare)_  
+**Store in**: _quiver_  
 **Description**: Ammunition magically enchanted with the remains of a Dream Eater. When it hits a target, an emanation of hypnotic light in a 10 ft radius sphere is generated from the ammunition, and creatures in the area make a DC 16 Wisdom Saving Throw, becoming Incapacitated and having their Speed reduced to 0 until the start of the user's next turn on a failure.  
 
 _Crafted Item_  
@@ -1437,6 +1504,7 @@ _Crafted Item_
 **Monster(s)**: Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use**: _Absorb_  
 **Description**: The dreams and souls of the fallen heroes that fell victim to the Dream Eater are encapsuled in this orb. When consumed, you see glimpses of the experience of their adventures, and you gain a Feat of your choice. When consumed, the orb simply vanishes.  
 
@@ -1451,6 +1519,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Description**: The blood of the Dream Eater can be used in place of 2500 GP for crafting magic items.  
@@ -1468,6 +1537,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Wondrous Items, Arrow Fletchings_  
 **Crafting Value (when used as ingredient)**: _2000 GP_  
 **Use**: _Activate, Fire with arrow_  
@@ -1484,6 +1554,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Ammunition (Very Rare)_  
+**Store in**: _quiver_  
 **Description**: Ammunition magically enchanted with the remains of a Dream Eater. When it hits a target, an emanation of hypnotic light in a 10 ft radius sphere is generated from the ammunition, and creatures in the area make a DC 16 Wisdom Saving Throw, becoming Incapacitated and having their Speed reduced to 0 until the start of the user's next turn on a failure.  
 
 _Crafted Item_  
@@ -1520,6 +1591,7 @@ _Crafted Item_
 **Monster(s)**: Earth Elemental  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Wondrous Item (Elemental Gem)_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Description**: The magical remnants of an Earth Elemental can be used as 100 GP worth in materials to enchant a yellow diamond worth 100 GP to craft an Elemental Gem (Yellow Diamond)  
@@ -1537,6 +1609,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Ettin  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Spells, Wands, Rods, Staffs_  
 **Crafting Value (when used as ingredient)**: _20 GP_  
 **Description**: A skull is always a nice addition to spellcasting tools. You can use this in place of 20 GP worth in materials for casting spells or crafting magic wands, rods, or staffs.  
@@ -1552,6 +1625,7 @@ _Ingredient (Common)_
 **Monster(s)**: Ettin  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: Twice the tusks for twice the heads. You could use each of these as 50 GP worth in materials to craft magic items that have parts made of tusk.  
@@ -1580,6 +1654,7 @@ _Implement (Rare)_
 **Monster(s)**: Ferryman  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Use**: _Dart_  
@@ -1596,6 +1671,7 @@ _Consumable (Rare)_
 **Monster(s)**: Ferryman  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial, bottle(x10)_  
 **Use as ingredient for**: _Potion (Elixir of Fog Walking)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Drink_  
@@ -1614,6 +1690,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon Enchant_  
@@ -1632,6 +1709,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Ring (Rare)_  
+**Store in**: _pouch_  
 **Description**: A ring with a brown gemstone resembling a Bouncing Mushroom. When worn, any time you get knocked Prone without becoming Unconcious, you bounce back up. Once you bounce back up from the magic of this ring, you can't use this feature until you have a Short Rest or a Long Rest.  
 
 _Crafted Item_  
@@ -1643,6 +1721,7 @@ _Crafted Item_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon Enchant_  
@@ -1661,6 +1740,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Eat_  
@@ -1679,6 +1759,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw_  
@@ -1697,6 +1778,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells, Cloranthy Ring_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Eat_  
@@ -1715,6 +1797,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Ring (Rare, Very Rare)_  
+**Store in**: _pouch_  
 **Description**: A ring with concentrical leaf-like patterns resembling the Energetic Mushroom cap. While you are wearing this ring, you can use a free action to activate it and gain the ability to Dash or Dodge as a Bonus Action for (Rare: 1 hour, Very Rare: 24 hours). Once you have used this feature, you can't use it again until you have a Long Rest.  
 
 _Crafted Item_  
@@ -1726,6 +1809,7 @@ _Crafted Item_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells, Ring of Fortitude_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Eat_  
@@ -1744,6 +1828,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Ring (Rare, Very Rare)_  
+**Store in**: _pouch_  
 **Description**: A ring with a greyish black stone that looks like a Steelcap Mushroom. While you are wearing this ring, you can use a free action to activate it and gain a boost in your constitution. Your Armor Class has a +1 bonus and you have a +1 bonus in Constitution Saving Throws for (Rare: 1 hour, Very Rare: 24 hours). Once you have used this feature, you can't use it again until you have a Long Rest.  
 
 _Crafted Item_  
@@ -1755,6 +1840,7 @@ _Crafted Item_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon Enchant_  
@@ -1773,6 +1859,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon Enchant_  
@@ -1791,6 +1878,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells, Ring of Regeneration_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Eat_  
@@ -1809,6 +1897,7 @@ _Consumable (Rare)_
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Weapon Enchant_  
@@ -1829,6 +1918,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Fire Elemental  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Wondrous Item (Elemental Gem)_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Description**: The magical remnants of a Fire Elemental can be used as 100 GP worth in materials to enchant a Red Corundum worth 100 GP to craft an Elemental Gem (Red Corundum)  
@@ -1857,6 +1947,7 @@ _Armament (Rare)_
 **Monster(s)**: Fleshdobbin  
 **Source**: Home-brew  
 _Mundane_  
+**Store in**: _pouch_  
 **Description**: Locket with pictures of a loved one  
 
 **Find Checks**: Survival, Perception, Investigation  
@@ -1872,6 +1963,7 @@ _Mundane_
 **Monster(s)**: Flying Snake  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (Leather), Wondrous Items (Leather)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: Snake skin is great for lasting leather crafts.  
@@ -1887,6 +1979,7 @@ _Ingredient (Common)_
 **Monster(s)**: Flying Snake  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can prepare food for 1 person with this.  
 
 **Find Checks**: Survival, Nature  
@@ -1900,6 +1993,7 @@ _Ingredient (Common)_
 **Monster(s)**: Flying Snake  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use**: _Weapon Enchant_  
 **Description**: You can use the venom of the snake directly, or refine it with the Poisoner Kit or the Alchemist kit to generate 3 vials with the same effect. You can coat your weapon or 3 pieces of ammunition with the venom, which will last for 1 minute or 3 hits, whichever comes first. On a hit, add +1d6 Poison damage.  
 
@@ -1918,6 +2012,7 @@ _Consumable (Common)_
 **Monster(s)**: Frederick (Gobblegeist)  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Point_  
@@ -1936,6 +2031,7 @@ _Consumable (Rare)_
 **Monster(s)**: Ghast  
 **Source**: Home-brew  
 _Ingredient (common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Scrolls, Spells, Arrowheads_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Weapon Enchant, Arrowhead_  
@@ -1965,6 +2061,7 @@ _Crafted Item_
 **Monster(s)**: Ghast  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Drench, Absorb_  
@@ -1983,6 +2080,7 @@ _Consumable (Common)_
 **Monster(s)**: Ghost Crawler  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _spool_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Wondrous Items (Clothing)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: The silk of the Ghost Crawler allows it to trap prey such as small insects and animals in both the Material and the Ethereal Plane. You collect about 10 ft of silk on a spool, which can be used as magical material to craft clothing.  
@@ -2000,6 +2098,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Ghostlight Locomotive  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
+**Store in**: _ pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant, Torch_  
@@ -2018,6 +2117,7 @@ _ Consumable (Uncommon)_
 **Monster(s)**: Ghostlight Locomotive  
 **Source**: Home-brew  
 _ Consumable (Rare)_  
+**Store in**: _ vial_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Weapon enchant, Armor enchant, Torch, Lantern_  
@@ -2047,6 +2147,7 @@ _Magic Item (Uncommon)_
 **Monster(s)**: Ghostlight Locomotive  
 **Source**: The Crooked Moon  
 _ Wondrous Item (Rare)(Requires Attunement)_  
+**Store in**: _ bag_  
 **Description**: The Whistle of the Vagrant, from the Fated Tarot Reading, with alternate rolling to find options.  
 
 **Find Checks**: Survival, Perception, Investigation, Arcana, Fated Tarot Reading  
@@ -2062,6 +2163,7 @@ _ Wondrous Item (Rare)(Requires Attunement)_
 **Monster(s)**: Ghoul  
 **Source**: Home-brew  
 _Ingredient (common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Scrolls, Spells, Arrowheads_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Weapon Enchant, Arrowhead_  
@@ -2093,6 +2195,7 @@ _Crafted Item_
 **Monster(s)**: Giant Centipede  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: Bug parts are often used in enchantments and potions  
@@ -2110,6 +2213,7 @@ _Ingredient (Common)_
 **Monster(s)**: Giant Centipede  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Armor attachment_  
@@ -2130,6 +2234,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Giant Crocodile  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items(Jewelry)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: The teeth of the Giant Crocodile are perfect ingredients to craft sturdy hilts, jewelry or smaller sections of armor.  
@@ -2145,6 +2250,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Giant Crocodile  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: The skin of the Giant Crocodile is perfect for crafting sturdy armor, both on its own for leather armor, as well as for straps and coatings on other types of armor.  
@@ -2160,6 +2266,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Giant Crocodile  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can use this to cook mundane food for 4 people  
 
 **Find Checks**: Survival, Nature  
@@ -2175,6 +2282,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Giant Spider  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _spool_  
 **Use as ingredient for**: _Potion of Climbing, Wondrous Items (clothing)_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Description**: The silk of a giant spider is more abundant and more easily usable by weavers than that of smaller spiders. Additionally, it makes a perfect base for a Potion of Climbing.  
@@ -2190,6 +2298,7 @@ _Ingredient (Common)_
 **Monster(s)**: Giant Spider  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use**: _Weapon Enchant_  
 **Description**: You can use the venom of the snake directly, or refine it with the Poisoner Kit or the Alchemist kit to generate 3 vials with the same effect. You can coat your weapon or 3 pieces of ammunition with the venom, which will last for 1 minute or 3 hits, whichever comes first. On a hit, add +1d6 Poison damage.  
 
@@ -2208,6 +2317,7 @@ _Consumable (Common)_
 **Monster(s)**: Giant Vulture  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Arrow Fletchings_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: You can use these in place of 13 GP to craft ammunition that uses fletchings.  
@@ -2223,6 +2333,7 @@ _Ingredient (Common)_
 **Monster(s)**: Giant Vulture  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Acid_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Description**: You can use this as 25 GP worth in crafting Acid (Players Handbook).  
@@ -2240,6 +2351,7 @@ _Ingredient (Common)_
 **Monster(s)**: Glomwood  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Nectar of the Green Man)_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Description**: This sticky green sap can be used in place of 5000 GP towards the 10,000 GP necessary to make a Nectar of the Green Man potion.  
@@ -2257,6 +2369,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: Gloomwood  
 **Source**: Home-brew  
 _Comsumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Use**: _Eat, (DM Eyes only: Weapon Enchant)_  
@@ -2275,6 +2388,7 @@ _Comsumable (Rare)_
 **Monster(s)**: Gloomwood  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Armor, Shields_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Use**: _Maul_  
@@ -2302,6 +2416,7 @@ _Crafted Item_
 **Monster(s)**: Gloomwood  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon Enchant_  
@@ -2320,6 +2435,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Gloomwood  
 **Source**: Home-brew  
 _ Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon Enchant_  
@@ -2340,6 +2456,7 @@ _ Consumable (Common)_
 **Monster(s)**: Gobblegeist  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Point_  
@@ -2356,6 +2473,7 @@ _Consumable (Rare)_
 **Monster(s)**: Gobblegeist  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Description**: You can use this instead of 250 GP when crafting potions, scrolls, or as the material component for spells  
@@ -2375,6 +2493,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Hartsblighted Dog (Death Dog)  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon Enchant_  
@@ -2395,6 +2514,7 @@ _Consumable (Common)_
 **Monster(s)**: Hartsblighted Dryad  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Eat_  
@@ -2415,6 +2535,7 @@ _Consumable (Common)_
 **Monster(s)**: Hartsblighted Owlbear  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Use**: _Absorb_  
@@ -2433,6 +2554,7 @@ _Consumable (Rare)_
 **Monster(s)**: Hemonculus  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _vial,bottle(x10)_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Absorb_  
@@ -2464,6 +2586,7 @@ _Implement (Rare)_
 **Monster(s)**: Herald of Fools  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw, Sprinkle_  
@@ -2480,6 +2603,7 @@ _Consumable (Rare)_
 **Monster(s)**: Herald of Fools  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use**: _Eat, Throw_  
 **Description**: Food from the Fool's Day Festival. When eaten, you recover 1d4-1 Hit Points (a minimum of 0), but you are still hungry when you finish eating it. When thrown as bait, you can attract beasts (DM's Eyes only: or children) that would eat it.  
 
@@ -2494,6 +2618,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Herald of Fools  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
+**Store in**: _bag_  
 **Use**: _Wear_  
 **Description**: If worn as a cloak or some other accessory, add +2 on Performance checks (humor). You can use the spell Greater Invisibility once per Long Rest, but every step you take makes very loud sound effect noises, alerting everyone in a 30 ft radius of your presence, and giving you Disadvantage on Stealth checks while you are moving.  
 
@@ -2508,6 +2633,7 @@ _Wondrous Item (Rare)_
 **Monster(s)**: Herald of Fools  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Clown Car_  
 **Crafting Value (when used as ingredient)**: _15,000 GP_  
 **Use**: _Activate_  
@@ -2538,6 +2664,7 @@ _Crafted Item_
 **Monster(s)**: Hospital Horror  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Drink_  
@@ -2556,6 +2683,7 @@ _Consumable (Common)_
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
+**Store in**: _ pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant, Torch_  
@@ -2574,6 +2702,7 @@ _ Consumable (Uncommon)_
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Wondrous Items (clothing)_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Throw_  
@@ -2636,6 +2765,7 @@ _Spell Scroll (Very Rare)_
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use**: _Absorb_  
 **Description**: An orb containing the memories of a slain hero of the past. When you consume this item, you see the memories and feel them as if your own, and you gain a Feat of your choice. The orb shatters and becomes dust after use.  
 
@@ -2650,6 +2780,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _vial, cloth, pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Description**: The remaining dust of the memory orb can be used as material worth 2500 GP when crafting a magical item  
@@ -2662,6 +2793,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
+**Store in**: _bag_  
 **Use**: _Hooded Lantern_  
 **Description**: A lantern that once was the House of Horror's uvula, and is still emanating some of her energy. It sheds red Bright Light in a 30 ft radius and Dim Light for an additional 30 ft. It has 2 charges.<br>As a Magic action, you can spend one charge to lower the hood to direct a beam of light in a 45 ft long 10 ft wide line, and creatures in the illuminated area must succeed on a DC 17 Wisdom Saving Throw or suffer the effects of the Phantasmal Killer spell for 1 minute. It recharges 1 charge every 10 days. Whenever you use it, you must succeed on a DC 15 Wisdom Saving Throw or be affected by the Phantasmal Force spell for 2 rounds.  
 
@@ -2678,6 +2810,7 @@ _Wondrous Item (Very Rare)_
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Empowered Spell Metamagic, rerolling up to 5 dice per use, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -2689,6 +2822,7 @@ _Crafted Item_
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Extended Spell Metamagic, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -2700,6 +2834,7 @@ _Crafted Item_
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions (Healing, Vitality, Longevity), Ring of Regeneration_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Drink_  
@@ -2718,6 +2853,7 @@ _Consumable (Rare)_
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Weapons_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Description**: The teeth of the hydra are not particularly special but they are still tough parts, and therefore very valuable in crafting weapons.  
@@ -2733,6 +2869,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (Scale), Shields_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Description**: The scales of the hydra are tough and can be used as 1000 GP worth in materials to craft scale armor and shields.  
@@ -2748,6 +2885,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Ring of the Dusk Hydra_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Eat_  
@@ -2779,6 +2917,7 @@ _Crafted Item_
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Cooking Effect**: The meat of the Hypnovulfen is not particularly tasty, but it can have special properties. You can use this to cook food with a special effect for up to 4 people. When eaten, you gain a small advantage when facing effects that would deal Psychic damage for 1 hour. Every time you would be dealt Psychic damage with an attack, subtract 1d4 from the attack roll, and if you are making a saving throw that failing would incur Psychic damage, add 1d4 to the roll.  
 
 **Find Checks**: Survival, Perception, Investigation  
@@ -2792,6 +2931,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (Leather, Hide), Boots of the Hypnovulfen_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Description**: The pelt of a Hypnovulfen is not only abundant due to its large size, but it can be used to create special magic items that allow for greater stealth. You can use this as 5000 GP worth of materials towards the 20,000 GP necessary to craft the Boots of the Hypnovulfen (Very Rare). You can also use it to craft leather or hide armor.  
@@ -2818,6 +2958,7 @@ _Crafted Item_
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Hypnovulfen Amulet_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Use**: _Point_  
@@ -2834,6 +2975,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
+**Store in**: _pouch_  
 **Description**: Made with the eye of a Hypnovulfen, this pendulum has the power to charm creatures in a similar way. You can use a Magic Action to cast a 30 ft Cone of Hypnotic effects that are percieved as a loved one or an item the creatures affected covet or want. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or have the Charmed condition and percieve a loved one or something it wants until it takes damage, or for 1 minute, whichever happens first. While charmed, it has the Incapacitated condition and must move as close to the eye as possible by the safest route. The creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. Once you have used this feature you cannot use it again until you have a Long Rest.  
 
 _Crafted Item_  
@@ -2845,6 +2987,7 @@ _Crafted Item_
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bottle_  
 **Use**: _Absorb_  
 **Description**: The Hypnovulfen uses the images of loved ones to attract prey to their last embrace. All the better for a hypnovulfen to feed and consume the unfortunate morsel's memories. You have recovered the crystalized memories of its victims in the Hypnovulfen stomach. When consumed, you gaze into these memories like a flashback as if you had lived their lives. You permanently gain a +3 bonus to one skill you choose. You can also divide this into three separate +1 bonuses to multiple skills you choose.  
 
@@ -2861,6 +3004,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Invader Out of Space  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Activate_  
@@ -2877,6 +3021,7 @@ _Consumable (Rare)_
 **Monster(s)**: Invader Out of Space  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw, Sprinkle_  
@@ -2908,6 +3053,7 @@ _Magic Item (Rare)_
 **Monster(s)**: Jinxed Mosquito  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use**: _Dart_  
 **Description**: These probosci could be used as darts. When thrown they do 1d4 Piercing and 1d4 Necrotic damage.  
 
@@ -2935,6 +3081,7 @@ _Implement (Rare)_
 **Monster(s)**: Kackle  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _flask_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Lantern_  
@@ -2953,6 +3100,7 @@ _Consumable (Rare)_
 **Monster(s)**: Kackle  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _flask_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Crush_  
@@ -2998,6 +3146,7 @@ _Crafted Item_
 **Monster(s)**: Keeper of the Blight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Use**: _Throw_  
@@ -3014,6 +3163,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Keeper of the Blight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Eat_  
@@ -3032,6 +3182,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Keeper of the Blight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw_  
@@ -3052,6 +3203,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Ketgrinn  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Ring Bell_  
@@ -3094,6 +3246,7 @@ _Armament (Common)_
 **Monster(s)**: Lake Dredger  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Silence of the Drowned)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Drink_  
@@ -3112,6 +3265,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Lake Dredger  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Use**: _Absorb_  
@@ -3141,6 +3295,7 @@ _Magic Item (Uncommon)_
 **Monster(s)**: Lurker in the Dark  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial, cloth_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Sprinkle_  
@@ -3174,6 +3329,7 @@ _Arcane (Rare)_
 **Monster(s)**: Maidenwood  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Rods, Wands, Staffs, Rings, Wondrous Items, Enspelled Staff, Ring of Spell Storing, Rod of Absorption, Staff of the Magi, Spellguard Shield_  
 **Crafting Value (when used as ingredient)**: _1000 GP, 2000 GP_  
 **Description**: The wood of a Maidenwood is extremely resistant agains magic, not in that it deflects it but in that it absorbs it. You can use this wood as 2000 GP in material to craft an Enspelled Staff of any rarity, a Ring of Spell Storing (Rare), a Rod of Absorption (Very Rare), a Staff of the Magi (Legendary), or a Spellguard Shield (Very Rare). For any other magic item it is worth 1000 GP in materials.  
@@ -3189,6 +3345,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Maidenwood  
 **Source**: Home-brew  
 _Potion (Rare)_  
+**Store in**: _vial_  
 **Use**: _Weapon Enchant_  
 **Description**: Wytchwood Sap can be extracted from the Maidenwoods in greater quantities than from other sources.  
 
@@ -3203,6 +3360,7 @@ _Potion (Rare)_
 **Monster(s)**: Maidenwood  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _vial_  
 **Description**: The ash of a burnt Maidenwood can be used to automatically succeed in brewing a potion with Heightened Potency. However, whenever you drink it, you roll a 1d6. On a 1 you suffer a Random Curse for the duration of the potion.  
 
 **Find Checks**: Survival, Nature, Alchemist Kit  
@@ -3218,6 +3376,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Mud Mephit  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Throw_  
@@ -3248,6 +3407,7 @@ _Consumable (Common)_
 **Monster(s)**: Mummy  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Point_  
@@ -3266,6 +3426,7 @@ _Consumable (Common)_
 **Monster(s)**: Mummy  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Scrolls, Spells, Wraps of Unarmed Power_  
 **Crafting Value (when used as ingredient)**: _13 GP, 25 GP(Wraps of Unarmed Power)_  
 **Use**: _Wrap_  
@@ -3305,6 +3466,7 @@ _Crafted Item_
 **Monster(s)**: Mutant Nurse  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _syringe_  
 **Use as ingredient for**: _Potions_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Inject_  
@@ -3321,6 +3483,7 @@ _Consumable (Common)_
 **Monster(s)**: Mutant Nurse  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial, bottle(x10)_  
 **Use as ingredient for**: _Potion (Tincture of Mourning)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Drink_  
@@ -3341,6 +3504,7 @@ _Consumable (Common)_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Weapons, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw_  
@@ -3359,6 +3523,7 @@ _Consumable (Rare)_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Weapons, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Pick_  
@@ -3386,6 +3551,7 @@ _Crafted Item_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring_  
 **Crafting Value (when used as ingredient)**: _4000 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Accessory Enchant, Drink_  
@@ -3436,6 +3602,7 @@ _Crafted Item_
 ---  
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
+**Store in**: _vial_  
 **Use**: _Weapon Enchant, Armor Enchant, Drink_  
 **Description**: Refined from the blood of a Necrolisk, it has similar uses to it. You can use a Bonus Action to coat a weapon with it, which ignores resistances to Slashing, Piercing or Bludgeoning damage caused by a creature being incorporeal for 24 hours. You can use a Bonus Action to coat a piece of armor, clothing or shields, which gain resistance to damage caused by melee attacks of incorporeal creatures for 24 hours. You can also drink the extract, and gain 30 ft of Tremorsense in addition to any you might have for 24 hours, as well as gain the ability to sense incorporeal entities within 200 ft (adding to any abilities you might already have) of you once during those 24 hours.  
 
@@ -3448,6 +3615,7 @@ _Crafted Item_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Wands, Rods, Staffs, Rings_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Use**: _Pick_  
@@ -3475,6 +3643,7 @@ _Crafted Item_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (Scale)_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Description**: The scales of the Necrolisk can be used to craft very resilient magical Scale armor. You can use it in place of 5000 GP in crafting Scale Armor of any kind, but also towards the 20,000 GP necessary to craft Necrolisk Scale Armor (Very Rare)   
@@ -3501,6 +3670,7 @@ _Crafted Item_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Wondrous Item (Cloak of the Necrolisk)_  
 **Crafting Value (when used as ingredient)**: _15,000 GP_  
 **Description**: While wasted on the Necrolisk for their small size, they are the perfect size to make a cloak for you. You can use these as 15,000 GP worth in materials towards the 20,000 GP necessary to craft the Cloak of the Necrolisk (Very Rare)  
@@ -3527,6 +3697,7 @@ _Crafted Item_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Wands, Rods, Staffs, Rings_  
 **Crafting Value (when used as ingredient)**: _16,000 GP_  
 **Description**: Bone harvested from the Necrolisk is the perfect material to craft spellcrafting tools. You can use it as 8000 GP worth of materials in crafting any Wands, Rods or Staffs, or as 16,000 GP towards the 20,000 GP necessary to craft a Necrolisk Spiritbane (Very Rare) or a Soul Eater (Very Rare), which can also be a weapon of your choice.  
@@ -3555,6 +3726,7 @@ _Crafted Item_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring, Necrolisk Amulet_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Use**: _Eat_  
@@ -3584,6 +3756,7 @@ _Crafted Item_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Empowered Spell Metamagic, rerolling up to 5 dice per use, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -3595,6 +3768,7 @@ _Crafted Item_
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Extended Spell Metamagic, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -3608,6 +3782,7 @@ _Crafted Item_
 **Monster(s)**: Night Creature  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Drink_  
@@ -3624,6 +3799,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Night Creature  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use**: _Eat_  
 **Description**: What? How? After killing the Night Creature, all that remained is a plate with one pirozhok for each member in your party. When eaten, each pirozhok heals 8d4+8 Hit Points  
 
@@ -3640,6 +3816,7 @@ _Consumable (Rare)_
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Sprinkle_  
@@ -3656,6 +3833,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Spells, Wondrous Items (Nolzur's Marvelous Pigments, clothing)_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Description**: The soot-covered black mane of a Nightmare is useful to both alchemists and weavers, but particularly useful to brushmakers. For most other items, the mane hair of the Nightmare is only worth 100 GP, but for crafting the brush for the Nolzur's Marvelous Pigments (Very Rare), you can use it as 1000 GP worth of materials.  
@@ -3671,6 +3849,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Spells, Wondrous Items (Broom of Flying, clothing)_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Description**: The soot-covered black tail of a Nightmare is useful to both alchemists and weavers. The hair is fused with hellish arcane power, and may be used in the creation of magic items.  
@@ -3686,6 +3865,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells, Wondrous Items (Figurine of Wondrous Power (Obsidian), Totem of Nightmare Recall_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Use**: _Conjure_  
@@ -3715,6 +3895,7 @@ _Crafted Item_
 **Monster(s)**: Nightmare Wisp (Sphinx of Lore)  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Absorb_  
@@ -3733,6 +3914,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Ochre Jelly  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Pour, Throw_  
@@ -3753,6 +3935,7 @@ _Consumable (Common)_
 **Monster(s)**: Ogre Zombie  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Spells, Wands, Rods, Staffs_  
 **Crafting Value (when used as ingredient)**: _20 GP_  
 **Description**: A skull is always a nice addition to spellcasting tools. You can use this in place of 20 GP worth in materials for casting spells or crafting magic wands, rods, or staffs.  
@@ -3768,6 +3951,7 @@ _Ingredient (Common)_
 **Monster(s)**: Ogre Zombie  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Absorb_  
@@ -3788,6 +3972,7 @@ _Consumable (Common)_
 **Monster(s)**: Old Ways Chosen  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Crush, Burn_  
@@ -3817,6 +4002,7 @@ _Relic (Uncommon)_
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions (Healing, Vitality, Longevity, Giant Strength), Ring of Regeneration, Oni Mask, Belt of the Oni, Mace of Terror, Wand of Fear_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Use**: _Drink_  
@@ -3835,6 +4021,7 @@ _Consumable (Rare)_
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions (Healing, Vitality, Longevity, Giant Strength), Oni Mask, Mace of Terror, Wand of Fear_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Absorb_  
@@ -3851,6 +4038,7 @@ _Consumable (Rare)_
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions (Healing, Vitality, Longevity, Giant Strength), Mace of Terror, Wand of Fear_  
 **Crafting Value (when used as ingredient)**: _200 GP_  
 **Use**: _Throw, Fire with Arrow_  
@@ -3878,6 +4066,7 @@ _Crafted Item_
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions (Healing, Vitality, Longevity, Giant Strength), Ring of Regeneration, Oni Mask, Belt of the Oni, Mace of Terror, Wand of Fear, Oni Amulet_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Use**: _Eat_  
@@ -3918,6 +4107,7 @@ _Crafted Item_
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
+**Store in**: _bag_  
 **Description**: The belt worn by an Oni, or one made by using Oni parts, is imbued with its strength and speed. While you are wearing this and are attuned to it, you gain a +1 bonus to your strength modifier and gain 1 extra attack action on each of your turns. You can spend one Action reeling for a desicive strike. Your next attack is made with advantage and deals an additional 2d8 Necrotic damage on a hit.  
 
 **Find Checks**: Perception, Investigation, Arcana  
@@ -3933,6 +4123,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Use**: _Drink_  
@@ -3951,6 +4142,7 @@ _Consumable (Rare)_
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Crush_  
@@ -3967,6 +4159,7 @@ _Consumable (Common)_
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _20 GP_  
 **Use**: _Absorb_  
@@ -3982,6 +4175,7 @@ _Consumable (Common)_
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (Hide)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: Owlbear pelt is extremely tough, perfect for hide armor  
@@ -3997,6 +4191,7 @@ _Consumable (Common)_
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can cook this as mundane food for 8 people. It tastes kinda like chicken, but kinda not like chicken...  
 
 **Find Checks**: Survival, Nature  
@@ -4012,6 +4207,7 @@ _Consumable (Common)_
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Use**: _Dart_  
@@ -4028,6 +4224,7 @@ _Consumable (Rare)_
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Use**: _Weapon Enchant_  
@@ -4044,6 +4241,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Ring_  
@@ -4060,6 +4258,7 @@ _Consumable (Rare)_
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
+**Store in**: _bag_  
 **Use**: _Ring_  
 **Description**: The tolling bell on the carriage precedes the apparition’s appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 2 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn.<br>The bell regains 1d2 charges per long rest.  
 
@@ -4072,6 +4271,7 @@ _Crafted Item_
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Weapon (Rare)_  
+**Store in**: _bag_  
 **Use**: _Whip_  
 **Description**: The whip used by the Coachman of the Phantom Hearse is still filled with its owner's drive to collect souls. It has 10 ft of reach, and on a hit deals an additional 2d8 Cold damage. You can also use this weapon as a focus for your spells.<br>Additionally, you can use a Magic Action to summon ghastly horses from the beyond, which will charge forward and trample creatures in a 40 ft long by 10 ft wide line. Creatures in the way must succeed on a DC 16 Dexterity Saving Throw or take 3d6 Cold damage and fall Prone, taking only half damage and no aditional effects on a success. Once you have used this ability you can't use it again until you have completed a long rest.  
 
@@ -4088,6 +4288,7 @@ _Weapon (Rare)_
 **Monster(s)**: Phantom Trainhopper (Shadow)  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
+**Store in**: _vial, cloth_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw, Sprinkle_  
@@ -4130,6 +4331,7 @@ _Spell Scroll (Very Rare)_
 **Monster(s)**: Pigeon Hag  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Absorb_  
@@ -4146,6 +4348,7 @@ _Consumable (Rare)_
 **Monster(s)**: Pigeon Hag  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use**: _Read_  
 **Description**: A tome filled with many secrets that the Pigeon Hag obsessively collected over the years. Some of it Arcane, some of it mundane. If you spend 12 hours studying the book’s contents, you increase one of your Ability Scores by 2 to a maximum of 24.  
 
@@ -4162,6 +4365,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Pixie  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Throw_  
@@ -4204,6 +4408,7 @@ _Consumable (Common)_
 **Monster(s)**: Pumpkin Head  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Absorb_  
@@ -4220,6 +4425,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Pumpkin Head  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potion (Harvest Brew)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Drink_  
@@ -4240,6 +4446,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Use**: _Smear_  
@@ -4258,6 +4465,7 @@ _Consumable (Rare)_
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Use**: _Pick_  
@@ -4285,6 +4493,7 @@ _Crafted Item_
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Weapons_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Weapon Enchant, Throw_  
@@ -4301,6 +4510,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Weapon Enchant_  
@@ -4319,6 +4529,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _vial_  
 **Use**: _Inject, (DM Eyes only:Weapon Enchant)_  
 **Description**: When the antidote is injected, you have immunity to the Poisoned condition and resistance to Poison damage for 24 hours. (DM Eyes only: The players might have the idea to coat a weapon with the antitoxin in fights against the Hartsblighted. In such a case, they can take a Bonus Action to apply the antitoxin to a weapon or 10 ammunition, and it lasts 1 hour. When hit, creatures with the Blight Dependent trait are affected as stated.  
 
@@ -4333,6 +4544,7 @@ _Crafted Item_
 **Monster(s)**: Reveler of Song  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw, Sprinkle_  
@@ -4349,6 +4561,7 @@ _Consumable (Rare)_
 **Monster(s)**: Reveler of Song  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use**: _Eat, Throw_  
 **Description**: Food from the Fool's Day Festival. When eaten, you recover 1d4-1 Hit Points (a minimum of 0), but you are still hungry when you finish eating it. When thrown as bait, you can attract beasts (DM's Eyes only: or children) that would eat it.  
 
@@ -4378,6 +4591,7 @@ _Instrument (Rare)_
 **Monster(s)**: Reveler of Song (Bell)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use**: _Challenge_  
 **Description**: Obtained at the bell and ball booth in the Fool's Day Festival. You can use a Magic Action to challenge a target to the same game. The target must succeed on a DC 15 Wisdom Saving Throw or be compelled to use its Reaction to move towards you and play the game for 3 rounds. Each round, it must make a DC 15 Wisdom Check (Insight or Perception) to guess where the ball is. If it wins once or loses for 3 rounds, it resumes its hostility, if it had any. The target must be able to speak or communicate through charades, or the effect fails automatically. Revelers and Fools roll with Advantage on all D20 Tests for this effect.  
 
@@ -4407,6 +4621,7 @@ _Instrument (Rare)_
 **Monster(s)**: Reveler of Song (Drone)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use**: _Throw_  
 **Description**: Obtained at the darts booth in the Fool's Day Festival, it is a dart with the design of a bee. When thrown, deal 1d4 piercing and 1d4 Psychic damage, and the dart itself transforms into a bee. The target is chased by a single bee, making a Constitution Saving Throw at Disadvantage for concentrating on a spell until the start of your next turn.  
 
@@ -4421,6 +4636,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Reveler of Song (Drone)  
 **Source**: Home-brew  
 _Ring(Very Rare)_  
+**Store in**: _pouch_  
 **Description**: A ring worn by the Reveler of Song (Drone), with a symbol of a bee pointing its stinger. When worn, attacks you make can become Critical Hits when rolling 18, 19 and 20  
 
 **Find Checks**: Perception, Investigation, Religion, Performance  
@@ -4448,6 +4664,7 @@ _Instrument (Rare)_
 **Monster(s)**: Reveler of Song (Drum)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Description**: Obtained at the Rhythm Hero booth in the Fool's Day Festival, a colorful drumstick. You can use it to challenge a target you can see within 30 ft of you to a Dance-off. The target must succeed on a DC 15 Wisdom Saving Throw or be compelled to take the challenge. For 3 rounds both of you must make contested Performance checks. Up to 3 creatures you can see in a 60 ft radius must succeed on a DC 15 Wisdom Saving Throw or be compelled to watch the show until they are attacked or otherwise distracted. The audience claps each time one of you dances and the winner is decided at the end of the 3 rounds. The target and the audience resumes its hostility after the Dance-off if they were hostile to you before. The target must be able to speak or communicate through charades, or the effect fails automatically. Revelers and Fools roll with Advantage on all D20 Tests for this effect.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance  
@@ -4463,6 +4680,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Reveler of Stories  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw, Sprinkle_  
@@ -4479,6 +4697,7 @@ _Consumable (Rare)_
 **Monster(s)**: Reveler of Stories  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use**: _Eat, Throw_  
 **Description**: Food from the Fool's Day Festival. When eaten, you recover 1d4-1 Hit Points (a minimum of 0), but you are still hungry when you finish eating it. When thrown as bait, you can attract beasts (DM's Eyes only: or children) that would eat it.  
 
@@ -4493,6 +4712,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Reveler of Stories  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
+**Store in**: _bag_  
 **Description**: A dramatic accessory worn by a Reveler of Stories. Once per Long Rest, whenever you are hit by an attack roll, you can make a Perfomance Check using the attack roll as DC. If you succeed, you can add 4 to your Armor Class. However if you fail the Performance check, you take 1d4 Psychic damage and will befall a Random Curse after the combat ends.  
 
 **Find Checks**: Performance  
@@ -4508,6 +4728,7 @@ _Wondrous Item (Very Rare)_
 **Monster(s)**: Reveler of Stories (Great Beast)  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
+**Store in**: _bag_  
 **Description**: A crown imbued with the power of stories of great beasts all throughout the afterlife. While you are wearing the crown, you gain a +1 bonus to your Strength Saving Throws and Ability Checks. Once per Long Rest, you can use a Magic Action to become surrounded in beastly energy and become one size larger for up to 1 minute. During this Magic Action, you can target one creature within 5 ft of you and wrestle it. The target makes a  Constitution Saving Throw with a save DC of 17 or 8 plus your Strength modifier and Proficiency Bonus, whichever is higher. The saving throw is made at Disadvantage if the target is already Grappled by you at the time you use this feature. On a failure, the target takes 8d8 Necrotic damage, and if it wasn't already, becomes Grappled by you with an escape DC 15 or 8 plus your Strength modifier and Proficiency Bonus, whichever is higher. The target has the restrained condition until the Grapple ends. On a successful save, only half damage is taken. On whichever result, you gain the Necrotic damage you dealt as Temporary Hit Points. Once the grapple is ended or 1 minute passes, you reverse to your normal size.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance  
@@ -4521,6 +4742,7 @@ _Wondrous Item (Rare)_
 **Monster(s)**: Reveler of Stories (Great Beast)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use**: _Crush_  
 **Description**: Obtained at the arm wrestling booth in the Fool's Day Festivel, it's a small charm made out of twigs and leaves in the shape of a bear. You can use a Magic Action to crush the charm and challenge a target within 30 ft of you to a wrestling match. The target must succeed on a DC 15 Wisdom Saving Throw or be compelled to use its Reaction to move towards you. You both enter a wrestling match and have the Grappled condition. Because you are both Grappling each other, both your speeds become 0, and both of your hands are occupied. The target loses any Bonus Actions. You both must use your next 3 actions of any kind to Push the other target at least 10 ft from the starting point. When either party wins the match or after 3 rounds have passed, the target returns to its hostility if there was any. The target must be able to understand your challenge, be it by words or animalistic instinct, or the effect fails automatically. Revelers and Fools roll with Advantage on all D20 Tests for this effect.  
 
@@ -4537,6 +4759,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Reveler of Stories (Hero)  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
+**Store in**: _pouch_  
 **Description**: A medallion imbued with the power of stories of past heroes all throughout the afterlife. While you are wearing the medallion, once per long rest, you gain 1 Heroic Deed. You can use the Heroic Deed to gain Heroic Inspiration if you don't already have it, or to do heroic feats that you wouldn't otherwise be able to do, such as switch places with someone adjacent to you in battle, perform a great athletic task, recover 1 Hit Point once you are reduced to 0 HP, and so on, guided by the spirit of the Heroes of the past.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance  
@@ -4550,6 +4773,7 @@ _Wondrous Item (Rare)_
 **Monster(s)**: Reveler of Stories (Hero)  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use**: _Say_  
 **Description**: Obtained at the riddle booth in the Fool's Day Festival, it's an empty booklet with two blank pages labeled Riddle and Answer. You can use a Magic Action to say a riddle and think of an answer, which both will magically appear and fill the pages of the booklet. During that same Magic Action, you target one creature within 30 ft of you. The targt must succeed on a DC 15 Wisdom saving throw or be compelled to answer a riddle for 3 rounds that you challenge it to answer. If compelled to do this, it loses any Movement and Bonus Actions it has for the duration, and it must spend any kind of action only to think of an answer by making a DC 16 Intelligence check. If it answers correctly or makes 3 incorrect attempts, it resumes its hostility if there was any. The target must be able to speak or communicate through charades, or the effect fails automatically. Revelers and Fools roll with Advantage on all D20 Tests for this effect.  
 
@@ -4566,6 +4790,7 @@ _Consumable (Rare)_
 **Monster(s)**: Reveler of Stories (Witch)  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
+**Store in**: _bag_  
 **Description**: A wind-vane imbued with the power of stories of wicked witches all throughout the afterlife. While you are holding the wind-vane, you gain a +1 bonus to Charisma Saving Throws and Ability Checks. once per Long Rest you can use a Magic Action to release a Wicked Storm. Each creature in a 60 ft Cone must make on a Dexterity Saving Throw with a DC of 17 or your spell save DC, whichever is higher. On a failure, they take 6d8 Lightning damage and have the Frightened condition. While Frightened this way, the target's Speed is halved. A target repeats the saving throw at the end of each of it's turns, ending the effect on itself on a success. On a successful save, they take half damage and no additional effects.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance  
@@ -4579,6 +4804,7 @@ _Wondrous Item (Rare)_
 **Monster(s)**: Reveler of Stories (Witch)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use**: _Show_  
 **Description**: Obtained at the drinking match booth in the Fool's Day Festivel, it's a small badge with the shape of a goblet. You can use a Magic Action to show the badge to a target within 10 ft of you and challenge them to a drinking match. The target must succeed on a DC 15 Wisdom Saving Throw or be compelled to use its Reaction to move towards you. You must procure 6 vials of liquid from your inventory. You then must shuffle them and give 3 to each contestant. The target and you lose any Movement or Actions, and must use your Bonus Action and their Reaction to consume 1 vial per round. Whatever the effects of the vials might be, it is up to you and whatever items you have collected, and the conditions to win or lose are also set by you. After either of you win or lose or 3 rounds have passed, the target returns to their hostility, if there was any. The target must be able to speak or communicate through charades, and must be able to drink from vials, or the effect fails automatically. Revelers and Fools roll with Advantage on all D20 Tests for this effect.  
 
@@ -4595,6 +4821,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Rotting Amalgamation (Mammoth)  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Rods, Wands, Staffs, Rings, Wondrous Items, Spells_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Description**: All that is left of the hartsblighted amalgamation of creatures in these rotten remains is what looks to be once the rib of a large beast wrapped in vines, thrumming with the energy of growth. You can use this as a weapon that deals 1d8 Slashing damage and 2d8 Necrotic damage.<br>It has 5 charges, and you can spend 1 charge to cast the spell Thorn Whip from it. Once you spend all charges or hit with the weapon 20 times, the vine breaks the bone and becomes unusable. Repairing the bone with magic does not return its properties and it instead becomes simply an improvised weapon.  
@@ -4612,6 +4839,7 @@ _Consumable (Rare)_
 **Monster(s)**: Rotting Shambling Mound  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Slather, Armor Enchant_  
@@ -4630,6 +4858,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Rotweaver  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon Enchant_  
@@ -4661,6 +4890,7 @@ _Implement (Common)_
 **Monster(s)**: Serum Brute  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _syringe_  
 **Use as ingredient for**: _Potions_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Inject_  
@@ -4677,6 +4907,7 @@ _Consumable (Common)_
 **Monster(s)**: Serum Brute  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Activate_  
@@ -4706,6 +4937,7 @@ _Crafted Item_
 **Monster(s)**: Shield Guardian  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Armor Attachment_  
@@ -4722,6 +4954,7 @@ _Consumable (Rare)_
 **Monster(s)**: Shield Guardian  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Activate_  
@@ -4740,6 +4973,7 @@ _Consumable (Rare)_
 **Monster(s)**: Shrouded  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Reaper's Revenge)_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Use**: _Absorb_  
@@ -4758,6 +4992,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Skeleton  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Activate_  
@@ -4776,6 +5011,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: Skeleton  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Wands, Rods, Staffs_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Absorb_  
@@ -4792,6 +5028,7 @@ _Consumable (Common)_
 **Monster(s)**: Skeleton  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Spells, Wands, Rods, Staffs_  
 **Crafting Value (when used as ingredient)**: _20 GP_  
 **Description**: A skull is always a nice addition to spellcasting tools. You can use this in place of 20 GP worth in materials for casting spells or crafting magic wands, rods, or staffs.  
@@ -4807,6 +5044,7 @@ _Ingredient (Common)_
 **Monster(s)**: Skeleton  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Use**: _Activate_  
@@ -4827,6 +5065,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Skitterswarm  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: Bug parts are often used in enchantments and potions  
@@ -4846,6 +5085,7 @@ _Ingredient (Common)_
 **Monster(s)**: Slime Mold (Black Pudding)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw, Pour_  
@@ -4864,6 +5104,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Soulfire Stoker  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
+**Store in**: _ pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant, Torch_  
@@ -4884,6 +5125,7 @@ _ Consumable (Uncommon)_
 **Monster(s)**: Specter  
 **Source**: Home-brew  
 _ Consumable (Common)_  
+**Store in**: _ vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon enchant, Absorb_  
@@ -4904,6 +5146,7 @@ _ Consumable (Common)_
 **Monster(s)**: Sprite  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Description**: The wings of a Sprite have magical uses, you can use it in place of 25 GP when crafting magic items.  
@@ -4919,6 +5162,7 @@ _Ingredient (Common)_
 **Monster(s)**: Sprite  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Dust of Disappearance_  
 **Crafting Value (when used as ingredient)**: _13 GP, 100 GP_  
 **Use**: _Sprinkle_  
@@ -4937,6 +5181,7 @@ _Consumable (Common)_
 **Monster(s)**: Squabswarm  
 **Source**: Home-brew  
 _Mundane_  
+**Store in**: _pouch_  
 **Description**: A message the squabswarm was intending to deliver got dropped in the battle. Depending on the content, you might want to deliver it instead.  
 
 **Find Checks**: Perception, Investigation  
@@ -4952,6 +5197,7 @@ _Mundane_
 **Monster(s)**: Stirge  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use**: _Dart_  
 **Description**: These probosci could be used as darts. When thrown they do 1d4 Piercing and 1d4 Necrotic damage.  
 
@@ -4968,6 +5214,7 @@ _Consumable (Common)_
 **Monster(s)**: Stone Giant  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potion (Giant Strength - Stone)_  
 **Crafting Value (when used as ingredient)**: _13_  
 **Use**: _Weapon Enchant, Armor Enchant_  
@@ -4984,6 +5231,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Stone Giant  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Giant Strength - Stone), Ring of Stone Carrying_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: The stone giant blood remains slightly magical. It can be used in place of 50 GP worth of materials towards the 1000 GP necesasry to craft a Potion of Giant Strength (Stone), which would make your Strength score 23 for 1 hour. Alternatively, you can use it as 50 GP towards the 100 GP nececssary to craft a Ring of Stone Carrying (Uncommon), or similar rings of higher rarities.  
@@ -5001,6 +5249,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Stone Giant  
 **Source**: Home-brew  
 _Ring (Rarity Varies)_  
+**Store in**: _pouch_  
 **Description**: When wearing this ring, your carrying capacity is increased by (Uncommon: 50%, Rare:100%, Very Rare:150%, Legendary:300%)  
 
 _Crafted Item_  
@@ -5014,6 +5263,7 @@ _Crafted Item_
 **Monster(s)**: Stone Golem  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Clay Golem, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _30,000 GP or 10,000 GP_  
 **Description**: The core of a golem, when removed correctly, can be used to craft another clay golem. You can use this as 30,000 GP worth of materials towards the 65,000 GP necessary to craft a Golem (of the kind you defeated). However, you need a Manual of Golems (of the kind you defeated) to do so. You can also use it as 10,000 GP needed to craft other magic items.  
@@ -5029,6 +5279,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: Stone Golem  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Description**: The rune filled fragment of a Stone Golem can be used as 5000 GP worth of materials to craft magic items.  
@@ -5046,6 +5297,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: Swarm of Bats  
 **Source**: Home-brew  
 _ Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Fire with arrow_  
@@ -5062,6 +5314,7 @@ _ Consumable (Common)_
 **Monster(s)**: Swarm of Bats  
 **Source**: Home-brew  
 _ Consumable (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Arrow Fletchings_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Fire with arrow_  
@@ -5078,6 +5331,7 @@ _ Consumable (Common)_
 **Monster(s)**: Swarm of Bats  
 **Source**: Home-brew  
 _Ring (Uncommon)_  
+**Store in**: _pouch_  
 **Description**: A ring with a bat wing motif in it. When wearing this ring, you double the range of ammunition you use.  
 
 _Crafted Item_  
@@ -5091,6 +5345,7 @@ _Crafted Item_
 **Monster(s)**: Swarm of Ravens  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Ink Pen, Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Arrow Fletchings_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: A large black feather with an iridescent shine. It can be used as 13 GP worth of materials to craft magical items. Alternatively, it can make a nice quill or ink pen.  
@@ -5106,6 +5361,7 @@ _Ingredient (Common)_
 **Monster(s)**: Swarm of Ravens  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can cook this for mundane food for 1 person  
 
 **Find Checks**: Survival, Nature  
@@ -5121,6 +5377,7 @@ _Ingredient (Common)_
 **Monster(s)**: The Beast of Blight  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Rods, Wands, Staffs, Rings, Wondrous Items, Spells_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Description**: All that is left of the hartsblighted amalgamation of creatures in these rotten remains is what looks to be once the rib of a large beast wrapped in vines, thrumming with the energy of growth. You can use this as a weapon that deals 1d8 Slashing damage and 2d8 Necrotic damage.<br>It has 5 charges, and you can spend 1 charge to cast the spell Thorn Whip from it. Once you spend all charges or hit with the weapon 20 times, the vine breaks the bone and becomes unusable. Repairing the bone with magic does not return its properties and it instead becomes simply an improvised weapon.  
@@ -5136,6 +5393,7 @@ _Consumable (Rare)_
 **Monster(s)**: The Beast of Blight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells, Ring of Fortitude_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Eat_  
@@ -5154,6 +5412,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: The Beast of Blight  
 **Source**: Home-brew  
 _Ring (Rare, Very Rare)_  
+**Store in**: _pouch_  
 **Description**: A ring with a greyish black stone that looks like a Steelcap Mushroom. While you are wearing this ring, you can use a free action to activate it and gain a boost in your constitution. Your Armor Class has a +1 bonus and you have a +1 bonus in Constitution Saving Throws for (Rare: 1 hour, Very Rare: 24 hours). Once you have used this feature, you can't use it again until you have a Long Rest.  
 
 _Crafted Item_  
@@ -5165,6 +5424,7 @@ _Crafted Item_
 **Monster(s)**: The Beast of Blight  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Weapon Enchant_  
@@ -5183,6 +5443,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: The Beast of Blight  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Throw, Weapon Enchant_  
@@ -5227,6 +5488,7 @@ _Wondrous Item (Very Rare)_
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Activate_  
@@ -5245,6 +5507,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _2000 GP_  
 **Use**: _Activate_  
@@ -5261,6 +5524,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Activate_  
@@ -5277,6 +5541,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _flask_  
 **Use as ingredient for**: _Weapons, Armor, Shields_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Accessory Enchant, Lantern_  
@@ -5339,6 +5604,7 @@ _Crafted Item_
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Wondrous Item(Very Rare)_  
+**Store in**: _pouch_  
 **Use**: _Weapon Enchant, Armor Enchant_  
 **Description**: Created from the Balefire oil of the Chained Reaper's lantern, you have made a resin that can grant a temporary benefit to weapons instead of permanently turning them magical.<br>You can use a Bonus Action to coat a weapon with it and give it Balefire for 1 hour. For the duration, the weapon has a +1 bonus to attack rolls and damage rolls and deals its regular damage but can be changed to Necrotic damage. It also deals an additional +2d6 Necrotic damage, and targets hit with the weapon start burning but take Necrotic damage instead.<br>Once per turn, as one of your attacks with this weapon, you can send it spinning up to 15 ft of you and it returns to your hand immediately after it hits or misses.<br>You can alternatively use a Bonus Action to coat your armor or shield with it, giving it protective Balefire flames for 1 hour. For the duration, you gain a +1 bonus to your Armor Class, and you gain resistance to Fire and Necrotic damage. While protected by the flames, creatures that damage you with melee attacks take 1d6 Fire or Necrotic damage.  
 
@@ -5392,6 +5658,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 **Monster(s)**: The Creation (Chimera)  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw, Weapon Enchant_  
@@ -5410,6 +5677,7 @@ _Consumable (Rare)_
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _vial,bottle(x10)_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Absorb_  
@@ -5428,6 +5696,7 @@ _Ingredient (Common)_
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial, bottle(x10)_  
 **Use as ingredient for**: _Potion (Draught of the Red Hunger)_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Drink_  
@@ -5456,6 +5725,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
+**Store in**: _bag_  
 **Description**: While wearing this cloak, you have advantage on Dexterity (Stealth) checks.<br>**Vampiric Flight**: In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.<br>**Bat Form**: While wearing the cloak in an area of dim light or darkness, you can use your action to to yell 'Bat!' and cast Polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores, and can speak. You can dismiss the effect by yelling '(your species here) Form!' or 'Normal Form!' to transform back to your original form. The cloak can't be used to polymorph into a bat again until the next long rest.  
 
 **Find Checks**: Survival, Perception, Investigation, Religion, Arcana, Fated Tarot Reading  
@@ -5469,6 +5739,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Crimson Cloak_  
 **Crafting Value (when used as ingredient)**: _500 GP, 1000 GP_  
 **Use**: _Wear_  
@@ -5485,6 +5756,7 @@ _Consumable (Rare)_
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _flask_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Drink_  
@@ -5501,6 +5773,7 @@ _Consumable (Rare)_
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Drink_  
@@ -5552,6 +5825,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Use**: _Eat_  
@@ -5603,6 +5877,7 @@ _Crafted Item_
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Ring (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: This ring was not particularly enchanted, but instead gradually absorbed the vampiric charming magic of The Crimson Abbot. The ring has 3 charges. You can use one charge to cast the spell Command. Whenever you use one charge you must succeed on a DC 13 Wisdom Saving Throw or have a vampiric accent and be compelled to say Bleh Bleh Bleh!. The ring regains 1d3 charges every long rest.  
@@ -5633,6 +5908,7 @@ _Weapon (Very Rare)_
 **Monster(s)**: The Crooked Man  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Use**: _Snap_  
@@ -5651,6 +5927,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: The Crooked Tree  
 **Source**: Home-brew  
 _Ingredient (Legendary)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions_  
 **Crafting Value (when used as ingredient)**: _50,000 GP_  
 **Description**: While the ties to Kehlenn are forever tied, these ashes still have lingering touches of magic. They are useless for magic items, but could be used in Potion making.  
@@ -5668,6 +5945,7 @@ _Ingredient (Legendary)_
 **Monster(s)**: The Grinning Sinner  
 **Source**: Home-brew  
 _Ingredient (Very Rare) (DM Eyes only: Consumable (Very Rare))_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _3000 GP_  
 **Description**: The Grinning Sinner's own Curse Bottle, still holds some liquid, which can be used in place of 3000 GP for crafting magic items. (DM Eyes only: When drunk, you gain a Crooked Fortune Dark Bargain. If you already have one, you can stack the effects).  
@@ -5685,6 +5963,7 @@ _Ingredient (Very Rare) (DM Eyes only: Consumable (Very Rare))_
 **Monster(s)**: The Grinning Sinner  
 **Source**: Home-brew  
 _Potion (Very Rare)_  
+**Store in**: _vial_  
 **Find Checks**: Perception, Investigation, Deception, Insight, Arcana, Fated Tarot Reading  
 **Find DCs**: 20(x1), Auto Success on Fated Tarot: The Emperor (x1)  
 **Locations**: The Drowned Crossroads  
@@ -5696,6 +5975,7 @@ _Potion (Very Rare)_
 **Monster(s)**: The Grinning Sinner  
 **Source**: Home-brew  
 _Potion (Rare)_  
+**Store in**: _vial_  
 **Find Checks**: Perception, Investigation, Deception, Insight, Arcana, Fated Tarot Reading  
 **Find DCs**: 13(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Emperor (x3)  
 **Locations**: The Drowned Crossroads  
@@ -5718,6 +5998,7 @@ _Magic Item (Very Rare)_
 **Monster(s)**: The Grinning Sinner  
 **Source**: The Crooked Moon  
 _Weapon (Very Rare)_  
+**Store in**: _bag_  
 **Description**: Blunderbuss of the Grinning Sinner, from the Fated Tarot Reading, with alternate rolling to find options.  
 
 **Find Checks**: Survival, Perception, Investigation, Fated Tarot Reading  
@@ -5733,6 +6014,7 @@ _Weapon (Very Rare)_
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant_  
@@ -5751,6 +6033,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Arrow Fletchings_  
 **Crafting Value (when used as ingredient)**: _10 GP_  
 **Use**: _Activate, Fire with arrow_  
@@ -5767,6 +6050,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Description**: A piece of amber in the shape of an eye, which used to belong to the Harvest Terror. It still feels imbued with magic which can be used in place of 500 GP for crafting magic items.  
@@ -5782,6 +6066,7 @@ _Ingredient (Rare)_
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _ Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Spells_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Use**: _Activate_  
@@ -5798,6 +6083,7 @@ _ Consumable (Rare)_
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Absorb_  
@@ -5814,6 +6100,7 @@ _Consumable (Rare)_
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Absorb_  
@@ -5856,6 +6143,7 @@ _Weapon (Rare)(Requires Attunement)_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Ingredient (Legendary)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Circlet of the Horned King, Ring of Malediction_  
 **Crafting Value (when used as ingredient)**: _50,000 GP, 75,000 GP_  
 **Description**: Ashes from the battle with the Horned King, they are trhuming with magic energy, although it seems they are not containing the Horned King's own spirit. You can use these as 50,000 GP in crafting magic items, but particularly you can use them as 75,000 GP in crafting the Circlet of the Horned King (Legendary) or the Ring of Malediction (Legendary).  
@@ -5893,6 +6181,7 @@ _Crafted Item_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Consumable (Legendary)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Weapon of Terror, Armor of Terror, Helm of Terror_  
 **Crafting Value (when used as ingredient)**: _25,000 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Throw_  
@@ -5933,6 +6222,7 @@ _Crafted Item_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
+**Store in**: _bag_  
 **Description**: A helm made in the embers that burned the Horned King to ashes at the end of its catastrophic fight. While you are wearing this helm, you gain a +1 bonus to your Armor Class and Saving Throws. While you are wearing this helm and are attuned to it, you gain an additional +1 bonus to your Armor Class and saving throws. The helm has 6 charges. You can use 1 charge to grow terrifying wings and gain a fly speed of 60 ft additional to any you might have already, for 1 hour. You can use 1 charge and a Bonus Action to gain the Horned King's Terrorizing Breath for 10 minutes. When using this breath, you take a Magic Action and create a 40 ft Cone of terrifying breath. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or have the Frightened condition. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. You can use a Bonus Action to radiate an aura of power in a 20-foot Emanation that originates from you for 1 minute. Whenever you deal damage while this feature is active the target takes an additional 1d8 Necrotic damage. When you activate this feature, and at the start of each of your turns, you can choose a creature you can see in the aura. The target must succeed on a DC 19 Charisma saving throw or suffer one of the following effects of your choice until the start of your next turn: Enticement. The target has the Charmed condition. Wickedness. The target has Disadvantage on attack rolls and ability checks. Terror. The target has the Frightened condition and must move away from you by the safest route during its turn unless there is nowhere to move. Once you use this feature you cannot use it again until you finish a Long Rest.  
 
 _Crafted Item_  
@@ -5944,6 +6234,7 @@ _Crafted Item_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Ring (Legendary)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring made in the embers that burned the Horned King to ashes at the end of its catastrophic fight. While you are wearing this ring, you gain a +1 bonus to your Armor Class and Saving Throws, and gain resistance to Psychic damage. While you are wearing this ring and are attuned to it, you gain an additional +1 bonus to your Armor Class and saving throws. The ring has 6 charges. You can use 1 charge and a Magic Action to cast the Horned King's Breath of Corruption. When using this breath, you create a 40 ft Cone of corrupting breath, and creatures in this area must succeed on a DC 19 Dexterity Saving Throw or take 6d6 Necrotic damage and 6d6 Psychic damage, and the target gains 1 level of Exhaustion that ends at the end of the target's next turn. On a success, targets take half of the damage only. This breath weapon is taxing, however, and you gain 1 level of Exhaustion until the end of your next turn. While you are Exhausted this way, you take double the damage from attacks made against you.  
 
 _Crafted Item_  
@@ -5955,6 +6246,7 @@ _Crafted Item_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Consumable (Legendary)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Goat Eye of Sin Amulet, Ring of Temptation_  
 **Crafting Value (when used as ingredient)**: _50,000 GP_  
 **Use**: _Eat_  
@@ -5973,6 +6265,7 @@ _Consumable (Legendary)_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)_  
+**Store in**: _pouch_  
 **Description**: An amulet made of a Goat eye bathed in the evil sludge left by the catastrophic end of the battle with the Horned King. When worn, you gain Truesight to 60 ft, but every time you roll initiatie you must succeed on a DC 16 Wisdom Saving Throw or be filled with doubt and evil thoughts and have the Paralyzed condition until the start of your next turn. The amulet has 3 charges. You can spend 1 charge to point the Goat Eye of Sin in a 30 ft Cone. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or be allured greed, turning to attack each other to keep all the treasure or acclaim that they would get from killing you for themselves. They are still hostile to you and your party, but they are overcome with greed for the glory of victory. This only works if the enemy has at least an Intelligence of 10. However, if they do become the sole enemy in combat, every attack they make afterwards is made with Advantage.  
 
 _Crafted Item_  
@@ -5984,6 +6277,7 @@ _Crafted Item_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)_  
+**Store in**: _pouch_  
 **Description**: A ring made from the evil sludge left by the catastrophic end of the battle with the Horned King. When worn, you receive 50% more XP and treasure from monsters, but you also take double the damage to your Hit Points whenever you would take damage.  
 
 _Crafted Item_  
@@ -5995,6 +6289,7 @@ _Crafted Item_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Consumable (Legendary)_  
+**Store in**: _pouch_  
 **Use**: _Absorb_  
 **Description**: A gem of the crystallized temptation wielded by the Horned King. You can absorb its magic to cast the Wish spell, after which it crumbles to dust and becomes inert. (DM Eyes only: If they obtain it from any other means than the Fated Tarot, you are free to add a genie-like caveat to the wish.)  
 
@@ -6009,6 +6304,7 @@ _Consumable (Legendary)_
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use**: _Absorb_  
 **Description**: A moonlight-like glowing gem found in the ashes of the Crooked Tree, broken into enough shards for each member of your party. When consumed, you gain +2 to an ability score of your choice, to a maximum of 24  
 
@@ -6024,6 +6320,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw, Sprinkle_  
@@ -6040,6 +6337,7 @@ _Consumable (Rare)_
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use**: _Eat, Throw_  
 **Description**: Food from the Fool's Day Festival. When eaten, you recover 1d4-1 Hit Points (a minimum of 0), but you are still hungry when you finish eating it. When thrown as bait, you can attract beasts (DM's Eyes only: or children) that would eat it.  
 
@@ -6054,6 +6352,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Mundane_  
+**Store in**: _bag_  
 **Description**: An empty bottle of wine found in the Lord of Fools personal items. It looks very old.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance, Fated Tarot Reading  
@@ -6067,6 +6366,7 @@ _Mundane_
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)_  
+**Store in**: _bag_  
 **Description**: A non-assuming flower, hidden somewhere in the stem lies a secret button. You can use a Magic Action to activate the Flower, which now functions like a Decanter of Endless Water.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance, Fated Tarot Reading  
@@ -6094,6 +6394,7 @@ _Wondrous Item (Very Rare)_
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Description**: Assorted Clown props and party favors imbued with Demonic energy. You can use its energy as 10,000 GP worth in materials to craft a magic item.  
@@ -6109,6 +6410,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Ring (Very Rare)_  
+**Store in**: _pouch_  
 **Description**: A magical ring that produces Cream Pies for the express purpose of launching them at a target. The ring has 6 charges. You can use 1 charge and a Magic Action, you can launch a magic pie produced out of the ring. On a hit, it deals no damage and the target must make a saving throw to maintain concentration on spells if it was concentrating on any, and it must spend its next Action to wipe the pie from their face. You can use 5 charges to launch a giant explosive pie that explodes in corrosive custard in a 20 ft radius Sphere. Creatures in the area must make a DC 18 Dexterity Saving Throw. The ring recovers 1d4 charges on a Long Rest up to its maximum.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance, Fated Tarot Reading  
@@ -6122,6 +6424,7 @@ _Ring (Very Rare)_
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: The Ribbons of the Fool are imbued with Demonic energy. When you attune to the ribbons, they magically wrap around a weapon of your liking, or around your arms, so as to leave them free to use when you are not actively using them. As a Bonus Action, you can make a ranged melee attack with either Dexterity or Charisma, and send ribbons forth to wrap around a creature up to 15 ft from you that is Large or smaller and Grapple it. You can grapple up to 3 creatures this way by using subsequent bonus actions as long as you remain within range of the ribbons (15 ft). On a hit, you deal 2d6 plus your modifier Slashing damage. As part of the same bonus action, or subsequent bonus actions, you can pull it towards you 5 ft. The Ribbons have 8 charges. You can spend 1 charge to cast Tasha's Hilarious laughter at the 3rd level. You can use 1 charge and a Magic Action to spin all targets you have currently grappled like a top. Each target must succeed on a a DC 17 Strength Saving Throw or become Prone after spinning and take 4d10 Bludgeoning damage. You can use 4 charges to cast Otto's Irresistible Dance. The ribbons regain 1d8 charges on a Long Rest.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance, Fated Tarot Reading  
@@ -6148,6 +6451,7 @@ _Weapon (Very Rare)_
 **Monster(s)**: The Lord of Fools  
 **Source**: The Crooked Moon  
 _Weapon (Very Rare)(Requires Attunement)_  
+**Store in**: _bag_  
 **Description**: The Marotte Of The Lord Of Fools, from the Fated Tarot Reading, with alternate rolling to find options.  
 
 **Find Checks**: Perception, Investigation, Religion, Performance, Fated Tarot Reading  
@@ -6174,6 +6478,7 @@ _Arcana (Very Rare)_
 **Monster(s)**: The Vermintoll Abomination  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Armor, Weapons, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _5000 GP_  
 **Use**: _Throw_  
@@ -6201,6 +6506,7 @@ _Spell Scroll (Very Rare)_
 **Monster(s)**: The Vermintoll Abomination  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Armor, Weapons, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Description**: A highly magical gem in the shape of a Crooked Moon found in what remained of the Vermintoll Abomination's lair. It can be used in place of 10,000 GP worth of materials in crafting magic items. Alternatively, it can be used as a bargaining chip to make a Dark Bargain with a powerful creature.  
@@ -6216,6 +6522,7 @@ _Consumable (Very Rare)_
 **Monster(s)**: The Vermintoll Abomination  
 **Source**: The Crooked Moon  
 _Wondrous Item (Legendary)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: The Cauldron of the Vermintoll Coven, from the Fated Tarot Reading, with alternate rolling to find options.  
 
 **Find Checks**: Survival, Perception, Investigation, Arcana, Fated Tarot Reading  
@@ -6231,6 +6538,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 **Monster(s)**: The Weeping Widow  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial, bottle(x10)_  
 **Use as ingredient for**: _Potion (Tincture of Mourning)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Drink_  
@@ -6259,6 +6567,7 @@ _Consumable (Common)_
 **Monster(s)**: The Weeping Widow  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Throw_  
@@ -6292,6 +6601,7 @@ _Wondrous Item (Very Rare)_
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Accessory of Quick Action_  
 **Crafting Value (when used as ingredient)**: _15,000 GP_  
 **Description**: An amulet with a wicked face on it. It doesn't have a way to be worn but you could attach a string or fashion it into a ring however you would like. You need to spend 5000 GP to make it into a wearable Accessory of Quick Action (Very Rare)  
@@ -6307,6 +6617,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
+**Store in**: _pouch_  
 **Description**: When worn on your person (but not carried in bags), whenever you cast a spell using Wisdom as a spellcasting modifier, you add +1 to spell attack rolls and spell save DC. However, every time you roll initiative, you must succeed on a DC 13 Charisma Saving Throw or begin burning.  
 
   
@@ -6317,6 +6628,7 @@ _Wondrous Item (Very Rare)_
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
+**Store in**: _pouch_  
 **Description**: When worn, you can take 2 Reactions in one round. Once you use this feature, you can't use it again until you have a Long Rest.  
 
 _Crafted Item_  
@@ -6328,6 +6640,7 @@ _Crafted Item_
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Description**: Some of the remaining wicker material used for the Wicker Man. Although a bit charred, it can be used in place of 2500 GP worth of materials when crafting magic items.  
@@ -6343,6 +6656,7 @@ _Ingredient (Very Rare)_
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A strange totem of 3 carved faces found inside the Wicker Man. The totem has 3 charges, and begins with 0 charges when first found. Whenever you deal the killing blow to a creature, you can increase the totem's charges by 1. You can then expend one charge and a Reaction to deal a Critical Hit, however it is also taxing and you take 2d6 Necrotic damage, ignoring resistances or immunities. You can also expend one charge to regain 20 Hit Points.  
 
 **Find Checks**: Perception, Investigation, Religion, Fated Tarot Reading  
@@ -6356,6 +6670,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 **Monster(s)**: The Wicker Man  
 **Source**: The Crooked Moon  
 _Wondrous Item (Legendary)(Requires Attunement)_  
+**Store in**: _bag_  
 **Description**: The Visage of the old ways, from the Fated Tarot Reading, with alternate rolling to find options.  
 
 **Find Checks**: Perception, Investigation, Religion, Fated Tarot Reading  
@@ -6410,6 +6725,7 @@ _Armament (Uncommon)_
 **Monster(s)**: Troll  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions (Healing, Vitality, Longevity), Ring of Regeneration_  
 **Crafting Value (when used as ingredient)**: _25 GP_  
 **Use**: _Patch_  
@@ -6426,6 +6742,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Troll  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions (Healing, Vitality, Longevity), Ring of Regeneration_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Drink_  
@@ -6444,6 +6761,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Troll  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Troll Amulet, Ring of Regeneration_  
 **Crafting Value (when used as ingredient)**: _1,000 GP_  
 **Use**: _Absorb_  
@@ -6462,6 +6780,7 @@ _Consumable (Rare)_
 **Monster(s)**: Troll  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
+**Store in**: _pouch_  
 **Description**: This amulet contains the crystallised form of a troll heart preserved in tar. While wearing and attuned to this amulet, you may spend an action to activate it. For the next minute, you regain 10 hit points at the start of your turn so long as you haven’t taken acid or fire damage since the end of your last turn and so long as you start your turn with at least 1 hit point. Once you have used this ability once, you cannot use it again until the next dawn.  
 
 _Crafted Item_  
@@ -6486,6 +6805,7 @@ _Armament (Rare)_
 **Monster(s)**: Undead Centaur  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Armor, Weapons, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Weapon enchant, Armor enchant, Thrown_  
@@ -6504,6 +6824,7 @@ _Consumable (Rare)_
 **Monster(s)**: Vampire Spawn  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _vial,bottle(x10)_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Absorb_  
@@ -6522,6 +6843,7 @@ _Ingredient (Common)_
 **Monster(s)**: Vampire Spawn  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Absorb_  
@@ -6540,6 +6862,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Vermin Familiar  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Ritual_  
@@ -6558,6 +6881,7 @@ _Consumable (Common)_
 **Monster(s)**: Vermin Infestation  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Armor, Weapons, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Throw_  
@@ -6576,6 +6900,7 @@ _Consumable (Common)_
 **Monster(s)**: Violet Fungus  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon Enchant_  
@@ -6594,6 +6919,7 @@ _Consumable (Common)_
 **Monster(s)**: Warhorse  
 **Source**: Home-brew  
 _Ingredient(Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Gaming Dice, Armor, Glue, Sovereign Glue_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: You can use these to make mundane or magical glue, or dice and other small trinkets  
@@ -6609,6 +6935,7 @@ _Ingredient(Common)_
 **Monster(s)**: Warhorse  
 **Source**: Home-brew  
 _Mundane_  
+**Store in**: _bag_  
 **Description**: There are folktales that an iron horseshoe will keep some creatures at bay. You might as well take it  
 
 **Find Checks**: Survival, Nature  
@@ -6622,6 +6949,7 @@ _Mundane_
 **Monster(s)**: Warhorse  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can use this to cook mundane food for 8 people  
 
 **Find Checks**: Survival, Nature  
@@ -6650,6 +6978,7 @@ _Armament (Common)_
 **Monster(s)**: Water Elemental  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Wondrous Item (Elemental Gem)_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Description**: The magical remnants of a Water Elemental can be used as 100 GP worth in materials to enchant an emerald worth 100 GP to make an Elemental Gem (Emerald)  
@@ -6669,6 +6998,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Wayward Haint  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
+**Store in**: _ pouch_  
 **Use as ingredient for**: _Potion (Haint Hooch)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant_  
@@ -6689,6 +7019,7 @@ _ Consumable (Uncommon)_
 **Monster(s)**: Weasel  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Clothing, Pouch, Wondrous Items (clothing, pouch)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: Ermine fur can be used to create small items, or as decoration on larger clothes.  
@@ -6704,6 +7035,7 @@ _Ingredient (Common)_
 **Monster(s)**: Weasel  
 **Source**: Home-brew  
 _Ingredient (Mundane)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can cook this to make mundane food for 1 person  
 
 **Find Checks**: Survival, Nature  
@@ -6719,6 +7051,7 @@ _Ingredient (Mundane)_
 **Monster(s)**: Weasel Hag  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Clothing, Pouch, Wondrous Items (clothing, pouch)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Description**: Ermine fur can be used to create small items, or as decoration on larger clothes.  
@@ -6745,6 +7078,7 @@ _Arcana (Uncommon)_
 **Monster(s)**: Weasel Hag  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Potions, Scroll_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Description**: Weasel Hags are obsessed with these things huh? They can probably do some magic with them.  
@@ -6760,6 +7094,7 @@ _Ingredient (Uncommon)_
 **Monster(s)**: Weasel Hag  
 **Source**: Home-brew  
 _Potion (Common)_  
+**Store in**: _vial_  
 **Find Checks**: Perception, Investigation, Arcana  
 **Find DCs**: 15(x1), 17(x3), Auto Success on Fated Tarot: The Moon (x3)  
 **Locations**: The Crooked House  
@@ -6782,6 +7117,7 @@ _Spell Scroll (Uncommon)_
 **Monster(s)**: Weasel Hag  
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)_  
+**Store in**: _pouch_  
 **Description**: Once per day, you can describe an object that is familiar to you, and make a DC 15 Arcana check. On a success, the compass will point in the objects direction if it is within 500 ft of you. The compass can locate a specific object known to you if you have seen it up close (within 30 feet) at least once. Alternatively, the compass can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon. The check can be made with Advantage if the object of interest is a specific type of teeth. This compass can’t locate an object if any thickness of lead blocks a direct path between you and the object.  
 
 **Find Checks**: Survival, Perception, Investigation, Arcana, Fated Tarot Reading  
@@ -6795,6 +7131,7 @@ _Wondrous Item (Uncommon)_
 **Monster(s)**: Weasel Hag  
 **Source**: The Crooked Moon  
 _Wondrous Item (Rare)_  
+**Store in**: _pouch_  
 **Description**: The 3 Twists of Fate from the Fated Tarot Reading made into an item.  
 
 **Find Checks**: Survival, Perception, Investigation, Insight, Arcana, Fated Tarot Reading  
@@ -6821,6 +7158,7 @@ _Magic Item (Rare)_
 **Monster(s)**: Wellwyrm  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Silence of the Drowned)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Drink_  
@@ -6839,6 +7177,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Wellwyrm  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Weapon enchant_  
@@ -6857,6 +7196,7 @@ _Consumable (Rare)_
 **Monster(s)**: Wellwyrm  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use**: _Inject, (DM Eyes only: Weapon Enchant)_  
 **Description**: When injected, you end any Poisoned condition you may have, and gain resistance to Poison damage for 1 hour. (DM Eyes only: The players might have the idea to coat a weapon with the antitoxin in fights against the Hartsblighted. In such a case, they can take a Bonus Action to apply the antitoxin to a weapon or 10 ammunition, and it lasts 5 minutes. When hit, creatures with the Blight Dependent trait are affected as stated.)  
 
@@ -6871,6 +7211,7 @@ _Crafted Item_
 **Monster(s)**: Wight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant, Armor enchant, Thrown_  
@@ -6889,6 +7230,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Wildpyre  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
+**Store in**: _ pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Arrowheads, Weapons, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _10 GP_  
 **Use**: _Throw, Arrowheads_  
@@ -6905,6 +7247,7 @@ _ Consumable (Uncommon)_
 **Monster(s)**: Wildpyre  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
+**Store in**: _ pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw, Sprinkle, Armor enchant_  
@@ -6923,6 +7266,7 @@ _ Consumable (Uncommon)_
 **Monster(s)**: Will-o'-Wisp  
 **Source**: Home-brew  
 _Consumable (common)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon enchant, Torch_  
@@ -6941,6 +7285,7 @@ _Consumable (common)_
 **Monster(s)**: Wolf  
 **Source**: Home-brew  
 _Ingredient (Common)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (leather), Mundane (leather), Wondrous Items (leather)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Wear_  
@@ -6957,6 +7302,7 @@ _Ingredient (Common)_
 **Monster(s)**: Wolf  
 **Source**: Home-brew  
 _Ingredient (Mundane)_  
+**Store in**: _bag_  
 **Cooking Effect**: You can cook this to make mundane food for 4 people  
 
 **Find Checks**: Survival, Nature  
@@ -6983,6 +7329,7 @@ _Armament (Uncommon)_
 **Monster(s)**: Woodwarped  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Nightwatcher)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Smear_  
@@ -7003,6 +7350,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Worm Mutant Patient (Flesh Golem)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw_  
@@ -7023,6 +7371,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Wormhost Surgeon  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial, bottle(x10)_  
 **Use as ingredient for**: _Potion (Tincture of Mourning)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Drink_  
@@ -7041,6 +7390,7 @@ _Consumable (Common)_
 **Monster(s)**: Wormhost Surgeon  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw_  
@@ -7059,6 +7409,7 @@ _Consumable (Uncommon)_
 **Monster(s)**: Wraith  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potion (Reaper's Revenge)_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Use**: _Absorb_  
@@ -7077,6 +7428,7 @@ _Consumable (Rare)_
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Empowered Spell Metamagic, rerolling up to 5 dice per use, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -7088,6 +7440,7 @@ _Crafted Item_
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
+**Store in**: _pouch_  
 **Description**: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Extended Spell Metamagic, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest.  
 
 _Crafted Item_  
@@ -7099,6 +7452,7 @@ _Crafted Item_
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Drink_  
@@ -7117,6 +7471,7 @@ _Consumable (Rare)_
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
 **Use**: _Weapon enchant_  
@@ -7135,6 +7490,7 @@ _Consumable (Rare)_
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _vial_  
 **Use**: _Drink, (DM Eyes only: Weapon Enchant)_  
 **Description**: When drank, you end any Poisoned condition you may have, and gain resistance to Poison damage for 1 hour.<br>(DM Eyes only: The players might have the idea to coat a weapon with the antitoxin in fights against the Hartsblighted. In such a case, they can take a Bonus Action to apply the antitoxin to a weapon or 10 ammunition, and it lasts 5 minutes. When hit, creatures with the Blight Dependent trait are affected as stated.)  
 
@@ -7147,6 +7503,7 @@ _Crafted Item_
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Weapons, Ammunition_  
 **Crafting Value (when used as ingredient)**: _100 GP_  
 **Description**: However minor, dragon parts are valuable to craft weapons. You can use these as 100 GP worth of materials towards making weapons and ammunition.  
@@ -7162,6 +7519,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
+**Store in**: _bag_  
 **Use as ingredient for**: _Armor (Scale), Shields_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Description**: Sturdy dragon scales are perfect to craft Scale armor and shields. You can use these as 500 GP worth in materials to craft these items.  
@@ -7177,6 +7535,7 @@ _Ingredient (Rare)_
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Consumable (Rare)_  
+**Store in**: _bottle_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring, Wyvern Ring_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Eat_  
@@ -7208,6 +7567,7 @@ _Crafted Item_
 **Monster(s)**: Zombie  
 **Source**: Home-brew  
 _Consumable (Common)_  
+**Store in**: _vial_  
 **Use as ingredient for**: _Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _5 GP_  
 **Use**: _Absorb_  

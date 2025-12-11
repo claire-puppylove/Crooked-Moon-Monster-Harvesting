@@ -1,0 +1,75 @@
+@page {
+    size: A4;
+    margin: 20mm;    
+}
+
+body {
+    margin:0;
+    padding:27mm;
+}
+
+.cards-container {
+    background: #eeeadf;
+    display:inline-block;
+}
+
+.card {
+    text-align: left;
+    font-size: 0.55rem;
+    line-height: 1.3em;
+    display: inline-block;
+    vertical-align: top;
+    height: 120mm;
+    width: 70mm;
+    column-width:70mm;
+    column-gap:7mm;
+    column-rule:#ffffff solid 1mm;
+    padding: 2mm 2mm 2mm 2mm;
+    margin: 0.5mm 0 0 0;
+    border:1.2mm #a99d8b solid;
+    border-radius:2mm;
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+}
+
+.item_name h1{
+    font-weight:bold;
+    text-align: center;
+    font-size: 8pt;
+    column-span:all;
+    padding-bottom:2mm;
+    border-bottom:1pt #a99d8b solid;
+    text-transform:uppercase;
+    color:#4a3b27;
+}
+
+.top-section {
+    font-style:italic;
+    text-align: center;
+    font-size:7pt;
+    padding-top:1mm;
+    column-span:all;
+    padding-bottom:1mm;
+    border-bottom:1pt #a99d8b solid;
+    margin-bottom:1mm;
+    color:#695136;
+}
+
+.section {
+    padding-bottom:.05mm;
+}
+
+.subtitle {
+    font-weight:bold;
+    font-style:italic;
+}
+
+.short-desc{
+    font-style:italic;
+}
+
+.divider{
+    padding:0.5em;
+}
