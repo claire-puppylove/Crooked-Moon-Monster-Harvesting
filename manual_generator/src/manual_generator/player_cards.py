@@ -115,16 +115,15 @@ class Card:
             sout+= f"            <span class='subtitle'>Cooking Effect:</span>\n"
             sout+= f"            <span class='desc'>{self.cooking_effect}</span>\n"
             sout+= f"        </div>\n"
-        # 32 lines before break, avg 54 chars per line
-        # approx_length = len(out)+(54*out.count("<br>"))
+        # 33 lines before break, avg 50 chars per line
         lines = (
-            (len(sout)//54)
+            (len(sout)//51)
             -(sout.count("<span class='subtitle'>")*2)
             +(sout.count("<br>"))
-            +(sout.count("<div class= 'divider'>"))
+            # +(sout.count("<div class= 'divider'>"))
             )
         out = fout+sout
-        if lines > 32:
+        if lines > 30:
             print(f"Warning: card text too long for card {self.item_name}, using two cards *counted {lines} lines.")
             out+= f"    </div>\n"
             out+= f"    <div class='{self.card_length}'>\n"

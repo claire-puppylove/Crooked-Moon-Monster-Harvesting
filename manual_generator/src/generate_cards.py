@@ -1,6 +1,7 @@
 import argparse
 import pandas
 import pathlib
+import re
 # import md_toc
 # import pdfkit
 from manual_generator.manual_generator import ManualGenerator
@@ -11,18 +12,22 @@ if __name__ == '__main__':
     parser.add_argument("-f", "--file", type=str, default="harvesting_items")
     parser.add_argument("-d", "--destination", type=str, default="../cards/")
     parser.add_argument("-s", "--sourcefile", type=str, default="../assets/monster_drops_all_dm.csv")
+    parser.add_argument("-p", "--party", type=int, default=4)
     args = parser.parse_args()
-    version = "player"
     mode = "by_monster"
     filename = pathlib.Path(args.destination) / pathlib.Path(f"{args.file}.html")
     sourcefile = pathlib.Path(args.sourcefile)
     MONSTER_DROPS = pandas.read_csv(sourcefile, sep=",", quotechar='"', quoting=0)
-    manual = ManualGenerator(version=version,mode=mode,sourcefile=MONSTER_DROPS)
+    player_manual = ManualGenerator(version="player",mode=mode,sourcefile=MONSTER_DROPS)
+    dm_manual = ManualGenerator(version="dm",mode=mode,sourcefile=MONSTER_DROPS)
+    assert len(dm_manual.items) == len(player_manual.items)
     cards = []
-    for item in manual.items:
+    for num,item in enumerate(player_manual.items):
         skip_conditions = [
             "Random" in item.item_name,
             "with alternate rolling to find options." in item.description,
+            "from the Crooked Moon potions." in item.description,
+            "from the Crooked Moon cursed curios." in item.description,
             ]
         if not any(skip_conditions):
             card = Card(
@@ -36,7 +41,17 @@ if __name__ == '__main__':
                 cooking_effect = item.cooking_effect,
                 source = ", ".join(item.source[item.monsters[0]]),
                 )
-            cards.append(str(card))
+            largest_amount = 1
+            for dc in dm_manual.items[num].find_dc[item.monsters[0]]:
+                if "(1 for each party member)" in dc:
+                    amount = args.party
+                elif "(x" in dc:
+                    amount = int(re.findall('\(x(\d+)\)',dc)[0])
+                else:
+                    amount = 1
+                if amount >= largest_amount:
+                    largest_amount = amount
+            cards.extend([str(card)]*largest_amount)
     cards_html="\n".join(cards)
     html,body = PrintCards().run(cards_html, f"Crooked Moon Harvesting Items (Player Handout Cards)")
     with open(filename.with_suffix('.html'),"w") as f:
