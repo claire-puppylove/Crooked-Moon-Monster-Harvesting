@@ -146,9 +146,9 @@ _ Consumable (Uncommon)_
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant, Torch_  
-**Description**: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>You can use a Bonus Action to apply this to a weapon. When applied to a weapon, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures illuminated by it become corporeal losing any resistances to slashing, bludgeoning and piercing damage when affected like this.  
+**Description**: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.  
 
-**Cooking Effect**: When used as fuel in a fire to cook, you can prepare food for up to 4 people. When eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation become semi-corporeal. Whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, they instead subtract 2 points of damage from the total.   
+**Cooking Effect**: When used as fuel in a fire to cook, you can prepare magic food for up to 4 people. When this food is eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation, whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, subtract 2 points of damage from the total instead.   
   
 
 ### Ghostlight Grease  
@@ -183,16 +183,103 @@ _ Wondrous Item (Rare)(Requires Attunement)_
 
   
 
+### Goggles of Night  
+
+---  
+**Source**: Dungeon's Master Guide  
+_Wondrous Item (Uncommon)_  
+**Store in**: _bag_  
+**Description**: While wearing these dark lenses, you have Darkvision out to 60 feet. If you already have Darkvision, wearing the goggles increases its range by 60 feet.  
+
+  
+
+### Fine Clothes  
+
+---  
+**Source**: Player's Handbook  
+_Mundane_  
+**Store in**: _bag_  
+**Crafting Value (when used as ingredient)**: _15 GP_  
+**Description**: Fine Clothes are made of expensive fabrics and adorned with expertly crafted details. Some events and locations admit only people wearing these clothes.  
+
+  
+
+### Silver Ring with Ruby  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Store in**: _pouch_  
+**Crafting Value (when used as ingredient)**: _20 GP_  
+**Description**: A silver ring with a ruby set in it.  
+
+  
+
 ### Oil of Acuteness  
 
 ---  
-**Source**: Home-brew inspired by Solasta  
+**Source**: Home-brew  
 _Consummable (Rare)_  
 **Store in**: _flask_  
 **Use as ingredient for**: _Weapons, Armor, Shields_  
 **Crafting Value (when used as ingredient)**: _200 GP_  
 **Use**: _Weapon Enchant, Armor Enchant_  
 **Description**: When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane piece of armor or a mundane shield, it becomes a magical armor or shield with a +1 bonus to Armor Class.  
+
+  
+
+### Cloak of Protection  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Wondrous Item (Uncommon) (Requires Attunement)_  
+**Store in**: _bag_  
+**Use**: _Wear_  
+**Description**: You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.  
+
+  
+
+### Bag of Tricks (Gray)  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Wondrous Item (Uncommon)_  
+**Store in**: _bag_  
+**Use**: _Take ball out_  
+**Description**: This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.<br>You can take a Magic action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the Monster Manual for the creature’s stat block. The creature vanishes at the next dawn or when it is reduced to 0 Hit Points.<br>The creature is Friendly to you and your allies, and it acts immediately after you on your Initiative count. You can take a Bonus Action to command how the creature moves and what action it takes on its next turn, such as attacking an enemy. In the absence of such orders, the creature acts in a fashion appropriate to its nature.<br>Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.<br>**1d8**  **Creature**<br>**1**  Weasel<br>**2**  Giant Rat<br>**3**  Badger<br>**4**  Boar<br>**5**  Panther<br>**6**  Giant Badger<br>**7**  Dire Wolf<br>**8**  Giant Elk  
+
+  
+
+### Dust of Disappearance  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Consumable (Uncommon)_  
+**Store in**: _bag_  
+**Use**: _Sprinkle_  
+**Description**: This powder resembles fine sand. There is enough of it for one use. When you take a Utilize action to throw the dust into the air, you and each creature and object within a 10-foot Emanation originating from you have the Invisible condition for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. Immediately after an affected creature makes an attack roll, deals damage, or casts a spell, the Invisible condition ends for that creature.  
+
+  
+
+### Immovable Rod with goat heads on each end  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Wondrous Item (Uncommon)_  
+**Store in**: _bag_  
+**Use**: _Activate_  
+**Description**: This iron rod has a button on one end. You can take a Utilize action to press the button, which causes the rod to become magically fixed in place. Until you or another creature takes a Utilize action to push the button again, the rod doesn’t move, even if it defies gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can take a Utilize action to make a DC 30 Strength (Athletics) check, moving the fixed rod up to 10 feet on a successful check.  
+
+  
+
+### Medallion of Thoughts  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Wondrous Item (Uncommon)_  
+**Store in**: _pouch_  
+**Use**: _Use_  
+**Description**: The medallion has 5 charges. While wearing it, you can expend 1 charge to cast Detect Thoughts (save DC 13) from it. The medallion regains 1d4 expended charges daily at dawn.  
 
   
 
@@ -330,7 +417,7 @@ _Consumable (Uncommon)_
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant, Armor enchant, Thrown_  
-**Description**: Wights are the withered corpses of relentless warriors whose wickedness, evil intent and vengeful memories sustains them beyond death. Once slain, you can still find some of their ill intent crystalized in a Dark Shard. It is better not to absorb this shard for yourself, but you can still use it on your weapon or armors, or throw it so it explodes.<br>You can use a Bonus Action to apply this to a weapon. When applied to a weapon a negative aura covers the weapon for 10 minutes, during which time you add +1d6 Necrotic damage to hits with that weapon, and the target's maximum Hit Points decreases by an ammount equal to the extra damage added by this item, unless they have resistances or immunities to Necrotic damage.<br>When applied to an armor or shield, the aura covers the item for 10 minutes, and when an enemy attacks the wearer they take 1d6 Necrotic damage, and can't recover Hit Points until the end of their next turn.<br>When thrown, an emanation of magical darkness appears in a 10 ft radius, creatures in the emanation make a DC 13 Wisdom Saving Throw, and take 2d6 Necrotic damage and become Frightened of the emanation, or half the damage with no additional effect.  
+**Description**: Wights are the withered corpses of relentless warriors whose wickedness and vengeful intent sustains them beyond death. Once slain, you can still find some of their ill intent crystalized in a Dark Shard. It is better not to absorb this shard for yourself, but you can still use it.<br>When applied to a weapon as a Bonus Action, a negative aura covers the weapon for 10 minutes, adding +1d6 Necrotic damage to hits with that weapon, and the target's maximum Hit Points decreases by an ammount equal to the extra damage added by this item, unless they have resistances or immunities to Necrotic damage.<br>When applied to an armor or shield, an aura covers it for 10 minutes, and when an enemy attacks the wearer they take 1d6 Necrotic damage, and can't regain Hit Points until the end of their next turn.<br>When thrown, an emanation of magical darkness appears in a 10 ft radius, creatures in the emanation make a DC 13 Wisdom Saving Throw, and take 2d6 Necrotic damage and become Frightened of the emanation, or half the damage with no additional effect.  
 
   
 
@@ -380,6 +467,8 @@ _Consumable (Very Rare)_
 ---  
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)(Requires Attunement)_  
+**Description**: This wooden broom functions like a mundane broom until you stand astride it and take a Magic action to make it hover beneath you, at which time it can be ridden in the air. It has a Fly Speed of 50 feet. It can carry up to 400 pounds, but its Fly Speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you’re no longer riding it.<br><br>As a Magic action, you can send the broom to travel alone to a destination within 1 mile of you if you name the location and are familiar with it. The broom comes back to you when you take a Magic action and use a command word if the broom is still within 1 mile of you.  
+
   
 
 ### White Seance Ring  
@@ -437,6 +526,86 @@ _Wondrous Item (Very Rare)_
 
   
 
+### Gem  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: A red bloodstone gem eye found in the peacock statue  
+
+  
+
+### Key  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: A black ivory harpsichord key  
+
+  
+
+### Pearl of Power  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Wondrous Item (Uncommon) (Requires Attunement by a Spellcaster)_  
+**Store in**: _pouch_  
+**Use**: _Use_  
+**Description**: While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can’t be used again until the next dawn.  
+
+  
+
+### Gold Ring  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Store in**: _pouch_  
+**Use as ingredient for**: _Rings_  
+**Crafting Value (when used as ingredient)**: _75 GP_  
+**Description**: A golden ring.  
+
+  
+
+### Petunia's Green Ribbon  
+
+---  
+**Source**: The Crooked Moon  
+_Wondrous Item (Rare)(Requires Attunement)_  
+**Description**: Green Ribbon, from the Crooked Moon cursed curios.  
+
+  
+
+### Cup  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: A white porcelain teacup  
+
+  
+
+### Gold Pocket Watch  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Store in**: _pouch_  
+**Use as ingredient for**: _Wondrous Items_  
+**Crafting Value (when used as ingredient)**: _100 GP_  
+**Description**: A golden pocketwatch left behind by the devoured spirits with the words 'Remember the Third' etched into the back.  
+
+  
+
+### Doll  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: A lifeless wooden doll.  
+
+  
+
 ### Lurker Dust  
 
 ---  
@@ -446,9 +615,40 @@ _Consumable (Uncommon)_
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Sprinkle_  
-**Description**: A Lurker in the Dark hides in the shadows and appears here and there without struggle, as long as there is Darkness to hide it. When teleporting like this, the Lurker only leaves behind a trace of gray dust. When sprinkled at a character's feet as a Magic Action, the character can teleport to a place within 60 ft. If the place is not in Bright Light, the user does not need to see it. A creature the user is grappling must succeed on a DC 13 Charisma Saving Throw or be teleported to an unoccupied space closest to the user's destination. When using the dust, you must succeed on a DC 13 Charisma Saving Throw or take 1d6 Psychic damage.  
+**Description**: A Lurker hides in the shadows and appears hither and thither without struggle, as long as there is Dark. When teleporting like this, the Lurker only leaves behind a trace of gray dust.<br>When sprinkled at a character's feet as a Magic Action, the character can teleport to a place within 60 ft that is not in Bright Light. A creature the user is grappling must succeed on a DC 13 Charisma Saving Throw or be teleported to an unoccupied space closest to the user's destination. When using the dust, you must succeed on a DC 13 Charisma Saving Throw or take 1d6 Psychic damage.  
 
-**Cooking Effect**: When added as a spice to cooking, you can make food with a special effect for up to 4 people. When eaten, for 1 hour, you become slightly unnoticeable and unnerving. When in Dim Light or Darkness, you can take the Hide Action using Charisma (Deception) instead of Dexterity (Stealth), and creatures have 1d6 subtracted from their Perception or Insight checks against you. However, if a creature that succeeds on seeing you is Friendly towards you, they make a DC 15 Wisdom Saving Throw or have the Frightened condition until the start of their next turn.  
+**Cooking Effect**: When added as a spice, you can make food with a special effect for up to 4 people. When eaten, for 1 hour, you become slightly unnoticeable and unnerving. When in Dim Light or Darkness, you can take the Hide Action using Charisma (Deception), and creatures have 1d6 subtracted from their Perception or Insight checks against you. However, if a creature that succeeds on seeing you is Friendly towards you, they make a DC 15 Wisdom Saving Throw or have the Frightened condition until the start of their next turn.  
+
+  
+
+### Figurine of Wondrous Power (Duckie)  
+
+---  
+**Source**: The Crooked Moon  
+_Wondrous Item (Uncommon)_  
+**Store in**: _pouch_  
+**Use**: _Activate_  
+**Description**: This wooden statuette of a toy bath duckie can become a Duck for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in duck form, the figurine grants you the ability to cast Animal Messenger on it.<br><br>**Animal Messenger**<br>**Casting Time**:Action<br>**Range**:30 ft<br>**Components**:V,S,M(A morsel of food)<br>**Duration**:24 hours<br><br>A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target’s Challenge Rating isn’t 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as “a person dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.<br><br>When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn’t reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.  
+
+  
+
+### Philip Druskenvald's Journal  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Store in**: _bag_  
+**Use**: _Read_  
+**Description**: A journal labeled 'P.D.'. It has a simple mechanical lock. Should you read it?  
+
+  
+
+### Bear  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: A blue teddy bear  
 
   
 
@@ -472,6 +672,26 @@ _Consumable (Uncommon)_
 _Arcana (Uncommon)_  
   
 
+### Potion of Healing  
+
+---  
+**Source**: Player's Handbook  
+_Potion (Common)_  
+**Store in**: _pouch_  
+**Use**: _drink_  
+**Description**: As a Bonus Action, you can drink it or administer it to another creature within 5 ft of yourself. The creature that drinks the magical red fluid in this vial regains 2d4+2 Hit Points.  
+
+  
+
+### Pin  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: A silver hairpin  
+
+  
+
 ### Bag of Humanoid Teeth  
 
 ---  
@@ -487,9 +707,11 @@ _Ingredient (Uncommon)_
 ### Lilypad Tonic  
 
 ---  
-**Source**: Home-brew  
+**Source**: The Crooked Moon  
 _Potion (Common)_  
 **Store in**: _vial_  
+**Description**: Lilypad Tonic, from the Crooked Moon potions.  
+
   
 
 ### Random Spell scroll (spell level 3 or several that sum to 3)  
@@ -654,6 +876,83 @@ _Weapon (Rare)(Requires Attunement)_
 
   
 
+### Onyx Marble  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Store in**: _pouch_  
+**Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
+**Crafting Value (when used as ingredient)**: _10 GP_  
+**Description**: The Magpie Square's statue of magpies had eyes made of onyx.  
+
+  
+
+### Sack of coins (300 SP,1000 CP)  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: Found under a floor board in the Reception of the Foxwillow Inn. Outside the sack was a single black coin with a feather icon on one face.  
+
+  
+
+### Beautiful Banjo  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Use as ingredient for**: _Banjo_  
+**Crafting Value (when used as ingredient)**: _200 GP_  
+**Description**: Found buried under the rubble in the General Store, the roof of which collapsed during the fire. Attached to this beautiful banjo is a note that says: Keep it secret from Jericho 'til next market night. He can't know how much we spent ordering this six-stringer for him.  
+
+  
+
+### Bloody Bundle  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A ritual circle drawn in dried calf ’s blood hidden under a rug, a cow skull, a chicken skull, and a lamb skull on a shelf, all marked with a bloody thumbprint, and a bundle of dried wheat, barley, and flax, bound in a blood-drenched rag, all found in the Butcher's shop's back room.  
+
+  
+
+### Virgil's Birdcage transcript  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: Clutched in the librarian scarecrow's hand was this, a gorgeous transcription of a song titled Virgil's Birdcage, one of Jericho's classics.  
+
+  
+
+### Ol' Jericho Sticks birth certificate  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: Ol' Jericho Sticks was granted official citizenship of Foxwillow  
+
+  
+
+### Crumpled Note  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: Isaac, come meet me in the windmill cellar where I used to hide when we played as kids. Remember? I've learned something amazing  
+
+  
+
+### Isaac's Locket  
+
+---  
+**Source**: The Crooked Moon  
+_Wondrous Item (Uncommon)(Requires Attunement)_  
+**Description**: A locket given by Martha to help protect you against the monster her daughter has become. You gain a +1 bonus to your armor class when wearing this locket and while attuned to it.  
+
+  
+
 ### Random Magic Item (DMG p.327) (Rare)  
 
 ---  
@@ -795,13 +1094,7 @@ _Ingredient (Common)_
 ### Random Relic (DMG p.331) (Common)  
 
 ---  
-**Source (Crimson Clergy)**: The Crooked Moon  
-**Source (Druid)**: Monster Manual  
-**Source (Mummy)**: Monster Manual  
-**Source (Cultist)**: Monster Manual  
-**Source (Priest)**: Monster Manual  
-**Source (Cultist Fanatic)**: Monster Manual  
-**Source (Priest Acolyte)**: Monster Manua  
+**Source**: The Crooked Moon  
   
 
 ### Crimson Wine (Draught of the Red Hunger Base)  
@@ -1173,6 +1466,134 @@ _Weapon (Very Rare)_
 
   
 
+### Hound Treat  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A bloody lump of meat, hounds love these.  
+
+  
+
+### Jaeger's Workbook  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: This workbook contains notes on using blood magic for a variety of processes, including the creation of Bat Hounds, the enchantment of weapons, and the general transference of vitality from one person to another. It also contains his observations on the behavior of the monastery's people, including a note that Father Renathyr spends the Witching Hour in the bell tower every night. Studying the notes for 24 succeeding on a DC 14 Arcana check per 8 hours studied lets you learn the spell Blood Sacrifice. Studying the notes for 72 hours succeeding on a DC 17 Arcana check every 8 hours grants you the Crimson Ritualist Feat. As for the Blood Hounds, it seems only a Forgemaster can perform these rites.  
+
+  
+
+### Ornate Calligrapher's Tools  
+
+---  
+**Source**: The Crooked Moon  
+_Ingredient_  
+**Use as ingredient for**: _Scrolls_  
+**Crafting Value (when used as ingredient)**: _50 GP_  
+**Description**: Very ornate bottles of inks and a high quality fountain pen with its maintenance tools.  
+
+  
+
+### Blank Book  
+
+---  
+**Source**: The Crooked Moon  
+_Ingredient_  
+**Use as ingredient for**: _Spellbook, Wondrous Item (book)_  
+**Description**: aaa  
+
+  
+
+### Paper  
+
+---  
+**Source**: The Crooked Moon  
+_Ingredient_  
+**Use as ingredient for**: _Scrolls_  
+**Description**: aaa  
+
+  
+
+### Religion Book  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: aaa  
+
+  
+
+### The Rosen Testament  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Crafting Value (when used as ingredient)**: _250 GP_  
+**Description**: The testament is a Book worth 250 GP due to its artistry and illumination, and functions as a useful reference for information about the Crimson Faithful or vampires.  
+
+  
+
+### Liturgical Book of Crimson Prayers  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: Tucked away in a drawer within Olaf's writing desk is his personal missal, a liturgical book that contains the prayers and rituals of the Crimson Faith.<br><br>It contains details on the ritual to enter the secret chamber beneath the monastery where the Bloodless receive the gift of the Crimson Rose, and where he, Cromwell, and Jaeger had been anointed as the goddess’s chosen. To access this chamber, a hidden goblet beneath the altar in the cathedral must be filled with a pint of blood.  
+
+  
+
+### Jewelry box  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Use as ingredient for**: _Wondrous Items_  
+**Crafting Value (when used as ingredient)**: _50 GP_  
+**Description**: An ornate jewelry box found locked in a chest of trophies in Cromwell's chambers.  
+
+  
+
+### Diamonds (300 GP)  
+
+---  
+**Source**: The Crooked Moon  
+_Ingredient_  
+**Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Rods, Wands, Staffs, Rings, Wondrous Items_  
+**Crafting Value (when used as ingredient)**: _300 GP_  
+**Description**: 300 GP worth of diamonds, previously Cromwell's.  
+
+  
+
+### Rubies (200 GP)  
+
+---  
+**Source**: The Crooked Moon  
+_Ingredient_  
+**Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Rods, Wands, Staffs, Rings, Wondrous Items_  
+**Crafting Value (when used as ingredient)**: _200 GP_  
+**Description**: 200 GP worth of rubies, previously Cromwell's.  
+
+  
+
+### Lethica Nightborne painting  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: The painting on the altar is of the wife Renathyr abandoned—Lethica Nightborne. It’s of fine craftsmanship and has a haunting quality, easily worth 500 GP to a collector in Wickermoor Village.  
+
+  
+
+### Renathyr's Journal  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: Contains journal entries detailing Renathyr's story. The pages become increasingly difficult to read as they become smudged or stained with blood until eventually the pages are completely smeared with red.  
+
+  
+
 ### Stone Giant Nail Dust  
 
 ---  
@@ -1454,6 +1875,8 @@ _Ingredient (Very Rare) _
 **Source**: Home-brew  
 _Potion (Very Rare)_  
 **Store in**: _vial_  
+**Description**: Nectar of the Green Man, from the Crooked Moon potions.  
+
   
 
 ### Jinxed Rum  
@@ -1462,6 +1885,8 @@ _Potion (Very Rare)_
 **Source**: Home-brew  
 _Potion (Rare)_  
 **Store in**: _vial_  
+**Description**: Jinxed Rum, from the Crooked Moon potions.  
+
   
 
 ### Random Magic Item (DMG p.327) (Very Rare)  
@@ -1479,6 +1904,24 @@ _Weapon (Very Rare)_
 **Store in**: _bag_  
 **Description**: Blunderbuss of the Grinning Sinner, from the Fated Tarot Reading, with alternate rolling to find options.  
 
+  
+
+### Withered Hand  
+
+---  
+**Source**: The Crooked Moon  
+_Wondrous Item (Rare)(Requires Attunement)_  
+**Description**: A Withered Hand, from the Crooked Moon cursed curios.  
+
+  
+
+### Enticing Suspenders  
+
+---  
+**Source**: Home-brew  
+_Wondrous Item (Uncommon)_  
+**Use**: _Wear_  
+**Description**: These suspenders are worn by undead all about the bayou. They look a bit tattered from all the bog water, but wearing them feels right. You gain a +1 bonus in Persuasion and Deception checks when wearing them, but only if they are worn as intended to hold some garment from falling down.   
   
 
 ### Black Slime  
@@ -1610,8 +2053,7 @@ _Consumable (Uncommon)_
 ### Random Armament (DMG p.328) (Rare or Uncommon)  
 
 ---  
-**Source (Fleshdobbin)**: The Crooked Moon  
-**Source (Undead Centaur)**: Monster Manua  
+**Source**: The Crooked Moon  
 _Armament (Rare)_  
   
 
@@ -1666,7 +2108,7 @@ _Consumable (Very Rare)_
 **Use**: _Throw, Pour_  
 **Description**: An pustulent ooze of disease. When thrown or poured into contact with a creature, the ooze affects them with a disease. The target must succeed on a Constitution saving throw or take 11d8 Necrotic damage and have the Poisoned condition. Roll a 1d5 when you throw the ooze. While Poisoned, the target has Disadvantage on saving throws made with an ability depending on the roll (1:Strength, 2:Dexterity, 3:Intelligence, 4:Wisdom, 5:Charisma). The target must repeat the saving throw at the end of each of its turns until it gets three successes or failures. If the target succeeds on three of these saves, the spell ends on the target. If the target fails three of the saves, the spell lasts for 7 days on it. Whenever the Poisoned target receives an effect that would end the Poisoned condition, the target must succeed on a Constitution saving throw, or the Poisoned condition doesn't end on it. If you throw it within 5 ft of you you must succeed on a DC 15 Dexterity Saving Throw or be affected as well.  
 
-**Cooking Effect**: When used for preparing food, you can create up to 8 portions of poisoned food. When eaten, you take 3d8 Poison damage and have the Poisoned condition for 7 days. You shouldn't eat this.  
+**Cooking Effect**: When used for preparing food, you can create up to 8 portions of poisoned food. When eaten, you take 3d8 Poison damage and have the Poisoned condition for 7 days. Don't eat it.  
 
   
 
@@ -1678,6 +2120,125 @@ _Consumable (Very Rare)_
 **Store in**: _bag_  
 **Use**: _Throw_  
 **Description**: A bag of absolute vile filth. When thrown or opened, the filth is spread in a 20 ft radius from the point of impact, and creatures in the area make a DC 15 Constitution Saving Throw, or have the Poisoned condition. Immediately after the filth spreads, as if on cue, a swarm of insects fills the area, and the area is Lightly Obscured and Difficult Terrain. When the swarm appears, each creature in it makes a Constitution saving throw, taking 4d10 Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the swarm's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn. The swarm leaves after 10 minutes have passed.  
+
+  
+
+### Rusty Lockbox  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A metal lockbox with a rusty lock under the rubble at Skitterdeep Mine  
+
+  
+
+### Citrine (50 GP)  
+
+---  
+**Source**: The Crooked Moon  
+_Ingredient_  
+**Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Rods, Wands, Staffs, Rings, Wondrous Items_  
+**Crafting Value (when used as ingredient)**: _50 GP_  
+**Description**: A citrine quartz gem worth 50 GP found in a metal lockbox with a rusty lock under the rubble at Skitterdeep Mine  
+
+  
+
+### Potion of Healing (Greater)  
+
+---  
+**Source**: Player's Handbook  
+_Potion (Uncommon)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: Found in a metal lockbox with a rusty lock under the rubble at Skitterdeep Mine, labeled 'Emergency'. As a Bonus Action, you can drink it or administer it to another creature within 5 ft of yourself. The creature that drinks the magical red fluid in this vial regains 4d4+4 Hit Points.  
+
+  
+
+### Maul  
+
+---  
+**Source**: Player's Handbook  
+_Mundane_  
+**Description**: Martial, 2d6 Bludgeoning, Heavy, Two-Handed, Topple  
+
+  
+
+### Dungeoneer's Pack  
+
+---  
+**Source**: Player's Handbook  
+_Mundane_  
+**Description**: A Dungeoneer’s Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.  
+
+  
+
+### Alchemist's Fire  
+
+---  
+**Source**: Player's Handbook  
+_Consumable (Common)_  
+**Description**: When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).  
+
+  
+
+### Oil  
+
+---  
+**Source**: Player's Handbook  
+_Mundane_  
+  
+
+### Ring of Evasion  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Ring (Rare)(Requires Attunement)_  
+**Description**: This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing the ring, you can take a Reaction to expend 1 charge to succeed on that save instead.  
+
+  
+
+### Centipede Necklace of Adaptation  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Wondrous Item (Uncommon)(Requires Attunement)_  
+**Description**: While wearing this necklace, you can breathe normally in any environment, and you have Advantage on saving throws made to avoid or end the Poisoned condition.  
+
+  
+
+### Alarm (Spell Scroll)  
+
+---  
+**Source**: Player's Handbook  
+_Scroll (Common)_  
+**Description**: Level 1 Abjuration<br><br>**Casting Time**: 1 minute or Ritual<br>**Range**: 30 feet<br>**Components**: V, S, M (a bell and silver wire)<br>**Duration**: 8 hours<br><br>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is audible or mental:<br><br>**Audible Alarm**. The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.<br><br>**Mental Alarm**. You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you’re asleep.  
+
+  
+
+### Inflict Wounds (Spell Scroll)  
+
+---  
+**Source**: Player's Handbook  
+_Scroll (Common)_  
+**Description**: Level 1 Necromancy<br><br>**Casting Time**: Action<br>**Range**: Touch<br>**Components**: V, S<br>**Duration**: Instantaneous<br><br>A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.  
+
+  
+
+### Sleep (Spell Scroll)  
+
+---  
+**Source**: Player's Handbook  
+_Scroll (Common)_  
+**Description**: Level 1 Enchantment<br><br>**Casting Time**: Action<br>**Range**: 60 feet<br>**Components**: V, S, M (a pinch of sand or rose petals)<br>**Duration**: Concentration, up to 1 minute<br><br>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect.<br><br>Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.  
+
+  
+
+### Invisibility (Spell Scroll)  
+
+---  
+**Source**: Player's Handbook  
+_Scroll (Uncommon)_  
+**Description**: Level 2 Illusion<br><br>Casting Time: Action<br>Range: Touch<br>Components: V, S, M (an eyelash in gum arabic)<br>Duration: Concentration, up to 1 hour<br><br>A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.  
 
   
 
@@ -1710,6 +2271,18 @@ _Consumable (Common)_
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Inject_  
 **Description**: You can use a Bonus Action to inject the stimulant, and until the start of your next turn, your speed is doubled, you can make one more Attack action, and you have a +2 bonus to your Armor Class. However, once the current battle is over, you roll 1d4, and on a 1 you take 1d6 Poison damage.   
+  
+
+### Tranquilizer  
+
+---  
+**Source**: The Crooked Moon  
+_Consumable (Common)_  
+**Store in**: _syringe_  
+**Use as ingredient for**: _Potions_  
+**Crafting Value (when used as ingredient)**: _13 GP_  
+**Use**: _Inject_  
+**Description**: As an Attack action, you can stab a creature with this tranquilizer. On a hit, the target must succeed on a DC 13 Constitution Saving Throw or take 3d6 Psychic damage and have the Poisoned condition for 1 hour. On a Failure by 5 or more, the Poisoned target also has the Unconscious condition until it takes damage or a creature within 5 feet of it takes an action to shake it awake. On a Success: The target takes half damage and no additional effect.   
   
 
 ### Tincture Base  
@@ -1776,7 +2349,7 @@ _Consumable (Rare)_
 **Use as ingredient for**: _Potions, Scrolls, Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Activate_  
-**Description**: The cursed eye from the Serum Brute still has one charge of magical energy.<br>You can spend 1 charge to activate it and become surrounded by a withering gaze for 10 minutes, a 5 ft emanation which creatures who enter or start their turn in the emanation take 1d6 Psychic damage. You take 1d4-1 to a minimum of 1 Psychic damage per turn while in the emanation as well.<br>During this time, you can spend a Magic Action to point the eye gaze to a 20 ft Cone area. Creatures in the cone area make a DC 15 Wisdom Saving Throw taking 2d6 Psychic damage and becoming Frightened for the duration on a failure, or half as much damage with no additional effects on a success. Once the effect ends, the eye crumbles to dust and disappears.<br>Alternatively, you can use this as 500 GP in ingredients towards the 2000 GP necessary to make a Cursed Eye Prosthetic (Rare).  
+**Description**: The cursed eye from the Serum Brute still has one charge of magical energy.<br>You can spend 1 charge to activate it and become surrounded by a withering gaze for 10 minutes, a 5 ft emanation which creatures who enter or start their turn in the emanation take 1d6 Psychic damage. You take 1d6 to a minimum of 1 Psychic damage per turn while in the emanation as well.<br>During this time, you can spend a Magic Action to point the eye gaze to a 20 ft Cone area. Creatures in the cone area make a DC 15 Wisdom Saving Throw taking 2d6 Psychic damage and becoming Frightened for the duration on a failure, or half as much damage with no additional effects on a success. Once the effect ends, the eye crumbles to dust and disappears.<br>Alternatively, you can use this as 500 GP in ingredients towards the 2000 GP necessary to make a Cursed Eye Prosthetic (Rare).  
 
   
 
@@ -1785,7 +2358,7 @@ _Consumable (Rare)_
 ---  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
-**Description**: You have refined the magic in the cursed eye of the Serum Brute to make a prostethic immitation of its power. You wear this as a prosthetic eye tied to your forehead.<br>The eye has 3 charges.<br>You can spend 1 charge to activate it and become surrounded by a withering gaze for 1 minute, a 5 ft emanation which creatures who enter or start their turn in the emanation take 1d6 Psychic damage.<br>During this time, you can spend 1 charge and a Magic Action to point the eye gaze to a 20 ft Cone area. Creatures in the cone area make a DC 15 Wisdom Saving Throw taking 2d6 Psychic damage and becoming Frightened for the duration on a failure, or half as much damage with no additional effects on a success.<br>The eye recovers 1d3 charges on a long rest.  
+**Description**: You have refined the magic in the cursed eye of the Serum Brute to make a prostethic immitation of its power. You wear this as a prosthetic eye tied to your forehead.<br>The eye has 3 charges.<br>You can spend 1 charge to activate it and become surrounded by a withering gaze for 1 minute, a 5 ft emanation which creatures who enter or start their turn in the emanation take 1d6 Psychic damage. You take 1d4-1 to a minimum of 1 Psychic damage per turn while in the emanation as well.<br>During this time, you can spend 1 charge and a Magic Action to point the eye gaze to a 20 ft Cone area. Creatures in the cone area make a DC 15 Wisdom Saving Throw taking 2d6 Psychic damage and becoming Frightened for the duration on a failure, or half as much damage with no additional effects on a success.<br>The eye recovers 1d3 charges on a long rest.  
 
 _Crafted Item_  
   
@@ -1830,6 +2403,446 @@ _Consumable (Rare)_
 **Source**: The Crooked Moon  
 _Wondrous Item (Very Rare)_  
 **Description**: The Veil of the Weeping Widow, from the Fated Tarot Reading, with alternate rolling to find options.  
+
+  
+
+### Potion of Healing  
+
+---  
+**Source**: Player's Handbook  
+_Potion (Common)_  
+**Description**: As a Bonus Action, you can drink it or administer it to another creature within 5 ft of yourself. The creature that drinks the magical red fluid in this vial regains 2d4+2 Hit Points.  
+
+  
+
+### Nurse Uniform with mask (Costume)  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.  
+
+  
+
+### Healer's Kit  
+
+---  
+**Source**: Player's Handbook  
+_Consumable (Common)_  
+**Description**: A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  
+
+  
+
+### Note: 1756  
+
+---  
+**Source**: The Crooked Moon  
+_1756_  
+**Description**: A note with the numbers 1756 written on it found in the nurse's station locker.  
+
+  
+
+### Potion of Healing  
+
+---  
+**Source**: Player's Handbook  
+_Potion (Common)_  
+**Description**: As a Bonus Action, you can drink it or administer it to another creature within 5 ft of yourself. The creature that drinks the magical red fluid in this vial regains 2d4+2 Hit Points.  
+
+  
+
+### Nurse Uniform with mask (Costume)  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.  
+
+  
+
+### Healer's Kit  
+
+---  
+**Source**: Player's Handbook  
+_Consumable (Common)_  
+**Description**: A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  
+
+  
+
+### Note: 1756  
+
+---  
+**Source**: The Crooked Moon  
+_1756_  
+**Description**: A note with the numbers 1756 written on it found in the nurse's station locker.  
+
+  
+
+### Potion of Healing (Greater)  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Potion (Uncommon)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: As a Bonus Action, you can drink it or administer it to another creature within 5 ft of yourself. The creature that drinks the magical red fluid in this vial regains 4d4+4 Hit Points.  
+
+  
+
+### Alchemist's Supplies  
+
+---  
+**Source**: The Crooked Moon  
+**Description**: Utilize: Identify a substance (DC 15), or start a fire (DC 15). Craft: Acid, Alchemist’s Fire, Component Pouch, Oil, Paper, Perfume  
+
+  
+
+### Tranquilizer  
+
+---  
+**Source**: The Crooked Moon  
+_Consumable (Common)_  
+**Store in**: _syringe_  
+**Use as ingredient for**: _Potions_  
+**Crafting Value (when used as ingredient)**: _13 GP_  
+**Use**: _Inject_  
+**Description**: As an Attack action, you can stab a creature with this tranquilizer. On a hit, the target must succeed on a DC 13 Constitution Saving Throw or take 3d6 Psychic damage and have the Poisoned condition for 1 hour. On a Failure by 5 or more, the Poisoned target also has the Unconscious condition until it takes damage or a creature within 5 feet of it takes an action to shake it awake. On a Success: The target takes half damage and no additional effect.  
+
+  
+
+### Unlabled Medicine  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: It's some sort of medicine, but it is unlabled. There's no way to know immediately what it does, but an experienced alchemist can try to identify it by spending a short rest doing tests with a DC 15 Alchemy check  
+
+  
+
+### Tonic  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine gains the benefit of a Potion of Heroism  
+
+  
+
+### Energy Drink  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine rolls its maximum number of Hit Dice.  
+
+  
+
+### Hypnotic  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine becomes entranced.  
+
+  
+
+### Relaxant  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine becomes very relaxed.  
+
+  
+
+### Suppressant  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine has difficulty casting spells.  
+
+  
+
+### Euphoriant  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine will feel very chatty.  
+
+  
+
+### True Tonic  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine gains the benefit of a Potion of Heroism but imperceptibly receives the effect of the Bane spell instead of Bless for the duration (the creature believes it is under the effect of the Bless spell until after its next attack roll or saving throw).  
+
+  
+
+### True Energy Drink (Sedative)  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine rolls its maximum number of Hit Dice. If the total rolled exceeds the creature's maximum Hit Points, it has the unconscious condition for 1d8 hours, until it takes damage, or until someone uses an action to shake or slap it awake.  
+
+  
+
+### True Hypnotic  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine has the Charmed condition toward all creatures for 1d4 hours, or until it takes damage.  
+
+  
+
+### True Relaxant  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine has Disadvantage on Strength checks and saving throws for 1d4 hours or until it finishes a Short Rest.  
+
+  
+
+### True Suppressant  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can’t Concentrate on spells or similar effects while Poisoned in this way.  
+
+  
+
+### True Euphoriant  
+
+---  
+**Source**: The Crooked Moon  
+_Potion (?)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can’t knowingly speak a lie, as if under the effect of a Zone of Truth spell, while Poisoned in this way.  
+
+  
+
+### Bead of Force  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Consumable (Rare)_  
+**Store in**: _pouch_  
+**Description**: This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. <br><br>You can take a Magic action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius Sphere on impact and is destroyed. Each creature in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can pass through.<br><br>An enclosed creature can take a Utilize action to push against the sphere’s wall, moving the sphere up to half the creature’s Speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.  
+
+  
+
+### Wand of Magic Missiles  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Wand (Uncommon)_  
+**Description**: This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Magic Missile from it. For 1 charge, you cast the level 1 version of the spell. You can increase the spell’s level by 1 for each additional charge you expend.<br><br>**Regaining Charges**. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.  
+
+  
+
+### Ring of Water Walking  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Ring (Uncommon)_  
+**Description**: While wearing this ring, you cast Water Walk from it, targeting only yourself.  
+
+  
+
+### Diplomat’s Pack  
+
+---  
+**Source**: Player's Handbook  
+**Description**: A Diplomat’s Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.  
+
+  
+
+### Elegant Jewelry (250 GP)  
+
+---  
+**Source**: The Crooked Moon  
+**Use as ingredient for**: _Rings, Wondrous Items (Accessories)_  
+**Crafting Value (when used as ingredient)**: _250 GP_  
+**Description**: Elegant jewelry worth 250 GP when sold or used to craft magic items that are jewelry.  
+
+  
+
+### Godlee's Diary  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A small diary showcasing Godlee’s admiration for and obsession with Matron Lethica, revealing that the way to enter her personal Laboratory (area L27) is to inject a dose of Lethic Serum into the eye of the owl painted on the wall of the second floor hallway.  
+
+  
+
+### Wedding Portrait  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A portrait of Lethica and Marius Renathyr, painted on the night they were wed.  
+
+  
+
+### Lethica's Betrothal Ring  
+
+---  
+**Source**: The Crooked Moon  
+_Ring (Rare) (Requires Attunement)_  
+**Description**: Her silver-and-purple-garnet betrothal ring. You gain a +1 bonus to Armor Class and saving throws while wearing this ring and are attuned to it.  
+
+  
+
+### Fallen Knight's Tabard  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A blood-stained knight’s tabard bearing heraldry depicting a rising sun  
+
+  
+
+### Weathered Sonnet  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A weathered parchment bearing a faded sonnet of undying love  
+
+  
+
+### Mnemonic Residue  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: A silvery lavender ash harvested from the Crematorium (area L18), formed only by the incineration of creatures infused with Lethic Serum.  
+
+  
+
+### Noetic Extract  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: A pale viscous fluid siphoned from brains preserved in Monster Containment (area L22)  
+
+  
+
+### Unrefined Ichor  
+
+---  
+**Source**: The Crooked Moon  
+_?_  
+**Description**: An amethyst-purple liquid produced by the White Worm, found in Lethica’s Quarters (area L19), the Laboratory (area L27)  
+
+  
+
+### Numbing Agent  
+
+---  
+**Source**: The Crooked Moon  
+_Consumable_  
+**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Stoneskin (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
+
+  
+
+### Alkaline Stabilizer  
+
+---  
+**Source**: The Crooked Moon  
+_Consumable_  
+**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Protection from Energy (Acid) (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
+
+  
+
+### Adrenal Stimulant  
+
+---  
+**Source**: The Crooked Moon  
+_Consumable_  
+**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Enhance Ability (Strength) (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
+
+  
+
+### Experimental Procedure File  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A yellowing file folder tucked beneath one side of the woven bed. It includes a detailed record of Hugo’s surgeries and transformation.  
+
+  
+
+### Belkin's Journal  
+
+---  
+**Source**: The Crooked Moon  
+_Mundane_  
+**Description**: A journal of complicated medical jargon by Belkin. Studying it might reveal some useful information, but it will need some time and skill.  
+
+  
+
+### Pheromones (Philter of Love)  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Potion (Uncommon)_  
+**Use**: _drink_  
+**Description**: The next time you see a creature within 10 minutes after drinking this philter, you are charmed by that creature and have the Charmed condition for 1 hour. This rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.  
+
+  
+
+### Potion of Healing (Greater)  
+
+---  
+**Source**: Dungeon Master's Guide  
+_Potion (Uncommon)_  
+**Store in**: _vial_  
+**Use**: _drink_  
+**Description**: As a Bonus Action, you can drink it or administer it to another creature within 5 ft of yourself. The creature that drinks the magical red fluid in this vial regains 4d4+4 Hit Points.  
+
+  
+
+### Lethic Serum  
+
+---  
+**Source**: The Crooked Moon  
+_Potion_  
+**Description**: A sealed vial of Lethic Serum  
 
   
 
@@ -2092,9 +3105,9 @@ _Consumable (Very Rare)_
 **Use as ingredient for**: _Weapons_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Weapon Enchant_  
-**Description**: The Purple Worm is deadly not only from its mouth but from its stinger as well. You can only imagine what it needs such a big stinger for, and you don't want to find out if there are bigger things out there the worm is worrying about.<br>You can use a Bonus Action to apply the poison to a weapon or 3 pieces of ammunition. The poison from the stinger can be applied directly to a weapon or 3 pieces of ammunition 1 time, or you can refine the poison with the Poisoner Kit or the Alchemist Kit for 1 hour to make an extract that allows you to have 3 vials of poison with the same effect instead.<br>When coating a weapon with either the stinger secretions or the extract, your weapon becomes poisonus for 3 hits. On a hit, the target takes he mundane damage normally, and immediately makes a DC 19 Constitution saving throw. On a failure they take 10d6 Poison damage, and have the Poisoned condition for 1 hour. On a failure, they take half as much damage, and have no additional effect.  
+**Description**: The Purple Worm is deadly not only from its mouth but from its stinger as well. You can only imagine what it needs such a big stinger for, and you don't want to find out.<br>The poison from the stinger can be applied directly to a weapon or 3 pieces of ammunition 1 time, or you can refine the poison with the Poisoner Kit or the Alchemist Kit for 1 hour to make an extract that allows you to have 3 vials of poison with the same effect instead.<br>When coating a weapon with either the stinger secretions or the extract as a Bonus Action, your weapon becomes poisonus for 3 hits. On a hit, the target takes he mundane damage normally, and immediately makes a DC 19 Constitution saving throw. On a failure they take 10d6 Poison damage, and have the Poisoned condition for 1 hour. On a failure, they take half as much damage, and have no additional effect.  
 
-**Cooking Effect**: If you have proficiency with the Poisoner Kit or the Alchemist Kit, you can refine 8 vials of an antidote. When the antidote is injected, you have immunity to the Poisoned condition and resistance to Poison damage for 24 hours.  
+**Cooking Effect**: If you have proficiency with the Poisoner Kit or the Alchemist Kit, you can refine 8 vials of an antidote in 2 hours. When the antidote is injected, you have immunity to the Poisoned condition and resistance to Poison damage for 24 hours.  
 
   
 
@@ -2118,7 +3131,7 @@ _Consumable (Rare)_
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Activate_  
-**Description**: The Keeper of Blight is a spirit overtaken by rot. Their magic is still present in their staff. The staff deals 1d8 Bludgeoning damage or 1d10 Bludgeoning damage when wielded as a two-handed weapon, and deals an additional 1d6 Necrotic damage on a hit. You can also use this weapon as a focus for your spells. The staff has 5 charges. You can spend 1 charge to cast the spell Blight. Alternatively, you can spend 1 charge to create Frenzying Spores, with which you target a creature you can see 30 ft from you and they make a DC 16 Wisdom Saving Throw. On a failure, the target takes 3d6 Psychic damage, and they must take a Reaction to attack a creature you decide that is within range of the attack. On a successful save they take half damage and no additional effect. Alternatively, you can spend 1 charge to create a 60 ft radius field of fungi that lasts for 1 minute. For the duration, creatures in the area (including you) have the Poisoned condition, and the area is Difficult Terrain. Once the charges are all spent, the staff will create a 5 ft wide circle of large fungi, and crumble to dust. The fungi can be harvested for 3 vials of Rotting Spores. Alternatively, so long as the staff has at least 2 charges, you can use it as 500 GP worth in materials towards the 2000 GP necessary to craft a Staff of Decay (Rare).  
+**Description**: The Keeper of Blight is a spirit overtaken by rot, whose magic is still present in their staff. The staff deals 1d8 Bludgeoning damage or 1d10 Bludgeoning damage when wielded as a two-handed weapon, and deals an additional 1d6 Necrotic damage on a hit. You can also use this weapon as a focus for your spells. <br><br>The staff has 5 charges. You can spend 1 charge to cast the spell Blight. Alternatively, you can spend 1 charge to create Frenzying Spores, with which you target a creature you can see 30 ft from you and they make a DC 16 Wisdom Saving Throw. On a failure, the target takes 3d6 Psychic damage, and they must take a Reaction to attack a creature you decide that is within range of the attack. On a successful save they take half damage and no additional effect. <br><br>Alternatively, you can spend 1 charge to create a 60 ft radius field of fungi that lasts for 1 minute. For the duration, creatures in the area (including you) have the Poisoned condition, and the area is Difficult Terrain. <br><br>Once the charges are all spent, the staff will create a 5 ft wide circle of large fungi, and crumble to dust. The fungi can be harvested for 3 vials of Rotting Spores. <br><br>Alternatively, so long as the staff has at least 2 charges, you can use it as 500 GP worth in materials towards the 2000 GP necessary to craft a Staff of Decay (Rare).  
 
   
 
@@ -2127,7 +3140,7 @@ _Consumable (Rare)_
 ---  
 **Source**: Home-brew  
 _Staff (Rare)_  
-**Description**: The staff deals 1d8 Bludgeoning damage or 1d10 Bludgeoning damage when wielded as a two-handed weapon, and deals an additional 1d6 Necrotic damage on a hit. You can also use this weapon as a focus for your spells.<br>The staff has 3 charges.<br>You can spend 1 charge to cast the spell Blight.<br>Alternatively, you can spend 1 charge to create Frenzying Spores, with which you target a creature you can see 30 ft from you and they make a DC 16 Wisdom Saving Throw. On a failure, the target takes 3d6 Psychic damage, and they must take a Reaction to attack a creature you decide that is within range of the attack. On a successful save they take half damage and no additional effect.<br>Alternatively, you can spend 1 charge to create a 60 ft radius field of fungi that lasts for 1 minute. For the duration, creatures in the area (excluding you) have the Poisoned condition, and the area is Difficult Terrain.  
+**Description**: The staff deals 1d8 Bludgeoning damage or 1d10 Bludgeoning damage when wielded as a two-handed weapon, and deals an additional 1d6 Necrotic damage on a hit. You can also use this weapon as a focus for your spells.<br><br>The staff has 3 charges.<br><br>You can spend 1 charge to cast the spell Blight.<br><br>Alternatively, you can spend 1 charge to create Frenzying Spores, with which you target a creature you can see 30 ft from you and they make a DC 16 Wisdom Saving Throw. On a failure, the target takes 3d6 Psychic damage, and they must take a Reaction to attack a creature you decide that is within range of the attack. On a successful save they take half damage and no additional effect.<br><br>Alternatively, you can spend 1 charge to create a 60 ft radius field of fungi that lasts for 1 minute. For the duration, creatures in the area (excluding you) have the Poisoned condition, and the area is Difficult Terrain.  
 
 _Crafted Item_  
   
@@ -2195,7 +3208,7 @@ _Consumable (Rare)_
 **Store in**: _bag_  
 **Use as ingredient for**: _Weapons, Rods, Wands, Staffs, Rings, Wondrous Items, Spells_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
-**Description**: All that is left of the hartsblighted amalgamation of creatures in these rotten remains is what looks to be once the rib of a large beast wrapped in vines, thrumming with the energy of growth. You can use this as a weapon that deals 1d8 Slashing damage and 2d8 Necrotic damage.<br>It has 5 charges, and you can spend 1 charge to cast the spell Thorn Whip from it. Once you spend all charges or hit with the weapon 20 times, the vine breaks the bone and becomes unusable. Repairing the bone with magic does not return its properties and it instead becomes simply an improvised weapon.   
+**Description**: All that is left of the hartsblighted amalgamation of creatures in these rotten remains is what looks to be once the rib of a large beast wrapped in vines, thrumming with the energy of growth. You can use this as a weapon that deals 1d8 Slashing damage and 2d8 Necrotic damage.<br><br>It has 5 charges, and you can spend 1 charge to cast the spell Thorn Whip from it. Once you spend all charges or hit with the weapon 20 times, the vine breaks the bone and becomes unusable. Repairing the bone with magic does not return its properties and it instead becomes simply an improvised weapon.   
   
 
 ### Halden Wreath's Memory Shard  
@@ -2748,7 +3761,7 @@ _Consumable (Very Rare)_
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring_  
 **Crafting Value (when used as ingredient)**: _4000 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Accessory Enchant, Drink_  
-**Description**: The blood of a Necrolisk flows with the energy of the spirits it devoured during its lifetime.<br>You can use it in a ritual lasting 10 minutes to coat a weapon with it, which will permanently turns it into a Shroudbane Weapon (Very Rare).<br>You can also use it in a ritual lasting 10 minutes to coat a piece of armor, shield or clothing, which permanently become a Shroud Repellent (Very Rare) equipment.<br>You can also use it to coat a silver accessory, such as a ring or amulet, which permanently becomes a Silver Accessory of Coveting (Very Rare). As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br>If you consume the blood it will permanently grant 15 ft of Tremorsense, and 5 ft of Blindsight, which are added to your range of Tremorsense and Blindsight if you already have it from other features, as well as the ability to once per long rest sense incorporeal entities within 200 ft of you, or you add 200 ft to whichever feature allows you to sense incorporeal creatures that you might have.  
+**Description**: The blood of a Necrolisk flows with the energy of the spirits it devoured during its lifetime.<br><br>You can use it in a ritual lasting 10 minutes to coat a weapon with it, which will permanently turns it into a Shroudbane Weapon (Very Rare).<br><br>You can also use it in a ritual lasting 10 minutes to coat a piece of armor, shield or clothing, which permanently become a Shroud Repellent (Very Rare) equipment.<br><br>You can also use it to coat a silver accessory, such as a ring or amulet, which permanently becomes a Silver Accessory of Coveting (Very Rare). <br><br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br><br>If you consume the blood it will permanently grant 15 ft of Tremorsense, and 5 ft of Blindsight, which are added to your range of Tremorsense and Blindsight if you already have it from other features, as well as the ability to once per long rest sense incorporeal entities within 200 ft of you, or you add 200 ft to whichever feature allows you to sense incorporeal creatures that you might have.  
 
 **Cooking Effect**: If you have proficiency in the Alchemist Kit, you can refine the magic in the blood to make 8 vials of Necrolisk Extract  
 
@@ -2881,7 +3894,7 @@ _Ingredient (Very Rare)_
 ---  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
-**Description**: The Necrolisk is hungry for spirits and souls, and so is this weapon made from the teeth and bones of the beast itself. You can also use this weapon as a focus for your spells, and have a +1 bonus to attack rolls and damage rolls against incorporeal creatures. The weapon also has a +1 bonus to spell attack and spell damage rolls and a +1 bonus to spell save DC. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d6 Force damage on any hit, and +4d6 damage to incorporeal creatures, and you gain half of that damage as Temporary Hit Points.<br>As a Magic Action, you can choose any number of creatures you can see in a 60 ft radius of you, in addition to automatically affecting incorporeal creatures you cannot see in the same range. You call the hunger of souls within your Soul Eater, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed. You can also use a Magic Action to sense the presence of spirits or incorporeal creatures in a 300 ft radius. Once you use either feature you can't use that feature again until you take a Long Rest.  
+**Description**: The Necrolisk is hungry for spirits and souls, and so is this weapon made from the teeth and bones of the beast itself. <br><br>You can also use this weapon as a focus for your spells, and have a +1 bonus to attack rolls and damage rolls against incorporeal creatures. The weapon also has a +1 bonus to spell attack and spell damage rolls and a +1 bonus to spell save DC. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d6 Force damage on any hit, and +4d6 damage to incorporeal creatures, and you gain half of that damage as Temporary Hit Points.<br><br>As a Magic Action, you can choose any number of creatures you can see in a 60 ft radius of you, in addition to automatically affecting incorporeal creatures you cannot see in the same range. You call the hunger of souls within your Soul Eater, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed.<br><br>You can also use a Magic Action to sense the presence of spirits or incorporeal creatures in a 300 ft radius.<br><br>Once you use either feature you can't use that feature again until you take a Long Rest.  
 
 _Crafted Item_  
   
@@ -4394,7 +5407,7 @@ _Ingredient (Rare)_
 _Potion (Rare)_  
 **Store in**: _vial_  
 **Use**: _Weapon Enchant_  
-**Description**: Wytchwood Sap can be extracted from the Maidenwoods in greater quantities than from other sources.  
+**Description**: Wytchwood Sap, from the Crooked Moon potions. It can be extracted from the Maidenwoods in greater quantities than from other sources.  
 
   
 

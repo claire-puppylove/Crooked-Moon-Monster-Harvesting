@@ -205,7 +205,7 @@ class ManualGenerator:
                     find_checks="Crafted Item" if "Crafted Item" in row.find_checks else "-",
                     find_dc="-",
                     location="-",
-                    source=row.source,
+                    source=row.source.split("(")[0],
                     ))
     def by_item(self):
         if self.version == "dm":

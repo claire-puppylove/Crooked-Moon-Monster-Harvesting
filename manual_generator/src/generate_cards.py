@@ -43,7 +43,7 @@ if __name__ == '__main__':
                 )
             largest_amount = 1
             for dc in dm_manual.items[num].find_dc[item.monsters[0]]:
-                if "(1 for each party member)" in dc:
+                if "1 for each party member" in dc:
                     amount = args.party
                 elif "(x" in dc:
                     amount = int(re.findall('\(x(\d+)\)',dc)[0])
