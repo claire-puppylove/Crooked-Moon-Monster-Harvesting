@@ -20,9 +20,11 @@ body .markdown-body
   color: #333333;
   overflow: hidden;
   font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 1em;
+  line-height: 1.3;
   word-wrap: break-word;
+  column-count: 2;
+  gap: 1em;
 }
 
 .markdown-body a {
@@ -48,7 +50,7 @@ body .markdown-body
 
 .markdown-body sub,
 .markdown-body sup {
-  font-size: 75%;
+  font-size: 0.75em;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
@@ -61,8 +63,8 @@ body .markdown-body
 }
 
 .markdown-body h1 {
-  font-size: 2em;
   margin: 0.67em 0;
+  column-span: all;
 }
 
 .markdown-body img {
@@ -185,7 +187,7 @@ body .markdown-body
 }
 
 .markdown-body input {
-  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 0.9em Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
   line-height: 1.4;
 }
 
@@ -202,7 +204,7 @@ body .markdown-body
 
 .markdown-body hr {
   height: 0;
-  margin: 15px 0;
+  margin: 10px 0;
   overflow: hidden;
   background: transparent;
   border: 0;
@@ -219,39 +221,40 @@ body .markdown-body
   clear: both;
 }
 
-.markdown-body h1,
-.markdown-body h2,
-.markdown-body h3,
-.markdown-body h4,
-.markdown-body h5,
-.markdown-body h6 {
+.markdown-body h1{
   margin-top: 15px;
   margin-bottom: 15px;
   line-height: 1.1;
 }
 
+.markdown-body h2{
+  margin-top: 7px;
+  margin-bottom: 5px;
+  line-height: 1.1;
+}
+
+.markdown-body h3{
+  margin-top: 0px;
+  margin-bottom: 5px;
+  line-height: 1;
+}
+
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 1;
+}
+
 .markdown-body h1 {
-  font-size: 30px;
+  display:block;
+  column-span: all;
 }
 
 .markdown-body h2 {
-  font-size: 21px;
-}
-
-.markdown-body h3 {
-  font-size: 16px;
-}
-
-.markdown-body h4 {
-  font-size: 14px;
-}
-
-.markdown-body h5 {
-  font-size: 12px;
-}
-
-.markdown-body h6 {
-  font-size: 11px;
+  display:block;
+  column-span: all;
 }
 
 .markdown-body blockquote {
@@ -285,7 +288,7 @@ body .markdown-body
 .markdown-body pre,
 .markdown-body samp {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 12px;
+  font-size: 1em;
 }
 
 .markdown-body pre {
@@ -304,7 +307,7 @@ body .markdown-body
   color: #000;
   padding: 3px 5px;
   line-height: 10px;
-  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font: 0.9em Consolas, "Liberation Mono", Menlo, Courier, monospace;
   display: inline-block;
 }
 
@@ -362,25 +365,25 @@ body .markdown-body
 
 .markdown-body h1 {
   padding-bottom: 0.3em;
-  font-size: 2.25em;
+  font-size: 2em;
   line-height: 1.2;
   border-bottom: 1px solid #eee;
 }
 
 .markdown-body h2 {
   padding-bottom: 0.3em;
-  font-size: 1.75em;
+  font-size: 1.5em;
   line-height: 1.225;
   border-bottom: 1px solid #eee;
 }
 
 .markdown-body h3 {
-  font-size: 1.5em;
-  line-height: 1.43;
+  font-size: 1.2em;
+  line-height: 1.25;
 }
 
 .markdown-body h4 {
-  font-size: 1.25em;
+  font-size: 1.1em;
 }
 
 .markdown-body h5 {
@@ -401,7 +404,11 @@ body .markdown-body
 .markdown-body pre,
 .markdown-body .admonition {
   margin-top: 0;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
+}
+
+.markdown-body table {
+  margin-bottom: 5px;
 }
 
 .markdown-body hr {
@@ -474,7 +481,7 @@ body .markdown-body
 
 .markdown-body table th,
 .markdown-body table td {
-  padding: 6px 13px;
+  padding: 6px 6px;
   border: 1px solid #ddd;
 }
 
@@ -493,13 +500,22 @@ body .markdown-body
   box-sizing: border-box;
 }
 
+.markdown-body .wide,
+.markdown-body .wide h1,
+.markdown-body .wide h2,
+.markdown-body .wide h3{
+  display:block;
+  width: 100%;
+  column-span: all;
+}
+
 .markdown-body code,
 .markdown-body samp {
   padding: 0;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   margin: 0;
-  font-size: 85%;
+  font-size: 0.85em;
   border-radius: 3px;
 }
 
@@ -516,7 +532,7 @@ body .markdown-body
 .markdown-body pre>code {
   padding: 0;
   margin: 0;
-  font-size: 100%;
+  font-size: 1em;
   word-break: normal;
   white-space: pre;
   background: transparent;
@@ -533,7 +549,7 @@ body .markdown-body
 .markdown-body pre {
   padding: 16px;
   overflow: auto;
-  font-size: 85%;
+  font-size: 0.85em;
   line-height: 1.45;
 }
 
@@ -915,26 +931,43 @@ body .markdown-body
 /* Media */
 @media only screen and (min-width: 480px) {
   .markdown-body {
-    font-size:14px;
+    font-size:calc(1rem + 1vw);
+    /*font-size: 9pt;*/
   }
 }
 
 @media only screen and (min-width: 768px) {
   .markdown-body {
-    font-size:16px;
+    font-size:calc(0.4rem + 0.4vw);
+    /*font-size: 9pt;*/
   }
 }
 
+@page{
+  margin-top: 0.4in;
+  margin-bottom: 0.4in;
+}
+
 @media print {
+  body {
+    max-width: 100%;
+    margin: 0 15mm;
+  }
+
+  body .markdown-body
+  {
+    padding:0;
+  }
+
   .markdown-body * {
     background: transparent !important;
-    color: black !important;
+    /*color: black !important;*/
     filter:none !important;
     -ms-filter: none !important;
   }
 
   .markdown-body {
-    font-size:12pt;
+    font-size: 7.5pt;
     max-width:100%;
     outline:none;
     border: 0;
@@ -1009,10 +1042,18 @@ body .markdown-body
   }
 
   .markdown-body h2,
-  .markdown-body h3 {
+  .markdown-body h3,
+  .markdown-body h4 {
     page-break-after: avoid;
   }
+
+  .markdown-body table th,
+  .markdown-body table td {
+    padding: 2px 6px;
+    border: none;
+  }
 }
+
 </style>
 <style>/* latin-ext */
 /*@font-face {
@@ -1336,14 +1377,14 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1:first-letter,h2:first-letter,h3:first-letter,h4:first-letter,h5:first-letter,h6:first-letter{
-    font-size:150%
+    font-size:120%
 }
 
 h1{
     font-size:24px
     font-weight:700;
 }
-h1,h2{
+h1,h2,h3{
     border-bottom:2px solid tan
 }
 
@@ -1394,17 +1435,21 @@ h2 {
     border-bottom: 2px solid #922610!important;
 }
 
+h3 {
+    border-bottom: 2px solid #922610!important;
+}
+
 h5,h6,p {
     margin: 0;
 }
 
 a{
     color:#922610;
-}</style><title>Crooked Moon Harvesting Items (by monster)</title></head><body><article class="markdown-body"><h1>Crooked Moon<br>Monster Harvesting</h1>
+}</style><title>Crooked Moon Harvesting Items (by monster)</title></head><body><article class="markdown-body"><div class="wide"><h1>Crooked Moon<br>Monster Harvesting</h1>
 <p>Monster Harvesting options I added for my Crooked Moon campaign</p>
 <p><a id="objective"></a></p>
 <h2>Objective</h2>
-<p>Following the publication of <a href="https://thecrookedmoon.backerkit.com/hosted_preorders">The Crooked Moon</a> I decided to DM it for my friends.</p>
+<p>Following the publication of <a href="https://thecrookedmoon.com">The Crooked Moon</a> I decided to DM it for my friends.</p>
 <p>Now in most video games I enjoy monster drops, monster harvesting, or otherwise having an item be part of the story-telling of the world the players are in. I take great inspiration from games like Dark Souls, where item descriptions are how we find out some of the lore of the monsters we just defeated, as well as Tears of the Kingdom, where you can do wacky things with items recovered from monster parts. </p>
 <p>Therefore I decided to make items unique to most monsters of the Crooked Moon campaign. That includes some of the official Monster Manual monsters as well, but I did not cover all of them. </p>
 <p>Now, because a lot of Crooked Moon characters don't really need to eat, I didn't really put all that much thought in cooking effects.</p>
@@ -1456,9 +1501,7 @@ a{
 <!-- ## Table of Contents -->
 
 <!-- TOC -->
-<!-- TOC -->
-
-<h2>Harvesting Items (By Monster, repeating items where necessary)</h2>
+<!-- TOC --></div><h2>Harvesting Items (By Monster, repeating items where necessary)</h2>
 <h3>-</h3>
 <h4>Goggles of Night</h4>
 <hr />
@@ -1489,10 +1532,10 @@ a{
 <strong>Source</strong>: Home-brew<br />
 <em>Consummable (Rare)</em><br />
 <strong>Store in</strong>: <em>flask</em><br />
-<strong>Use as ingredient for</strong>: <em>Weapons, Armor, Shields</em><br />
+<strong>Use as ingredient for</strong>: <em>Weapons, Shields</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>200 GP</em><br />
 <strong>Use</strong>: <em>Weapon Enchant, Armor Enchant</em><br />
-<strong>Description</strong>: When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane piece of armor or a mundane shield, it becomes a magical armor or shield with a +1 bonus to Armor Class.  </p>
+<strong>Description</strong>: When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane shield, it becomes a magical shield with a +1 bonus to Armor Class.  </p>
 <h4>Cloak of Protection</h4>
 <hr />
 <p><strong>Monster(s)</strong>: -<br />
@@ -2230,6 +2273,13 @@ a{
 <p><strong>Monster(s)</strong>: Bandit<br />
 <strong>Source</strong>: Home-brew<br />
 <em>Mundane</em>  </p>
+<h4>Enticing Suspenders</h4>
+<hr />
+<p><strong>Monster(s)</strong>: Bandit<br />
+<strong>Source</strong>: Home-brew<br />
+<em>Wondrous Item (Uncommon)</em><br />
+<strong>Use</strong>: <em>Wear</em><br />
+<strong>Description</strong>: These suspenders are worn by undead all about the bayou. They look a bit tattered from all the bog water, but wearing them feels right. You gain a +1 bonus in Persuasion and Deception checks when wearing them, but only if they are worn as intended to hold some garment from falling down.  </p>
 <h3>Bandit Captain</h3>
 <h4>Random Implement (DMG p.329)(Common)</h4>
 <hr />
@@ -2371,6 +2421,13 @@ a{
 <strong>Use as ingredient for</strong>: <em>Clothing, Pouch, Wondrous Items (clothing, pouch)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>13 GP</em><br />
 <strong>Description</strong>: Ermine fur can be used to create small items, or as decoration on larger clothes.  </p>
+<h4>Weasel Meat</h4>
+<hr />
+<p><strong>Monster(s)</strong>: Boogleswarm<br />
+<strong>Source</strong>: Home-brew<br />
+<em>Ingredient (Mundane)</em><br />
+<strong>Store in</strong>: <em>bag</em><br />
+<strong>Cooking Effect</strong>: You can cook this to make mundane food for 1 person  </p>
 <h4>Humanoid Tooth</h4>
 <hr />
 <p><strong>Monster(s)</strong>: Boogleswarm<br />
@@ -3272,6 +3329,13 @@ a{
 <strong>Crafting Value (when used as ingredient)</strong>: <em>5 GP</em><br />
 <strong>Use</strong>: <em>Drench, Absorb</em><br />
 <strong>Description</strong>: When applied to armor or clothes, the stench of Undead confuses Undead with an Intelligence score lower than 10 for 1 hour, treating the wearer as Friendly for the duration, or until washed off. Alternatively, you can consume all of its necrotic energy to add a +2 to hit or spell save DC to cast a Necromancy spell.  </p>
+<h4>Enticing Suspenders</h4>
+<hr />
+<p><strong>Monster(s)</strong>: Ghast<br />
+<strong>Source</strong>: Home-brew<br />
+<em>Wondrous Item (Uncommon)</em><br />
+<strong>Use</strong>: <em>Wear</em><br />
+<strong>Description</strong>: These suspenders are worn by undead all about the bayou. They look a bit tattered from all the bog water, but wearing them feels right. You gain a +1 bonus in Persuasion and Deception checks when wearing them, but only if they are worn as intended to hold some garment from falling down.  </p>
 <h3>Ghost Crawler</h3>
 <h4>Seer's Webs</h4>
 <hr />
