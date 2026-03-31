@@ -245,7 +245,7 @@ _Wondrous Item (Uncommon) (Requires Attunement)_
 _Wondrous Item (Uncommon)_  
 **Store in**: _bag_  
 **Use**: _Take ball out_  
-**Description**: This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.<br>You can take a Magic action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the Monster Manual for the creature’s stat block. The creature vanishes at the next dawn or when it is reduced to 0 Hit Points.<br>The creature is Friendly to you and your allies, and it acts immediately after you on your Initiative count. You can take a Bonus Action to command how the creature moves and what action it takes on its next turn, such as attacking an enemy. In the absence of such orders, the creature acts in a fashion appropriate to its nature.<br>Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.<br>**1d8**  **Creature**<br>**1**  Weasel<br>**2**  Giant Rat<br>**3**  Badger<br>**4**  Boar<br>**5**  Panther<br>**6**  Giant Badger<br>**7**  Dire Wolf<br>**8**  Giant Elk  
+**Description**: This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.<br>You can take a Magic action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the Monster Manual for the creature’s stat block. The creature vanishes at the next dawn or when it is reduced to 0 Hit Points.<br>The creature is Friendly to you and your allies, and it acts immediately after you on your Initiative count. You can take a Bonus Action to command how the creature moves and what action it takes on its next turn, such as attacking an enemy. In the absence of such orders, the creature acts in a fashion appropriate to its nature.<br>Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.<br>**1d8**&nbsp;**Creature**&nbsp;&nbsp;&nbsp;|&nbsp;**1d8**&nbsp;**Creature**<br>**1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weasel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Panther<br>**2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Rat&nbsp;&nbsp;|&nbsp;**6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Badger<br>**3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Badger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**7**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dire Wolf<br>**4**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**8**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Elk  
 
 **Find DCs**: Given as a choice of a reward (1 for each party member) by Adela and Philip as a reward for saving them from the Ghostlight Locomotive.  
 **Locations**: Ghostlight Crashsite  
@@ -540,6 +540,36 @@ _Consumable (Common)_
 **Find Checks**: Survival, Perception, Investigation  
 **Find DCs**: 13(x1), 15(x2), 17(x3)  
 **Locations**: The Crooked House  
+  
+
+### Dust of Disappearance  
+
+---  
+**Monster(s)**: Death Cultist (Gory Gus)  
+**Source**: Dungeon Master's Guide  
+_Consumable (Uncommon)_  
+**Store in**: _bag_  
+**Use**: _Sprinkle_  
+**Description**: This powder resembles fine sand. There is enough of it for one use. When you take a Utilize action to throw the dust into the air, you and each creature and object within a 10-foot Emanation originating from you have the Invisible condition for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. Immediately after an affected creature makes an attack roll, deals damage, or casts a spell, the Invisible condition ends for that creature.  
+
+**Find Checks**: Investigation, Arcana  
+**Find DCs**: 15(x1), 20(x2)  
+**Locations**: Wickermoor Village  
+  
+
+### Dust of Lasting Disappearance  
+
+---  
+**Monster(s)**: Death Cultist (Gory Gus)  
+**Source**: Homebrew  
+_Consumable (Rare)_  
+**Store in**: _bag_  
+**Use**: _Sprinkle_  
+**Description**: This powder resembles fine sand. There is enough of it for one use. When you take a Utilize action to throw the dust into the air, you and each creature and object, including dead creatures, within a 10-foot Emanation originating from you have the Invisible condition for 1d3 hours. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. Immediately after an affected creature makes an attack roll, deals damage, or casts a spell, the Invisible condition ends for that creature.  
+
+**Find Checks**: Investigation, Arcana  
+**Find DCs**: 18(x1), 27(x2)  
+**Locations**: Wickermoor Village  
   
 
 ### Rug of Horror  
