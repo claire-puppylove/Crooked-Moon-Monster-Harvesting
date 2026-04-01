@@ -18,6 +18,8 @@ if __name__ == '__main__':
     sourcefile = pathlib.Path(args.sourcefile)
     with open(sourcefile, 'r') as f:
         md = f.read()
+    with open(filename.with_suffix('.md'),"w") as f:
+        f.write(md)
     title = f"Crooked Moon {args.title}"
     html,body = MarkdownCompiler().run(md,title)
     with open(filename.with_suffix('.html'),"w") as f:
