@@ -1,5 +1,6 @@
 import argparse
 import pathlib
+# import logging
 # import md_toc
 from manual_generator.html_to_pdf import html_to_pdf
 from manual_generator.markdown_html import MarkdownCompiler
@@ -14,6 +15,9 @@ if __name__ == '__main__':
     parser.add_argument('--no-pdf', dest='pdf', action='store_false')
     parser.set_defaults(pdf=True)
     args = parser.parse_args()
+    # logging.basicConfig(level=logging.INFO)
+    # logging.info(f"Converting markdown to document with args:{args}")
+    print(f"Converting markdown to document with args:{args}")
     filename = pathlib.Path(args.destination) / pathlib.Path(f"{args.file}.html")
     sourcefile = pathlib.Path(args.sourcefile)
     with open(sourcefile, 'r') as f:

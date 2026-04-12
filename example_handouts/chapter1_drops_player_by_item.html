@@ -20,9 +20,11 @@ body .markdown-body
   color: #333333;
   overflow: hidden;
   font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 1em;
+  line-height: 1.3;
   word-wrap: break-word;
+  column-count: 2;
+  gap: 1em;
 }
 
 .markdown-body a {
@@ -48,7 +50,7 @@ body .markdown-body
 
 .markdown-body sub,
 .markdown-body sup {
-  font-size: 75%;
+  font-size: 0.75em;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
@@ -61,8 +63,8 @@ body .markdown-body
 }
 
 .markdown-body h1 {
-  font-size: 2em;
   margin: 0.67em 0;
+  column-span: all;
 }
 
 .markdown-body img {
@@ -185,7 +187,7 @@ body .markdown-body
 }
 
 .markdown-body input {
-  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 0.9em Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
   line-height: 1.4;
 }
 
@@ -202,7 +204,7 @@ body .markdown-body
 
 .markdown-body hr {
   height: 0;
-  margin: 15px 0;
+  margin: 10px 0;
   overflow: hidden;
   background: transparent;
   border: 0;
@@ -219,39 +221,40 @@ body .markdown-body
   clear: both;
 }
 
-.markdown-body h1,
-.markdown-body h2,
-.markdown-body h3,
-.markdown-body h4,
-.markdown-body h5,
-.markdown-body h6 {
+.markdown-body h1{
   margin-top: 15px;
   margin-bottom: 15px;
   line-height: 1.1;
 }
 
+.markdown-body h2{
+  margin-top: 7px;
+  margin-bottom: 5px;
+  line-height: 1.1;
+}
+
+.markdown-body h3{
+  margin-top: 0px;
+  margin-bottom: 5px;
+  line-height: 1;
+}
+
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 1;
+}
+
 .markdown-body h1 {
-  font-size: 30px;
+  display:block;
+  column-span: all;
 }
 
 .markdown-body h2 {
-  font-size: 21px;
-}
-
-.markdown-body h3 {
-  font-size: 16px;
-}
-
-.markdown-body h4 {
-  font-size: 14px;
-}
-
-.markdown-body h5 {
-  font-size: 12px;
-}
-
-.markdown-body h6 {
-  font-size: 11px;
+  display:block;
+  column-span: all;
 }
 
 .markdown-body blockquote {
@@ -285,7 +288,7 @@ body .markdown-body
 .markdown-body pre,
 .markdown-body samp {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 12px;
+  font-size: 1em;
 }
 
 .markdown-body pre {
@@ -304,7 +307,7 @@ body .markdown-body
   color: #000;
   padding: 3px 5px;
   line-height: 10px;
-  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font: 0.9em Consolas, "Liberation Mono", Menlo, Courier, monospace;
   display: inline-block;
 }
 
@@ -362,25 +365,25 @@ body .markdown-body
 
 .markdown-body h1 {
   padding-bottom: 0.3em;
-  font-size: 2.25em;
+  font-size: 2em;
   line-height: 1.2;
   border-bottom: 1px solid #eee;
 }
 
 .markdown-body h2 {
   padding-bottom: 0.3em;
-  font-size: 1.75em;
+  font-size: 1.5em;
   line-height: 1.225;
   border-bottom: 1px solid #eee;
 }
 
 .markdown-body h3 {
-  font-size: 1.5em;
-  line-height: 1.43;
+  font-size: 1.2em;
+  line-height: 1.25;
 }
 
 .markdown-body h4 {
-  font-size: 1.25em;
+  font-size: 1.1em;
 }
 
 .markdown-body h5 {
@@ -401,7 +404,11 @@ body .markdown-body
 .markdown-body pre,
 .markdown-body .admonition {
   margin-top: 0;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
+}
+
+.markdown-body table {
+  margin-bottom: 5px;
 }
 
 .markdown-body hr {
@@ -474,13 +481,13 @@ body .markdown-body
 
 .markdown-body table th,
 .markdown-body table td {
-  padding: 6px 13px;
+  padding: 6px 6px;
   border: 1px solid #ddd;
 }
 
 .markdown-body table tr {
   background-color: #fff;
-  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
 
 .markdown-body table tr:nth-child(2n) {
@@ -493,13 +500,22 @@ body .markdown-body
   box-sizing: border-box;
 }
 
+.markdown-body .wide,
+.markdown-body .wide h1,
+.markdown-body .wide h2,
+.markdown-body .wide h3{
+  display:block;
+  width: 100%;
+  column-span: all;
+}
+
 .markdown-body code,
 .markdown-body samp {
   padding: 0;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   margin: 0;
-  font-size: 85%;
+  font-size: 0.85em;
   border-radius: 3px;
 }
 
@@ -516,7 +532,7 @@ body .markdown-body
 .markdown-body pre>code {
   padding: 0;
   margin: 0;
-  font-size: 100%;
+  font-size: 1em;
   word-break: normal;
   white-space: pre;
   background: transparent;
@@ -533,7 +549,7 @@ body .markdown-body
 .markdown-body pre {
   padding: 16px;
   overflow: auto;
-  font-size: 85%;
+  font-size: 0.85em;
   line-height: 1.45;
 }
 
@@ -915,86 +931,105 @@ body .markdown-body
 /* Media */
 @media only screen and (min-width: 480px) {
   .markdown-body {
-    font-size:14px;
+    font-size:calc(1rem + 1vw);
+    /*font-size: 9pt;*/
   }
 }
 
 @media only screen and (min-width: 768px) {
   .markdown-body {
-    font-size:16px;
+    font-size:calc(0.4rem + 0.4vw);
+    /*font-size: 9pt;*/
   }
 }
 
+@page{
+  size:A4;
+  margin-top: 0.4in;
+  margin-bottom: 0.4in;
+}
+
 @media print {
+  body {
+    max-width: 100% !important;
+    margin: 0 15mm 0 15mm !important;
+  }
+
+  body .markdown-body
+  {
+    padding:0 !important;
+    background: transparent !important;
+  }
+
   .markdown-body * {
     background: transparent !important;
-    color: black !important;
     filter:none !important;
     -ms-filter: none !important;
   }
 
   .markdown-body {
-    font-size:12pt;
-    max-width:100%;
-    outline:none;
-    border: 0;
+    font-size: 7.5pt !important;
+    max-width:100% !important;
+    outline:none !important;
+    border: 0 !important;
+    color: black;
   }
 
   .markdown-body a,
   .markdown-body a:visited {
-    text-decoration: underline;
+    text-decoration: underline !important;
   }
 
   .markdown-body .headeranchor-link {
-    display: none;
+    display: none !important;
   }
 
   .markdown-body a[href]:after {
-    content: " (" attr(href) ")";
+    content: " (" attr(href) ")" !important;
   }
 
   .markdown-body abbr[title]:after {
-    content: " (" attr(title) ")";
+    content: " (" attr(title) ")" !important;
   }
 
   .markdown-body .ir a:after,
   .markdown-body a[href^="javascript:"]:after,
   .markdown-body a[href^="#"]:after {
-    content: "";
+    content: "" !important;
   }
 
   .markdown-body pre {
-    white-space: pre;
-    white-space: pre-wrap;
-    word-wrap: break-word;
+    white-space: pre !important;
+    white-space: pre-wrap !important;
+    word-wrap: break-word !important;
   }
 
   .markdown-body pre,
   .markdown-body blockquote {
-    border: 1px solid #999;
-    padding-right: 1em;
-    page-break-inside: avoid;
+    border: 1px solid #999 !important;
+    padding-right: 1em !important;
+    page-break-inside: avoid !important;
   }
 
   .markdown-body .progress,
   .markdown-body .progress-bar {
-    -moz-box-shadow: none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
   }
 
   .markdown-body .progress {
-    border: 1px solid #ddd;
+    border: 1px solid #ddd !important;
   }
 
   .markdown-body .progress-bar {
     height: 22px;
-    border-right: 1px solid #ddd;
+    border-right: 1px solid #ddd !important;
   }
 
   .markdown-body tr,
   .markdown-body img {
-    page-break-inside: avoid;
+    page-break-inside: avoid !important;
   }
 
   .markdown-body img {
@@ -1004,33 +1039,90 @@ body .markdown-body
   .markdown-body p,
   .markdown-body h2,
   .markdown-body h3 {
-    orphans: 3;
-    widows: 3;
+    orphans: 3 !important;
+    widows: 3 !important;
   }
 
   .markdown-body h2,
-  .markdown-body h3 {
-    page-break-after: avoid;
+  .markdown-body h3,
+  .markdown-body h4 {
+    page-break-after: avoid !important;
+  }
+
+  .markdown-body table {
+    break-inside: avoid-column;
+  }
+
+  .markdown-body table th,
+  .markdown-body table td {
+    padding: 2px 6px !important;
+    border: none !important;
+    color: black !important;
+    margin-top: 0;
+    line-height: 1.05;
+  }
+
+  .markdown-body table tr {
+    border:none !important;
+  }
+
+  .markdown-body table tr,
+  .markdown-body table th {
+    border-top:0 !important;
+    border-bottom: 1pt solid #ccc !important;
   }
 }
+
 </style>
 <style>/* latin-ext */
-@font-face {
+/*@font-face {
   font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Libre Baskerville'), local('LibreBaskerville'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}*/
+/* latin */
+/*@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Libre Baskerville'), local('LibreBaskerville'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}*/
+
+/* latin-ext */
+/*@font-face {
+  font-family: 'Libre Baskerville Bold';
   font-style: normal;
   font-weight: 700;
   src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
+}*/
 /* latin */
-@font-face {
-  font-family: 'Libre Baskerville';
+/*@font-face {
+  font-family: 'Libre Baskerville Bold';
   font-style: normal;
   font-weight: 700;
   src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-</style>
+}*/
+/* latin-ext */
+/*@font-face {
+  font-family: 'Libre Baskerville Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}*/
+/* latin */
+/*@font-face {
+  font-family: 'Libre Baskerville Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}*/</style>
 <style>/* cyrillic-ext */
 @font-face {
   font-family: 'Noto Sans';
@@ -1304,13 +1396,14 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1:first-letter,h2:first-letter,h3:first-letter,h4:first-letter,h5:first-letter,h6:first-letter{
-    font-size:150%
+    font-size:120%;
 }
 
 h1{
-    font-size:24px
+    /*font-size:24px;*/
+    font-weight:700;
 }
-h1,h2{
+h1,h2,h3{
     border-bottom:2px solid tan
 }
 
@@ -1321,7 +1414,7 @@ p{
 
 p+p{
     /*text-indent:24px;*/
-    margin-top:0!important
+    margin-top:0;
 }
 
 .box{
@@ -1336,8 +1429,10 @@ p+p{
 <style>hr {
     display: block;
     width: 100%;
-    height: 2px!important;
-    background-color: #922610!important;
+    /*height: 2px!important;*/
+    height: 2px;
+    /*background-color: #922610!important;*/
+    background-color: #922610;
     color: #922610;
     fill: #922610;
 }
@@ -1353,10 +1448,15 @@ h1 {
 }
 
 h2 {
-    font-family: 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    /*font-family: 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;*/
+    font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
     font-weight: normal;
     margin: 0;
     border-color: #922610!important;
+    border-bottom: 2px solid #922610!important;
+}
+
+h3 {
     border-bottom: 2px solid #922610!important;
 }
 
@@ -1366,21 +1466,17 @@ h5,h6,p {
 
 a{
     color:#922610;
-}</style><title>Crooked Moon Harvesting Items (by item)</title></head><body><article class="markdown-body"><h1>Crooked Moon<br>Monster Harvesting</h1>
+}</style><title>Crooked Moon Harvesting Items Chapter 1 drops(player - by item)</title></head><body><article class="markdown-body"><div class="wide"><h1>Crooked Moon<br>Monster Harvesting</h1>
 <p>Monster Harvesting options I added for my Crooked Moon campaign</p>
 <p><a id="objective"></a></p>
 <h2>Objective</h2>
-<p>Following the publication of <a href="https://thecrookedmoon.backerkit.com/hosted_preorders">The Crooked Moon</a> I decided to DM it for my friends.</p>
+<p>Following the publication of <a href="https://thecrookedmoon.com">The Crooked Moon</a> I decided to DM it for my friends.</p>
 <p>Now in most video games I enjoy monster drops, monster harvesting, or otherwise having an item be part of the story-telling of the world the players are in. I take great inspiration from games like Dark Souls, where item descriptions are how we find out some of the lore of the monsters we just defeated, as well as Tears of the Kingdom, where you can do wacky things with items recovered from monster parts. </p>
 <p>Therefore I decided to make items unique to most monsters of the Crooked Moon campaign. That includes some of the official Monster Manual monsters as well, but I did not cover all of them. </p>
 <p>Now, because a lot of Crooked Moon characters don't really need to eat, I didn't really put all that much thought in cooking effects.</p>
 <p>Also to note is that I cannot be bothered with encumbrance rules so unless I am feeling particularly bored and had finished all the monsters, I'm not including item weight in any of the items for the moment.</p>
-<p><a id="spoilers"></a></p>
-<h2>Spoilers</h2>
-<p>This whole guide, the table, the item descriptions, everything here is for DM eyes only, since it is full of spoilers.</p>
 <p><a id="use-guide"></a></p>
 <h2>Use guide</h2>
-<p>Go inside the <code>manuals</code> folder to access different versions of the harvesting items. There are two main files: <code>harvesting_items_dm_by_item</code>, and <code>harvesting_items_player_by_item</code>. There's also an alternative two files organized by monster: <code>harvesting_items_dm_by_monster</code>, and <code>harvesting_items_player_by_monster</code>. They each have a markdown and HTML version. You can download the HTML file and open it with a browser like Firefox, for example, or on your phone browser as well. All are for DM eyes only, but the second file of each group is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.</p>
 <p>There are (currently) mainly the following fields:</p>
 <ul>
 <li><strong>Item</strong>: The item name</li>
@@ -1418,29 +1514,7 @@ a{
 </li>
 <li><strong>Effect</strong>: What the consumable does</li>
 <li><strong>Cooking Effect</strong>: What it does if you put it in food. This one is a work in progress.</li>
-<li><strong>Find Checks</strong>: For my table, what I think is appropriate to have them roll a check to find the item in the monster remains. In my case, I plan to just tell them to roll their favorite from the list and note the results. This is one of the fields you don't want to hand to the player.</li>
-<li><strong>Find DC</strong>: For my table, what I think is appropriate for the DC to find the item is. Often I will include the DC(quantity) of items if different rolls give more items for the check. For example "13(x1),15(x2),17(x3)" means that from the table, if anyone rolled over a 17 the party gets 3 items, but if the maximum that all of them got was a 16 then they only get 2. Sometimes, I will include Auto Success for certain enemies and the conditions for auto success. Often this happens with Fated Tarot Readings. If the player picked a Fated Tarot card that matches that boss fight, all the monster loot also drops at their maximum amount. This is also information you don't really need to share with your players.</li>
-<li><strong>Location</strong>: Although I haven't double checked it to be exhaustive, the location that the monster or monsters appear in, and therefore also potentially the loot.</li>
 </ul>
-<p><a id="general-design-guidelines"></a></p>
-<h2>General Design Guidelines</h2>
-<p>I mostly designed the item drops by these rules:</p>
-<ul>
-<li>CR 0-3: Common Items</li>
-<li>CR 4-5: Uncommon Items</li>
-<li>CR 6-9: Rare Items</li>
-<li>CR 10-15: Very Rare Items</li>
-<li>CR 16+: Legendary Items</li>
-<li>Bosses often have better items than their CR</li>
-<li>High CR creatures can drop lower rarity items with greater numbers</li>
-<li>Only mundane enemies (mundane beasts, CR\&lt;1) have mundane drops</li>
-<li>Consumables are priced at half their rarity cost or less</li>
-<li>Exception when it is funny or thematic</li>
-</ul>
-<p>Lastly, You can probably give some of these without the players killing the monster, but some of them are only obtainable if the monster dies. Feel free to decide for yourself if some item might be available if your players took a pacifist route. For example, the <em>Haint Hooch base</em> can probably be given when the Haint moves on, or the Wildpyre Fur and claws can appear even if they don't fight it. A lot of the items from the Fool's Day Festival can also probably be given if they win at the booths, for example.</p>
-<p><a id="references"></a></p>
-<h2>References</h2>
-<p>Although I mostly prefer to make my own, I have been consulting <a href="https://www.thievesguild.cc/harvest/">The Thieves' Guild harvesting guide</a> as inspiration. I don't have anything against them, and their items are often good, but mostly they are only worth money, and I want my consumable items to do special things every time.</p>
 <p><a id="donations"></a></p>
 <h2>Donations</h2>
 <p>I won't charge for this content but honestly it is taking me several full on days of designing items. If you'd like to toss a coin to your local Witch I would be grateful.</p>
@@ -1448,76 +1522,73 @@ a{
 <!-- ## Table of Contents -->
 
 <!-- TOC -->
-<!-- TOC -->
-
-<h2>Harvesting Items (By item and in order of appearance)</h2>
+<!-- TOC --></div><h2>Harvesting Items (By item and in order of appearance)</h2>
 <h3>Spectral Slick</h3>
-<hr />
 <p><strong>Source</strong>: Home-brew<br />
 <em> Consumable (Common)</em><br />
+<strong>Store in</strong>: _ vial_<br />
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Spells</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>13 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant, Absorb</em><br />
 <strong>Description</strong>: A transparent slick left behind by Specters.<br>You can use a Bonus Action to apply this to a weapon. When applied to a weapon, add +1d4 Necrotic damage to attacks with that weapon for 1 minute.<br>Alternatively, you can consume all its necrotic energy to add a +1 to hit or spell save DC to cast a Necromancy spell.  </p>
 <p><strong>Cooking Effect</strong>: When added to food that is cooked thoroughly, up to 4 people can gain a small resistance to Necrotic damage for an hour. When you would take Necrotic damage under this effect, subtract 1 point of damage.  </p>
 <h3>Dark Dust</h3>
-<hr />
 <p><strong>Source</strong>: Home-brew<br />
 <em> Consumable (Uncommon)</em><br />
+<strong>Store in</strong>: <em>vial, cloth</em><br />
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Throw, Sprinkle</em><br />
 <strong>Description</strong>: The Phantom Trainhopper was incorporeal and made of shadows, but however implausible you have found a dark dust left behind after defeating it. When sprinkled or thrown on the floor, magical darkness spreads from it in a 10 ft radius sphere for 1 minute. If sprinkled on an object that isn't worn or carried, the darkness emanates from it and will disappear if covered with something opaque such as a bowl or helm. If any of this item's area overlaps with bright light or dim light created by a spell level 2 or higher, the darkness disappears. If the area overlaps with bright light or dim light from a spell lower than 2, that other spell is dissipated. If a non-monster creature starts within the darkness or enters the darkness on subsequent turns, they must succeed on a DC 13 Wisdom Saving Throw or take 1d6 Psychic damage at the start of each turn spent in the darkness.  </p>
 <p><strong>Cooking Effect</strong>: When added as a spice to food, up to 4 people can become a bit darker for 1 hour. When under this effect, a 1 ft radius around you becomes dim light.  </p>
 <h3>Haint Hooch Base</h3>
-<hr />
 <p><strong>Source</strong>: Home-brew<br />
 <em> Consumable (Uncommon)</em><br />
+<strong>Store in</strong>: _ vial_<br />
 <strong>Use as ingredient for</strong>: <em>Potion (Haint Hooch)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant</em><br />
 <strong>Description</strong>: When this yet to be fermented Haint Hooch base is applied to a weapon, slashing, bludgeoning and piercing damage which would be resisted by incorporeal entities is not resisted for 1 minute.  </p>
 <p><strong>Cooking Effect</strong>: When added to food instead of distilling it to a Potion, up to 4 people can become not quite incorporeal, but not quite corporeal, for 1 hour. While under this effect, subtract 2 points of damage from Bludgeoning, Slashing, or Piercing damage.  </p>
 <h3>Wildpyre Claw</h3>
-<hr />
 <p><strong>Source</strong>: Home-brew<br />
 <em> Consumable (Uncommon)</em><br />
+<strong>Store in</strong>: _ pouch_<br />
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Arrowheads, Weapons, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>10 GP</em><br />
 <strong>Use</strong>: <em>Throw, Arrowheads</em><br />
 <strong>Description</strong>: The phantasmal Wildpyre leaves ghostly claw husks about when scratching wood to sharpen them.<br>When thrown, deal 1d4 Fire and 1d4 Necrotic damage.<br>When attached to an arrow or bolt as a Bonus Action, add that damage to the arrow or bolt damage.<br>The claws can otherwise be used as 10 GP of the 100 GP needed in crafting Wildpyre Ammunition (Uncommon)(20)  </p>
 <h3>Wildpyre Fur</h3>
-<hr />
 <p><strong>Source</strong>: Home-brew<br />
 <em> Consumable (Uncommon)</em><br />
+<strong>Store in</strong>: _ pouch_<br />
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Throw, Sprinkle, Armor enchant</em><br />
 <strong>Description</strong>: The phantasmal Wildpyre might be a ghost, but it is still a cat. There is fur on your clothes just from being around it.<br>When sprinkled or thrown on the floor, a fire that gives out 15 ft Bright Light and 15 ft Dim Light occupying a diameter of appears for 1 minute. Creatures entering the fire or starting their turn there take 1d8 Necrotic and 2d6 Fire damage. After taking the damage for the first time, they make a DC 15 Dexterity Saving Throw, and become restrained if failed.<br>When sprinkled on armor or shields, it becomes magically covered in flames for 10 minutes, during which 15 ft of Dim Light emanates from the armor or shield, and when an enemy attacks the wearer with a melee attack they take 1d4 Necrotic and 1d6 Fire damage.  </p>
 <h3>Soul Coal</h3>
-<hr />
 <p><strong>Source</strong>: Home-brew<br />
 <em> Consumable (Uncommon)</em><br />
+<strong>Store in</strong>: _ pouch_<br />
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant, Torch</em><br />
 <strong>Description</strong>: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>You can use a Bonus Action to apply this to a weapon. When applied to a weapon, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures illuminated by it become corporeal losing any resistances to slashing, bludgeoning and piercing damage when affected like this.  </p>
 <p><strong>Cooking Effect</strong>: When used as fuel in a fire to cook, you can prepare food for up to 4 people. When eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation become semi-corporeal. Whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, they instead subtract 2 points of damage from the total.   </p>
 <h3>Ghostlight Grease</h3>
-<hr />
 <p><strong>Source</strong>: Home-brew<br />
 <em> Consumable (Rare)</em><br />
+<strong>Store in</strong>: _ vial_<br />
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>500 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant, Armor enchant, Torch, Lantern</em><br />
 <strong>Description</strong>: The wheels of the Ghostlight Locomotive are lubricated with a ghostly grease that still keeps a bit of its power.<br>You can use a Bonus Action to apply this to a weapon. When applied to a weapon, add +1d6 Fire and +1d6 Necrotic damage to attacks with that weapon for 1 hour, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage. If used on an armor or a shield, it grants resistance to necrotic and fire damage for 1 hour.<br>When used as fuel for a torch or lantern, it temporarily becoems magical for the duration of the fuel (6 hours). Mixing other fuels does not extend this time, but turning the lantern off can be done to save the remaining fuel for later. In the case of a torch it sheds green-blue Bright Light for 30 ft and Dim Light for 30 ft, or Bright Light in a 50 ft radius and Dim Light for an additional 50 ft for a hooded lantern, or 70 ft cone Bright light and 70 ft Dim Light for a bullseye lantern, and incorporeal creatures illuminated by it become corporeal, losing any resistances to slashing, bludgeoning and piercing damage when affected like this.  </p>
 <p><strong>Cooking Effect</strong>: When used as cooking oil, you can prepare food for up to 4 people. When eaten, for the next 12 hours you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation become semi-corporeal. Whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, they instead subtract 2 points of damage from the total.  </p>
 <h3>Random Magic Item (DMG p.327) (Uncommon)</h3>
-<hr />
 <p><strong>Source</strong>: The Crooked Moon<br />
 <em>Magic Item (Uncommon)</em>  </p>
 <h3>Whistle of the Vagrant</h3>
-<hr />
 <p><strong>Source</strong>: The Crooked Moon<br />
 <em> Wondrous Item (Rare)(Requires Attunement)</em><br />
+<strong>Store in</strong>: _ bag_<br />
 <strong>Description</strong>: The Whistle of the Vagrant, from the Fated Tarot Reading, with alternate rolling to find options.  </p></article></body></html>
