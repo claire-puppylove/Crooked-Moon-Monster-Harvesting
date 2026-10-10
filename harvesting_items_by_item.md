@@ -89,6 +89,8 @@ I won't charge for this content but honestly it is taking me several full on day
 
 ## Harvesting Items (By item and in order of appearance)
 
+### Spectral Slick
+
 |**Spectral Slick**|
 |:-|
 | Monster(s): Specter |
@@ -103,6 +105,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 10(x2), 13(x3) |
 | Locations: Ghostlight Express |
 
+
+### Dark Dust
 
 |**Dark Dust**|
 |:-|
@@ -119,6 +123,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Ghostlight Express |
 
 
+### Haint Hooch Base
+
 |**Haint Hooch Base**|
 |:-|
 | Monster(s): Wayward Haint |
@@ -134,6 +140,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Ghostlight Express, Ghostlight Crashsite |
 
 
+### Wildpyre Claw
+
 |**Wildpyre Claw**|
 |:-|
 | Monster(s): Wildpyre |
@@ -147,6 +155,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 10(x1), 13(x5), 17(x10) |
 | Locations: Ghostlight Express |
 
+
+### Wildpyre Fur
 
 |**Wildpyre Fur**|
 |:-|
@@ -162,6 +172,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Ghostlight Express |
 
 
+### Soul Coal
+
 |**Soul Coal**|
 |:-|
 | Monster(s): Soulfire Stoker, Ghostlight Locomotive, House of Horror |
@@ -172,10 +184,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Weapon enchant, Torch_ |
 | Effect: Left behind Haints that don't find peace for too long end up becoming Soul Coal. You can use a Bonus Action to apply this to a weapon. When applied to a weapon, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage. If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures illuminated by it become corporeal losing any resistances to slashing, bludgeoning and piercing damage when affected like this. |
 | Cooking Effect: When used as fuel in a fire to cook, you can prepare food for up to 4 people. When eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation become semi-corporeal. Whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, they instead subtract 2 points of damage from the total. |
-| Find Checks (Soulfire Stoker): Survival, Perception, Investigation, Arcana<br>Find Checks (Ghostlight Locomotive): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br>Find Checks (House of Horror): Survival, Perception, Investigation, Arcana |
-| Find DCs (Soulfire Stoker): 13(x1), 17(x2)<br>Find DCs (Ghostlight Locomotive): 13(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Fool(x3)<br>Find DCs (House of Horror): 13(x1), 17(x2), 20(x3) |
-| Locations (Soulfire Stoker): Ghostlight Express, The Drowned Crossroads, The Brimstone Behemoth army, Ghostlight Crashsite(Ghostlight Locomotive)<br>Locations (Ghostlight Locomotive): Ghostlight Express(Soulfire Stoker), The Drowned Crossroads(Soulfire Stoker), The Brimstone Behemoth army(Soulfire Stoker), Ghostlight Crashsite<br>Locations (House of Horror): Ghostlight Express(Soulfire Stoker), The Drowned Crossroads(Soulfire Stoker), The Brimstone Behemoth army(Soulfire Stoker), Ghostlight Crashsite(Ghostlight Locomotive), Wickermoor Village (The old pyethymer place) |
+| Find Checks (Soulfire Stoker): Survival, Perception, Investigation, Arcana<br><br>Find Checks (Ghostlight Locomotive): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br><br>Find Checks (House of Horror): Survival, Perception, Investigation, Arcana<br> |
+| Find DCs (Soulfire Stoker): 13(x1), 17(x2)<br><br>Find DCs (Ghostlight Locomotive): 13(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Fool(x3)<br><br>Find DCs (House of Horror): 13(x1), 17(x2), 20(x3)<br> |
+| Locations (Soulfire Stoker): Ghostlight Express, The Drowned Crossroads, The Brimstone Behemoth army, Ghostlight Crashsite(Ghostlight Locomotive)<br><br>Locations (Ghostlight Locomotive): Ghostlight Express(Soulfire Stoker), The Drowned Crossroads(Soulfire Stoker), The Brimstone Behemoth army(Soulfire Stoker), Ghostlight Crashsite<br><br>Locations (House of Horror): Ghostlight Express(Soulfire Stoker), The Drowned Crossroads(Soulfire Stoker), The Brimstone Behemoth army(Soulfire Stoker), Ghostlight Crashsite(Ghostlight Locomotive), Wickermoor Village (The old pyethymer place)<br> |
 
+
+### Ghostlight Grease
 
 |**Ghostlight Grease**|
 |:-|
@@ -192,15 +206,19 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Ghostlight Crashsite |
 
 
+### Random Magic Item (DMG p.327) (Uncommon)
+
 |**Random Magic Item (DMG p.327) (Uncommon)**|
 |:-|
 | Monster(s): Ghostlight Locomotive, Lurker in the Dark |
 | Source: The Crooked Moon |
 | _Magic Item (Uncommon)_ |
-| Find Checks (Ghostlight Locomotive): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br>Find Checks (Lurker in the Dark): Survival, Perception, Investigation, Arcana |
-| Find DCs (Ghostlight Locomotive): 13(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Fool (x3)<br>Find DCs (Lurker in the Dark): 13(x1) |
-| Locations (Ghostlight Locomotive): Ghostlight Crashsite, The Crooked House(Lurker in the Dark), The Bag(Lurker in the Dark)<br>Locations (Lurker in the Dark): Ghostlight Crashsite(Ghostlight Locomotive), The Crooked House, The Bag |
+| Find Checks (Ghostlight Locomotive): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br><br>Find Checks (Lurker in the Dark): Survival, Perception, Investigation, Arcana<br> |
+| Find DCs (Ghostlight Locomotive): 13(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Fool (x3)<br><br>Find DCs (Lurker in the Dark): 13(x1)<br> |
+| Locations (Ghostlight Locomotive): Ghostlight Crashsite, The Crooked House(Lurker in the Dark), The Bag(Lurker in the Dark)<br><br>Locations (Lurker in the Dark): Ghostlight Crashsite(Ghostlight Locomotive), The Crooked House, The Bag<br> |
 
+
+### Whistle of the Vagrant
 
 |**Whistle of the Vagrant**|
 |:-|
@@ -213,35 +231,43 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Ghostlight Crashsite |
 
 
+### Random Implement (DMG p.329)(Common)
+
 |**Random Implement (DMG p.329)(Common)**|
 |:-|
 | Monster(s): Scout, Bandit Captain |
 | Source: Monster Manual |
 | _Implement (Common)_ |
-| Find Checks (Scout): Survival, Perception, Investigation<br>Find Checks (Bandit Captain): Survival, Perception, Investigation |
-| Find DCs (Scout): 13(x1)<br>Find DCs (Bandit Captain): 13(x1) |
-| Locations (Scout): Wickermoor Village, Dawn's Gate(Bandit), The Crimson Monastery(Bandit Captain), The Drowned Crossroads(Bandit Captain), Prairie(Bandit Captain), Moors<br>Locations (Bandit Captain): Wickermoor Village(Scout), Dawn's Gate(Bandit), The Crimson Monastery, The Drowned Crossroads, Prairie, Moors(Scout), The Drowned Crossroads(Jinxed Leviathan riled) |
+| Find Checks (Scout): Survival, Perception, Investigation<br><br>Find Checks (Bandit Captain): Survival, Perception, Investigation<br> |
+| Find DCs (Scout): 13(x1)<br><br>Find DCs (Bandit Captain): 13(x1)<br> |
+| Locations (Scout): Wickermoor Village, Dawn's Gate(Bandit), The Crimson Monastery(Bandit Captain), The Drowned Crossroads(Bandit Captain), Prairie(Bandit Captain), Moors<br><br>Locations (Bandit Captain): Wickermoor Village(Scout), Dawn's Gate(Bandit), The Crimson Monastery, The Drowned Crossroads, Prairie, Moors(Scout), The Drowned Crossroads(Jinxed Leviathan riled)<br> |
 
+
+### Random Armament (DMG p.328) (Uncommon)
 
 |**Random Armament (DMG p.328) (Uncommon)**|
 |:-|
 | Monster(s): Tough Boss, Woodwarped |
 | Source: Monster Manual, The Crooked Moon |
 | _Armament (Uncommon)_ |
-| Find Checks (Tough Boss): Survival, Perception, Investigation<br>Find Checks (Woodwarped): Survival, Perception, Investigation |
-| Find DCs (Tough Boss): 13(x1)<br>Find DCs (Woodwarped): 13(x1) |
-| Locations (Tough Boss): Moors, Moonsong Lake, The Wytchwood(Woodwarped)<br>Locations (Woodwarped): Moors, Moonsong Lake(Tough Boss), The Wytchwood, Howlers(Wild Titan riled) |
+| Find Checks (Tough Boss): Survival, Perception, Investigation<br><br>Find Checks (Woodwarped): Survival, Perception, Investigation<br> |
+| Find DCs (Tough Boss): 13(x1)<br><br>Find DCs (Woodwarped): 13(x1)<br> |
+| Locations (Tough Boss): Moors, Moonsong Lake, The Wytchwood(Woodwarped)<br><br>Locations (Woodwarped): Moors, Moonsong Lake(Tough Boss), The Wytchwood, Howlers(Wild Titan riled)<br> |
 
+
+### Random Mundane
 
 |**Random Mundane**|
 |:-|
 | Monster(s): Commoner, Bandit, Though |
 | Source: Home-brew |
 | _Mundane_ |
-| Find Checks (Commoner): Survival, Perception, Investigation<br>Find Checks (Bandit): Survival, Perception, Investigation<br>Find Checks (Though): Survival, Perception, Investigation |
-| Find DCs (Commoner): 10(x1)<br>Find DCs (Bandit): 10(x1)<br>Find DCs (Though): 10(x1) |
-| Locations (Commoner): Wickermoor Village, Foxwillow, The Crimson Monastery, The Drowned Crossroads, Memory's Rest, Webwoods, Moors, Moonsong Lake(Tough)<br>Locations (Bandit): Wickermoor Village(Commoner), Foxwillow(Commoner), The Crimson Monastery(Commoner), The Drowned Crossroads, Memory's Rest(Commoner), Webwoods(Commoner), Moors(Commoner), Moonsong Lake(Tough)<br>Locations (Though): Wickermoor Village(Commoner), Foxwillow(Commoner), The Crimson Monastery(Commoner), The Drowned Crossroads, Memory's Rest(Commoner), Webwoods(Commoner), Moors(Commoner), Moonsong Lake(Tough) |
+| Find Checks (Commoner): Survival, Perception, Investigation<br><br>Find Checks (Bandit): Survival, Perception, Investigation<br><br>Find Checks (Though): Survival, Perception, Investigation<br> |
+| Find DCs (Commoner): 10(x1)<br><br>Find DCs (Bandit): 10(x1)<br><br>Find DCs (Though): 10(x1)<br> |
+| Locations (Commoner): Wickermoor Village, Foxwillow, The Crimson Monastery, The Drowned Crossroads, Memory's Rest, Webwoods, Moors, Moonsong Lake(Tough)<br><br>Locations (Bandit): Wickermoor Village(Commoner), Foxwillow(Commoner), The Crimson Monastery(Commoner), The Drowned Crossroads, Memory's Rest(Commoner), Webwoods(Commoner), Moors(Commoner), Moonsong Lake(Tough)<br><br>Locations (Though): Wickermoor Village(Commoner), Foxwillow(Commoner), The Crimson Monastery(Commoner), The Drowned Crossroads, Memory's Rest(Commoner), Webwoods(Commoner), Moors(Commoner), Moonsong Lake(Tough)<br> |
 
+
+### Weasel Pelt
 
 |**Weasel Pelt**|
 |:-|
@@ -251,10 +277,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use as ingredient for: _Clothing, Pouch, Wondrous Items (clothing, pouch)_ |
 | Crafting Value (when used as ingredient): _13 GP_ |
 | Effect: Ermine fur can be used to create small items, or as decoration on larger clothes. |
-| Find Checks (Weasel): Survival, Nature<br>Find Checks (Boogleswarm): Survival, Nature<br>Find Checks (Weasel Hag): Survival, Nature |
-| Find DCs (Weasel): 10(x1)<br>Find DCs (Boogleswarm): 10(x1)<br>Find DCs (Weasel Hag): 10(x1) |
-| Locations (Weasel): Wickermoor Village, The Crooked House, The Crooked Nightmare<br>Locations (Boogleswarm): Wickermoor Village(Weasel), The Crooked House, The Crooked Nightmare<br>Locations (Weasel Hag): Wickermoor Village(Weasel), The Crooked House, The Crooked Nightmare |
+| Find Checks (Weasel): Survival, Nature<br><br>Find Checks (Boogleswarm): Survival, Nature<br><br>Find Checks (Weasel Hag): Survival, Nature<br> |
+| Find DCs (Weasel): 10(x1)<br><br>Find DCs (Boogleswarm): 10(x1)<br><br>Find DCs (Weasel Hag): 10(x1)<br> |
+| Locations (Weasel): Wickermoor Village, The Crooked House, The Crooked Nightmare<br><br>Locations (Boogleswarm): Wickermoor Village(Weasel), The Crooked House, The Crooked Nightmare<br><br>Locations (Weasel Hag): Wickermoor Village(Weasel), The Crooked House, The Crooked Nightmare<br> |
 
+
+### Weasel Meat
 
 |**Weasel Meat**|
 |:-|
@@ -266,6 +294,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1) |
 | Locations: Wickermoor Village, The Crooked House, The Crooked Nightmare |
 
+
+### Humanoid Tooth
 
 |**Humanoid Tooth**|
 |:-|
@@ -279,6 +309,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 10(x1) |
 | Locations: The Crooked House, The Crooked Nightmare |
 
+
+### Wolf Pelt
 
 |**Wolf Pelt**|
 |:-|
@@ -294,16 +326,20 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Wickermoor Village |
 
 
+### Wolf Meat
+
 |**Wolf Meat**|
 |:-|
 | Monster(s): Wolf, Dire Wolf |
 | Source: Home-brew |
 | _Ingredient (Mundane)_ |
 | Cooking Effect: You can cook this to make mundane food for 4 people |
-| Find Checks (Wolf): Survival, Nature<br>Find Checks (Dire Wolf): Survival, Nature |
-| Find DCs (Wolf): 15(x1)<br>Find DCs (Dire Wolf): 15(x2) |
-| Locations (Wolf): Wickermoor Village<br>Locations (Dire Wolf): Wickermoor Village |
+| Find Checks (Wolf): Survival, Nature<br><br>Find Checks (Dire Wolf): Survival, Nature<br> |
+| Find DCs (Wolf): 15(x1)<br><br>Find DCs (Dire Wolf): 15(x2)<br> |
+| Locations (Wolf): Wickermoor Village<br><br>Locations (Dire Wolf): Wickermoor Village<br> |
 
+
+### Dire Wolf Pelt
 
 |**Dire Wolf Pelt**|
 |:-|
@@ -319,6 +355,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Wickermoor Village |
 
 
+### Dire Wolf Tooth
+
 |**Dire Wolf Tooth**|
 |:-|
 | Monster(s): Dire Wolf |
@@ -332,6 +370,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Wickermoor Village |
 
 
+### Ring of the Dire Wolf
+
 |**Ring of the Dire Wolf**|
 |:-|
 | Monster(s): - |
@@ -339,6 +379,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Uncommon)_ |
 | Effect: When worn, whenever you might be knocked Prone but not Unconscious, you can take a Reaction to poise yourself. You roll a DC 16 Athletics check and stay upright if you succeed. |
 
+
+### Hag Familiar Pearl
 
 |**Hag Familiar Pearl**|
 |:-|
@@ -354,6 +396,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Wickermoor Village, The Crooked House, Skitterdeep Mine, Roving Rookery, The Crooked Nightmare |
 
 
+### Dark Shard
+
 |**Dark Shard**|
 |:-|
 | Monster(s): Wight |
@@ -367,6 +411,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 20(x2) |
 | Locations: The Crooked House, Drowned Crossroads, Wickermoor Village (The Barrow King waves) |
 
+
+### Ochre Ooze
 
 |**Ochre Ooze**|
 |:-|
@@ -383,6 +429,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked House |
 
 
+### Thread of Grasping
+
 |**Thread of Grasping**|
 |:-|
 | Monster(s): Animated Rug of Smothering |
@@ -396,6 +444,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1), 15(x2), 17(x3) |
 | Locations: The Crooked House |
 
+
+### Rug of Horror
 
 |**Rug of Horror**|
 |:-|
@@ -411,6 +461,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Wickermoor Village (The old pyethymer place) |
 
 
+### Broom of Flying
+
 |**Broom of Flying**|
 |:-|
 | Monster(s): House of Horror |
@@ -420,6 +472,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Wickermoor Village (The old pyethymer place) |
 
+
+### White Seance Ring
 
 |**White Seance Ring**|
 |:-|
@@ -432,25 +486,31 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Wickermoor Village (The old pyethymer place) |
 
 
+### Random Arcana (DMG p.327) (Very Rare)
+
 |**Random Arcana (DMG p.327) (Very Rare)**|
 |:-|
 | Monster(s): House of Horror, Centipede Hag, Pigeon Hag, The Vermintoll Abomination |
 | Source: The Crooked Moon |
 | _Arcana (Very Rare)_ |
-| Find Checks (House of Horror): Survival, Perception, Investigation, Arcana<br>Find Checks (Centipede Hag): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br>Find Checks (Pigeon Hag): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br>Find Checks (The Vermintoll Abomination): Survival, Perception, Investigation, Arcana, Fated Tarot Reading |
-| Find DCs (House of Horror): 17(x1), 20(x2), 23(x3)<br>Find DCs (Centipede Hag): 17(x1), 20(x2), Auto Success on Fated Tarot: The Star (x2)<br>Find DCs (Pigeon Hag): 17(x1), 20(x2), Auto Success on Fated Tarot: The Sun (x2)<br>Find DCs (The Vermintoll Abomination): 17(x1), 20(x2), 23(x3), 27(x4), Auto Success on Fated Tarot: The Empress(x4) |
-| Locations (House of Horror): Wickermoor Village(The old pyethymer place), Skitterdeep Mines(Centipede Hag), Walking Dovecote(Pigeon Hag), The Crooked Nightmare(The Vermintoll Abomination)<br>Locations (Centipede Hag): Skitterdeep Mines, Walking Dovecote(Pigeon Hag), The Crooked Nightmare(The Vermintoll Abomination)<br>Locations (Pigeon Hag): Skitterdeep Mines(Centipede Hag), Walking Dovecote, The Crooked Nightmare(The Vermintoll Abomination)<br>Locations (The Vermintoll Abomination): Skitterdeep Mines(Centipede Hag), Walking Dovecote(Pigeon Hag), The Crooked Nightmare |
+| Find Checks (House of Horror): Survival, Perception, Investigation, Arcana<br><br>Find Checks (Centipede Hag): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br><br>Find Checks (Pigeon Hag): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br><br>Find Checks (The Vermintoll Abomination): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br> |
+| Find DCs (House of Horror): 17(x1), 20(x2), 23(x3)<br><br>Find DCs (Centipede Hag): 17(x1), 20(x2), Auto Success on Fated Tarot: The Star (x2)<br><br>Find DCs (Pigeon Hag): 17(x1), 20(x2), Auto Success on Fated Tarot: The Sun (x2)<br><br>Find DCs (The Vermintoll Abomination): 17(x1), 20(x2), 23(x3), 27(x4), Auto Success on Fated Tarot: The Empress(x4)<br> |
+| Locations (House of Horror): Wickermoor Village(The old pyethymer place), Skitterdeep Mines(Centipede Hag), Walking Dovecote(Pigeon Hag), The Crooked Nightmare(The Vermintoll Abomination)<br><br>Locations (Centipede Hag): Skitterdeep Mines, Walking Dovecote(Pigeon Hag), The Crooked Nightmare(The Vermintoll Abomination)<br><br>Locations (Pigeon Hag): Skitterdeep Mines(Centipede Hag), Walking Dovecote, The Crooked Nightmare(The Vermintoll Abomination)<br><br>Locations (The Vermintoll Abomination): Skitterdeep Mines(Centipede Hag), Walking Dovecote(Pigeon Hag), The Crooked Nightmare<br> |
 
+
+### Random Spell Scroll (spell level 6 or several which sum to 6)
 
 |**Random Spell Scroll (spell level 6 or several which sum to 6)**|
 |:-|
 | Monster(s): House of Horror, Centipede Hag, Pigeon Hag |
 | Source: Home-brew |
 | _Spell Scroll (Very Rare)_ |
-| Find Checks (House of Horror): Survival, Perception, Investigation, Arcana<br>Find Checks (Centipede Hag): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br>Find Checks (Pigeon Hag): Survival, Perception, Investigation, Arcana, Fated Tarot Reading |
-| Find DCs (House of Horror): 15(x1)<br>Find DCs (Centipede Hag): 15(x1), 20(x2), Auto Success on Fated Tarot: The Star (x2)<br>Find DCs (Pigeon Hag): 15(x1), 20(x2), Auto Success on Fated Tarot: The Sun (x2) |
-| Locations (House of Horror): Wickermoor Village (The old pyethymer place), Skitterdeep Mines(Centipede Hag), Walking Dovecote(Pigeon Hag)<br>Locations (Centipede Hag): Skitterdeep Mines, Walking Dovecote(Pigeon Hag)<br>Locations (Pigeon Hag): Skitterdeep Mines(Centipede Hag), Walking Dovecote |
+| Find Checks (House of Horror): Survival, Perception, Investigation, Arcana<br><br>Find Checks (Centipede Hag): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br><br>Find Checks (Pigeon Hag): Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br> |
+| Find DCs (House of Horror): 15(x1)<br><br>Find DCs (Centipede Hag): 15(x1), 20(x2), Auto Success on Fated Tarot: The Star (x2)<br><br>Find DCs (Pigeon Hag): 15(x1), 20(x2), Auto Success on Fated Tarot: The Sun (x2)<br> |
+| Locations (House of Horror): Wickermoor Village (The old pyethymer place), Skitterdeep Mines(Centipede Hag), Walking Dovecote(Pigeon Hag)<br><br>Locations (Centipede Hag): Skitterdeep Mines, Walking Dovecote(Pigeon Hag)<br><br>Locations (Pigeon Hag): Skitterdeep Mines(Centipede Hag), Walking Dovecote<br> |
 
+
+### Memory Orb
 
 |**Memory Orb**|
 |:-|
@@ -459,10 +519,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Consumable (Very Rare)_ |
 | Use: _Absorb_ |
 | Effect: An orb containing the memories of a slain hero of the past. When you consume this item, you see the memories and feel them as if your own, and you gain a Feat of your choice. The orb shatters and becomes dust after use. |
-| Find Checks (House of Horror): Survival, Perception, Investigation, Insight, Religion, Arcana<br>Find Checks (Centipede Hag): Survival, Perception, Investigation, Insight, Religion, Arcana, Fated Tarot Reading |
-| Find DCs (House of Horror): Auto Success as quest reward (1 for each party member)<br>Find DCs (Centipede Hag): 20(x1), Auto Success on Fated Tarot: The Star(x1) |
-| Locations (House of Horror): Wickermoor Village (The old Pyethymer place), Skitterdeep Mines(Centipede Hag)<br>Locations (Centipede Hag): Skitterdeep Mines |
+| Find Checks (House of Horror): Survival, Perception, Investigation, Insight, Religion, Arcana<br><br>Find Checks (Centipede Hag): Survival, Perception, Investigation, Insight, Religion, Arcana, Fated Tarot Reading<br> |
+| Find DCs (House of Horror): Auto Success as quest reward (1 for each party member)<br><br>Find DCs (Centipede Hag): 20(x1), Auto Success on Fated Tarot: The Star(x1)<br> |
+| Locations (House of Horror): Wickermoor Village (The old Pyethymer place), Skitterdeep Mines(Centipede Hag)<br><br>Locations (Centipede Hag): Skitterdeep Mines<br> |
 
+
+### Memory Orb Dust
 
 |**Memory Orb Dust**|
 |:-|
@@ -473,6 +535,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _2500 GP_ |
 | Effect: The remaining dust of the memory orb can be used as material worth 2500 GP when crafting a magical item |
 
+
+### Uvula of Horror
 
 |**Uvula of Horror**|
 |:-|
@@ -485,6 +549,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Wickermoor Village (The old Pyethymer place) |
 
+
+### Lurker Dust
 
 |**Lurker Dust**|
 |:-|
@@ -501,6 +567,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked House, The Bag |
 
 
+### Ketgrinn's Bell
+
 |**Ketgrinn's Bell**|
 |:-|
 | Monster(s): Ketgrinn |
@@ -515,15 +583,19 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked House, The Wytchwood, The Hartsblight Forest (The Tall Man) |
 
 
+### Random Arcana (DMG p.327) (Uncommon)
+
 |**Random Arcana (DMG p.327) (Uncommon)**|
 |:-|
 | Monster(s): Ketgrinn, Corvodaemon, Weasel Hag |
 | Source: The Crooked Moon |
 | _Arcana (Uncommon)_ |
-| Find Checks (Ketgrinn): Survival, Perception, Investigation, Arcana, Weasel Hag)<br>Find Checks (Corvodaemon): Survival, Perception, Investigation, Arcana, Weasel Hag)<br>Find Checks (Weasel Hag): Survival, Perception, Investigation, Arcana, Weasel Hag) |
-| Find DCs (Ketgrinn): 15(x1)<br>Find DCs (Corvodaemon): 15(x1)<br>Find DCs (Weasel Hag): 13(x1), 15(x1), 17(x2), Auto Success on Fated Tarot: The Moon (x2) |
-| Locations (Ketgrinn): The Crooked House, The Crooked House(Weasel Hag), The Wytchwood, The Hartsblight Forest (The Tall Man), Foxwillow(Corvodaemon), Cornfield(Corvodaemon)<br>Locations (Corvodaemon): The Crooked House(Ketgrinn), The Crooked House(Weasel Hag), The Wytchwood(Ketgrinn), Foxwillow, Cornfield, Foxwillow (The Galloping Headsman riled)<br>Locations (Weasel Hag): The Crooked House(Ketgrinn), The Crooked House, The Wytchwood(Ketgrinn), Foxwillow(Corvodaemon), Cornfield(Corvodaemon) |
+| Find Checks (Ketgrinn): Survival, Perception, Investigation, Arcana, Weasel Hag)<br><br>Find Checks (Corvodaemon): Survival, Perception, Investigation, Arcana, Weasel Hag)<br><br>Find Checks (Weasel Hag): Survival, Perception, Investigation, Arcana, Weasel Hag)<br> |
+| Find DCs (Ketgrinn): 15(x1)<br><br>Find DCs (Corvodaemon): 15(x1)<br><br>Find DCs (Weasel Hag): 13(x1), 15(x1), 17(x2), Auto Success on Fated Tarot: The Moon (x2)<br> |
+| Locations (Ketgrinn): The Crooked House, The Crooked House(Weasel Hag), The Wytchwood, The Hartsblight Forest (The Tall Man), Foxwillow(Corvodaemon), Cornfield(Corvodaemon)<br><br>Locations (Corvodaemon): The Crooked House(Ketgrinn), The Crooked House(Weasel Hag), The Wytchwood(Ketgrinn), Foxwillow, Cornfield, Foxwillow (The Galloping Headsman riled)<br><br>Locations (Weasel Hag): The Crooked House(Ketgrinn), The Crooked House, The Wytchwood(Ketgrinn), Foxwillow(Corvodaemon), Cornfield(Corvodaemon)<br> |
 
+
+### Bag of Humanoid Teeth
 
 |**Bag of Humanoid Teeth**|
 |:-|
@@ -538,6 +610,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked House |
 
 
+### Lilypad Tonic
+
 |**Lilypad Tonic**|
 |:-|
 | Monster(s): Weasel Hag |
@@ -548,6 +622,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked House |
 
 
+### Random Spell scroll (spell level 3 or several that sum to 3)
+
 |**Random Spell scroll (spell level 3 or several that sum to 3)**|
 |:-|
 | Monster(s): Weasel Hag |
@@ -557,6 +633,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 20(x2), Auto Success on Fated Tarot: The Moon (x2) |
 | Locations: The Crooked House |
 
+
+### Compass of Wanting
 
 |**Compass of Wanting**|
 |:-|
@@ -569,6 +647,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked House |
 
 
+### Twisted Charm
+
 |**Twisted Charm**|
 |:-|
 | Monster(s): Weasel Hag |
@@ -579,6 +659,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), Auto Success on Fated Tarot: The Moon (x1) |
 | Locations: The Crooked House |
 
+
+### Memory Shard
 
 |**Memory Shard**|
 |:-|
@@ -593,6 +675,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1) |
 | Locations: Foxwillow, Cornfield, Foxwillow (The Galloping Headsman riled) |
 
+
+### Harvest Brew Base
 
 |**Harvest Brew Base**|
 |:-|
@@ -609,6 +693,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foxwillow, Cornfield, Foxwillow (The Galloping Headsman riled) |
 
 
+### Daemon Ichor
+
 |**Daemon Ichor**|
 |:-|
 | Monster(s): Corvodaemon, The Harvest Terror |
@@ -619,10 +705,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Weapon enchant_ |
 | Effect: While wearing the visage of a crow, these are clearly something demonic, as is clear by the Ichor they leave behind. You can use a Bonus Action to apply this to a weapon. When applied to a weapon, you can make 1 more attack than you are normally able to per turn for 1 minute, and the wielder of the weapon gains Temporary Hit Points equal to half the damage that was dealt. However, you must succeed on a DC 13 Wisdom Saving Throw or fail to recognize friend from foe until the start of your next turn. |
 | Cooking Effect: When used in cooking, you can cook food with a special effect for up to 2 people. When eaten, your eyes become slightly demonic for 1 hour, and you gain the ability to see in Darkness as if it was Bright Light up to 40 ft, and as if it was Dim Light up to 80 ft for the duration. |
-| Find Checks (Corvodaemon): Survival, Investigation, Religion, Fated Tarot Reading<br>Find Checks (The Harvest Terror): Survival, Investigation, Religion, Fated Tarot Reading |
-| Find DCs (Corvodaemon): 15(x1), 20(x2), Auto Success on Fated Tarot: The Hanged Man (x2)<br>Find DCs (The Harvest Terror): 15(x1), 20(x2), Auto Success on Fated Tarot: The Chariot (x2) |
-| Locations (Corvodaemon): Foxwillow, Cornfield, Cornfield(The Harvest Terror)<br>Locations (The Harvest Terror): Foxwillow, Cornfield(Corvodaemon), Cornfield |
+| Find Checks (Corvodaemon): Survival, Investigation, Religion, Fated Tarot Reading<br><br>Find Checks (The Harvest Terror): Survival, Investigation, Religion, Fated Tarot Reading<br> |
+| Find DCs (Corvodaemon): 15(x1), 20(x2), Auto Success on Fated Tarot: The Hanged Man (x2)<br><br>Find DCs (The Harvest Terror): 15(x1), 20(x2), Auto Success on Fated Tarot: The Chariot (x2)<br> |
+| Locations (Corvodaemon): Foxwillow, Cornfield, Cornfield(The Harvest Terror)<br><br>Locations (The Harvest Terror): Foxwillow, Cornfield(Corvodaemon), Cornfield<br> |
 
+
+### False Crow Feather
 
 |**False Crow Feather**|
 |:-|
@@ -638,6 +726,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foxwillow, Cornfield |
 
 
+### Harvest Terror Feather
+
 |**Harvest Terror Feather**|
 |:-|
 | Monster(s): The Harvest Terror |
@@ -652,6 +742,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Cornfield |
 
 
+### Amber Eye
+
 |**Amber Eye**|
 |:-|
 | Monster(s): The Harvest Terror |
@@ -664,6 +756,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 17(x2), Auto Success on Fated Tarot: The Chariot or The Hanged Man (x2) |
 | Locations: Cornfield |
 
+
+### Raum's Rag
 
 |**Raum's Rag**|
 |:-|
@@ -679,6 +773,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Cornfield |
 
 
+### Secret Shard
+
 |**Secret Shard**|
 |:-|
 | Monster(s): The Harvest Terror |
@@ -692,6 +788,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(1 for each party member), Auto Success on Fated Tarot: The Chariot or The Hanged Man (1 for each party member) |
 | Locations: Cornfield |
 
+
+### Ol' Jericho Sticks' Memory Shard
 
 |**Ol' Jericho Sticks' Memory Shard**|
 |:-|
@@ -707,15 +805,19 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foxwillow, Cornfield, Foxwillow (The Galloping Headsman riled) |
 
 
+### Random Implement (DMG p.329) (Rare)
+
 |**Random Implement (DMG p.329) (Rare)**|
 |:-|
 | Monster(s): The Harvest Terror, Ferryman, Herald of Fools, Kackle, Assassin |
 | Source: The Crooked Moon |
 | _Implement (Rare)_ |
-| Find Checks (The Harvest Terror): Survival, Perception, Investigation, Fated Tarot Reading<br>Find Checks (Ferryman): Survival, Perception, Investigation<br>Find Checks (Herald of Fools): Survival, Perception, Investigation<br>Find Checks (Kackle): Survival, Perception, Investigation<br>Find Checks (Assassin): Survival, Perception, Investigation |
-| Find DCs (The Harvest Terror): 15(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Chariot(x3)<br>Find DCs (Ferryman): 15(x1)<br>Find DCs (Herald of Fools): 15(x1)<br>Find DCs (Kackle): 15(x1)<br>Find DCs (Assassin): 15(x1) |
-| Locations (The Harvest Terror): Cornfield, Moors(Herald of Fools), Fool's Day Festival(Herald of Fools), Maidenmist Cementery(Kackle), The Drowned Crossroads(Ferryman), Lakeshore(Assassin)<br>Locations (Ferryman): Cornfield(The Harvest Terror), Moors(Herald of Fools), Fool's Day Festival(Herald of Fools), Maidenmist Cementery(Kackle), The Drowned Crossroads, Lakeshore(Assassin)<br>Locations (Herald of Fools): Cornfield(The Harvest Terror), Moors, Fool's Day Festival, Maidenmist Cementery(Kackle), The Drowned Crossroads(Ferryman), Lakeshore(Assassin)<br>Locations (Kackle): Cornfield(The Harvest Terror), Moors(Herald of Fools), Fool's Day Festival(Herald of Fools), Maidenmist Cementery, Foxwillow (Galloping Headsman riled), Maidenmist Cementery (The Barrow King), The Drowned Crossroads(Ferryman), Lakeshore(Assassin)<br>Locations (Assassin): Cornfield(The Harvest Terror), Moors(Herald of Fools), Fool's Day Festival(Herald of Fools), Maidenmist Cementery(Kackle), The Drowned Crossroads(Ferryman), Lakeshore |
+| Find Checks (The Harvest Terror): Survival, Perception, Investigation, Fated Tarot Reading<br><br>Find Checks (Ferryman): Survival, Perception, Investigation<br><br>Find Checks (Herald of Fools): Survival, Perception, Investigation<br><br>Find Checks (Kackle): Survival, Perception, Investigation<br><br>Find Checks (Assassin): Survival, Perception, Investigation<br> |
+| Find DCs (The Harvest Terror): 15(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Chariot(x3)<br><br>Find DCs (Ferryman): 15(x1)<br><br>Find DCs (Herald of Fools): 15(x1)<br><br>Find DCs (Kackle): 15(x1)<br><br>Find DCs (Assassin): 15(x1)<br> |
+| Locations (The Harvest Terror): Cornfield, Moors(Herald of Fools), Fool's Day Festival(Herald of Fools), Maidenmist Cementery(Kackle), The Drowned Crossroads(Ferryman), Lakeshore(Assassin)<br><br>Locations (Ferryman): Cornfield(The Harvest Terror), Moors(Herald of Fools), Fool's Day Festival(Herald of Fools), Maidenmist Cementery(Kackle), The Drowned Crossroads, Lakeshore(Assassin)<br><br>Locations (Herald of Fools): Cornfield(The Harvest Terror), Moors, Fool's Day Festival, Maidenmist Cementery(Kackle), The Drowned Crossroads(Ferryman), Lakeshore(Assassin)<br><br>Locations (Kackle): Cornfield(The Harvest Terror), Moors(Herald of Fools), Fool's Day Festival(Herald of Fools), Maidenmist Cementery, Foxwillow (Galloping Headsman riled), Maidenmist Cementery (The Barrow King), The Drowned Crossroads(Ferryman), Lakeshore(Assassin)<br><br>Locations (Assassin): Cornfield(The Harvest Terror), Moors(Herald of Fools), Fool's Day Festival(Herald of Fools), Maidenmist Cementery(Kackle), The Drowned Crossroads(Ferryman), Lakeshore<br> |
 
+
+### The Harvest Terror's Scythe
 
 |**The Harvest Terror's Scythe**|
 |:-|
@@ -728,15 +830,19 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Cornfield |
 
 
+### Random Magic Item (DMG p.327) (Rare)
+
 |**Random Magic Item (DMG p.327) (Rare)**|
 |:-|
 | Monster(s): Wellwyrm, Invader out of Space |
 | Source: The Crooked Moon |
 | _-_ |
-| Find Checks (Wellwyrm): Survival, Perception, Investigation, Arcana<br>Find Checks (Invader out of Space): Survival, Perception, Investigation, Arcana |
-| Find DCs (Wellwyrm): 15(x1), 17(x2), 20(x3)<br>Find DCs (Invader out of Space): 15(x1), 17(x2), 20(x3) |
-| Locations (Wellwyrm): Foxwillow Farmland, Rowan's Rise, The Wytchwood, Moonsong Lake (White Worm twisted), Meteorite crashsite<br>Locations (Invader out of Space): Foxwillow Farmland, Rowan's Rise, The Wytchwood, Moonsong Lake (White Worm twisted), Meteorite crashsite |
+| Find Checks (Wellwyrm): Survival, Perception, Investigation, Arcana<br><br>Find Checks (Invader out of Space): Survival, Perception, Investigation, Arcana<br> |
+| Find DCs (Wellwyrm): 15(x1), 17(x2), 20(x3)<br><br>Find DCs (Invader out of Space): 15(x1), 17(x2), 20(x3)<br> |
+| Locations (Wellwyrm): Foxwillow Farmland, Rowan's Rise, The Wytchwood, Moonsong Lake (White Worm twisted), Meteorite crashsite<br><br>Locations (Invader out of Space): Foxwillow Farmland, Rowan's Rise, The Wytchwood, Moonsong Lake (White Worm twisted), Meteorite crashsite<br> |
 
+
+### Silence of the Drowned Base
 
 |**Silence of the Drowned Base**|
 |:-|
@@ -748,10 +854,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Drink_ |
 | Effect: The slime of deep underwater monsters often can be used in place of 50 GP worth of materials towards the 100 GP necessary to craft the Silence of the Drowned potion. When drank directly, it functions as a diluted potion of water breathing, and you can breathe underwater for 1 hour, however, you must succeed on a DC 15 Constitution Saving Throw or take 1d10 Poison damage and have the Poisoned condition for 1 minute. |
 | Cooking Effect: When added to cooking, you can make food with the same effect as drinking it directly but for 2 people, who can breathe underwater for 1 hour when eaten. |
-| Find Checks (Wellwyrm): Survival, Investigation, Nature, Arcana<br>Find Checks (Lake Dredger): Survival, Investigation, Nature, Arcana<br>Find Checks (Chuul): Survival, Investigation, Nature, Arcana |
-| Find DCs (Wellwyrm): 13(x1), 17(x2), 20(x3), 25(x4)<br>Find DCs (Lake Dredger): 13(x1), 17(x2), 20(x3), 25(x4)<br>Find DCs (Chuul): 13(x1), 15(x1), 17(x2), 20(x3), 25(x4) |
-| Locations (Wellwyrm): Foxwillow Farmland, Moonsong Lake(Lake Dredger), Moors, The Wytchwood, Moonsong Lake(White Worm twisted), Lakeshore(Chuul)<br>Locations (Lake Dredger): Foxwillow Farmland(Wellwyrm), Moonsong Lake, Moors(Wellwyrm), The Wytchwood(Wellwyrm), The Drowned Crossroads(Jinxed Leviathan riled), Lakeshore(Chuul)<br>Locations (Chuul): Foxwillow Farmland(Wellwyrm), Moonsong Lake(Lake Dredger), Moors(Wellwyrm), The Wytchwood(Wellwyrm), Lakeshore |
+| Find Checks (Wellwyrm): Survival, Investigation, Nature, Arcana<br><br>Find Checks (Lake Dredger): Survival, Investigation, Nature, Arcana<br><br>Find Checks (Chuul): Survival, Investigation, Nature, Arcana<br> |
+| Find DCs (Wellwyrm): 13(x1), 17(x2), 20(x3), 25(x4)<br><br>Find DCs (Lake Dredger): 13(x1), 17(x2), 20(x3), 25(x4)<br><br>Find DCs (Chuul): 13(x1), 15(x1), 17(x2), 20(x3), 25(x4)<br> |
+| Locations (Wellwyrm): Foxwillow Farmland, Moonsong Lake(Lake Dredger), Moors, The Wytchwood, Moonsong Lake(White Worm twisted), Lakeshore(Chuul)<br><br>Locations (Lake Dredger): Foxwillow Farmland(Wellwyrm), Moonsong Lake, Moors(Wellwyrm), The Wytchwood(Wellwyrm), The Drowned Crossroads(Jinxed Leviathan riled), Lakeshore(Chuul)<br><br>Locations (Chuul): Foxwillow Farmland(Wellwyrm), Moonsong Lake(Lake Dredger), Moors(Wellwyrm), The Wytchwood(Wellwyrm), Lakeshore<br> |
 
+
+### Wellwyrm venom gland
 
 |**Wellwyrm venom gland**|
 |:-|
@@ -768,6 +876,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foxwillow Farmland, Moors, The Wytchwood, Moonsong Lake (White Worm twisted) |
 
 
+### Wellwyrm Antitoxin
+
 |**Wellwyrm Antitoxin**|
 |:-|
 | Monster(s): - |
@@ -776,6 +886,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Inject, (DM Eyes only Weapon Enchant)_ |
 | Effect: When injected, you end any Poisoned condition you may have, and gain resistance to Poison damage for 1 hour. (DM Eyes only: The players might have the idea to coat a weapon with the antitoxin in fights against the Hartsblighted. In such a case, they can take a Bonus Action to apply the antitoxin to a weapon or 10 ammunition, and it lasts 5 minutes. When hit, creatures with the Blight Dependent trait are affected as stated.) |
 
+
+### Kackle Lantern Fuel
 
 |**Kackle Lantern Fuel**|
 |:-|
@@ -792,6 +904,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery, Foxwillow (Galloping Headsman riled), Maidenmist Cementery (The Barrow King) |
 
 
+### Kackle Charm
+
 |**Kackle Charm**|
 |:-|
 | Monster(s): Kackle |
@@ -806,6 +920,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery, Foxwillow (Galloping Headsman riled), Maidenmist Cementery (The Barrow King) |
 
 
+### Raven Feather
+
 |**Raven Feather**|
 |:-|
 | Monster(s): Swarm of Ravens |
@@ -819,6 +935,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Foxwillow |
 
 
+### Raven Meat
+
 |**Raven Meat**|
 |:-|
 | Monster(s): Swarm of Ravens |
@@ -829,6 +947,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 10(x1), 13(x3), 15(x5) |
 | Locations: Moors, Foxwillow |
 
+
+### Unidentified Spooky Object
 
 |**Unidentified Spooky Object**|
 |:-|
@@ -844,6 +964,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Meteorite crashsite |
 
 
+### Meteorite Dust
+
 |**Meteorite Dust**|
 |:-|
 | Monster(s): Invader Out of Space |
@@ -858,6 +980,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Meteorite crashsite |
 
 
+### Harvested Blood
+
 |**Harvested Blood**|
 |:-|
 | Monster(s): Crimson Clergy, The Crimson Abbot, Vampire Spawn, Hemonculus |
@@ -868,20 +992,24 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Absorb_ |
 | Effect: This blood is harvested by vampiric creatures for their rituals and spells. You can use it in place of 13 GP whenever crafting Potions or Scrolls, or casting a spell with costly material components. |
 | Cooking Effect: You can use 10 vials to make blood pudding for 1 person. When eaten, you gain +1 to your Charisma modifier for 1 hour. |
-| Find Checks (Crimson Clergy): Survival, Nature, Religion, Arcana<br>Find Checks (The Crimson Abbot): Survival, Nature, Religion, Arcana, Fated Tarot Reading<br>Find Checks (Vampire Spawn): Survival, Nature, Religion, Arcana<br>Find Checks (Hemonculus): Survival, Nature, Religion, Arcana |
-| Find DCs (Crimson Clergy): 10(x2), 13(x5), 15(x7)<br>Find DCs (The Crimson Abbot): 10(x2), 13(x5), 15(x7), 20(x10), Auto Success on Fated Tarot: The Hierophant (x10)<br>Find DCs (Vampire Spawn): 10(x2), 13(x5), 15(x7)<br>Find DCs (Hemonculus): 10(x2), 13(x5), 15(x7) |
-| Locations (Crimson Clergy): Howlers, The Crimson Monastery<br>Locations (The Crimson Abbot): Howlers, The Crimson Monastery<br>Locations (Vampire Spawn): Howlers, The Crimson Monastery<br>Locations (Hemonculus): Howlers, The Crimson Monastery |
+| Find Checks (Crimson Clergy): Survival, Nature, Religion, Arcana<br><br>Find Checks (The Crimson Abbot): Survival, Nature, Religion, Arcana, Fated Tarot Reading<br><br>Find Checks (Vampire Spawn): Survival, Nature, Religion, Arcana<br><br>Find Checks (Hemonculus): Survival, Nature, Religion, Arcana<br> |
+| Find DCs (Crimson Clergy): 10(x2), 13(x5), 15(x7)<br><br>Find DCs (The Crimson Abbot): 10(x2), 13(x5), 15(x7), 20(x10), Auto Success on Fated Tarot: The Hierophant (x10)<br><br>Find DCs (Vampire Spawn): 10(x2), 13(x5), 15(x7)<br><br>Find DCs (Hemonculus): 10(x2), 13(x5), 15(x7)<br> |
+| Locations (Crimson Clergy): Howlers, The Crimson Monastery<br><br>Locations (The Crimson Abbot): Howlers, The Crimson Monastery<br><br>Locations (Vampire Spawn): Howlers, The Crimson Monastery<br><br>Locations (Hemonculus): Howlers, The Crimson Monastery<br> |
 
+
+### Random Relic (DMG p.331) (Common)
 
 |**Random Relic (DMG p.331) (Common)**|
 |:-|
 | Monster(s): Crimson Clergy, Druid, Mummy, Cultist, Priest, Cultist Fanatic, Priest Acolyte |
-| Source: (Crimson Clergy): The Crooked Moon<br>Source: (Druid): Monster Manual<br>Source: (Mummy): Monster Manual<br>Source: (Cultist): Monster Manual<br>Source: (Priest): Monster Manual<br>Source: (Cultist Fanatic): Monster Manual<br>Source: (Priest Acolyte): Monster Manual |
+| Source: (Crimson Clergy): The Crooked Moon<br><br>Source: (Druid): Monster Manual<br><br>Source: (Mummy): Monster Manual<br><br>Source: (Cultist): Monster Manual<br><br>Source: (Priest): Monster Manual<br><br>Source: (Cultist Fanatic): Monster Manual<br><br>Source: (Priest Acolyte): Monster Manual<br> |
 | _-_ |
-| Find Checks (Crimson Clergy): Perception, Investigation, Religion, Arcana<br>Find Checks (Druid): Perception, Investigation, Religion, Arcana<br>Find Checks (Mummy): Perception, Investigation, Religion, Arcana<br>Find Checks (Cultist): Perception, Investigation, Religion, Arcana<br>Find Checks (Priest): Perception, Investigation, Religion, Arcana<br>Find Checks (Cultist Fanatic): Perception, Investigation, Religion, Arcana<br>Find Checks (Priest Acolyte): Perception, Investigation, Religion, Arcana |
-| Find DCs (Crimson Clergy): 13(x1)<br>Find DCs (Druid): 13(x1)<br>Find DCs (Mummy): 13(x1)<br>Find DCs (Cultist): 13(x1), 15(x1)<br>Find DCs (Priest): 13(x1), 15(x1)<br>Find DCs (Cultist Fanatic): 13(x1), 17(x1)<br>Find DCs (Priest Acolyte): 13(x1), 17(x1) |
-| Locations (Crimson Clergy): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br>Locations (Druid): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br>Locations (Mummy): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br>Locations (Cultist): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br>Locations (Priest): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br>Locations (Cultist Fanatic): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br>Locations (Priest Acolyte): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise |
+| Find Checks (Crimson Clergy): Perception, Investigation, Religion, Arcana<br><br>Find Checks (Druid): Perception, Investigation, Religion, Arcana<br><br>Find Checks (Mummy): Perception, Investigation, Religion, Arcana<br><br>Find Checks (Cultist): Perception, Investigation, Religion, Arcana<br><br>Find Checks (Priest): Perception, Investigation, Religion, Arcana<br><br>Find Checks (Cultist Fanatic): Perception, Investigation, Religion, Arcana<br><br>Find Checks (Priest Acolyte): Perception, Investigation, Religion, Arcana<br> |
+| Find DCs (Crimson Clergy): 13(x1)<br><br>Find DCs (Druid): 13(x1)<br><br>Find DCs (Mummy): 13(x1)<br><br>Find DCs (Cultist): 13(x1), 15(x1)<br><br>Find DCs (Priest): 13(x1), 15(x1)<br><br>Find DCs (Cultist Fanatic): 13(x1), 17(x1)<br><br>Find DCs (Priest Acolyte): 13(x1), 17(x1)<br> |
+| Locations (Crimson Clergy): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br><br>Locations (Druid): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br><br>Locations (Mummy): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br><br>Locations (Cultist): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br><br>Locations (Priest): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br><br>Locations (Cultist Fanatic): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br><br>Locations (Priest Acolyte): Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise<br> |
 
+
+### Crimson Wine (Draught of the Red Hunger Base)
 
 |**Crimson Wine (Draught of the Red Hunger Base)**|
 |:-|
@@ -893,10 +1021,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Drink_ |
 | Effect: This crimson wine, when distilled, can be used as 1000 GP worth in materials towards the 50,000 GP necessary to craft a Draught of the Red Hunger potion. When drunk directly, it enhances the body for 10 minutes, gaining +10 ft ground speed and +20ft climb speed. However, it also gives the user sunlight sensitivity giving disadvantage on D20 tests while exposed, and it also gives the user an urge to say Bleh Bleh Bleh |
 | Cooking Effect: When used for cooking, you can cook food with special effects for 4 people. When eaten, you do not have Disadvantage on attacks melee made in Darkness for 1 hour, and it also gives the user sunlight sensitivity giving disadvantage on D20 tests while exposed, and it also gives the user an urge to say Bleh Bleh Bleh |
-| Find Checks (Crimson Clergy): Perception, Investigation, Religion, Arcana<br>Find Checks (The Crimson Abbot): Perception, Investigation, Religion, Arcana, Fated Tarot Reading |
-| Find DCs (Crimson Clergy): 17(x5), 20(x10)<br>Find DCs (The Crimson Abbot): 17(x5), 20(x10), 23(x30), Auto Success on Fated Tarot: The Hierophant (x30) |
-| Locations (Crimson Clergy): The Crimson Monastery, Howlers<br>Locations (The Crimson Abbot): The Crimson Monastery, Howlers(Crimson Clergy) |
+| Find Checks (Crimson Clergy): Perception, Investigation, Religion, Arcana<br><br>Find Checks (The Crimson Abbot): Perception, Investigation, Religion, Arcana, Fated Tarot Reading<br> |
+| Find DCs (Crimson Clergy): 17(x5), 20(x10)<br><br>Find DCs (The Crimson Abbot): 17(x5), 20(x10), 23(x30), Auto Success on Fated Tarot: The Hierophant (x30)<br> |
+| Locations (Crimson Clergy): The Crimson Monastery, Howlers<br><br>Locations (The Crimson Abbot): The Crimson Monastery, Howlers(Crimson Clergy)<br> |
 
+
+### Life vessel
 
 |**Life vessel**|
 |:-|
@@ -912,6 +1042,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crimson Monastery, Howlers |
 
 
+### Pirozhki
+
 |**Pirozhki**|
 |:-|
 | Monster(s): Night Creature |
@@ -923,6 +1055,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1) |
 | Locations: The Crimson Monastery, Howlers |
 
+
+### Bat Eyes
 
 |**Bat Eyes**|
 |:-|
@@ -938,6 +1072,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Dawn's Gate |
 
 
+### Bat Wings
+
 |**Bat Wings**|
 |:-|
 | Monster(s): Swarm of Bats |
@@ -952,6 +1088,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Dawn's Gate |
 
 
+### Distant Shot Ring
+
 |**Distant Shot Ring**|
 |:-|
 | Monster(s): - |
@@ -959,6 +1097,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Uncommon)_ |
 | Effect: A ring with a bat wing motif in it. When wearing this ring, you double the range of ammunition you use. |
 
+
+### Bat Echor
 
 |**Bat Echor**|
 |:-|
@@ -975,6 +1115,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Dawn's Gate, The Crimson Monastery, Howlers, Maidenmist Cementery (The Barrow King) |
 
 
+### Bat Hound Wings
+
 |**Bat Hound Wings**|
 |:-|
 | Monster(s): Bat Hound |
@@ -989,6 +1131,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Dawn's Gate, The Crimson Monastery, Howlers, Maidenmist Cementery (The Barrow King) |
 
 
+### Chewed Homeward Bone
+
 |**Chewed Homeward Bone**|
 |:-|
 | Monster(s): Bat Hound, Boneflayer |
@@ -999,10 +1143,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Activate_ |
 | Effect: It seems that someone liked chewing on these bones on their free time. These bones yearn for some rest. If you collect two of these you can combine them to get the effects of 1 Homeward Bone. Alternatively, you can use its effect but instead of 6 people, you can use it for 3 people. |
 | Cooking Effect: You can cook this bone to cook a bone broth for up to 3 people. When drunk, you gain the effects of a short rest without needing to spend time to rest. |
-| Find Checks (Bat Hound): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br>Find Checks (Boneflayer): Survival, Perception, Investigation, Religion, Fated Tarot Reading |
-| Find DCs (Bat Hound): Auto Success on Fated Tarot: Justice (x1)<br>Find DCs (Boneflayer): 15(x1), 20(x2) |
-| Locations (Bat Hound): The Crimson Monastery, Moors<br>Locations (Boneflayer): The Crimson Monastery, Moors |
+| Find Checks (Bat Hound): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br><br>Find Checks (Boneflayer): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br> |
+| Find DCs (Bat Hound): Auto Success on Fated Tarot: Justice (x1)<br><br>Find DCs (Boneflayer): 15(x1), 20(x2)<br> |
+| Locations (Bat Hound): The Crimson Monastery, Moors<br><br>Locations (Boneflayer): The Crimson Monastery, Moors<br> |
 
+
+### Homeward Bone
 
 |**Homeward Bone**|
 |:-|
@@ -1014,10 +1160,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Activate_ |
 | Effect: You find a particular white glow in this bone. These bones yearn for some rest. You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary, or the last place you took a short or long rest. You and any creatures that teleport with you appear in the nearest unoccupied space to the sanctuary or place you rested. You can designate a location, such as a temple, as a sanctuary by casting this spell there. |
 | Cooking Effect: You can cook this bone to cook a bone broth for up to 6 people. When drunk, you gain the effects of a short rest without needing to spend time to rest. |
-| Find Checks (Bat Hound): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br>Find Checks (Skeleton): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br>Find Checks (The Chained Reaper): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br>Find Checks (Boneflayer): Survival, Perception, Investigation, Religion, Fated Tarot Reading |
-| Find DCs (Bat Hound): 27(x1)<br>Find DCs (Skeleton): 35(x1)<br>Find DCs (The Chained Reaper): 17(x1), 20(x2), 25(x3), Auto Success on Fated Tarot: Judgement (x3)<br>Find DCs (Boneflayer):  |
-| Locations (Bat Hound): The Crimson Monastery, Maidenmist Cementery<br>Locations (Skeleton): The Crimson Monastery, Maidenmist Cementery<br>Locations (The Chained Reaper): The Crimson Monastery, Maidenmist Cementery<br>Locations (Boneflayer): The Crimson Monastery, Maidenmist Cementery |
+| Find Checks (Bat Hound): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br><br>Find Checks (Skeleton): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br><br>Find Checks (The Chained Reaper): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br><br>Find Checks (Boneflayer): Survival, Perception, Investigation, Religion, Fated Tarot Reading<br> |
+| Find DCs (Bat Hound): 27(x1)<br><br>Find DCs (Skeleton): 35(x1)<br><br>Find DCs (The Chained Reaper): 17(x1), 20(x2), 25(x3), Auto Success on Fated Tarot: Judgement (x3)<br><br>Find DCs (Boneflayer): <br> |
+| Locations (Bat Hound): The Crimson Monastery, Maidenmist Cementery<br><br>Locations (Skeleton): The Crimson Monastery, Maidenmist Cementery<br><br>Locations (The Chained Reaper): The Crimson Monastery, Maidenmist Cementery<br><br>Locations (Boneflayer): The Crimson Monastery, Maidenmist Cementery<br> |
 
+
+### Horse Hooves
 
 |**Horse Hooves**|
 |:-|
@@ -1032,6 +1180,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crimson Monastery |
 
 
+### Iron Horseshoe
+
 |**Iron Horseshoe**|
 |:-|
 | Monster(s): Warhorse |
@@ -1042,6 +1192,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 10(x2), 13(x4) |
 | Locations: The Crimson Monastery |
 
+
+### Horse Meat
 
 |**Horse Meat**|
 |:-|
@@ -1054,6 +1206,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crimson Monastery |
 
 
+### Random Magic Item Except Relics (DMG p.327)
+
 |**Random Magic Item Except Relics (DMG p.327)**|
 |:-|
 | Monster(s): Alpengrendel |
@@ -1063,6 +1217,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1) |
 | Locations: Dawn's Gate, Howlers |
 
+
+### Alpengrendel Horn
 
 |**Alpengrendel Horn**|
 |:-|
@@ -1078,6 +1234,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Dawn's Gate, Howlers |
 
 
+### Alpengrendel Tusk
+
 |**Alpengrendel Tusk**|
 |:-|
 | Monster(s): Alpengrendel |
@@ -1091,6 +1249,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1), 17(x2) |
 | Locations: Dawn's Gate, Howlers |
 
+
+### Alpengrendel Fur
 
 |**Alpengrendel Fur**|
 |:-|
@@ -1106,6 +1266,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Dawn's Gate, Howlers |
 
 
+### Alpengrendel Meat
+
 |**Alpengrendel Meat**|
 |:-|
 | Monster(s): Alpengrendel |
@@ -1117,6 +1279,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Dawn's Gate, Howlers |
 
 
+### Random Relic (DMG p.331) (Rare)
+
 |**Random Relic (DMG p.331) (Rare)**|
 |:-|
 | Monster(s): The Crimson Abbot |
@@ -1126,6 +1290,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Hierophant (x3) |
 | Locations: The Crimson Monastery, The Hartsblight Forest, Swamp |
 
+
+### Crimson Cloak
 
 |**Crimson Cloak**|
 |:-|
@@ -1137,6 +1303,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1), Auto Success on Fated Tarot: The Hierophant (x1) |
 | Locations: The Crimson Monastery |
 
+
+### Wings of the Crimson Abbot
 
 |**Wings of the Crimson Abbot**|
 |:-|
@@ -1152,6 +1320,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crimson Monastery |
 
 
+### Greater Life Vessel
+
 |**Greater Life Vessel**|
 |:-|
 | Monster(s): The Crimson Abbot |
@@ -1165,6 +1335,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 17(x2), 20(x3), 25(1 for each party member), Auto Success on Fated Tarot: The Hierophant (1 for each party member) |
 | Locations: The Crimson Monastery |
 
+
+### Vampire Blood
 
 |**Vampire Blood**|
 |:-|
@@ -1181,6 +1353,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crimson Monastery |
 
 
+### Vampiric Weapon (Vampire Blood)
+
 |**Vampiric Weapon (Vampire Blood)**|
 |:-|
 | Monster(s): - |
@@ -1188,6 +1362,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Very Rare)(Requires Attunement)_ |
 | Effect: The weapon adds +1d6 Necrotic damage to hits, and you gain the added damage as Temporary Hit Points if you are holding the weapon. You can also use this weapon as a focus for your spells. As a Bonus Action you can toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls. While the weapon hovers, you can take a Bonus Action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same Bonus Action, you can cause the weapon to attack one creature within 5 feet of the weapon. After the hovering weapon attacks for the fourth time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it. |
 
+
+### Vampiric Shield (Vampire Blood)
 
 |**Vampiric Shield (Vampire Blood)**|
 |:-|
@@ -1197,6 +1373,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: The shield does +1d6 Necrotic damage when you are hit with melee attacks, and you gain the damage as Temporary Hit Points if you are holding the shield. You can also use this shield as a focus for your spells. You can take a Bonus Action to cause it to animate. The Shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The Shield remains animate for 1 minute, until you take a Bonus Action to end this effect, or until you die or have the Incapacitated condition, at which point the Shield falls to the ground or into your hand if you have one free. |
 
 
+### Vampiric Accessory
+
 |**Vampiric Accessory**|
 |:-|
 | Monster(s): - |
@@ -1204,6 +1382,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Very Rare)(Requires Attunement)_ |
 | Effect: An amulet or ring bathed in the blood of a Vampire in an unholy ritual. While you are wearing this accessory and you are attuned to it, you gain a +1 bonus to your Armor Class and Saving Throws. You also gain resistance to Necrotic damage, and you regain 5 plus half your character level (round up) Hit Points when killing a creature within your melee range. You can cast Blood Bolt from the accessory. The accessory has 6 charges. You can use 1 charge to cast False Life. You can use 2 charges to cast Blood Sacrifice. You can use 3 charges to cast Vampiric Touch. The accessory regains 1d6 charges on a Long Rest. |
 
+
+### Vampire Heart
 
 |**Vampire Heart**|
 |:-|
@@ -1220,6 +1400,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crimson Monastery |
 
 
+### Vampire Locket
+
 |**Vampire Locket**|
 |:-|
 | Monster(s): - |
@@ -1227,6 +1409,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Legendary)(Requires Attunement)_ |
 | Effect: You have Vampiric powers while wearing and attuned to this locket made with a Vampire Heart. You have Darkvision up to 120 ft. Your speed increases by 20 ft, and you gain a Climb Speed and Fly Speed of 30 ft, in addition to any you might already have. While you are wearing this accessory and you are attuned to it, you gain a +1 bonus to your Armor Class and Saving Throws. You also gain resistance to Necrotic damage, and you regain 5 plus half your character level (round up) Hit Points when killing a creature within your melee range. You can cast Blood Bolt, False Life and Blood Sacrifice from the accessory without spending a spell slot. The locket has 5 charges. You can use one charge to cast Charm Person with a save DC of 20 without Concentration. You can use one charge to gain the effect of Vampiric Touch casted at the 6th level without using Concentration. You can use one charge to use a Magic Action to gain the effects of the Gaseous Form spell without using a spell slot while you aren't in sunlight. You can also revert to your normal form as a Magic Action. You can use one charge and a Magic Action to to yell 'Bat!' and cast Polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores, and can speak. You can dismiss the effect by yelling '(your species here) Form!' to transform back to your original form. The locket regains 1d6 charges on a Long Rest up to its maximum. |
 
+
+### Vampiric Weapon (Vampire Heart)
 
 |**Vampiric Weapon (Vampire Heart)**|
 |:-|
@@ -1236,6 +1420,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: The weapon has a +2 bonus to attack rolls and damage rolls, adds +3d6 Necrotic damage to hits, and you gain the added damage as Temporary Hit Points if you are holding the weapon. You can also use this weapon as a focus for your spells. As a Bonus Action you can toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls. While the weapon hovers, you can take a Bonus Action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same Bonus Action, you can cause the weapon to attack one creature within 5 feet of the weapon. After the hovering weapon attacks for the eight time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it. |
 
 
+### Vampiric Shield (Vampire Heart)
+
 |**Vampiric Shield (Vampire Heart)**|
 |:-|
 | Monster(s): - |
@@ -1243,6 +1429,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Shield (Legendary)(Requires Attunement)_ |
 | Effect: The shield has a +2 bonus to your Armor Class and saving throws. It does +3d6 Necrotic damage when you are hit with melee attacks, and you gain the damage as Temporary Hit Points if you are holding the shield. You can also use this shield as a focus for your spells. You can take a Bonus Action to cause it to animate. The Shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The Shield remains animate for 10 minutes, until you take a Bonus Action to end this effect, or until you die or have the Incapacitated condition, at which point the Shield falls to the ground or into your hand if you have one free. |
 
+
+### Ring of Command
 
 |**Ring of Command**|
 |:-|
@@ -1257,6 +1445,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crimson Monastery |
 
 
+### Sword of Crimson Abbot
+
 |**Sword of Crimson Abbot**|
 |:-|
 | Monster(s): The Crimson Abbot |
@@ -1267,6 +1457,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), Auto Success on Fated Tarot: The Hierophant (x1) |
 | Locations: The Crimson Monastery |
 
+
+### Stone Giant Nail Dust
 
 |**Stone Giant Nail Dust**|
 |:-|
@@ -1282,6 +1474,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Howlers |
 
 
+### Stone Giant Blood
+
 |**Stone Giant Blood**|
 |:-|
 | Monster(s): Stone Giant |
@@ -1296,6 +1490,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Howlers |
 
 
+### Ring of Stone Carrying
+
 |**Ring of Stone Carrying**|
 |:-|
 | Monster(s): - |
@@ -1303,6 +1499,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Rarity Varies)_ |
 | Effect: When wearing this ring, your carrying capacity is increased by (Uncommon: 50%, Rare:100%, Very Rare:150%, Legendary:300%) |
 
+
+### Vampire Spawn Fang
 
 |**Vampire Spawn Fang**|
 |:-|
@@ -1318,6 +1516,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery, Maidenmist Cementery (The Barrow King) |
 
 
+### Proboscus
+
 |**Proboscus**|
 |:-|
 | Monster(s): Stirge, Jinxed Mosquito |
@@ -1325,10 +1525,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Consumable (Common)_ |
 | Use: _Dart_ |
 | Effect: These probosci could be used as darts. When thrown they do 1d4 Piercing and 1d4 Necrotic damage. |
-| Find Checks (Stirge): Survival, Nature<br>Find Checks (Jinxed Mosquito): Survival, Nature |
-| Find DCs (Stirge): 15(x1)<br>Find DCs (Jinxed Mosquito): 15(x1) |
-| Locations (Stirge): Howlers, Drowned Crossroads(Jinxed Mosquito)<br>Locations (Jinxed Mosquito): Howlers(Stirge), Drowned Crossroads |
+| Find Checks (Stirge): Survival, Nature<br><br>Find Checks (Jinxed Mosquito): Survival, Nature<br> |
+| Find DCs (Stirge): 15(x1)<br><br>Find DCs (Jinxed Mosquito): 15(x1)<br> |
+| Locations (Stirge): Howlers, Drowned Crossroads(Jinxed Mosquito)<br><br>Locations (Jinxed Mosquito): Howlers(Stirge), Drowned Crossroads<br> |
 
+
+### Jinxed trinket
 
 |**Jinxed trinket**|
 |:-|
@@ -1343,6 +1545,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), 20(x2), Auto Success on Fated Tarot: Wheel of Fortune (x2) |
 | Locations: The Drowned Crossroads |
 
+
+### Jinxed Rum Base
 
 |**Jinxed Rum Base**|
 |:-|
@@ -1359,6 +1563,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads |
 
 
+### Giant Crocodile Teeth
+
 |**Giant Crocodile Teeth**|
 |:-|
 | Monster(s): Giant Crocodile |
@@ -1371,6 +1577,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x5), 17(x10) |
 | Locations: The Drowned Crossroads |
 
+
+### Giant Crocodile Skin
 
 |**Giant Crocodile Skin**|
 |:-|
@@ -1385,16 +1593,20 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads |
 
 
+### Crocodile Meat
+
 |**Crocodile Meat**|
 |:-|
 | Monster(s): Giant Crocodile, Crocodile |
 | Source: Home-brew |
 | _Ingredient (Uncommon)_ |
 | Cooking Effect: You can use this to cook mundane food for 4 people |
-| Find Checks (Giant Crocodile): Survival, Nature<br>Find Checks (Crocodile): Survival, Nature |
-| Find DCs (Giant Crocodile): 17(x2)<br>Find DCs (Crocodile): 17(x1) |
-| Locations (Giant Crocodile): The Drowned Crossroads<br>Locations (Crocodile): The Drowned Crossroads |
+| Find Checks (Giant Crocodile): Survival, Nature<br><br>Find Checks (Crocodile): Survival, Nature<br> |
+| Find DCs (Giant Crocodile): 17(x2)<br><br>Find DCs (Crocodile): 17(x1)<br> |
+| Locations (Giant Crocodile): The Drowned Crossroads<br><br>Locations (Crocodile): The Drowned Crossroads<br> |
 
+
+### Crocodile Tooth
 
 |**Crocodile Tooth**|
 |:-|
@@ -1409,6 +1621,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads |
 
 
+### Crocodile Skin
+
 |**Crocodile Skin**|
 |:-|
 | Monster(s): Crocodile |
@@ -1422,6 +1636,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads |
 
 
+### Paralytic Dust
+
 |**Paralytic Dust**|
 |:-|
 | Monster(s): Ghoul, Ghast |
@@ -1432,10 +1648,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Weapon Enchant, Arrowhead_ |
 | Effect: These undead claws retain some paralytic effect after harvesting. You can use a Bonus Action to apply this to a weapon. When applied to a weapon or 1 ammunition, a paralytic effect is added to it for up to 1 minute that can affect creatures that aren't Undead. The effect is removed after 1 hit or 1 minute, whichever happens first, and you can use a larger quantity of dust to increase the number of hits or ammunition without needing to spend several Bonus Actions to do so. When hitting with the weapon or ammunition, the target makes a DC 12 Constitution Saving Throw, and becomes Paralyzed until the end of its next turn if failed. The dust can otherwise be used as 5 GP worth of materials towards the 25 GP necessary to craft Paralytic Ammunition (Common)(10), which retain their paralytic effect instead of lasting 1 minute. |
 | Cooking Effect: When used as a spice for cooking, you can make food with a special effect for 4 people. When eaten, you become Paralyzed for 1 minute. Try not to eat it yourself. |
-| Find Checks (Ghoul): Survival, Nature, Arcana<br>Find Checks (Ghast): Survival, Nature, Arcana |
-| Find DCs (Ghoul): 10(x1), 13(x5), 17(x10)<br>Find DCs (Ghast): 10(x1), 13(x5), 17(x10) |
-| Locations (Ghoul): The Drowned Crossroads, Maidenmist Cementery<br>Locations (Ghast): The Drowned Crossroads, Maidenmist Cementery |
+| Find Checks (Ghoul): Survival, Nature, Arcana<br><br>Find Checks (Ghast): Survival, Nature, Arcana<br> |
+| Find DCs (Ghoul): 10(x1), 13(x5), 17(x10)<br><br>Find DCs (Ghast): 10(x1), 13(x5), 17(x10)<br> |
+| Locations (Ghoul): The Drowned Crossroads, Maidenmist Cementery<br><br>Locations (Ghast): The Drowned Crossroads, Maidenmist Cementery<br> |
 
+
+### Paralytic Ammunition
 
 |**Paralytic Ammunition**|
 |:-|
@@ -1444,6 +1662,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ammunition (Common)_ |
 | Effect: You can use a Bonus Action to apply this to a weapon. When applied to a weapon or 1 ammunition, a paralytic effect is added to it for 1 hit that can affect creatures that aren't Undead. The effect is removed after 1 hit, and you can use a larger quantity of dust to increase the number of hits or ammunition without needing to spend several Bonus Actions to do so. When hitting with the weapon or ammunition, the target makes a DC 12 Constitution Saving Throw, and becomes Paralyzed until the end of its next turn if failed. |
 
+
+### Coffin Nails
 
 |**Coffin Nails**|
 |:-|
@@ -1454,10 +1674,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _100 GP_ |
 | Use: _Dart_ |
 | Effect: These coffin nails exhude cursed energy. Make a ranged spell attack with +7 to hit, the nail will float in the air and fly at a piercing speed towards the target. On a hit, it deals 1d4 Piercing damage and 2d8 Necrotic damage, and the target will have the Restrained condition until the end of the user's next turn. |
-| Find Checks (Ferryman): Perception, Investigation, Insight, Arcana<br>Find Checks (Phantom Hearse): Perception, Investigation, Insight, Arcana |
-| Find DCs (Ferryman): 13(x3), 15(x5), 17(x7)<br>Find DCs (Phantom Hearse): 13(x3), 15(x5), 17(x7) |
-| Locations (Ferryman): The Drowned Crossroads, Maidenmist Cementery(Phantom Hearse)<br>Locations (Phantom Hearse): The Drowned Crossroads(Ferryman), Maidenmist Cementery |
+| Find Checks (Ferryman): Perception, Investigation, Insight, Arcana<br><br>Find Checks (Phantom Hearse): Perception, Investigation, Insight, Arcana<br> |
+| Find DCs (Ferryman): 13(x3), 15(x5), 17(x7)<br><br>Find DCs (Phantom Hearse): 13(x3), 15(x5), 17(x7)<br> |
+| Locations (Ferryman): The Drowned Crossroads, Maidenmist Cementery(Phantom Hearse)<br><br>Locations (Phantom Hearse): The Drowned Crossroads(Ferryman), Maidenmist Cementery<br> |
 
+
+### Coffin Water (Elixir of Fog Walking Base)
 
 |**Coffin Water (Elixir of Fog Walking Base)**|
 |:-|
@@ -1473,6 +1695,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads |
 
 
+### Ghast Blood
+
 |**Ghast Blood**|
 |:-|
 | Monster(s): Ghast |
@@ -1486,6 +1710,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x2) |
 | Locations: The Drowned Crossroads, Maidenmist Cementery |
 
+
+### Bonemeal
 
 |**Bonemeal**|
 |:-|
@@ -1501,6 +1727,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads, Maidenmist Cementery |
 
 
+### Skull
+
 |**Skull**|
 |:-|
 | Monster(s): Skeleton, Ogre Zombie, Ettin |
@@ -1509,10 +1737,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use as ingredient for: _Spells, Wands, Rods, Staffs_ |
 | Crafting Value (when used as ingredient): _20 GP_ |
 | Effect: A skull is always a nice addition to spellcasting tools. You can use this in place of 20 GP worth in materials for casting spells or crafting magic wands, rods, or staffs. |
-| Find Checks (Skeleton): Perception, Investigation, Arcana<br>Find Checks (Ogre Zombie): Perception, Investigation, Arcana<br>Find Checks (Ettin): Perception, Investigation, Arcana |
-| Find DCs (Skeleton): 13(x1)<br>Find DCs (Ogre Zombie): 13(x1)<br>Find DCs (Ettin): 13(x1), 15(x2), 17(x3) |
-| Locations (Skeleton): The Drowned Crossroads(Ogre Zombie), Maidenmist Cementery, Foothill(Ettin)<br>Locations (Ogre Zombie): The Drowned Crossroads, Maidenmist Cementery(Skeleton), Foothill(Ettin)<br>Locations (Ettin): The Drowned Crossroads(Ogre Zombie), Maidenmist Cementery(Skeleton), Foothill |
+| Find Checks (Skeleton): Perception, Investigation, Arcana<br><br>Find Checks (Ogre Zombie): Perception, Investigation, Arcana<br><br>Find Checks (Ettin): Perception, Investigation, Arcana<br> |
+| Find DCs (Skeleton): 13(x1)<br><br>Find DCs (Ogre Zombie): 13(x1)<br><br>Find DCs (Ettin): 13(x1), 15(x2), 17(x3)<br> |
+| Locations (Skeleton): The Drowned Crossroads(Ogre Zombie), Maidenmist Cementery, Foothill(Ettin)<br><br>Locations (Ogre Zombie): The Drowned Crossroads, Maidenmist Cementery(Skeleton), Foothill(Ettin)<br><br>Locations (Ettin): The Drowned Crossroads(Ogre Zombie), Maidenmist Cementery(Skeleton), Foothill<br> |
 
+
+### Homeward Bone Fragment
 
 |**Homeward Bone Fragment**|
 |:-|
@@ -1529,6 +1759,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads, Maidenmist Cementery |
 
 
+### Zombie Fluid
+
 |**Zombie Fluid**|
 |:-|
 | Monster(s): Zombie, Ogre Zombie |
@@ -1539,10 +1771,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Absorb_ |
 | Effect: The energy of undeath is strong in this fluid. You can consume the necrotic energy to add a +2 to hit or spell save DC when casting Necromancy spells, however you must succeed on a DC 13 Wisdom Saving Throw or take 1d4 Necrotic damage. |
 | Cooking Effect: When added in cooking, you can prepare a meal with a special effect for 4 people. When eaten, you take 1d6 Poison damage and have the Poisoned condition for 3 hours. |
-| Find Checks (Zombie): Survival, Perception, Investigation<br>Find Checks (Ogre Zombie): Survival, Perception, Investigation |
-| Find DCs (Zombie): 13(x1), 15(x3)<br>Find DCs (Ogre Zombie): 13(x3), 15(x5), 20(x7) |
-| Locations (Zombie): The Drowned Crossroads(Ogre Zombie), Maidenmist Cementery, The Hartsblight Forest<br>Locations (Ogre Zombie): The Drowned Crossroads, Maidenmist Cementery(Zombie), The Hartsblight Forest(Zombie) |
+| Find Checks (Zombie): Survival, Perception, Investigation<br><br>Find Checks (Ogre Zombie): Survival, Perception, Investigation<br> |
+| Find DCs (Zombie): 13(x1), 15(x3)<br><br>Find DCs (Ogre Zombie): 13(x3), 15(x5), 20(x7)<br> |
+| Locations (Zombie): The Drowned Crossroads(Ogre Zombie), Maidenmist Cementery, The Hartsblight Forest<br><br>Locations (Ogre Zombie): The Drowned Crossroads, Maidenmist Cementery(Zombie), The Hartsblight Forest(Zombie)<br> |
 
+
+### Curse Bottle
 
 |**Curse Bottle**|
 |:-|
@@ -1559,6 +1793,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads |
 
 
+### Nectar of the Green Man
+
 |**Nectar of the Green Man**|
 |:-|
 | Monster(s): The Grinning Sinner |
@@ -1568,6 +1804,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1), Auto Success on Fated Tarot: The Emperor (x1) |
 | Locations: The Drowned Crossroads |
 
+
+### Jinxed Rum
 
 |**Jinxed Rum**|
 |:-|
@@ -1579,6 +1817,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads |
 
 
+### Random Magic Item (DMG p.327) (Very Rare)
+
 |**Random Magic Item (DMG p.327) (Very Rare)**|
 |:-|
 | Monster(s): The Grinning Sinner |
@@ -1588,6 +1828,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Emperor (x3) |
 | Locations: Ghostlight Crashsite, The Crooked House, The Bag |
 
+
+### Blunderbuss of the Grinning Sinner
 
 |**Blunderbuss of the Grinning Sinner**|
 |:-|
@@ -1599,6 +1841,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1), Auto Success on Fated Tarot: The Emperor (x1) |
 | Locations: The Drowned Crossroads |
 
+
+### Black Slime
 
 |**Black Slime**|
 |:-|
@@ -1615,6 +1859,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Drowned Crossroads |
 
 
+### Soul Embers
+
 |**Soul Embers**|
 |:-|
 | Monster(s): Will-o'-Wisp |
@@ -1628,6 +1874,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1) |
 | Locations: The Drowned Crossroads |
 
+
+### Dream Shard
 
 |**Dream Shard**|
 |:-|
@@ -1643,6 +1891,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Dream Orb
+
 |**Dream Orb**|
 |:-|
 | Monster(s): Dream Eater (Side Quest Boss Monster) |
@@ -1655,6 +1905,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Dream Eater Blood
+
 |**Dream Eater Blood**|
 |:-|
 | Monster(s): Dream Eater, Dream Eater (Side Quest Boss Monster) |
@@ -1664,10 +1916,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _2500 GP_ |
 | Effect: The blood of the Dream Eater can be used in place of 2500 GP for crafting magic items. |
 | Cooking Effect: When used to cook food, you can prepare food with a special effect for up to 2 people. When eaten, your eyes become filled with hypnotic swirls for 12 hours. You can cast Charm Person at will for the duration. |
-| Find Checks (Dream Eater): Survival, Nature, Arcana<br>Find Checks (Dream Eater (Side Quest Boss Monster)): Survival, Nature, Arcana |
-| Find DCs (Dream Eater): 20(x1)<br>Find DCs (Dream Eater (Side Quest Boss Monster)): 20(x1) |
-| Locations (Dream Eater): Maidenmist Cementery<br>Locations (Dream Eater (Side Quest Boss Monster)): Maidenmist Cementery |
+| Find Checks (Dream Eater): Survival, Nature, Arcana<br><br>Find Checks (Dream Eater (Side Quest Boss Monster)): Survival, Nature, Arcana<br> |
+| Find DCs (Dream Eater): 20(x1)<br><br>Find DCs (Dream Eater (Side Quest Boss Monster)): 20(x1)<br> |
+| Locations (Dream Eater): Maidenmist Cementery<br><br>Locations (Dream Eater (Side Quest Boss Monster)): Maidenmist Cementery<br> |
 
+
+### Dream Eater Feather
 
 |**Dream Eater Feather**|
 |:-|
@@ -1678,10 +1932,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _2000 GP_ |
 | Use: _Activate, Fire with arrow_ |
 | Effect: When activated, or when tied to an ammunition and it hits a target, an emanation of hypnotic light in a 10 ft radius sphere is generated from the feather, and creatures in the area make a DC 16 Wisdom Saving Throw, becoming Incapacitated and having their Speed reduced to 0 until the start of the user's next turn on a failure. The feather can be used as is, tied to ammunition, or as 2000 GP worth of materials towards the 10,000 GP necessary to craft Dream Eater Ammunition (Very Rare)(10), or towards the 20,000 GP necessary to craft a Cloak of the Dream Eater (Very Rare) |
-| Find Checks (Dream Eater): Survival, Nature, Arcana<br>Find Checks (Dream Eater (Side Quest Boss Monster)): Survival, Nature, Arcana |
-| Find DCs (Dream Eater): 15(x1), 17(x2), 20(x3), 23(x5)<br>Find DCs (Dream Eater (Side Quest Boss Monster)): 15(x1), 17(x2), 20(x3), 23(x5) |
-| Locations (Dream Eater): Maidenmist Cementery<br>Locations (Dream Eater (Side Quest Boss Monster)): Maidenmist Cementery |
+| Find Checks (Dream Eater): Survival, Nature, Arcana<br><br>Find Checks (Dream Eater (Side Quest Boss Monster)): Survival, Nature, Arcana<br> |
+| Find DCs (Dream Eater): 15(x1), 17(x2), 20(x3), 23(x5)<br><br>Find DCs (Dream Eater (Side Quest Boss Monster)): 15(x1), 17(x2), 20(x3), 23(x5)<br> |
+| Locations (Dream Eater): Maidenmist Cementery<br><br>Locations (Dream Eater (Side Quest Boss Monster)): Maidenmist Cementery<br> |
 
+
+### Dream Eater Ammunition
 
 |**Dream Eater Ammunition**|
 |:-|
@@ -1691,6 +1947,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: Ammunition magically enchanted with the remains of a Dream Eater. When it hits a target, an emanation of hypnotic light in a 10 ft radius sphere is generated from the ammunition, and creatures in the area make a DC 16 Wisdom Saving Throw, becoming Incapacitated and having their Speed reduced to 0 until the start of the user's next turn on a failure. |
 
 
+### Cloak of the Dream Eater
+
 |**Cloak of the Dream Eater**|
 |:-|
 | Monster(s): - |
@@ -1698,6 +1956,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Very Rare)(Requires Attunement)_ |
 | Effect: Filled with hypnotic patterns, this cloak can confuse and entrance people like the Dream Eater used to. The cloak has 5 charges. While wearing the cloak and attuned to it, you can spend 1 charge and use a Magic Action to extend the cloak and reveal the hypnotic patterns on the inside lining. Creatures in a 20 ft Cube from you that are able to see the inside lining of the cloak must succeed on a DC 16 Wisdom Saving Throw or become Incapacitated and have their Speed reduced to 0 until the start of your next turn. You can also spend 1 charge and gain a Flying Speed equal to your ground speed for 1 hour. You can also use 1 charge and a Magic Action to consume the energy of an Incapacitated creature, which take 4d8 Psychic damage and their Charisma score is reduced by 1d6. The cloak regains 1d6 charges on a Long Rest up to its maximum. |
 
+
+### Bug Parts
 
 |**Bug Parts**|
 |:-|
@@ -1708,10 +1968,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _13 GP_ |
 | Effect: Bug parts are often used in enchantments and potions |
 | Cooking Effect: Ew! When added to cooking, you can cook for 1 person. When the food is eaten, you take 1d4 Poison damage, and for 1 hour, all your attacks also deal +1d4 Potion damage |
-| Find Checks (Skitterswarm): Survival, Perception, Investigation, Nature<br>Find Checks (Giant Centipede): Survival, Perception, Investigation, Nature |
-| Find DCs (Skitterswarm): 13(x1), 17(x3)<br>Find DCs (Giant Centipede): 13(x1), 17(x3) |
-| Locations (Skitterswarm): Moors, Wickermoor Village, Skitterdeep Mine<br>Locations (Giant Centipede): Moors, Wickermoor Village, Skitterdeep Mine |
+| Find Checks (Skitterswarm): Survival, Perception, Investigation, Nature<br><br>Find Checks (Giant Centipede): Survival, Perception, Investigation, Nature<br> |
+| Find DCs (Skitterswarm): 13(x1), 17(x3)<br><br>Find DCs (Giant Centipede): 13(x1), 17(x3)<br> |
+| Locations (Skitterswarm): Moors, Wickermoor Village, Skitterdeep Mine<br><br>Locations (Giant Centipede): Moors, Wickermoor Village, Skitterdeep Mine<br> |
 
+
+### Giant Carapace
 
 |**Giant Carapace**|
 |:-|
@@ -1728,15 +1990,19 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Skitterdeep Mine, Vermintoll Abomination Lair |
 
 
+### Random Armament (DMG p.328) (Rare or Uncommon)
+
 |**Random Armament (DMG p.328) (Rare or Uncommon)**|
 |:-|
 | Monster(s): Fleshdobbin, Undead Centaur |
-| Source: (Fleshdobbin): The Crooked Moon<br>Source: (Undead Centaur): Monster Manual |
+| Source: (Fleshdobbin): The Crooked Moon<br><br>Source: (Undead Centaur): Monster Manual<br> |
 | _Armament (Rare)_ |
-| Find Checks (Fleshdobbin): Survival, Perception, Investigation<br>Find Checks (Undead Centaur): Survival, Perception, Investigation |
-| Find DCs (Fleshdobbin): <br>Find DCs (Undead Centaur):  |
-| Locations (Fleshdobbin): Skitterdeep Mine, Moors, Foxwillow (Galloping Headsman riled), Maidenmist Cementery<br>Locations (Undead Centaur): Skitterdeep Mine, Moors, Foxwillow (Galloping Headsman riled), Maidenmist Cementery |
+| Find Checks (Fleshdobbin): Survival, Perception, Investigation<br><br>Find Checks (Undead Centaur): Survival, Perception, Investigation<br> |
+| Find DCs (Fleshdobbin): <br><br>Find DCs (Undead Centaur): <br> |
+| Locations (Fleshdobbin): Skitterdeep Mine, Moors, Foxwillow (Galloping Headsman riled), Maidenmist Cementery<br><br>Locations (Undead Centaur): Skitterdeep Mine, Moors, Foxwillow (Galloping Headsman riled), Maidenmist Cementery<br> |
 
+
+### Memento
 
 |**Memento**|
 |:-|
@@ -1744,10 +2010,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Source: Home-brew |
 | _Mundane_ |
 | Effect: Locket with pictures of a loved one |
-| Find Checks (Fleshdobbin): Survival, Perception, Investigation<br>Find Checks (Deepdrek): Survival, Perception, Investigation |
-| Find DCs (Fleshdobbin): 13(x1)<br>Find DCs (Deepdrek): 13(x1) |
-| Locations (Fleshdobbin): Skitterdeep Mines<br>Locations (Deepdrek): Skitterdeep Mines |
+| Find Checks (Fleshdobbin): Survival, Perception, Investigation<br><br>Find Checks (Deepdrek): Survival, Perception, Investigation<br> |
+| Find DCs (Fleshdobbin): 13(x1)<br><br>Find DCs (Deepdrek): 13(x1)<br> |
+| Locations (Fleshdobbin): Skitterdeep Mines<br><br>Locations (Deepdrek): Skitterdeep Mines<br> |
 
+
+### Random Implement (DMG p.329)(Uncommon)
 
 |**Random Implement (DMG p.329)(Uncommon)**|
 |:-|
@@ -1758,6 +2026,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1) |
 | Locations: Skitterdeep Mines |
 
+
+### Gunpowder
 
 |**Gunpowder**|
 |:-|
@@ -1773,6 +2043,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Skitterdeep Mines |
 
 
+### Crooked Moon Seance Ring
+
 |**Crooked Moon Seance Ring**|
 |:-|
 | Monster(s): Centipede Hag |
@@ -1783,6 +2055,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1), Auto Success on Fated Tarot: The Star (x1) |
 | Locations: Skitterdeep Mines |
 
+
+### Contagious Ooze
 
 |**Contagious Ooze**|
 |:-|
@@ -1799,6 +2073,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Skitterdeep Mines |
 
 
+### Bag of Vile Filth
+
 |**Bag of Vile Filth**|
 |:-|
 | Monster(s): Centipede Hag |
@@ -1810,6 +2086,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 20(x2), Auto Success on Fated Tarot: The Star (x2) |
 | Locations: Skitterdeep Mines |
 
+
+### Memory Fragment
 
 |**Memory Fragment**|
 |:-|
@@ -1825,6 +2103,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Random Arcana (DMG p.327) (Common)
+
 |**Random Arcana (DMG p.327) (Common)**|
 |:-|
 | Monster(s): Mutant Nurse |
@@ -1835,6 +2115,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Memory's Rest |
 
 
+### Mutant Catalyst
+
 |**Mutant Catalyst**|
 |:-|
 | Monster(s): Mutant Nurse, Serum Brute |
@@ -1844,10 +2126,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _13 GP_ |
 | Use: _Inject_ |
 | Effect: You can use a Bonus Action to inject the stimulant, and until the start of your next turn, your speed is doubled, you can make one more Attack action, and you have a +2 bonus to your Armor Class. However, once the current battle is over, you roll 1d4, and on a 1 you take 1d6 Poison damage. |
-| Find Checks (Mutant Nurse): Perception, Investigation, Medicine<br>Find Checks (Serum Brute): Perception, Investigation, Medicine |
-| Find DCs (Mutant Nurse): 17(x1)<br>Find DCs (Serum Brute): 17(x1) |
-| Locations (Mutant Nurse): Memory's Rest<br>Locations (Serum Brute): Memory's Rest |
+| Find Checks (Mutant Nurse): Perception, Investigation, Medicine<br><br>Find Checks (Serum Brute): Perception, Investigation, Medicine<br> |
+| Find DCs (Mutant Nurse): 17(x1)<br><br>Find DCs (Serum Brute): 17(x1)<br> |
+| Locations (Mutant Nurse): Memory's Rest<br><br>Locations (Serum Brute): Memory's Rest<br> |
 
+
+### Tincture Base
 
 |**Tincture Base**|
 |:-|
@@ -1859,10 +2143,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Drink_ |
 | Effect: This tincture base can be used in place of 13 GP towards the 1,000 GP needed to make a Tincture of Mourning. When drunk directly, you gain a +2 bonus on Wisdom Saving Throws against being Charmed for 1 hour. |
 | Cooking Effect: When used for cooking, you can prepare food with a special effect for up to 4 people. When eaten, you gain a +1 bonus on Wisdom Saving Throws against being Charmed for 2 hours. |
-| Find Checks (Mutant Nurse): Perception, Investigation, Medicine<br>Find Checks (Wormhost Surgeon): Perception, Investigation, Medicine<br>Find Checks (The Weeping Widow): Perception, Investigation, Medicine, Fated Tarot Reading |
-| Find DCs (Mutant Nurse): 15(x3), 17(x6), Auto Success on Fated Tarot: Temperance or The High Priestess (x10)<br>Find DCs (Wormhost Surgeon): 15(x3), 17(x6), Auto Success on Fated Tarot: Temperance or The High Priestess (x10)<br>Find DCs (The Weeping Widow): 15(x3), 17(x6), 20(x10), Auto Success on Fated Tarot: Temperance or The High Priestess (x10) |
-| Locations (Mutant Nurse): Memory's Rest<br>Locations (Wormhost Surgeon): Memory's Rest<br>Locations (The Weeping Widow): Memory's Rest |
+| Find Checks (Mutant Nurse): Perception, Investigation, Medicine<br><br>Find Checks (Wormhost Surgeon): Perception, Investigation, Medicine<br><br>Find Checks (The Weeping Widow): Perception, Investigation, Medicine, Fated Tarot Reading<br> |
+| Find DCs (Mutant Nurse): 15(x3), 17(x6), Auto Success on Fated Tarot: Temperance or The High Priestess (x10)<br><br>Find DCs (Wormhost Surgeon): 15(x3), 17(x6), Auto Success on Fated Tarot: Temperance or The High Priestess (x10)<br><br>Find DCs (The Weeping Widow): 15(x3), 17(x6), 20(x10), Auto Success on Fated Tarot: Temperance or The High Priestess (x10)<br> |
+| Locations (Mutant Nurse): Memory's Rest<br><br>Locations (Wormhost Surgeon): Memory's Rest<br><br>Locations (The Weeping Widow): Memory's Rest<br> |
 
+
+### Infested Bottle
 
 |**Infested Bottle**|
 |:-|
@@ -1878,6 +2164,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Memory's Rest |
 
 
+### Rage Serum
+
 |**Rage Serum**|
 |:-|
 | Monster(s): Hospital Horror |
@@ -1891,6 +2179,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Memory's Rest |
 
+
+### Mutant Blood
 
 |**Mutant Blood**|
 |:-|
@@ -1907,6 +2197,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Memory's Rest |
 
 
+### Cursed Eye
+
 |**Cursed Eye**|
 |:-|
 | Monster(s): Serum Brute |
@@ -1921,6 +2213,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Memory's Rest |
 
 
+### Cursed Eye Prosthetic
+
 |**Cursed Eye Prosthetic**|
 |:-|
 | Monster(s): - |
@@ -1928,6 +2222,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Rare)_ |
 | Effect: You have refined the magic in the cursed eye of the Serum Brute to make a prostethic immitation of its power. You wear this as a prosthetic eye tied to your forehead. The eye has 3 charges. You can spend 1 charge to activate it and become surrounded by a withering gaze for 1 minute, a 5 ft emanation which creatures who enter or start their turn in the emanation take 1d6 Psychic damage. During this time, you can spend 1 charge and a Magic Action to point the eye gaze to a 20 ft Cone area. Creatures in the cone area make a DC 15 Wisdom Saving Throw taking 2d6 Psychic damage and becoming Frightened for the duration on a failure, or half as much damage with no additional effects on a success. The eye recovers 1d3 charges on a long rest. |
 
+
+### Mutant Fire Gland
 
 |**Mutant Fire Gland**|
 |:-|
@@ -1943,6 +2239,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Memory's Rest |
 
 
+### Random Relic or Arcana (DMG p.331) (Rare)
+
 |**Random Relic or Arcana (DMG p.331) (Rare)**|
 |:-|
 | Monster(s): The Weeping Widow |
@@ -1952,6 +2250,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: Temperance or The High Priestess (x3) |
 | Locations: Memory's Rest |
 
+
+### Soporific Concoction
 
 |**Soporific Concoction**|
 |:-|
@@ -1968,6 +2268,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Memory's Rest |
 
 
+### Veil of the Weeping Widow
+
 |**Veil of the Weeping Widow**|
 |:-|
 | Monster(s): The Weeping Widow |
@@ -1978,6 +2280,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1), Auto Success on Fated Tarot: Temperance(x1) |
 | Locations: Memory's Rest |
 
+
+### Poison vial? (found in owlbear nest)(DM only: Owlbear Extract)
 
 |**Poison vial? (found in owlbear nest)(DM only: Owlbear Extract)**|
 |:-|
@@ -1994,6 +2298,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Owlbear Pellet
+
 |**Owlbear Pellet**|
 |:-|
 | Monster(s): Owlbear |
@@ -2008,6 +2314,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Bottled Soul
+
 |**Bottled Soul**|
 |:-|
 | Monster(s): - |
@@ -2018,6 +2326,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Absorb_ |
 | Effect: You can absorb the trapped souls to gain a small boost in spellcasting, gaining +1 to spell attack rolls or spell save DCs for your next spell. |
 
+
+### Owlbear Pelt
 
 |**Owlbear Pelt**|
 |:-|
@@ -2032,6 +2342,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Owlbear Meat
+
 |**Owlbear Meat**|
 |:-|
 | Monster(s): Owlbear |
@@ -2042,6 +2354,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Moonsong Lake |
 
+
+### Bulette Scale
 
 |**Bulette Scale**|
 |:-|
@@ -2057,6 +2371,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Bulette Claw
+
 |**Bulette Claw**|
 |:-|
 | Monster(s): Bulette (Land Shark) |
@@ -2071,6 +2387,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Bulette Pick (Uncommon)
+
 |**Bulette Pick (Uncommon)**|
 |:-|
 | Monster(s): - |
@@ -2078,6 +2396,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Uncommon)_ |
 | Effect: This weapon deals 1d10 Piercing damage.  You can also use this weapon as a focus for your spells. As a Magic Action, you can use it to crush rock or dirt in a 10 ft cube area, creating a traversable path as a tunnel, or an area of difficult terrain. |
 
+
+### Snake Skin
 
 |**Snake Skin**|
 |:-|
@@ -2092,6 +2412,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Snake Meat
+
 |**Snake Meat**|
 |:-|
 | Monster(s): Flying Snake |
@@ -2102,6 +2424,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Moonsong Lake |
 
+
+### Snake Venom
 
 |**Snake Venom**|
 |:-|
@@ -2116,6 +2440,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Antitoxin
+
 |**Antitoxin**|
 |:-|
 | Monster(s): - |
@@ -2124,6 +2450,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Drink, (DM Eyes only: Weapon Enchant)_ |
 | Effect: As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour. (DM Eyes only:The players might have the idea to coat a weapon with the antitoxin in fights against the Hartsblighted. In such a case, they can take a Bonus Action to apply the antitoxin to a weapon or 3 ammunition, and it lasts 1 minute or 1 hit, whichever comes first. When hit, creatures with the Blight Dependent trait are affected as stated.) |
 
+
+### Troll Skin Patch
 
 |**Troll Skin Patch**|
 |:-|
@@ -2138,6 +2466,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1), 15(x2), 20(x4) |
 | Locations: Moonsong Lake |
 
+
+### Troll Blood
 
 |**Troll Blood**|
 |:-|
@@ -2154,6 +2484,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Troll Heart
+
 |**Troll Heart**|
 |:-|
 | Monster(s): Troll |
@@ -2169,6 +2501,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Troll Amulet
+
 |**Troll Amulet**|
 |:-|
 | Monster(s): - |
@@ -2176,6 +2510,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Rare)_ |
 | Effect: This amulet contains the crystallised form of a troll heart preserved in tar. While wearing and attuned to this amulet, you may spend an action to activate it. For the next minute, you regain 10 hit points at the start of your turn so long as you haven’t taken acid or fire damage since the end of your last turn and so long as you start your turn with at least 1 hit point. Once you have used this ability once, you cannot use it again until the next dawn. |
 
+
+### Purple Worm Blood
 
 |**Purple Worm Blood**|
 |:-|
@@ -2192,6 +2528,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Purple Worm Tooth
+
 |**Purple Worm Tooth**|
 |:-|
 | Monster(s): Purple Worm |
@@ -2206,6 +2544,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Purple Worm Excavator Pick (Very Rare)
+
 |**Purple Worm Excavator Pick (Very Rare)**|
 |:-|
 | Monster(s): - |
@@ -2213,6 +2553,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Very Rare)(Requires Attunement)_ |
 | Effect: This weapon deals 1d12 Piercing damage and 1d8 Acid damage on a hit. You can also use this weapon as a focus for your spells. As a Magic Action, you can use it to destroy rock or dirt in a 20 ft cube, making a traversable path, or creating difficult terrain. You can also use a Magic Action to create an Earthquake effect in a 40 ft square adjacent to a point you can swing the pick at. The area immediately becomes shaking earth and difficult terrain, and creatures in the area make a DC 20 Dexterity Saving Throw, failing which they take 4d6 Bludgeoning damage and are Prone until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. On subsequent turns for 1 minute, the area continues to shake and creatures ending their movement in the area make another DC 20 Dexterity Saving Throw and take 2d6 Bludgeoning damage and become Prone again until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. Once you use the Earthquake effect, it can’t be used again until the next dawn. |
 
+
+### Purple Worm Stomach Acid
 
 |**Purple Worm Stomach Acid**|
 |:-|
@@ -2227,6 +2569,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 20(x2) |
 | Locations: Moonsong Lake |
 
+
+### Purple Worm Stinger
 
 |**Purple Worm Stinger**|
 |:-|
@@ -2243,6 +2587,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moonsong Lake |
 
 
+### Purple Worm Antitoxin
+
 |**Purple Worm Antitoxin**|
 |:-|
 | Monster(s): - |
@@ -2251,6 +2597,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Inject, (DM Eyes only:Weapon Enchant)_ |
 | Effect: When the antidote is injected, you have immunity to the Poisoned condition and resistance to Poison damage for 24 hours. (DM Eyes only: The players might have the idea to coat a weapon with the antitoxin in fights against the Hartsblighted. In such a case, they can take a Bonus Action to apply the antitoxin to a weapon or 10 ammunition, and it lasts 1 hour. When hit, creatures with the Blight Dependent trait are affected as stated. |
 
+
+### Decaying Staff
 
 |**Decaying Staff**|
 |:-|
@@ -2266,6 +2614,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Staff of Decay
+
 |**Staff of Decay**|
 |:-|
 | Monster(s): - |
@@ -2273,6 +2623,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Staff (Rare)_ |
 | Effect: The staff deals 1d8 Bludgeoning damage or 1d10 Bludgeoning damage when wielded as a two-handed weapon, and deals an additional 1d6 Necrotic damage on a hit. You can also use this weapon as a focus for your spells. The staff has 3 charges. You can spend 1 charge to cast the spell Blight. Alternatively, you can spend 1 charge to create Frenzying Spores, with which you target a creature you can see 30 ft from you and they make a DC 16 Wisdom Saving Throw. On a failure, the target takes 3d6 Psychic damage, and they must take a Reaction to attack a creature you decide that is within range of the attack. On a successful save they take half damage and no additional effect. Alternatively, you can spend 1 charge to create a 60 ft radius field of fungi that lasts for 1 minute. For the duration, creatures in the area (excluding you) have the Poisoned condition, and the area is Difficult Terrain. |
 
+
+### Spongy Fungus Ball
 
 |**Spongy Fungus Ball**|
 |:-|
@@ -2287,6 +2639,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1), 15(x3), 20(x5), Auto Success on Fated Tarot: The Hermit (x5) |
 | Locations: The Hartsblight Forest |
 
+
+### Luminous Mushroom
 
 |**Luminous Mushroom**|
 |:-|
@@ -2303,6 +2657,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Soporiphic Mushroom
+
 |**Soporiphic Mushroom**|
 |:-|
 | Monster(s): Keeper of the Blight |
@@ -2318,6 +2674,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Rotting Spores
+
 |**Rotting Spores**|
 |:-|
 | Monster(s): Rotweaver, Violet Fungus |
@@ -2327,10 +2685,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _13 GP_ |
 | Use: _Weapon Enchant_ |
 | Effect: You can use a Bonus Action to apply this to a weapon or 5 pieces of ammunition. When applied to a weapon or 5 ammunition, hits with that weapon or ammunition will also incur the Poisoned condition. However you must succeed on a DC 13 Constitution Saving Throw or also be Poisoned after applying it. |
-| Find Checks (Rotweaver): Survival, Nature<br>Find Checks (Violet Fungus): Survival, Nature |
-| Find DCs (Rotweaver): 13(x2), 15(x4)<br>Find DCs (Violet Fungus): 13(x2), 15(x4) |
-| Locations (Rotweaver): The Hartsblight Forest, Maidenmist Cementery<br>Locations (Violet Fungus): The Hartsblight Forest, Maidenmist Cementery |
+| Find Checks (Rotweaver): Survival, Nature<br><br>Find Checks (Violet Fungus): Survival, Nature<br> |
+| Find DCs (Rotweaver): 13(x2), 15(x4)<br><br>Find DCs (Violet Fungus): 13(x2), 15(x4)<br> |
+| Locations (Rotweaver): The Hartsblight Forest, Maidenmist Cementery<br><br>Locations (Violet Fungus): The Hartsblight Forest, Maidenmist Cementery<br> |
 
+
+### Vine-wrapped Rib
 
 |**Vine-wrapped Rib**|
 |:-|
@@ -2340,10 +2700,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use as ingredient for: _Weapons, Rods, Wands, Staffs, Rings, Wondrous Items, Spells_ |
 | Crafting Value (when used as ingredient): _250 GP_ |
 | Effect: All that is left of the hartsblighted amalgamation of creatures in these rotten remains is what looks to be once the rib of a large beast wrapped in vines, thrumming with the energy of growth. You can use this as a weapon that deals 1d8 Slashing damage and 2d8 Necrotic damage. It has 5 charges, and you can spend 1 charge to cast the spell Thorn Whip from it. Once you spend all charges or hit with the weapon 20 times, the vine breaks the bone and becomes unusable. Repairing the bone with magic does not return its properties and it instead becomes simply an improvised weapon. |
-| Find Checks (Rotting Amalgamation (Mammoth)): Survival, Nature, Religion<br>Find Checks (The Beast of Blight): Survival, Nature, Religion, Fated Tarot Reading |
-| Find DCs (Rotting Amalgamation (Mammoth)): 15(x1), 17(x2)<br>Find DCs (The Beast of Blight): 13(x1), 15(x2), 17(x2), 20(x3), Auto Success on Fated Tarot Reading: Death (x3) |
-| Locations (Rotting Amalgamation (Mammoth)): The Hartsblight Forest<br>Locations (The Beast of Blight): The Hartsblight Forest |
+| Find Checks (Rotting Amalgamation (Mammoth)): Survival, Nature, Religion<br><br>Find Checks (The Beast of Blight): Survival, Nature, Religion, Fated Tarot Reading<br> |
+| Find DCs (Rotting Amalgamation (Mammoth)): 15(x1), 17(x2)<br><br>Find DCs (The Beast of Blight): 13(x1), 15(x2), 17(x2), 20(x3), Auto Success on Fated Tarot Reading: Death (x3)<br> |
+| Locations (Rotting Amalgamation (Mammoth)): The Hartsblight Forest<br><br>Locations (The Beast of Blight): The Hartsblight Forest<br> |
 
+
+### Halden Wreath's Memory Shard
 
 |**Halden Wreath's Memory Shard**|
 |:-|
@@ -2358,6 +2720,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 18(x1) |
 | Locations: The Hartsblight Forest |
 
+
+### (Tainted) Strange fruit
 
 |**(Tainted) Strange fruit**|
 |:-|
@@ -2374,6 +2738,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Hartsblighted Dog's Saliva
+
 |**Hartsblighted Dog's Saliva**|
 |:-|
 | Monster(s): Hartsblighted Dog (Death Dog) |
@@ -2389,6 +2755,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Necrotic Salve
+
 |**Necrotic Salve**|
 |:-|
 | Monster(s): Rotting Shambling Mound |
@@ -2402,6 +2770,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 20(x2), 25(x3) |
 | Locations: The Hartsblight Forest |
 
+
+### Gloomwood Lichen Clump
 
 |**Gloomwood Lichen Clump**|
 |:-|
@@ -2418,6 +2788,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Gloomwood Stump
+
 |**Gloomwood Stump**|
 |:-|
 | Monster(s): Gloomwood |
@@ -2432,6 +2804,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Gloomwood Maul
+
 |**Gloomwood Maul**|
 |:-|
 | Monster(s): - |
@@ -2439,6 +2813,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Very Rare)(Requires Attunement)_ |
 | Effect: Built from the rotting stump of a Gloomwood, you have harnessed its energy for your benefit. When you attack with it you deal 2d6 Bludgeoning damage and 2d6 Necrotic damage. You can also use this weapon as a focus for your spells. The Gloomwood Maul has 3 charges. As a Magic action you can spend 1 charge to add a necrotic blast when you attack with it. When doing this, calculate the hit and damage after hitting normally, and then a blast of necrotic spores will explode in a 20 ft radius. Creatures in the radius, excluding you, make a DC 17 Constitution saving throw. On a failure they take 8d8 Poison damage and have the Poisoned condition until the start of your next turn. The Gloomwood Maul recovers 1d3 charges at a long rest. |
 
+
+### Poison Mushroom
 
 |**Poison Mushroom**|
 |:-|
@@ -2455,6 +2831,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Green Man Sap (Nectar of the Green Man base)
+
 |**Green Man Sap (Nectar of the Green Man base)**|
 |:-|
 | Monster(s): Glomwood |
@@ -2468,6 +2846,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Gold Pine Resin
+
 |**Gold Pine Resin**|
 |:-|
 | Monster(s): Gloomwood, Awakened Tree |
@@ -2478,10 +2858,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Weapon Enchant_ |
 | Effect: This gold shimering resin is somehow electrically charged. You can use a Bonus Action to apply this to a weapon, which will be electrified for 1 minute. You deal +1d6 Lightning damage for the duration |
 | Cooking Effect: If you add this to a meal, you can prepare food with a special effect for up to 4 people. When eaten, you gain resistance to Lightning damage for 10 minutes. |
-| Find Checks (Gloomwood): Survival, Nature<br>Find Checks (Awakened Tree): Survival, Nature |
-| Find DCs (Gloomwood): 15(x1), 20(x3)<br>Find DCs (Awakened Tree): 15(x1), 20(x1) |
-| Locations (Gloomwood): The Hartsblight Forest<br>Locations (Awakened Tree): The Hartsblight Forest |
+| Find Checks (Gloomwood): Survival, Nature<br><br>Find Checks (Awakened Tree): Survival, Nature<br> |
+| Find DCs (Gloomwood): 15(x1), 20(x3)<br><br>Find DCs (Awakened Tree): 15(x1), 20(x1)<br> |
+| Locations (Gloomwood): The Hartsblight Forest<br><br>Locations (Awakened Tree): The Hartsblight Forest<br> |
 
+
+### Bouncing Mushroom
 
 |**Bouncing Mushroom**|
 |:-|
@@ -2498,6 +2880,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Bounceback Ring
+
 |**Bounceback Ring**|
 |:-|
 | Monster(s): - |
@@ -2505,6 +2889,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Rare)_ |
 | Effect: A ring with a brown gemstone resembling a Bouncing Mushroom. When worn, any time you get knocked Prone without becoming Unconcious, you bounce back up. Once you bounce back up from the magic of this ring, you can't use this feature until you have a Short Rest or a Long Rest. |
 
+
+### Poison Mushroom
 
 |**Poison Mushroom**|
 |:-|
@@ -2521,6 +2907,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Luminous Mushroom
+
 |**Luminous Mushroom**|
 |:-|
 | Monster(s): Festerhulk |
@@ -2535,6 +2923,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 10(x1), 13(x2), 15(x3), 20(x4) |
 | Locations: The Hartsblight Forest |
 
+
+### Soporiphic Mushroom
 
 |**Soporiphic Mushroom**|
 |:-|
@@ -2551,6 +2941,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Energetic Mushroom
+
 |**Energetic Mushroom**|
 |:-|
 | Monster(s): Festerhulk |
@@ -2566,6 +2958,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Cloranthy Ring
+
 |**Cloranthy Ring**|
 |:-|
 | Monster(s): - |
@@ -2573,6 +2967,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Rare, Very Rare)_ |
 | Effect: A ring with concentrical leaf-like patterns resembling the Energetic Mushroom cap. While you are wearing this ring, you can use a free action to activate it and gain the ability to Dash or Dodge as a Bonus Action for (Rare: 1 hour, Very Rare: 24 hours). Once you have used this feature, you can't use it again until you have a Long Rest. |
 
+
+### Steelcap Mushroom
 
 |**Steelcap Mushroom**|
 |:-|
@@ -2584,10 +2980,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Eat_ |
 | Effect: A greyish black capped thick-stemmed mushroom. You can eat this to gain a boost in your constitution. Your Armor Class has a +1 bonus and you have a +1 bonus in Constitution Saving Throws for 1 minute. You can also use this as 50 GP worth in materials towards the 2000 GP necessary to make a Ring of Fortitude (Rare) or the 20,000 GP necessary to make a Ring of Fortitude (Very Rare). |
 | Cooking Effect: You can cook this to make food for 1 person. When eaten, you gain a +1 bonus to your Armor Class and +1 bonus to your Constitution Saving Throws for 10 minutes. |
-| Find Checks (Festerhulk): Survival, Nature, Alchemist Kit<br>Find Checks (The Beast of Blight): Survival, Nature, Alchemist Kit, Fated Tarot Reading |
-| Find DCs (Festerhulk): 10(x1), 13(x2), 15(x3), 20(x4)<br>Find DCs (The Beast of Blight): 10(x1), 13(x2), 15(x3), 20(x4), Auto Success on Fated Tarot Reading: Death (x4) |
-| Locations (Festerhulk): The Hartsblight Forest<br>Locations (The Beast of Blight): The Hartsblight Forest |
+| Find Checks (Festerhulk): Survival, Nature, Alchemist Kit<br><br>Find Checks (The Beast of Blight): Survival, Nature, Alchemist Kit, Fated Tarot Reading<br> |
+| Find DCs (Festerhulk): 10(x1), 13(x2), 15(x3), 20(x4)<br><br>Find DCs (The Beast of Blight): 10(x1), 13(x2), 15(x3), 20(x4), Auto Success on Fated Tarot Reading: Death (x4)<br> |
+| Locations (Festerhulk): The Hartsblight Forest<br><br>Locations (The Beast of Blight): The Hartsblight Forest<br> |
 
+
+### Ring of Fortitude
 
 |**Ring of Fortitude**|
 |:-|
@@ -2596,6 +2994,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Rare, Very Rare)_ |
 | Effect: A ring with a greyish black stone that looks like a Steelcap Mushroom. While you are wearing this ring, you can use a free action to activate it and gain a boost in your constitution. Your Armor Class has a +1 bonus and you have a +1 bonus in Constitution Saving Throws for (Rare: 1 hour, Very Rare: 24 hours). Once you have used this feature, you can't use it again until you have a Long Rest. |
 
+
+### Sharpcap Mushroom
 
 |**Sharpcap Mushroom**|
 |:-|
@@ -2612,6 +3012,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Paralytic Mushroom
+
 |**Paralytic Mushroom**|
 |:-|
 | Monster(s): Festerhulk |
@@ -2626,6 +3028,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 10(x1), 13(x2), 15(x3), 20(x4) |
 | Locations: The Hartsblight Forest |
 
+
+### Elizabeth's Mushroom
 
 |**Elizabeth's Mushroom**|
 |:-|
@@ -2642,6 +3046,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Festering Skull Mushroom
+
 |**Festering Skull Mushroom**|
 |:-|
 | Monster(s): Festerhulk, The Beast of Blight |
@@ -2652,10 +3058,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Weapon Enchant_ |
 | Effect: A very rare mushroom, told only in fables and stories by fungal enthusiasts, it's cap is shaped like a skull with black ooze pouring from the eye sockets. It produces a poison so strong it can almost kill an Owlbear twice over. You can use a Bonus Action to cover a weapon or 1 ammunition with its spores. Until you deal a hit with the weapon or ammunition, the poisonous effect remains. On a hit, a target must make a DC 23 Constitution Saving Throw. On a failure, the target takes 12d8 Poison damage and has the Poisoned condition. On a successful save, the target takes half damage and no additional effects. |
 | Cooking Effect: You must have the Poisoner's Kit or the Alchemist Kit proficiency to handle this mushroom, but you can refine a powerful antitoxin from it in 1 hour with either kit. When drank, you end the Poisoned condition if you have it, and gain immunity to Poison damage for 1 hour, and resistance to Poison damage for 24 hours. |
-| Find Checks (Festerhulk): Survival, Nature, Poisoner's Kit, Alchemist Kit, Fated Tarot Reading<br>Find Checks (The Beast of Blight): Survival, Nature, Poisoner's Kit, Alchemist Kit, Fated Tarot Reading |
-| Find DCs (Festerhulk): 27(x1)<br>Find DCs (The Beast of Blight): 20(x1), 27(x1), Auto Success on Fated Tarot Reading: Death (x1) |
-| Locations (Festerhulk): The Hartsblight Forest<br>Locations (The Beast of Blight): The Hartsblight Forest |
+| Find Checks (Festerhulk): Survival, Nature, Poisoner's Kit, Alchemist Kit, Fated Tarot Reading<br><br>Find Checks (The Beast of Blight): Survival, Nature, Poisoner's Kit, Alchemist Kit, Fated Tarot Reading<br> |
+| Find DCs (Festerhulk): 27(x1)<br><br>Find DCs (The Beast of Blight): 20(x1), 27(x1), Auto Success on Fated Tarot Reading: Death (x1)<br> |
+| Locations (Festerhulk): The Hartsblight Forest<br><br>Locations (The Beast of Blight): The Hartsblight Forest<br> |
 
+
+### Black Ooze
 
 |**Black Ooze**|
 |:-|
@@ -2670,6 +3078,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: The Hartsblight Forest |
 
+
+### Hallucinatory Mushroom
 
 |**Hallucinatory Mushroom**|
 |:-|
@@ -2686,6 +3096,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Random Relic (DMG p.331) (Very Rare)
+
 |**Random Relic (DMG p.331) (Very Rare)**|
 |:-|
 | Monster(s): The Beast of Blight |
@@ -2695,6 +3107,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 17(x2), 20(x3), Auto Success on Fated Tarot Reading: Death (x3) |
 | Locations: The Hartsblight Forest |
 
+
+### Idol of the Beast of Blight
 
 |**Idol of the Beast of Blight**|
 |:-|
@@ -2706,6 +3120,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1), Auto Success on Fated Tarot Reading: Death (x1) |
 | Locations: The Hartsblight Forest |
 
+
+### Strange Fruit
 
 |**Strange Fruit**|
 |:-|
@@ -2722,6 +3138,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Hartsblight Forest |
 
 
+### Vengeful Essence (Reaper's Revenge base)
+
 |**Vengeful Essence (Reaper's Revenge base)**|
 |:-|
 | Monster(s): Shrouded |
@@ -2735,6 +3153,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 17(x2) |
 | Locations: Maidenmist Cementery |
 
+
+### Mummified Finger
 
 |**Mummified Finger**|
 |:-|
@@ -2751,6 +3171,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Mummy's Wraps
+
 |**Mummy's Wraps**|
 |:-|
 | Monster(s): Mummy |
@@ -2765,6 +3187,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Wraps of the Lotus
+
 |**Wraps of the Lotus**|
 |:-|
 | Monster(s): - |
@@ -2772,6 +3196,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Varies)(Requires Attunement)_ |
 | Effect: Wraps imbued with extreme athletic power. You gain a (Rare:+1,Very Rare:+2,Legendary:+3) bonus to attack and damage rolls with Unarmed Strikes. You also gain a (Rare:+1,Very Rare:+2,Legendary:+3) bonus in Athletics and Acrobatics. The wraps have (Rare:3,Very Rare:5,Legendary:8) charges. Whenever you make an Unarmed Strike, you can use 1 charge to violently launch the target 10 ft into the air. You can expend an extra charge to add 10 ft, and each time you do, you jump and do an Unarmed Strike midair to launch the target higher. You Grapple the target mid air and rotate it upside down towards the ground, adding 1d6 per charge spent to whatever fall damage they might suffer. You can spend 5 charges to deal an additional 2 Unarmed Strikes without launcihng it further up, which might be useful in lower ceiled areas. You can spend 1 charge to avoid any fall damage you might suffer from jumping so high. The wraps regain (Rare: 1d3, Very Rare: 1d6, Legendary:1d10) charges up to their maximum on a Long rest. |
 
+
+### Vengeful Wrath
 
 |**Vengeful Wrath**|
 |:-|
@@ -2787,6 +3213,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Ghastly Horseshoe
+
 |**Ghastly Horseshoe**|
 |:-|
 | Monster(s): Phantom Hearse |
@@ -2800,6 +3228,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x2), 15(x4), 20(x8) |
 | Locations: Maidenmist Cementery |
 
+
+### Tolling Bell
 
 |**Tolling Bell**|
 |:-|
@@ -2815,6 +3245,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Hearse's Toll
+
 |**Hearse's Toll**|
 |:-|
 | Monster(s): - |
@@ -2823,6 +3255,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Ring_ |
 | Effect: The tolling bell on the carriage precedes the apparition’s appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot. The bell has 2 charges. You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn. The bell regains 1d2 charges per long rest. |
 
+
+### Coachman's Whip
 
 |**Coachman's Whip**|
 |:-|
@@ -2835,6 +3269,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Maidenmist Cementery |
 
+
+### Mephit Muck ball
 
 |**Mephit Muck ball**|
 |:-|
@@ -2851,6 +3287,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Necrolisk Slime
+
 |**Necrolisk Slime**|
 |:-|
 | Monster(s): Necrolisk |
@@ -2866,6 +3304,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Necrolisk Claw
+
 |**Necrolisk Claw**|
 |:-|
 | Monster(s): Necrolisk |
@@ -2880,6 +3320,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Spirit Hunting Knife
+
 |**Spirit Hunting Knife**|
 |:-|
 | Monster(s): - |
@@ -2887,6 +3329,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Rare)_ |
 | Effect: This knife, dagger or sickle is attuned to the spirit hunting claws of the Necrolisk. You can also use this weapon as a focus for your spells. When you attack, you deal the damage for the weapon type, and an additional 1d4 Force damage. The weapon has 3 charges. You can spend one of these charges to strike the ground and disturb nearby undead spirits with an Intelligence score lower than 10 in a 300 ft radius. They become hostile to you and pursue you, abandoning whatever other thing they were doing. If it is already hostile towards your party, it now becomes focused on you for the next 10 minutes. The weapon regains 1d3 charges on a Long Rest up to its maximum. |
 
+
+### Necrolisk Blood
 
 |**Necrolisk Blood**|
 |:-|
@@ -2903,6 +3347,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Shroudbane Weapon
+
 |**Shroudbane Weapon**|
 |:-|
 | Monster(s): - |
@@ -2910,6 +3356,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Very Rare)(Requires Attunement)_ |
 | Effect: A weapon coated with the blood of the spirit devouring Necrolisk. The weapon ignores resistances to Slashing, Piercing or Bludgeoning damage caused by a creature being incorporeal, and adds 1d6 Force damage to hits, or 3d6 Force damage for incorporeal creatures. You can also use this weapon as a focus for your spells. The weapon has a +2 bonus to attack and damage rolls. As a Magic Action, you can shoot an ephemeral slime ball to a point, which explodes in a 30 ft radius sphere. Any spirits or otherwise incorporeal creatures in the area must succeed on a DC 15 Dexterity Saving Throw or be Restrained for 1 minute (escape DC 12). While Restrained this way, the spirit takes 1d10 Force damage at the start of each of its turns. |
 
+
+### Shroud Repellent Armor (Shield or Clothing)
 
 |**Shroud Repellent Armor (Shield or Clothing)**|
 |:-|
@@ -2919,6 +3367,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: You have coated this armor, shield or clothing with the blood of the Necrolisk. When wearing this piece of equipment and attuned to it, you gain a +1 bonus to your Armor Class, and the item grants resistance to any damage by melee attacks dealt by incorporeal creatures. |
 
 
+### Silver Accessory of Coveting
+
 |**Silver Accessory of Coveting**|
 |:-|
 | Monster(s): - |
@@ -2926,6 +3376,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Very Rare)_ |
 | Effect: A silver accessory bathed in the blood of of a Necrolisk. It covets the souls of your defeated enemies. Whenever you gain Experience Points for defeating an enemy, you gain 10% more. |
 
+
+### Necrolisk Extract
 
 |**Necrolisk Extract**|
 |:-|
@@ -2935,6 +3387,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Weapon Enchant, Armor Enchant, Drink_ |
 | Effect: Refined from the blood of a Necrolisk, it has similar uses to it. You can use a Bonus Action to coat a weapon with it, which ignores resistances to Slashing, Piercing or Bludgeoning damage caused by a creature being incorporeal for 24 hours. You can use a Bonus Action to coat a piece of armor, clothing or shields, which gain resistance to damage caused by melee attacks of incorporeal creatures for 24 hours. You can also drink the extract, and gain 30 ft of Tremorsense in addition to any you might have for 24 hours, as well as gain the ability to sense incorporeal entities within 200 ft (adding to any abilities you might already have) of you once during those 24 hours. |
 
+
+### Necrolisk Tooth
 
 |**Necrolisk Tooth**|
 |:-|
@@ -2950,6 +3404,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Necrolisk Spiritbane
+
 |**Necrolisk Spiritbane**|
 |:-|
 | Monster(s): - |
@@ -2957,6 +3413,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Very Rare)(Requires Attunement)_ |
 | Effect: The Necrolisk is an underground creature that feeds on the essence of spirits, and this magical hunger is still present on its teeth and bones. You used this powerful material to make a necrotic dragon tooth weapon that is the bane of spirits. You can also use this weapon as a focus for your spells. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d10 Force damage on any hit, or +4d10 Force damage against incorporeal enemies. As a Magic action, you can call to the hunger of the weapon to pull spirits or otherwise incorporeal enemies that are in a 40 ft radius from you, when doing so, they immediately get pulled 10 ft toward you. As part of the same action, any incorporeal enemies that are within 20 ft of you must succeed on a DC 20 Strength Saving Throw or take 8d10 Force damage. Also as a Magic Action, you can sense the presence of spirits or incorporeal creatures in a 300 ft radius. Once you use either feature you can't use that feature again until you take a Long Rest. |
 
+
+### Necrolisk Skin
 
 |**Necrolisk Skin**|
 |:-|
@@ -2971,6 +3429,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Necrolisk Scale Armor
+
 |**Necrolisk Scale Armor**|
 |:-|
 | Monster(s): - |
@@ -2978,6 +3438,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Armor (Very Rare)(Requires Attunement)_ |
 | Effect: This armor is made from the scales of the Necrolisk, which is highly valued. While wearing this armor, you gain a +1 bonus to your Armor Class, you have Advantage on saving throws against the breath weapons of Dragons and the Saliva of the Necrolisk, and you have Resistance to Force damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Necrolisk within 30 miles of yourself. This action can’t be used again until you take a Long Rest. |
 
+
+### Necrolisk Vestigial Wings
 
 |**Necrolisk Vestigial Wings**|
 |:-|
@@ -2992,6 +3454,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Cloak of the Necrolisk
+
 |**Cloak of the Necrolisk**|
 |:-|
 | Monster(s): - |
@@ -2999,6 +3463,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Very Rare)(Requires Attunement)_ |
 | Effect: While you are wearing this cloak that look like necrolisk wings and are attuned to them, you can speak and understand draconic. The cloak have 5 charges. You can spend 1 charge and use a Magic Action to grow sharp Necrolisk claws, and gain a Burrow speed equal to your ground speed for 1 hour. You can also spend 1 charge and a Bonus Action to grow the Necrolisk mole-like snout and gain the Necrolisk's Ephemeral Spit for 10 minutes, which allows you to take a Magic Action to breathe an ephemeral slime in a 60 ft long 5 ft wide line. Creatures in the line must succeed on a DC 16 Dexterity Saving Throw or take 7d6 Force damage and be Restrained until the start of your next turn, taking only half damage on a successful save. The cloak recover 1d6 charges on a Long Rest up to its maximum. |
 
+
+### Necrolisk Bone
 
 |**Necrolisk Bone**|
 |:-|
@@ -3014,6 +3480,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Soul Eater
+
 |**Soul Eater**|
 |:-|
 | Monster(s): - |
@@ -3021,6 +3489,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Very Rare)(Requires Attunement)_ |
 | Effect: The Necrolisk is hungry for spirits and souls, and so is this weapon made from the teeth and bones of the beast itself. You can also use this weapon as a focus for your spells, and have a +1 bonus to attack rolls and damage rolls against incorporeal creatures. The weapon also has a +1 bonus to spell attack and spell damage rolls and a +1 bonus to spell save DC. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d6 Force damage on any hit, and +4d6 damage to incorporeal creatures, and you gain half of that damage as Temporary Hit Points. As a Magic Action, you can choose any number of creatures you can see in a 60 ft radius of you, in addition to automatically affecting incorporeal creatures you cannot see in the same range. You call the hunger of souls within your Soul Eater, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed. You can also use a Magic Action to sense the presence of spirits or incorporeal creatures in a 300 ft radius. Once you use either feature you can't use that feature again until you take a Long Rest. |
 
+
+### Necrolisk Heart
 
 |**Necrolisk Heart**|
 |:-|
@@ -3037,6 +3507,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Necrolisk Amulet
+
 |**Necrolisk Amulet**|
 |:-|
 | Monster(s): - |
@@ -3044,6 +3516,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Legendary)(Requires Attunement)_ |
 | Effect: This amulet crafted from the heart of a Necrolisk grants you its powers. While you are wearing this amulet and are attuned to it you gain the following benefits. You can speak and understand Draconic. You gain Tremorsense to 60 ft and Blindsight to 30 ft. You can use a Free Action to forgo sight to gain 120 ft Tremorsense and 60 ft Blindsight, and you can use a Free Action to reverse this. The amulet has 10 charges. You can use one charge to cast Speak with Animals without a spell slot and without Concentration. You can use a charge and a Magic Action to sense the direction and distance of spirits in a 600 ft radius. You can use one charge and a Bonus Action to grow the Necrolisk mole-like snout and gain the Necrolisk's Ephemeral Spit for 1 hour, which allows you to take a Magic Action to breathe an ephemeral slime in a 60 ft long 5 ft wide line. Creatures in the line must succeed on a DC 16 Dexterity Saving Throw or take 7d6 Force damage and be Restrained until the start of your next turn, taking only half damage on a successful save. You can use a charge and a Magic Action to grow sharp Necrolisk claws, and gain a Burrow speed equal to your ground speed for 1 hour. You can use 5 charges and a Magic Action to call the hunger of souls within the Necrolisk Amulet, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed. You can use 5 charges and a Magic Action to pull spirits or otherwise incorporeal enemies that are in a 40 ft radius from you, when doing so, they immediately get pulled 10 ft toward you. As part of the same action, any incorporeal enemies that are within 20 ft of you must succeed on a DC 20 Strength Saving Throw or take 8d10 Force damage. The amulet regains 1d12 charges on a Long Rest up to its maximum. |
 
+
+### Bellowing Dragoncrest Ring
 
 |**Bellowing Dragoncrest Ring**|
 |:-|
@@ -3053,6 +3527,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Empowered Spell Metamagic, rerolling up to 5 dice per use, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest. |
 
 
+### Lingering Dragoncrest Ring
+
 |**Lingering Dragoncrest Ring**|
 |:-|
 | Monster(s): - |
@@ -3060,6 +3536,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Very Rare)(Requires Attunement)_ |
 | Effect: A ring bathed in the blood of a dragon in a ritual to grant the wearer draconic sorcery. While you are wearing this ring and are attuned to it, you gain 12 Sorcery Points, which are separate from any Sorcery Points you previously had, and cannot be transferred or used interchangeably. The Sorcery Points in this ring can only be used for the Extended Spell Metamagic, and cannot be used for creating spell slots. You regain the sorcery points in this ring once you have a long rest. |
 
+
+### Memorial Slab Fragment
 
 |**Memorial Slab Fragment**|
 |:-|
@@ -3075,6 +3553,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Shred of Reaper Cloak
+
 |**Shred of Reaper Cloak**|
 |:-|
 | Monster(s): The Chained Reaper |
@@ -3088,6 +3568,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), 20(x2), Auto Success on Fated Tarot: Judgement (x2) |
 | Locations: Maidenmist Cementery |
 
+
+### Balefire Oil
 
 |**Balefire Oil**|
 |:-|
@@ -3104,6 +3586,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Balefire Weapon
+
 |**Balefire Weapon**|
 |:-|
 | Monster(s): - |
@@ -3111,6 +3595,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Very Rare)(Requires Attunement)_ |
 | Effect: A weapon bathed in the Balefire of the Chained Reaper. It can also be used as an arcane focus for your spells. This weapon deals its regular damage, but you can choose to deal Necrotic damage when you attack with it. The weapon has a +1 bonus to attack rolls and damage rolls. It also has a +1 bonus to spell attack rolls and damage rolls as well as save DC for spells in the Necromancy school. On a hit with melee attacks or Fire damage spells, it deals an additional +2d6 Necrotic damage, and the target starts burning but takes Necrotic damage instead. The Fire damage from spells casted while attuned to this weapon can be changed to Necrotic damage instead. Once per turn, as one of your attacks with this weapon, you can send it spinning up to 15 ft of you and it returns to your hand immediately after it hits or misses. |
 
+
+### Baleflame Annealed Shield or Armor
 
 |**Baleflame Annealed Shield or Armor**|
 |:-|
@@ -3120,6 +3606,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: A shield or armor bathed in the Balefire of the Chained Reaper. While equipped and attuned to it, you gain a +1 bonus to your Armor Class, and you gain resistance to Fire and Necrotic damage. You can also use a Magic Action to become engulfed in protective balefire flames for 10 minutes. While protected by the flames, creatures that damage you with melee attacks take 1d6 Fire or Necrotic damage. You can only use this feature again after a Long Rest. |
 
 
+### Balefire Accessory
+
 |**Balefire Accessory**|
 |:-|
 | Monster(s): - |
@@ -3128,6 +3616,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: An accessory bathed in the Balefire of the Chained Reaper. While equipped and attuned to it, you gain a +1 bonus to your Armor Class and a +1 bonus to all Saving Throws. You also gain resistance to Fire damage. Whenever you cast a spell that deals Fire damage, you can add a +1 bonus to attack rolls, damage rolls, or spell save DC, and it can deal Necrotic damage instead. You can cast Firebolt from the accessory. The accessory has 6 charges. You can use 1 charge to cast Hungering Blade. You can use 2 charges to cast Scorching Ray. You can use 2 charges to cast Veil of the Reaper. You can use 3 charges to cast Culling Sickle. The accessory regains 1d6 charges on a Long Rest. |
 
 
+### Balefire Lantern
+
 |**Balefire Lantern**|
 |:-|
 | Monster(s): - |
@@ -3135,6 +3625,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Very Rare)_ |
 | Effect: The lantern has been changed permanently by the Balefire of the Chained Reaper. It shines Bright Light in a 50 ft radius and Dim Light for an additional 50 ft for a hooded lantern, or 70 ft cone Bright light and 70 ft Dim Light for a bullseye lantern. Incorporeal creatures illuminated by it become corporeal and visible, losing any resistances to slashing, bludgeoning and piercing damage when affected like this. As a Magic Action, you can create a beam of light from the lantern at an incorporeal creature you can see in a 60 ft range, or point in a 60 ft long 5 ft line where you suspect an invisible and incorporeal creature is. It becomes corporeal and visible and loses resistances or immunities caused by its incorporeal nature, and must succeed on a DC 16 Wisdom Saving Throw or become Restrained by the light. As long as the light is pointed at it, it must make a DC 15 Strenght Saving Throw to escape the light. On subsequent turns you can use other actions besides using the lantern this way as long as you remain pointing the lantern at it by remaining in range and facing it. If you want to keep it pointed at the target while attacking something else, it requires your Concentration to keep the lamp steady, but otherwise it does not require Concentration. |
 
+
+### Chains of the Reaper
 
 |**Chains of the Reaper**|
 |:-|
@@ -3147,6 +3639,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Cloak of the Reaper
+
 |**Cloak of the Reaper**|
 |:-|
 | Monster(s): The Chained Reaper |
@@ -3158,6 +3652,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Lantern Of The Chained Reaper
+
 |**Lantern Of The Chained Reaper**|
 |:-|
 | Monster(s): The Chained Reaper |
@@ -3168,6 +3664,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), Auto Success on Fated Tarot: Judgement (x1) |
 | Locations: Maidenmist Cementery |
 
+
+### Seer's Webs
 
 |**Seer's Webs**|
 |:-|
@@ -3182,6 +3680,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Maidenmist Cementery |
 
 
+### Undelivered Message
+
 |**Undelivered Message**|
 |:-|
 | Monster(s): Squabswarm |
@@ -3193,6 +3693,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Walking Dovecote |
 
 
+### Random Arcana (DMG p.327) (Rare)
+
 |**Random Arcana (DMG p.327) (Rare)**|
 |:-|
 | Monster(s): Mage |
@@ -3202,6 +3704,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1) |
 | Locations: Swamp |
 
+
+### Pocket Sand
 
 |**Pocket Sand**|
 |:-|
@@ -3213,6 +3717,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Throw(melee)_ |
 | Effect: Sand made from the clay golem is incredibly fine and can be irritating to the eyes. You can make a melee attack to throw this in the eyes of an enemy. On a hit, they become Stunned and must spend their next action cleaning their eyes. |
 
+
+### Golem Clay
 
 |**Golem Clay**|
 |:-|
@@ -3228,6 +3734,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Swamp |
 
 
+### Golem Core
+
 |**Golem Core**|
 |:-|
 | Monster(s): Clay Golem, Stone Golem |
@@ -3236,10 +3744,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use as ingredient for: _Clay Golem, Rods, Wands, Staffs, Rings, Wondrous Items_ |
 | Crafting Value (when used as ingredient): _30,000 GP or 10,000 GP_ |
 | Effect: The core of a golem, when removed correctly, can be used to craft another clay golem. You can use this as 30,000 GP worth of materials towards the 65,000 GP necessary to craft a Golem (of the kind you defeated). However, you need a Manual of Golems (of the kind you defeated) to do so. You can also use it as 10,000 GP needed to craft other magic items. |
-| Find Checks (Clay Golem): Religion, Arcana<br>Find Checks (Stone Golem): Religion, Arcana |
-| Find DCs (Clay Golem): 25(x1)<br>Find DCs (Stone Golem): 18(x1) |
-| Locations (Clay Golem): Swamp, Foothill<br>Locations (Stone Golem): Swamp, Foothill |
+| Find Checks (Clay Golem): Religion, Arcana<br><br>Find Checks (Stone Golem): Religion, Arcana<br> |
+| Find DCs (Clay Golem): 25(x1)<br><br>Find DCs (Stone Golem): 18(x1)<br> |
+| Locations (Clay Golem): Swamp, Foothill<br><br>Locations (Stone Golem): Swamp, Foothill<br> |
 
+
+### Hydra Blood
 
 |**Hydra Blood**|
 |:-|
@@ -3256,6 +3766,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Swamp |
 
 
+### Hydra Teeth
+
 |**Hydra Teeth**|
 |:-|
 | Monster(s): Hydra |
@@ -3269,6 +3781,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Swamp |
 
 
+### Hydra Scales
+
 |**Hydra Scales**|
 |:-|
 | Monster(s): Hydra |
@@ -3281,6 +3795,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), 20(x2), 23(x3) |
 | Locations: Swamp |
 
+
+### Hydra Heart
 
 |**Hydra Heart**|
 |:-|
@@ -3297,6 +3813,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Swamp |
 
 
+### Ring of the Dusk Hydra
+
 |**Ring of the Dusk Hydra**|
 |:-|
 | Monster(s): - |
@@ -3304,6 +3822,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Rare)(Requires Attunement)_ |
 | Effect: While you are wearing this ring and are attuned to it, you can expend up to 4 Hit Die and temporarily reduce your Hit Point maximum by the result, and be unable to regain these Hit Die on a rest temporarily. In exchange you gain 2 Sorcery points per Hit Die expended, and gain the Twinned Spell and Quickened Spell Metamagic options if you don't already have them. You follow the normal rules for the Font of Magic feature of the Sorcerer class, but can use it to cast spells with any class. You can reduce 2 of your Sorcery Points obtained with this feature to regain the Hit Die and Hit Point maximum you subtracted, but it does not recover Hit Points when you do so. You regain the sorcery points you allow for on a Long Rest. |
 
+
+### Water Elemental Water
 
 |**Water Elemental Water**|
 |:-|
@@ -3319,6 +3839,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Swamp |
 
 
+### Stone Golem Fragment
+
 |**Stone Golem Fragment**|
 |:-|
 | Monster(s): Stone Golem |
@@ -3332,6 +3854,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foothill |
 
 
+### Earth Elemental Earth
+
 |**Earth Elemental Earth**|
 |:-|
 | Monster(s): Earth Elemental |
@@ -3344,6 +3868,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Foothill |
 
+
+### Wyvern Blood
 
 |**Wyvern Blood**|
 |:-|
@@ -3360,6 +3886,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foothill |
 
 
+### Wyvern Stinger Venom
+
 |**Wyvern Stinger Venom**|
 |:-|
 | Monster(s): Wyvern |
@@ -3375,6 +3903,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foothill |
 
 
+### Wyvern Antitoxin
+
 |**Wyvern Antitoxin**|
 |:-|
 | Monster(s): - |
@@ -3383,6 +3913,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Inject, (DM Eyes only Weapon Enchant)_ |
 | Effect: When injected, you end any Poisoned condition you may have, and gain resistance to Poison damage for 1 hour. (DM Eyes only: The players might have the idea to coat a weapon with the antitoxin in fights against the Hartsblighted. In such a case, they can take a Bonus Action to apply the antitoxin to a weapon or 10 ammunition, and it lasts 5 minutes. When hit, creatures with the Blight Dependent trait are affected as stated.) |
 
+
+### Wyvern Tooth
 
 |**Wyvern Tooth**|
 |:-|
@@ -3397,6 +3929,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foothill |
 
 
+### Wyvern Scales
+
 |**Wyvern Scales**|
 |:-|
 | Monster(s): Wyvern |
@@ -3409,6 +3943,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1) |
 | Locations: Foothill |
 
+
+### Wyvern Heart
 
 |**Wyvern Heart**|
 |:-|
@@ -3425,6 +3961,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Foothill |
 
 
+### Wyvern Ring
+
 |**Wyvern Ring**|
 |:-|
 | Monster(s): - |
@@ -3432,6 +3970,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Rare)(Requires Attunement)_ |
 | Effect: You can speak and understand Draconic, gain Darkvision to 120 ft. You grow spectral dragon scales, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers. The ring has 4 charges. You can use 1 charge and a Magic Action to cast Alter Self. You can use 2 charges to cast Fly on yourself by growing spectral dragon wings. The ring regains 1d4 charges on a Long Rest. |
 
+
+### Vulture Feathers
 
 |**Vulture Feathers**|
 |:-|
@@ -3441,10 +3981,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use as ingredient for: _Arrow Fletchings_ |
 | Crafting Value (when used as ingredient): _13 GP_ |
 | Effect: You can use these in place of 13 GP to craft ammunition that uses fletchings. |
-| Find Checks (Giant Vulture): Survival, Nature<br>Find Checks (Boneflayer): Survival, Nature |
-| Find DCs (Giant Vulture): 13(x2), 15(x4), 17(x6)<br>Find DCs (Boneflayer): 13(x2), 15(x4), 17(x6) |
-| Locations (Giant Vulture): Foothill<br>Locations (Boneflayer): Foothill |
+| Find Checks (Giant Vulture): Survival, Nature<br><br>Find Checks (Boneflayer): Survival, Nature<br> |
+| Find DCs (Giant Vulture): 13(x2), 15(x4), 17(x6)<br><br>Find DCs (Boneflayer): 13(x2), 15(x4), 17(x6)<br> |
+| Locations (Giant Vulture): Foothill<br><br>Locations (Boneflayer): Foothill<br> |
 
+
+### Vulture Stomach Acid
 
 |**Vulture Stomach Acid**|
 |:-|
@@ -3454,10 +3996,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use as ingredient for: _Acid_ |
 | Crafting Value (when used as ingredient): _25 GP_ |
 | Effect: You can use this as 25 GP worth in crafting Acid (Players Handbook). |
-| Find Checks (Giant Vulture): Survival, Nature, Alchemist Kit<br>Find Checks (Boneflayer): Survival, Nature, Alchemist Kit |
-| Find DCs (Giant Vulture): 15(x1), 17(x2)<br>Find DCs (Boneflayer): 15(x1), 17(x2) |
-| Locations (Giant Vulture): Foothill<br>Locations (Boneflayer): Foothill |
+| Find Checks (Giant Vulture): Survival, Nature, Alchemist Kit<br><br>Find Checks (Boneflayer): Survival, Nature, Alchemist Kit<br> |
+| Find DCs (Giant Vulture): 15(x1), 17(x2)<br><br>Find DCs (Boneflayer): 15(x1), 17(x2)<br> |
+| Locations (Giant Vulture): Foothill<br><br>Locations (Boneflayer): Foothill<br> |
 
+
+### Fire Elemental Embers
 
 |**Fire Elemental Embers**|
 |:-|
@@ -3471,6 +4015,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Prairie |
 
+
+### Shield Guardian Plates
 
 |**Shield Guardian Plates**|
 |:-|
@@ -3486,6 +4032,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Prairie |
 
 
+### Shield Guardian Core
+
 |**Shield Guardian Core**|
 |:-|
 | Monster(s): Shield Guardian |
@@ -3500,6 +4048,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Prairie |
 
 
+### Ettin Tusk
+
 |**Ettin Tusk**|
 |:-|
 | Monster(s): Ettin |
@@ -3512,6 +4062,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x2), 17(x4) |
 | Locations: Prairie |
 
+
+### Nightmare Ashes
 
 |**Nightmare Ashes**|
 |:-|
@@ -3527,6 +4079,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Prairie |
 
 
+### Nightmare Mane
+
 |**Nightmare Mane**|
 |:-|
 | Monster(s): Nightmare |
@@ -3540,6 +4094,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Prairie |
 
 
+### Nightmare Tail
+
 |**Nightmare Tail**|
 |:-|
 | Monster(s): Nightmare |
@@ -3552,6 +4108,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Prairie |
 
+
+### Nightmare Hooves
 
 |**Nightmare Hooves**|
 |:-|
@@ -3567,6 +4125,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Prairie |
 
 
+### Totem of Nightmare Recall
+
 |**Totem of Nightmare Recall**|
 |:-|
 | Monster(s): - |
@@ -3574,6 +4134,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Rare)_ |
 | Effect: Made of the hooves of a Nightmare, this tiny figurine of a fiery steed has the power to summon a Nightmare, although only for 2 hours, and only once. The Nightmare fights only to defend itself. The figurine has a 20 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the Nightmare while it is ignoring your orders, you and the Nightmare are instantly transported to the Ethereal Plane. You can command it to jump between the Ethereal Plane and Material Plane as a Magic Action. If you are still in the Ethereal Plane when its time runs out, it must take a Reaction to kick you right back to the Material Plane dealing 2d8 Bludgeoning damage. |
 
+
+### Air Elemental Dust
 
 |**Air Elemental Dust**|
 |:-|
@@ -3587,6 +4149,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1) |
 | Locations: Lakeshore |
 
+
+### Oni Blood
 
 |**Oni Blood**|
 |:-|
@@ -3603,6 +4167,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Lakeshore |
 
 
+### Oni Horn
+
 |**Oni Horn**|
 |:-|
 | Monster(s): Oni |
@@ -3616,6 +4182,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), 20(x2) |
 | Locations: Lakeshore |
 
+
+### Oni Claws
 
 |**Oni Claws**|
 |:-|
@@ -3631,6 +4199,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Lakeshore |
 
 
+### Oni Claw Ammunition
+
 |**Oni Claw Ammunition**|
 |:-|
 | Monster(s): - |
@@ -3638,6 +4208,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ammunition (Rare)_ |
 | Effect: Ammunition made with the claws of an Oni. If hit, additional to the normal damage the ammunition would deal, the target takes 1d12 Piercing and 1d8 Necrotic damage and becomes Frightened until the start of your next turn. |
 
+
+### Oni Heart
 
 |**Oni Heart**|
 |:-|
@@ -3654,6 +4226,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Lakeshore |
 
 
+### Oni Amulet
+
 |**Oni Amulet**|
 |:-|
 | Monster(s): - |
@@ -3662,6 +4236,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: You harnessed the power of an Oni without the repercussions of its corruption into this amulet. The amulet has 6 charges. You can use 1 charge to gain regenerative powers for 10 minutes, gaining 5 Hit Points at the start of each of your turns as long as you have at least 1 Hit Point. You can use 2 charges and a Bonus Action to gain 20 ft of Speed and an extra Attack action per turn for 1 minute. You can use 1 charge to cast the spell Sleep with a spell save DC of 17. You can use 2 charges to cast the spell Gaseous Form. You can use 1 charge and a Magic Action to give a nightmarish stare to a target you can see within 60 ft of you. The target must succeed on a DC 16 Wisdom Saving Throw or take 2d6 plus your Charisma modifier Psychic damage and have the Frightened condition until the start of your next turn. The amulet regains 1d6 charges on a Long Rest. |
 
 
+### Oni Mask
+
 |**Oni Mask**|
 |:-|
 | Monster(s): - |
@@ -3669,6 +4245,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Rare)(Requires Attunement)_ |
 | Effect: A mask made to resemble the face of an Oni. While you are wearing this mask and are attuned to it, you gain a +5 bonus to Intimidation checks. You can use a Bonus Action instead of the Influence Action on any given turn to attempt to Intimidate a target. The mask has 3 charges. You can use 1 charge to cast the spell Sleep with a spell save DC of 15, or with your Charisma modifier and your Proficiency Bonus added to 8, whichever result is higher. You also gain a +1 bonus to attack rolls and damage rolls made with 2 handed weapons. |
 
+
+### Belt of the Oni
 
 |**Belt of the Oni**|
 |:-|
@@ -3680,6 +4258,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1) |
 | Locations: Lakeshore |
 
+
+### Paralytic Chuul Venom
 
 |**Paralytic Chuul Venom**|
 |:-|
@@ -3694,6 +4274,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Lakeshore |
 
 
+### Antiparalytic
+
 |**Antiparalytic**|
 |:-|
 | Monster(s): - |
@@ -3702,6 +4284,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Drink, Inject_ |
 | Effect: An antidote to paralysis effects made from the venom of a Chuul. When injected or drank, it ends the Poisoned and the Paralyzed conditions. |
 
+
+### Spider Silk
 
 |**Spider Silk**|
 |:-|
@@ -3716,6 +4300,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Lakeshore |
 
 
+### Spider Venom
+
 |**Spider Venom**|
 |:-|
 | Monster(s): Giant Spider |
@@ -3728,6 +4314,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 20(x2) |
 | Locations: Lakeshore |
 
+
+### History of the Lilac Eyed
 
 |**History of the Lilac Eyed**|
 |:-|
@@ -3743,6 +4331,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Cornfield |
 
 
+### Tome of Many Secrets
+
 |**Tome of Many Secrets**|
 |:-|
 | Monster(s): Pigeon Hag |
@@ -3755,6 +4345,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Walking Dovecote |
 
 
+### Bag of Hilarity
+
 |**Bag of Hilarity**|
 |:-|
 | Monster(s): Reveler of Stories, Reveler of Song, Herald of Fools, The Lord of Fools |
@@ -3764,10 +4356,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _500 GP_ |
 | Use: _Throw, Sprinkle_ |
 | Effect: When thrown, upon impact a cloud of confetti and glitter explodes in a 5 ft radius, creatures in the radius must succeed on a DC 15 Wisdom Saving Throw or take 4d6 Psychic Damage and be affected by a random chaotic curse for 1 minute, or half the damage and no chaotic curse on a success. When sprinkled on the ground, an emanation of 15 ft radius surrounds the sprinkled area, and enemies entering the emanation or starting their turn in the emanation make a DC 15 Wisdom saving throw, and take 2d6 Psychic damage and become affected by incontrollable laughter which makes them unable to attack until the start of their next turn, or half damage and no laughter on a success. Revelers and Fools roll with Advantage on all saving throws for these effects. |
-| Find Checks (Reveler of Stories): Perception, Investigation, Religion, Performance<br>Find Checks (Reveler of Song): Perception, Investigation, Religion, Performance<br>Find Checks (Herald of Fools): Perception, Investigation, Religion, Performance<br>Find Checks (The Lord of Fools): Perception, Investigation, Religion, Performance, Fated Tarot Reading |
-| Find DCs (Reveler of Stories): 17(x1), 20(x2)<br>Find DCs (Reveler of Song): 17(x1), 20(x2)<br>Find DCs (Herald of Fools): 15(x1), 17(x2), 20(x3)<br>Find DCs (The Lord of Fools): 13(x1), 15(x3), 17(x6), 20(x2), Auto Success on Fated Tarot: The Magician (x6) |
-| Locations (Reveler of Stories): Moors, Fool's Day Festival<br>Locations (Reveler of Song): Moors, Fool's Day Festival<br>Locations (Herald of Fools): Moors, Fool's Day Festival<br>Locations (The Lord of Fools): Moors, Fool's Day Festival |
+| Find Checks (Reveler of Stories): Perception, Investigation, Religion, Performance<br><br>Find Checks (Reveler of Song): Perception, Investigation, Religion, Performance<br><br>Find Checks (Herald of Fools): Perception, Investigation, Religion, Performance<br><br>Find Checks (The Lord of Fools): Perception, Investigation, Religion, Performance, Fated Tarot Reading<br> |
+| Find DCs (Reveler of Stories): 17(x1), 20(x2)<br><br>Find DCs (Reveler of Song): 17(x1), 20(x2)<br><br>Find DCs (Herald of Fools): 15(x1), 17(x2), 20(x3)<br><br>Find DCs (The Lord of Fools): 13(x1), 15(x3), 17(x6), 20(x2), Auto Success on Fated Tarot: The Magician (x6)<br> |
+| Locations (Reveler of Stories): Moors, Fool's Day Festival<br><br>Locations (Reveler of Song): Moors, Fool's Day Festival<br><br>Locations (Herald of Fools): Moors, Fool's Day Festival<br><br>Locations (The Lord of Fools): Moors, Fool's Day Festival<br> |
 
+
+### Fool's Treat
 
 |**Fool's Treat**|
 |:-|
@@ -3776,10 +4370,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Consumable (Uncommon)_ |
 | Use: _Eat, Throw_ |
 | Effect: Food from the Fool's Day Festival. When eaten, you recover 1d4-1 Hit Points (a minimum of 0), but you are still hungry when you finish eating it. When thrown as bait, you can attract beasts (DM's Eyes only: or children) that would eat it. |
-| Find Checks (Reveler of Stories): Perception, Investigation, Religion, Performance<br>Find Checks (Reveler of Song): Perception, Investigation, Religion, Performance<br>Find Checks (Herald of Fools): Perception, Investigation, Religion, Performance<br>Find Checks (The Lord of Fools): Perception, Investigation, Religion, Performance |
-| Find DCs (Reveler of Stories): 10(x1), 13(x2), 15(x3)<br>Find DCs (Reveler of Song): 10(x1), 13(x2), 15(x3)<br>Find DCs (Herald of Fools): 10(x3), 13(x6), 15(x10)<br>Find DCs (The Lord of Fools): 10(x6), 13(x10), 15(x15), Auto Success on Fated Tarot: The Magician (x15) |
-| Locations (Reveler of Stories): Moors, Fool's Day Festival<br>Locations (Reveler of Song): Moors, Fool's Day Festival<br>Locations (Herald of Fools): Moors, Fool's Day Festival<br>Locations (The Lord of Fools): Moors, Fool's Day Festival |
+| Find Checks (Reveler of Stories): Perception, Investigation, Religion, Performance<br><br>Find Checks (Reveler of Song): Perception, Investigation, Religion, Performance<br><br>Find Checks (Herald of Fools): Perception, Investigation, Religion, Performance<br><br>Find Checks (The Lord of Fools): Perception, Investigation, Religion, Performance<br> |
+| Find DCs (Reveler of Stories): 10(x1), 13(x2), 15(x3)<br><br>Find DCs (Reveler of Song): 10(x1), 13(x2), 15(x3)<br><br>Find DCs (Herald of Fools): 10(x3), 13(x6), 15(x10)<br><br>Find DCs (The Lord of Fools): 10(x6), 13(x10), 15(x15), Auto Success on Fated Tarot: The Magician (x15)<br> |
+| Locations (Reveler of Stories): Moors, Fool's Day Festival<br><br>Locations (Reveler of Song): Moors, Fool's Day Festival<br><br>Locations (Herald of Fools): Moors, Fool's Day Festival<br><br>Locations (The Lord of Fools): Moors, Fool's Day Festival<br> |
 
+
+### Drama Prop
 
 |**Drama Prop**|
 |:-|
@@ -3792,6 +4388,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Fool's Day Festival |
 
 
+### Medallion of the Hero
+
 |**Medallion of the Hero**|
 |:-|
 | Monster(s): Reveler of Stories (Hero) |
@@ -3802,6 +4400,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1) |
 | Locations: Moors, Fool's Day Festival |
 
+
+### Booklet of the Riddler
 
 |**Booklet of the Riddler**|
 |:-|
@@ -3815,6 +4415,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Fool's Day Festival |
 
 
+### Crown of the Great Beast Reveler
+
 |**Crown of the Great Beast Reveler**|
 |:-|
 | Monster(s): Reveler of Stories (Great Beast) |
@@ -3825,6 +4427,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1) |
 | Locations: Moors, Fool's Day Festival |
 
+
+### Charm of the Wrestler
 
 |**Charm of the Wrestler**|
 |:-|
@@ -3838,6 +4442,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Fool's Day Festival |
 
 
+### Wicked Wind-vane
+
 |**Wicked Wind-vane**|
 |:-|
 | Monster(s): Reveler of Stories (Witch) |
@@ -3848,6 +4454,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1) |
 | Locations: Moors, Fool's Day Festival |
 
+
+### Badge of the Drinking Champion
 
 |**Badge of the Drinking Champion**|
 |:-|
@@ -3861,6 +4469,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Fool's Day Festival |
 
 
+### Drone of the Reveler
+
 |**Drone of the Reveler**|
 |:-|
 | Monster(s): Reveler of Song (Drone) |
@@ -3871,6 +4481,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 25(x1) |
 | Locations: Moors, Fool's Day Festival |
 
+
+### Apiary Dart
 
 |**Apiary Dart**|
 |:-|
@@ -3884,6 +4496,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Fool's Day Festival |
 
 
+### Beesting Ring
+
 |**Beesting Ring**|
 |:-|
 | Monster(s): Reveler of Song (Drone) |
@@ -3893,6 +4507,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find Checks: Perception, Investigation, Religion, Performance |
 | Find DCs: 20(x1) |
 
+
+### Bell of the Reveler
 
 |**Bell of the Reveler**|
 |:-|
@@ -3904,6 +4520,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 25(x1) |
 | Locations: Moors, Fool's Day Festival |
 
+
+### Chime of Confusion
 
 |**Chime of Confusion**|
 |:-|
@@ -3917,6 +4535,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Fool's Day Festival |
 
 
+### Drum of the Reveler
+
 |**Drum of the Reveler**|
 |:-|
 | Monster(s): Reveler of Song (Drum) |
@@ -3927,6 +4547,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 25(x1) |
 | Locations: Moors, Fool's Day Festival |
 
+
+### Drumstick of Rhythm
 
 |**Drumstick of Rhythm**|
 |:-|
@@ -3939,6 +4561,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Fool's Day Festival |
 
 
+### Flag of the Herald
+
 |**Flag of the Herald**|
 |:-|
 | Monster(s): Herald of Fools |
@@ -3950,6 +4574,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1) |
 | Locations: Moors, Fool's Day Festival |
 
+
+### Toy Car
 
 |**Toy Car**|
 |:-|
@@ -3965,6 +4591,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Fool's Day Festival |
 
 
+### Personalized Clown Car
+
 |**Personalized Clown Car**|
 |:-|
 | Monster(s): - |
@@ -3973,6 +4601,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Activate_ |
 | Effect: You spent time and energy personalizing a toy car found in the Fool's Day Festival, giving it your very own Clowny touch, making it magically tied to you in a way that it won't lose its power after you ride it. The car functions in a similar fashion to a Figurine of Wondrous Power, in that once it becomes unusable when it loses its Hit Points or runs out of time, it will become usable again in a set number of days. As a Magic Action, you can grow this tiny toy car to a small colorful car with a comical honk. The car is 8 ft long, 5 ft wide and 3 ft tall, occupying two 5 ft square spaces on a grid. As part of that same action, you and up to twelve other willing Medium or smaller creatures you can see within 30 ft of yourself you allow can enter the car, however impossible it looks. The car has a speed of 60 ft, an Armor Class of 18, 40 Hit Points and immunity to Poison and Psychic damage. If its HP reaches 0, all passengers take 1d10 Force damage and appear Prone in an unoccupied space 10 ft of the car. Whenever the car receives damage, every passenger makes a DC 15 Dexterity Saving Throw at Disadvantage or take 1d4 Bludgeoning damage. Once one of the passengers exits the vehicle all other passengers must follow suit appearing in adjacent spaces near the car. You can also dismiss the car back into a toy car as a Magic Action, and it retains its Hit Points and the amount of time you have left to ride it is paused. If you ride the car for long times, every 1 hour, every passenger makes a DC 15 Dexterity Saving Throw at Disadvantage or take 1d4 Bludgeoning damage. You can travel this way for up to 12 hours a day. Once you have ridden it for its time limit or it reaches 0 HP, the car reverts to its toy form and must be recharged by doing a DC 13 Performance check of humor or entertainment once per long rest. Once you have succeeded 10 times, the toy car becomes able to be used again. |
 
+
+### Bottle
 
 |**Bottle**|
 |:-|
@@ -3985,6 +4615,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Fool's Day Festival |
 
 
+### Flower of Endless Water
+
 |**Flower of Endless Water**|
 |:-|
 | Monster(s): The Lord of Fools |
@@ -3995,6 +4627,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 10(x1), Auto Success on Fated Tarot: The Magician(x1) |
 | Locations: Fool's Day Festival |
 
+
+### Hat of the Fool
 
 |**Hat of the Fool**|
 |:-|
@@ -4007,6 +4641,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), Auto Success on Fated Tarot: The Magician(x1) |
 | Locations: Fool's Day Festival |
 
+
+### Party Favors
 
 |**Party Favors**|
 |:-|
@@ -4021,6 +4657,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Fool's Day Festival |
 
 
+### Ring of Pies
+
 |**Ring of Pies**|
 |:-|
 | Monster(s): The Lord of Fools |
@@ -4031,6 +4669,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), Auto Success on Fated Tarot: The Magician(x1) |
 | Locations: Fool's Day Festival |
 
+
+### Ribbons of the Fool
 
 |**Ribbons of the Fool**|
 |:-|
@@ -4043,6 +4683,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Fool's Day Festival |
 
 
+### Buzzer of the Fool
+
 |**Buzzer of the Fool**|
 |:-|
 | Monster(s): The Lord of Fools |
@@ -4054,6 +4696,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Fool's Day Festival |
 
 
+### Marotte Of The Lord Of Fools
+
 |**Marotte Of The Lord Of Fools**|
 |:-|
 | Monster(s): The Lord of Fools |
@@ -4064,6 +4708,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1), Auto Success on Fated Tarot: The Magician(x1) |
 | Locations: Fool's Day Festival |
 
+
+### Mirror Twig
 
 |**Mirror Twig**|
 |:-|
@@ -4079,6 +4725,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare |
 
 
+### Gobblegeist Petrified Eye
+
 |**Gobblegeist Petrified Eye**|
 |:-|
 | Monster(s): Gobblegeist, Frederick (Gobblegeist) |
@@ -4088,10 +4736,12 @@ I won't charge for this content but honestly it is taking me several full on day
 | Crafting Value (when used as ingredient): _500 GP_ |
 | Use: _Point_ |
 | Effect: As a Magic action, you can point the eye and expel a beam making a 60 ft long 5 ft wide line. Creatures in the line make a DC 14 Dexterity Saving Throw, and on a failure take 1d12 Psychic damage and have the Stunned condition until the start of the user's next turn. |
-| Find Checks (Gobblegeist): Survival, Nature， Arcana<br>Find Checks (Frederick (Gobblegeist)): Survival, Nature， Arcana |
-| Find DCs (Gobblegeist): 17(x1)<br>Find DCs (Frederick (Gobblegeist)): 17(x1) |
-| Locations (Gobblegeist): Moors, The Crooked Nightmare, The Wytchwood, Foxwillow (Galloping Headsman riled), The Drowned Crossroads (Jinxed Leviathan riled), Webwoods (Dusk Mother dolls)<br>Locations (Frederick (Gobblegeist)): Moors, The Crooked Nightmare, The Wytchwood, Foxwillow (Galloping Headsman riled), The Drowned Crossroads (Jinxed Leviathan riled), Webwoods (Dusk Mother dolls) |
+| Find Checks (Gobblegeist): Survival, Nature， Arcana<br><br>Find Checks (Frederick (Gobblegeist)): Survival, Nature， Arcana<br> |
+| Find DCs (Gobblegeist): 17(x1)<br><br>Find DCs (Frederick (Gobblegeist)): 17(x1)<br> |
+| Locations (Gobblegeist): Moors, The Crooked Nightmare, The Wytchwood, Foxwillow (Galloping Headsman riled), The Drowned Crossroads (Jinxed Leviathan riled), Webwoods (Dusk Mother dolls)<br><br>Locations (Frederick (Gobblegeist)): Moors, The Crooked Nightmare, The Wytchwood, Foxwillow (Galloping Headsman riled), The Drowned Crossroads (Jinxed Leviathan riled), Webwoods (Dusk Mother dolls)<br> |
 
+
+### Gobblegeist Meat
 
 |**Gobblegeist Meat**|
 |:-|
@@ -4107,6 +4757,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, The Crooked Nightmare, The Wytchwood, Foxwillow (Galloping Headsman riled), The Drowned Crossroads (Jinxed Leviathan riled), Webwoods (Dusk Mother dolls) |
 
 
+### Unravelling Whispers
+
 |**Unravelling Whispers**|
 |:-|
 | Monster(s): Nightmare Wisp (Sphinx of Lore) |
@@ -4120,6 +4772,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 23(x1), 27(x2), 32(1 for each party member) |
 | Locations: The Crooked Nightmare |
 
+
+### Drakkenhob Blood
 
 |**Drakkenhob Blood**|
 |:-|
@@ -4136,6 +4790,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls) |
 
 
+### Covetous Weapon
+
 |**Covetous Weapon**|
 |:-|
 | Monster(s): - |
@@ -4143,6 +4799,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Rare)_ |
 | Effect: This weapon imbued with the greed of the Drakkenhob covets the treasure and valuable body parts of your enemies. You have a +1 bonus to attack and damage rolls with this weapon. When the enemy is Bloodied, you have a +3 bonus to attack and damage rolls with this weapon. When you roll a 20 on an attack roll made with this weapon, the target takes an extra 10 damage. |
 
+
+### Covetous Harvesting Knife
 
 |**Covetous Harvesting Knife**|
 |:-|
@@ -4152,6 +4810,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: This harvesting knife imbued with the greed of the Drakkenhob covets the treasure and valuable body parts of your enemies. You have a +1 bonus to attack and damage rolls with this weapon. When the enemy is Bloodied, you have a +3 bonus to attack and damage rolls with this weapon. When you roll a 20 on an attack roll made with this weapon, the target takes an extra 5 damage. When you use this weapon to harvest body parts, you gain a +3 bonus to your Ability check. |
 
 
+### Fright Shield
+
 |**Fright Shield**|
 |:-|
 | Monster(s): - |
@@ -4160,6 +4820,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: This shield has a frightful face on its surface, which you can animate to move. You gain a +2 bonus to Intimidation checks. You have a +1 bonus to your Armor Class and saving throws. For each creature that is Frightened of you or your shield within a 20 ft radius of you, you gain a +1 bonus to your Armor Class. Once per long rest, you can use a Bonus Action to create a 30 ft Cone of Fright with your Shield's face. Creatures in the area must succeed on a DC 16 Wisdom Saving Throw or become Frightened. |
 
 
+### Gold Accessory of Coveting
+
 |**Gold Accessory of Coveting**|
 |:-|
 | Monster(s): - |
@@ -4167,6 +4829,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Rare)_ |
 | Effect: A gold accessory bathed in the blood of a Drakkenhob, which covets material goods. When wearing the accessory, you gain a +2 bonus to Ability Checks used to find treasure, and you find 1 more of each treasure kind you find (up to the monster's harvesting limit or treasure hoard limit). |
 
+
+### Drakkenhob Scales
 
 |**Drakkenhob Scales**|
 |:-|
@@ -4181,6 +4845,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls) |
 
 
+### Drakkenhob Scale Armor
+
 |**Drakkenhob Scale Armor**|
 |:-|
 | Monster(s): - |
@@ -4188,6 +4854,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Armor (Rare)(Requires Attunement)_ |
 | Effect: An armor made with the scales of a Drakkenhob. You gain Advantage on saving throws against the Drakkenhob's Terrifying Breath. Whenever you would take Psychic damage, roll 1d10 and subtract the total from the damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Drakkenhob within 30 miles of you. This action can’t be used again until the next time you take a Long Rest. |
 
+
+### Drakkenhob Horn
 
 |**Drakkenhob Horn**|
 |:-|
@@ -4203,6 +4871,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls) |
 
 
+### Helm of the Drakkenhob
+
 |**Helm of the Drakkenhob**|
 |:-|
 | Monster(s): - |
@@ -4211,6 +4881,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Wear_ |
 | Effect: A helm made with the horns of a Drakkenhob. While you are wearing the helm and are attuned to it, you can speak and understand Draconic, and gain Blindsight to 60 ft. The helm has 3 charges. You can use 1 charge and a Bonus Action to gain the ability to use the Drakkenhobs Terrifying Breath for 1 hour. When using the breath weapon, you exhale terror flames in a 30 ft Cone. Creatures in the area must succeed on a DC 17 Dexterity Saving Throw or take 4d6 Psychic damage and become Frightened until the start of your next turn. The helm regains 1d3 charges on a Long Rest. |
 
+
+### Drakkenhob Mantle
 
 |**Drakkenhob Mantle**|
 |:-|
@@ -4225,6 +4897,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls) |
 
 
+### Drakkenhob Cloak
+
 |**Drakkenhob Cloak**|
 |:-|
 | Monster(s): - |
@@ -4232,6 +4906,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Rare)_ |
 | Effect: A cloak made out of the costume worn by a Drakkenhob. When worn, you roll at Advantage for Saving Throws on effects that would deal Psychic damage. |
 
+
+### Drakkenhob Heart
 
 |**Drakkenhob Heart**|
 |:-|
@@ -4248,6 +4924,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls) |
 
 
+### Ring of the Night Terror
+
 |**Ring of the Night Terror**|
 |:-|
 | Monster(s): - |
@@ -4255,6 +4933,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Rare)(Requires Attunement)_ |
 | Effect: You can speak and understand Draconic, gain Blindsight to 60 ft. You grow spectral dragon scales, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers. The ring has 4 charges. You can use 1 charge and a Magic Action to cast Alter Self. You can use 1 charge and a Bonus Action to gain the ability to use the Drakkenhobs Terrifying Breath for 1 hour. When using the breath weapon, you exhale terror flames in a 30 ft Cone. Creatures in the area must succeed on a DC 17 Dexterity Saving Throw or take 4d6 Psychic damage and become Frightened until the start of your next turn. You can use 2 charges and a Magic Action to howl to the moon and cast Conjure Animals (wolf form). Whenever you spend 1 or more charges, you must succeed on a DC 11 Wisdom Saving Throw or be afflicted by the Phantasmal Force spell until the start of your next turn. The ring regains 1d4 charges on a Long Rest. |
 
+
+### Pearl of Infighting
 
 |**Pearl of Infighting**|
 |:-|
@@ -4270,6 +4950,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare |
 
 
+### Caustic Brew
+
 |**Caustic Brew**|
 |:-|
 | Monster(s): The Vermintoll Abomination |
@@ -4284,6 +4966,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare |
 
 
+### Random Spell Scroll (spell level 7 or several which sum to 7)
+
 |**Random Spell Scroll (spell level 7 or several which sum to 7)**|
 |:-|
 | Monster(s): The Vermintoll Abomination |
@@ -4293,6 +4977,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 17(x2), 23(x3), 27(x4), Auto Success on Fated Tarot: The Empress(x4) |
 | Locations: The Crooked Nightmare |
 
+
+### Crooked Moon Gem
 
 |**Crooked Moon Gem**|
 |:-|
@@ -4307,6 +4993,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Crooked Nightmare |
 
 
+### Cauldron of the Vermintoll Coven
+
 |**Cauldron of the Vermintoll Coven**|
 |:-|
 | Monster(s): The Vermintoll Abomination |
@@ -4317,6 +5005,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 23(x1), Auto Success on Fated Tarot: The Empress(x1) |
 | Locations: The Crooked Nightmare |
 
+
+### Large Dark Shard
 
 |**Large Dark Shard**|
 |:-|
@@ -4332,6 +5022,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Foxwillow (Galloping Headsman riled) |
 
 
+### Blessing of the Harvest Charm
+
 |**Blessing of the Harvest Charm**|
 |:-|
 | Monster(s): Old Ways Chosen |
@@ -4346,6 +5038,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Rowan's Rise (Wicker's Vigil) |
 
 
+### Random Relic (DMG p.331) (Uncommon)
+
 |**Random Relic (DMG p.331) (Uncommon)**|
 |:-|
 | Monster(s): Old Ways Chosen |
@@ -4356,15 +5050,19 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors, Rowan's Rise (Wicker's Vigil) |
 
 
+### Random Armament (DMG p.328) (Common)
+
 |**Random Armament (DMG p.328) (Common)**|
 |:-|
 | Monster(s): Warrior Veteran, Berserker, Knight, Tough |
 | Source: Monster Manual |
 | _Armament (Common)_ |
-| Find Checks (Warrior Veteran): Survival, Perception, Investigation<br>Find Checks (Berserker): Survival, Perception, Investigation<br>Find Checks (Knight): Survival, Perception, Investigation<br>Find Checks (Tough): Survival, Perception, Investigation |
-| Find DCs (Warrior Veteran): 13(x1)<br>Find DCs (Berserker): 13(x1)<br>Find DCs (Knight): 13(x1)<br>Find DCs (Tough): 13(x1) |
-| Locations (Warrior Veteran): Moors, The Crimson Monastery, Foxwillow<br>Locations (Berserker): Moors, The Crimson Monastery, Foxwillow<br>Locations (Knight): Moors, The Crimson Monastery, Foxwillow<br>Locations (Tough): Moors, The Crimson Monastery, Foxwillow |
+| Find Checks (Warrior Veteran): Survival, Perception, Investigation<br><br>Find Checks (Berserker): Survival, Perception, Investigation<br><br>Find Checks (Knight): Survival, Perception, Investigation<br><br>Find Checks (Tough): Survival, Perception, Investigation<br> |
+| Find DCs (Warrior Veteran): 13(x1)<br><br>Find DCs (Berserker): 13(x1)<br><br>Find DCs (Knight): 13(x1)<br><br>Find DCs (Tough): 13(x1)<br> |
+| Locations (Warrior Veteran): Moors, The Crimson Monastery, Foxwillow<br><br>Locations (Berserker): Moors, The Crimson Monastery, Foxwillow<br><br>Locations (Knight): Moors, The Crimson Monastery, Foxwillow<br><br>Locations (Tough): Moors, The Crimson Monastery, Foxwillow<br> |
 
+
+### Nightwatcher's Salve
 
 |**Nightwatcher's Salve**|
 |:-|
@@ -4381,6 +5079,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Moors |
 
 
+### Charm of Quick Action
+
 |**Charm of Quick Action**|
 |:-|
 | Monster(s): The Wicker Man |
@@ -4394,6 +5094,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Rowan's Rise (Wicker's Vigil) |
 
 
+### Charm of the Crooked Faith
+
 |**Charm of the Crooked Faith**|
 |:-|
 | Monster(s): The Wicker Man |
@@ -4402,6 +5104,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: When worn on your person (but not carried in bags), whenever you cast a spell using Wisdom as a spellcasting modifier, you add +1 to spell attack rolls and spell save DC. However, every time you roll initiative, you must succeed on a DC 13 Charisma Saving Throw or begin burning. |
 
 
+### Accessory of Quick Action
+
 |**Accessory of Quick Action**|
 |:-|
 | Monster(s): - |
@@ -4409,6 +5113,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Very Rare)_ |
 | Effect: When worn, you can take 2 Reactions in one round. Once you use this feature, you can't use it again until you have a Long Rest. |
 
+
+### Accursed Wicker
 
 |**Accursed Wicker**|
 |:-|
@@ -4423,6 +5129,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Rowan's Rise (Wicker's Vigil) |
 
 
+### Soul Mote Totem
+
 |**Soul Mote Totem**|
 |:-|
 | Monster(s): The Wicker Man |
@@ -4433,6 +5141,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 20(x1), Auto Success on Fated Tarot: The Tower(x1) |
 | Locations: Rowan's Rise (Wicker's Vigil) |
 
+
+### Visage of the old ways
 
 |**Visage of the old ways**|
 |:-|
@@ -4445,6 +5155,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: Rowan's Rise (Wicker's Vigil) |
 
 
+### Hypnovulfen Meat
+
 |**Hypnovulfen Meat**|
 |:-|
 | Monster(s): Hypnovulfen |
@@ -4455,6 +5167,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), 23(x2), Auto Success on Fated Tarot: The Devil(x2) |
 | Locations: The Wytchwood |
 
+
+### Hypnovulfen Pelt
 
 |**Hypnovulfen Pelt**|
 |:-|
@@ -4469,6 +5183,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Boots of the Hypnovulfen
+
 |**Boots of the Hypnovulfen**|
 |:-|
 | Monster(s): - |
@@ -4476,6 +5192,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Very Rare)_ |
 | Effect: While you wear these boots, you gain 30 ft of ground Speed additional to your current Speed, your steps make no sound, regardless of the surface you are moving across, and you also have Advantage on Dexterity (Stealth) checks. |
 
+
+### Hypnovulfen Eye
 
 |**Hypnovulfen Eye**|
 |:-|
@@ -4491,6 +5209,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Hypnovulfen Pendulum
+
 |**Hypnovulfen Pendulum**|
 |:-|
 | Monster(s): - |
@@ -4498,6 +5218,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Very Rare)_ |
 | Effect: Made with the eye of a Hypnovulfen, this pendulum has the power to charm creatures in a similar way. You can use a Magic Action to cast a 30 ft Cone of Hypnotic effects that are percieved as a loved one or an item the creatures affected covet or want. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or have the Charmed condition and percieve a loved one or something it wants until it takes damage, or for 1 minute, whichever happens first. While charmed, it has the Incapacitated condition and must move as close to the eye as possible by the safest route. The creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. Once you have used this feature you cannot use it again until you have a Long Rest. |
 
+
+### Large Memory Fragment
 
 |**Large Memory Fragment**|
 |:-|
@@ -4510,6 +5232,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 17(x2), 27(1 for each party member), Auto Success on Fated Tarot: The Devil(1 for each party member) |
 | Locations: The Wytchwood |
 
+
+### Twisting Venom
 
 |**Twisting Venom**|
 |:-|
@@ -4524,6 +5248,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Twisted Antitoxin
+
 |**Twisted Antitoxin**|
 |:-|
 | Monster(s): - |
@@ -4532,6 +5258,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Use: _Drink_ |
 | Effect: An antitoxin made from the venom of a Crooked Hare. When drunk, it removes the effects of the bite of the Crooked Hare, and gives Advantage on saving throws cuased by its venom for 1 hour. |
 
+
+### Magic Absorbing Wood
 
 |**Magic Absorbing Wood**|
 |:-|
@@ -4546,6 +5274,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Wytchwood Sap
+
 |**Wytchwood Sap**|
 |:-|
 | Monster(s): Maidenwood |
@@ -4558,6 +5288,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Wytchwood Ash
+
 |**Wytchwood Ash**|
 |:-|
 | Monster(s): Maidenwood |
@@ -4568,6 +5300,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 15(x1), 20(x2), Auto Success on Fated Tarot: The Devil(x2) |
 | Locations: The Wytchwood |
 
+
+### Crooked Sap (Sight of Sin base)
 
 |**Crooked Sap (Sight of Sin base)**|
 |:-|
@@ -4581,6 +5315,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 13(x1), 15(x2), 17(x3) |
 | Locations: The Wytchwood |
 
+
+### Blink Dog Blood
 
 |**Blink Dog Blood**|
 |:-|
@@ -4597,6 +5333,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Pixie Dust
+
 |**Pixie Dust**|
 |:-|
 | Monster(s): Pixie |
@@ -4611,6 +5349,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Sprite Wings
+
 |**Sprite Wings**|
 |:-|
 | Monster(s): Sprite |
@@ -4623,6 +5363,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: 17(x1), 20(x2) |
 | Locations: The Wytchwood |
 
+
+### Sprite Dust
 
 |**Sprite Dust**|
 |:-|
@@ -4638,6 +5380,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Horned King's Ashes
+
 |**Horned King's Ashes**|
 |:-|
 | Monster(s): The Horned King |
@@ -4651,6 +5395,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Circlet of the Horned King
+
 |**Circlet of the Horned King**|
 |:-|
 | Monster(s): - |
@@ -4659,6 +5405,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: A circlet made from the ashes of the battle with the Horned King, which held strong magic but not the spirit of the Horned King himself. While you are wearing this circlet, you have a +1 bonus to your Armor Class and saving throws. While you are wearing this circlet and are attuned to it, you have another +1 bonus to your Armor Class and saving throws, and you can cast Detect Thoughts with a DC of 20, and you don't need to concentrate on this effect. While you are wearing this circlet and are attuned to it, you also gain the ability to speak telepathically with creatures you can see within 60 ft of yourself, adding to any range you previously had. Whenever you use Detect Thoughts this way, you gain 1 level of Exhaustion until the end of your next turn, and while you are exhausted this way, you take double the damage you would take whenever you take damage. You can use a Bonus Action to radiate an aura of power in a 20-foot Emanation that originates from you for 1 minute. When you activate this feature, and at the start of each of your turns, you can choose a creature you can see in the aura. The target must succeed on a DC 19 Charisma saving throw or suffer one of the following effects of your choice until the start of your next turn: Enticement. The target has the Charmed condition. Wickedness. The target has Disadvantage on attack rolls and ability checks. Terror. The target has the Frightened condition and must move away from you by the safest route during its turn unless there is nowhere to move. Once you use this feature you cannot use it again until you finish a Long Rest. |
 
 
+### Ring of Malediction
+
 |**Ring of Malediction**|
 |:-|
 | Monster(s): - |
@@ -4666,6 +5414,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Legendary)(Requires Attunement)_ |
 | Effect: This ring was made with the ashes from the battle with the Horned King, which helf strong magic but not the spirit of the Horned King himself. While wearing this ring, you have a +1 bonus to your Armor Class and saving throws. While you are wearing this ring and are attuned to it, you have an additional +1 bonus to your Armor Class and saving throws, and you can use its charges and abilities. The ring has 6 charges. You can use 2 charges and a Magic action to targt 1 cursed creature within 15 ft of you and transfer the curse to another creature within 15 ft of you. Whenever you use this feature, you must succeed on a DC 15 Wisdom Saving Throw or suffer the effects of the Hex spell for 24 hours, and be afflicted with a Random Curse. With the use of 1 charge and a Magic action, you can curse a creature you can see within 60 feet of you. Alternatively, when a creature within range targets you with an attack roll or a spell, you can take a Reaction to curse the creature with this feature. When cursed this way, the creature is affected as if by the spell Bestow Curse, without needing concentration. You use a DC 19 for this effect. |
 
+
+### Embers of Corruption
 
 |**Embers of Corruption**|
 |:-|
@@ -4682,6 +5432,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Weapon of Corruption
+
 |**Weapon of Corruption**|
 |:-|
 | Monster(s): - |
@@ -4689,6 +5441,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Weapon (Legendary)(Requires Attunement)_ |
 | Effect: A weapon made in the embers that burned the Horned King to ashes at the end of its catastrophic fight. While you are attuned to this weapon, attacks made with this weapon have a +3 bonus to attack and damage rolls, and it ignores resistances or immunitites to the damage dealt by the weapon. On a hit, you deal an additional 2d6 Psychic damage. Whenever you deal the killing blow on a creature with this weapon, the creature must succeed on a DC 19 Wisdom Saving Throw (calculated before it becomes unconscious or dead) or come back to life with a quarter of its Hit Points, and a +2 bonus to attack rolls and damage rolls. If it is killed again, this effect does not happen. You can use a Magic Action to succumb to the corruption of the weapon and Shapechange into a monster of a CR that is equal or lower to your character level. When doing so, you must succeed on a DC 17 Wisdom Saving Throw or be unable to discern friend from foe in this state unless under the effects of a Calm Emotions spell. Once you use this feature you cannot use it again until you finish a Long Rest. |
 
+
+### Armor of Terror
 
 |**Armor of Terror**|
 |:-|
@@ -4698,6 +5452,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: An armor made in the embers that burned the Horned King to ashes at the end of its catastrophic fight. While you are wearing this armor, you gain a +1 bonus to your Armor Class and Saving Throws. While you are wearing this armor and are attuned to it, you gain an additional +1 bonus to your Armor Class. While you are wearing this armor and are attuned to it, you are immune to the Frightened condition and have Advantage on Intimidation checks. For each creature that is Frightened of you within a 20 ft radius of you, you gain a +1 bonus to your Armor Class. You can use a Magic Action to create a 10 ft emanation of terrifying aura around you for 1 minute. When creatures enter this area or they start their turns in it, they must succeed on a DC 18 Wisdom Saving Throw or have the Frightened condition and take 4d6 Psychic damage. However, when you activate this aura, you must also succeed on a DC 15 Wisdom Saving Throw or face the effects of a Phantasmal Force spell until the end of your next turn. Once you use this feature you cannot use it again until you have finished a Long Rest. |
 
 
+### Helm of Horns
+
 |**Helm of Horns**|
 |:-|
 | Monster(s): - |
@@ -4706,6 +5462,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: A helm made in the embers that burned the Horned King to ashes at the end of its catastrophic fight. While you are wearing this helm, you gain a +1 bonus to your Armor Class and Saving Throws. While you are wearing this helm and are attuned to it, you gain an additional +1 bonus to your Armor Class and saving throws. The helm has 6 charges. You can use 1 charge to grow terrifying wings and gain a fly speed of 60 ft additional to any you might have already, for 1 hour. You can use 1 charge and a Bonus Action to gain the Horned King's Terrorizing Breath for 10 minutes. When using this breath, you take a Magic Action and create a 40 ft Cone of terrifying breath. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or have the Frightened condition. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. You can use a Bonus Action to radiate an aura of power in a 20-foot Emanation that originates from you for 1 minute. Whenever you deal damage while this feature is active the target takes an additional 1d8 Necrotic damage. When you activate this feature, and at the start of each of your turns, you can choose a creature you can see in the aura. The target must succeed on a DC 19 Charisma saving throw or suffer one of the following effects of your choice until the start of your next turn: Enticement. The target has the Charmed condition. Wickedness. The target has Disadvantage on attack rolls and ability checks. Terror. The target has the Frightened condition and must move away from you by the safest route during its turn unless there is nowhere to move. Once you use this feature you cannot use it again until you finish a Long Rest. |
 
 
+### Ring of Corruption
+
 |**Ring of Corruption**|
 |:-|
 | Monster(s): - |
@@ -4713,6 +5471,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Ring (Legendary)(Requires Attunement)_ |
 | Effect: A ring made in the embers that burned the Horned King to ashes at the end of its catastrophic fight. While you are wearing this ring, you gain a +1 bonus to your Armor Class and Saving Throws, and gain resistance to Psychic damage. While you are wearing this ring and are attuned to it, you gain an additional +1 bonus to your Armor Class and saving throws. The ring has 6 charges. You can use 1 charge and a Magic Action to cast the Horned King's Breath of Corruption. When using this breath, you create a 40 ft Cone of corrupting breath, and creatures in this area must succeed on a DC 19 Dexterity Saving Throw or take 6d6 Necrotic damage and 6d6 Psychic damage, and the target gains 1 level of Exhaustion that ends at the end of the target's next turn. On a success, targets take half of the damage only. This breath weapon is taxing, however, and you gain 1 level of Exhaustion until the end of your next turn. While you are Exhausted this way, you take double the damage from attacks made against you. |
 
+
+### Corrupting Sludge
 
 |**Corrupting Sludge**|
 |:-|
@@ -4729,6 +5489,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Goat Eye of Sin Amulet
+
 |**Goat Eye of Sin Amulet**|
 |:-|
 | Monster(s): - |
@@ -4737,6 +5499,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Effect: An amulet made of a Goat eye bathed in the evil sludge left by the catastrophic end of the battle with the Horned King. When worn, you gain Truesight to 60 ft, but every time you roll initiatie you must succeed on a DC 16 Wisdom Saving Throw or be filled with doubt and evil thoughts and have the Paralyzed condition until the start of your next turn. The amulet has 3 charges. You can spend 1 charge to point the Goat Eye of Sin in a 30 ft Cone. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or be allured greed, turning to attack each other to keep all the treasure or acclaim that they would get from killing you for themselves. They are still hostile to you and your party, but they are overcome with greed for the glory of victory. This only works if the enemy has at least an Intelligence of 10. However, if they do become the sole enemy in combat, every attack they make afterwards is made with Advantage. |
 
 
+### Ring of Temptation
+
 |**Ring of Temptation**|
 |:-|
 | Monster(s): - |
@@ -4744,6 +5508,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | _Wondrous Item (Legendary)_ |
 | Effect: A ring made from the evil sludge left by the catastrophic end of the battle with the Horned King. When worn, you receive 50% more XP and treasure from monsters, but you also take double the damage to your Hit Points whenever you would take damage. |
 
+
+### Crystallized Temptation
 
 |**Crystallized Temptation**|
 |:-|
@@ -4757,6 +5523,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Locations: The Wytchwood |
 
 
+### Crooked Moonstone
+
 |**Crooked Moonstone**|
 |:-|
 | Monster(s): The Horned King |
@@ -4767,6 +5535,8 @@ I won't charge for this content but honestly it is taking me several full on day
 | Find DCs: Auto Success if campaign continues to Moonfall chapter(1 for each party member) |
 | Locations: The Wytchwood |
 
+
+### Crooked Tree Ashes
 
 |**Crooked Tree Ashes**|
 |:-|
