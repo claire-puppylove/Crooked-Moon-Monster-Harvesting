@@ -84,40 +84,12 @@ Primordial Necrolisk Heart,bottle,Primordial Necrolisk (Home-Brew Side Quest Bos
 ??,??,Fire Giant (Fiend),??,??,??,??,??,??,"Survival, Perception, Investigation","??", "Loc"
 ??,??,Salamander (Fiend),??,??,??,??,??,??,"Survival, Perception, Investigation","??", "Loc"
 ??,??,The Brimstone Behemoth,??,??,??,??,??,??,"Survival, Perception, Investigation","??", "Loc"
-Goggles of Night,bag,-,Wondrous Item (Uncommon),-,-,-,"While wearing these dark lenses, you have Darkvision out to 60 feet. If you already have Darkvision, wearing the goggles increases its range by 60 feet.",-,"Perception, Investigation","15(1) found in the Baggage Car at the Ghostlight Express",Ghostlight Locomotive,Dungeon's Master Guide
-Fine Clothes,bag,-,Mundane,-,15 GP,-,"Fine Clothes are made of expensive fabrics and adorned with expertly craA:ed details. Some events and locations admit only people wearing these clothes.",-,"Perception, Investigation","15(1) found in the Baggage Car at the Ghostlight Express",Ghostlight Locomotive,Player's Handbook
-Silver Ring with Ruby,pouch,-,Mundane,-,20 GP,-,"A silver ring with a ruby set in it.",-,"Perception, Investigation","15(1) found in the Baggage Car at the Ghostlight Express",Ghostlight Locomotive,Crooked Moon
-Oil of Acuteness,flask,-,Consummable (Rare),"Weapons, Armor, Shields",200 GP,"Weapon Enchant, Armor Enchant","When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane piece of armor or a mundane shield, it becomes a magical armor or shield with a +1 bonus to Armor Class.",-,-,"Given as a choice of a reward by Adela and Philip instead of +1 Weapon or +1 shield as a reward for saving them from the Ghostlight Locomotive.",Ghostlight Crashsite,Home-brew (inspired by Solasta)
-Cloak of Protection,bag,-,Wondrous Item (Uncommon) (Requires Attunement),-,-,Wear,"You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.",-,-,"Given as a (homebrew) choice of a reward by Adela and Philip as a reward for saving them from the Ghostlight Locomotive.",Ghostlight Crashsite,Dungeon Master's Guide
-Bag of Tricks (Gray),bag,-,Wondrous Item (Uncommon),-,-,Take ball out,"This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.<br>You can take a Magic action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the Monster Manual for the creature’s stat block. The creature vanishes at the next dawn or when it is reduced to 0 Hit Points.<br>The creature is Friendly to you and your allies, and it acts immediately after you on your Initiative count. You can take a Bonus Action to command how the creature moves and what action it takes on its next turn, such as attacking an enemy. In the absence of such orders, the creature acts in a fashion appropriate to its nature.<br>Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.<br>**1d8**  **Creature**<br>**1**  Weasel<br>**2**  Giant Rat<br>**3**  Badger<br>**4**  Boar<br>**5**  Panther<br>**6**  Giant Badger<br>**7**  Dire Wolf<br>**8**  Giant Elk",-,-,"Given as a choice of a reward by Adela and Philip as a reward for saving them from the Ghostlight Locomotive.",Ghostlight Crashsite,Dungeon Master's Guide
-Dust of Disappearance,bag,-,Consumable (Uncommon),-,-,"Sprinkle","This powder resembles fine sand. There is enough of it for one use. When you take a Utilize action to throw the dust into the air, you and each creature and object within a 10-foot Emanation originating from you have the Invisible condition for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. Immediately after an affected creature makes an attack roll, deals damage, or casts a spell, the Invisible condition ends for that creature.",-,-,"Given as a choice of a reward by Adela and Philip as a reward for saving them from the Ghostlight Locomotive.",Ghostlight Crashsite,Dungeon Master's Guide
-Immovable Rod with goat heads on each end,bag,-,Wondrous Item (Uncommon),-,-,Activate,"This iron rod has a button on one end. You can take a Utilize action to press the button, which causes the rod to become magically fixed in place. Until you or another creature takes a Utilize action to push the button again, the rod doesn’t move, even if it defies gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can take a Utilize action to make a DC 30 Strength (Athletics) check, moving the fixed rod up to 10 feet on a successful check.",-,-,"Given as a choice of a reward by Adela and Philip as a reward for saving them from the Ghostlight Locomotive.",Ghostlight Crashsite,Dungeon Master's Guide
-Medallion of Thoughts,pouch,-,Wondrous Item (Uncommon),-,-,Use,"The medallion has 5 charges. While wearing it, you can expend 1 charge to cast Detect Thoughts (save DC 13) from it. The medallion regains 1d4 expended charges daily at dawn.",-,-,"Given as a choice of a reward by Adela and Philip as a reward for saving them from the Ghostlight Locomotive.",Ghostlight Crashsite,Dungeon Master's Guide
-Pearl of Power,pouch,-,Wondrous Item (Uncommon) (Requires Attunement by a Spellcaster),-,-,Use,"While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can’t be used again until the next dawn.",-,Perception,"10(1) found at the Dining Room",The Crooked House,Dungeon Master's Guide
-Gold Ring,pouch,-,Mundane,-,75 GP,-,"A golden ring.",-,"Perception","10(1) found at the Dining Room",The Crooked House,Crooked Moon
-Gold Pocket Watch,pouch,-,Mundane,-,100 GP,-,"A golden pocketwatch left behind by the devoured spirits with the words 'Remember the Third' etched into the back.",-,"Perception","Auto Success found at the Sitting Room",The Crooked House,Crooked Moon
-Figurine of Wondrous Power (Silver Duckie),pouch,-,Wondrous Item (Uncommon),-,-,Activate,"This silver statuette of a toy bath duckie can become a Duck for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in duck form, the figurine grants you the ability to cast Animal Messenger on it.",-,-,Auto Success found at the Bathroom,The Crooked House,Crooked Moon
-Philip Druskenvald's Journal,bag,-,Mundane,-,-,Read,"A journal labeled 'P.D.'. It has a simple mechanical lock. Should you read it?",-,Sleight of Hand,10(1) found at the Master Bedroom,The Crooked House,Crooked Moon
-Potion of Healing,pouch,-,Potion (Common),-,-,drink,"Heals 2d4+4 when drunk as a Bonus Action",-,-,Auto Success (4) found at the Library,The Crooked House,Player's Handbook
-Onyx Marbles (18),pouch,-,Mundane,-,10 GP,-,"The Magpie Square's statue of magpies had eyes made of onyx.",-,Investigation,16(1),Foxwillow,Crooked Moon
-Beautiful Banjo,-,-,Mundane,-,-,-,"Attached to this beautiful banjo is a note that says: Keep it secret from Jericho 'til next market night. He can't know how much we spent ordering this six-stringer for him.",-,Perception,15(1),Foxwillow,Crooked Moon
-Ornate Calligrapher's Tools,-,-,Mundane,-,50 GP,-,"aaa",-,-,Auto Success (5) if room empty,Crimson Monastery,Crooked Moon
-Blank Book,-,-,Mundane,-,-,-,"aaa",-,-,Auto Success (7) if room empty,Crimson Monastery,Crooked Moon
-Paper,-,-,Mundane,-,-,-,"aaa",-,-,Auto Success (50) if room empty,Crimson Monastery,Crooked Moon
-Religion Book,-,-,Mundane,-,-,-,"aaa",-,-,Auto Success (5) if room empty,Crimson Monastery,Crooked Moon
-The Rosen Testament,-,-,Mundane,-,250 GP,-,"artistry and illumination about the Crimson Faithful or vampires",-,-,Auto Success (1) if room empty,Crimson Monastery,Crooked Moon
-Lithurgcal Book of Crimson Prayers,-,-,Mundane,-,-,-,"aaa",-,Perception,15(1),Crimson Monastery,Crooked Moon
-Jewelry box 300 GP diamonds 200 GP rubies crimson mnonstery
-leticia nightborne painting 500 GP crimson monastery
-renathyrs journal
-14 percep metal lockbox containing 3 Potions of healing (greater) labeled emergency skitterdeep mine
-20 perc maul and dungeoneer pack with alchemist fire and oil one each side skitterdeep mine
-ring of evasion giant centipede autosuccess skitterdeep mine
-boss drops stonoga
-    necklace of adaptation in the form of gold centipede on a cord worn by Stonoga
-    alarm spell scroll
-    inflict wounds spell scroll
-    invisibility 
-    sleep
+Hartsblight Forest non-harvested items,??,??,??,??,??,??,??,??,??,??,??,??
+Maidenmist Cementery non-harvested items,??,??,??,??,??,??,??,??,??,??,??,??
+Roving Rockery non-harvested items,??,??,??,??,??,??,??,??,??,??,??,??
+Fool's Day non-harvested items,??,??,??,??,??,??,??,??,??,??,??,??
+Crooked Nightmare non-harvested items,??,??,??,??,??,??,??,??,??,??,??,??
+Wicker's Vigil non-harvested items,??,??,??,??,??,??,??,??,??,??,??,??
+Crooked Tree non-harvested items,??,??,??,??,??,??,??,??,??,??,??,??
 
 
