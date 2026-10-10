@@ -2263,7 +2263,7 @@ _Consumable (Uncommon)_
 **Use as ingredient for**: _Spells_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Throw_  
-**Description**: The Wormhost Surgeon's infested concoction, although in the heat of battle it seems it lost some of its potency. When thrown, the infested concoction explodes in a 10 ft radius sphere. Creatures in the area make a DC 14 Dexterity Saving Throw, and take 4d6 Pschic damage and is infested with parasitic worms on a failure. When infested the creature takes 1d6 Psychic damage at the end of its turns as the worms burrow towards its brain. This effect ends if the creature takes Poison damage, if it dies, or in 3 turns. (DM only info: A creature slain with this concoction recovers 5 Hit Points after 1 round and tries to attack again.)  
+**Description**: The Wormhost Surgeon's infested concoction, although in the heat of battle it seems it lost some of its potency. When thrown, the infested concoction explodes in a 10 ft radius sphere. Creatures in the area make a DC 14 Dexterity Saving Throw, and take 4d6 Pschic damage and is infested with parasitic worms on a failure. When infested the creature takes 1d6 Psychic damage at the end of its turns as the worms burrow towards its brain. This effect ends if the creature takes Poison damage, if it dies, or in 3 turns.   
 
   
 
@@ -2801,7 +2801,7 @@ _Potion_
 
   
 
-### Poison vial? (found in owlbear nest)(DM only: Owlbear Extract)  
+### Poison vial? (found in owlbear nest)  
 
 ---  
 **Source**: Home-brew  
