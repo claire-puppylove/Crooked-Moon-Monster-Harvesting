@@ -1,8 +1,6 @@
 ## Harvesting Items (By item and in order of appearance)  
 
-### Spectral Slick  
-
----  
+### Spectral Slick
 **Source**: Home-brew  
 _ Consumable (Common)_  
 **Store in**: _ vial_  
@@ -15,9 +13,7 @@ _ Consumable (Common)_
 
   
 
-### Dark Dust  
-
----  
+### Dark Dust
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
 **Store in**: _vial, cloth_  
@@ -30,9 +26,7 @@ _ Consumable (Uncommon)_
 
   
 
-### Haint Hooch Berries  
-
----  
+### Haint Hooch Berries
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
 **Store in**: _ pouch_  
@@ -45,9 +39,7 @@ _ Consumable (Uncommon)_
 
   
 
-### Wildpyre Claw  
-
----  
+### Wildpyre Claw
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
 **Store in**: _ pouch_  
@@ -58,9 +50,7 @@ _ Consumable (Uncommon)_
 
   
 
-### Wildpyre Fur  
-
----  
+### Wildpyre Fur
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
 **Store in**: _ pouch_  
@@ -71,9 +61,7 @@ _ Consumable (Uncommon)_
 
   
 
-### Soul Coal  
-
----  
+### Soul Coal
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
 **Store in**: _ pouch_  
@@ -85,9 +73,7 @@ _ Consumable (Uncommon)_
 **Cooking Effect**: When used as fuel in a fire to cook, you can prepare magic food for up to 4 people. When this food is eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation, whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, subtract 2 points of damage from the total instead.   
   
 
-### Ghostlight Grease  
-
----  
+### Ghostlight Grease
 **Source**: Home-brew  
 _ Consumable (Rare)_  
 **Store in**: _ vial_  
@@ -100,16 +86,12 @@ _ Consumable (Rare)_
 
   
 
-### Random Magic Item (DMG p.327) (Uncommon)  
-
----  
+### Random Magic Item (DMG p.327) (Uncommon)
 **Source**: The Crooked Moon  
 _Magic Item (Uncommon)_  
   
 
-### Whistle of the Vagrant  
-
----  
+### Whistle of the Vagrant
 **Source**: The Crooked Moon  
 _ Wondrous Item (Rare)(Requires Attunement)_  
 **Store in**: _ bag_  
@@ -117,9 +99,7 @@ _ Wondrous Item (Rare)(Requires Attunement)_
 
   
 
-### Goggles of Night  
-
----  
+### Goggles of Night
 **Source**: Dungeon's Master Guide  
 _Wondrous Item (Uncommon)_  
 **Store in**: _bag_  
@@ -127,9 +107,7 @@ _Wondrous Item (Uncommon)_
 
   
 
-### Fine Clothes  
-
----  
+### Fine Clothes
 **Source**: Player's Handbook  
 _Mundane_  
 **Store in**: _bag_  
@@ -138,9 +116,7 @@ _Mundane_
 
   
 
-### Silver Ring with Ruby  
-
----  
+### Silver Ring with Ruby
 **Source**: The Crooked Moon  
 _Mundane_  
 **Store in**: _pouch_  
@@ -149,9 +125,7 @@ _Mundane_
 
   
 
-### Oil of Acuteness  
-
----  
+### Oil of Acuteness
 **Source**: Home-brew  
 _Consummable (Rare)_  
 **Store in**: _flask_  
@@ -162,9 +136,7 @@ _Consummable (Rare)_
 
   
 
-### Cloak of Protection  
-
----  
+### Cloak of Protection
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon) (Requires Attunement)_  
 **Store in**: _bag_  
@@ -173,9 +145,7 @@ _Wondrous Item (Uncommon) (Requires Attunement)_
 
   
 
-### Bag of Tricks (Gray)  
-
----  
+### Bag of Tricks (Gray)
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon)_  
 **Store in**: _bag_  
@@ -184,9 +154,7 @@ _Wondrous Item (Uncommon)_
 
   
 
-### Dust of Disappearance  
-
----  
+### Dust of Disappearance
 **Source**: Dungeon Master's Guide  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -195,9 +163,7 @@ _Consumable (Uncommon)_
 
   
 
-### Immovable Rod with goat heads on each end  
-
----  
+### Immovable Rod with goat heads on each end
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon)_  
 **Store in**: _bag_  
@@ -206,9 +172,7 @@ _Wondrous Item (Uncommon)_
 
   
 
-### Medallion of Thoughts  
-
----  
+### Medallion of Thoughts
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon)_  
 **Store in**: _pouch_  
@@ -217,30 +181,22 @@ _Wondrous Item (Uncommon)_
 
   
 
-### Random Implement (DMG p.329)(Common)  
-
----  
+### Random Implement (DMG p.329)(Common)
 **Source**: Monster Manual  
 _Implement (Common)_  
   
 
-### Random Armament (DMG p.328) (Uncommon)  
-
----  
+### Random Armament (DMG p.328) (Uncommon)
 **Source**: Monster Manual, The Crooked Moon  
 _Armament (Uncommon)_  
   
 
-### Random Mundane (PHB p.223)  
-
----  
+### Random Mundane (PHB p.223)
 **Source**: Home-brew  
 _Mundane_  
   
 
-### Weasel Pelt  
-
----  
+### Weasel Pelt
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _pouch_  
@@ -249,18 +205,14 @@ _Ingredient (Common)_
 **Description**: Ermine fur can be used to create small items, or as decoration on larger clothes.   
   
 
-### Weasel Meat  
-
----  
+### Weasel Meat
 **Source**: Home-brew  
 _Ingredient (Mundane)_  
 **Store in**: _bag_  
 **Cooking Effect**: You can cook this to make mundane food for 1 person   
   
 
-### Humanoid Tooth  
-
----  
+### Humanoid Tooth
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _pouch_  
@@ -270,9 +222,7 @@ _Ingredient (Common)_
 
   
 
-### Wolf Pelt  
-
----  
+### Wolf Pelt
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -283,18 +233,14 @@ _Ingredient (Common)_
 
   
 
-### Wolf Meat  
-
----  
+### Wolf Meat
 **Source**: Home-brew  
 _Ingredient (Mundane)_  
 **Store in**: _bag_  
 **Cooking Effect**: You can cook this to make mundane food for 4 people   
   
 
-### Dire Wolf Pelt  
-
----  
+### Dire Wolf Pelt
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
@@ -305,9 +251,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Dire Wolf Tooth  
-
----  
+### Dire Wolf Tooth
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _pouch_  
@@ -317,9 +261,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Ring of the Dire Wolf  
-
----  
+### Ring of the Dire Wolf
 **Source**: Home-brew  
 _Ring (Uncommon)_  
 **Store in**: _pouch_  
@@ -328,9 +270,7 @@ _Ring (Uncommon)_
 _Crafted Item_  
   
 
-### Hag Familiar Pearl  
-
----  
+### Hag Familiar Pearl
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -341,9 +281,7 @@ _Consumable (Common)_
 
   
 
-### Dark Shard  
-
----  
+### Dark Shard
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -354,9 +292,7 @@ _Consumable (Uncommon)_
 
   
 
-### Ochre Ooze  
-
----  
+### Ochre Ooze
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -369,9 +305,7 @@ _Consumable (Common)_
 
   
 
-### Thread of Grasping  
-
----  
+### Thread of Grasping
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -382,9 +316,7 @@ _Consumable (Common)_
 
   
 
-### Dust of Disappearance  
-
----  
+### Dust of Disappearance
 **Source**: Dungeon Master's Guide  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -393,9 +325,7 @@ _Consumable (Uncommon)_
 
   
 
-### Dust of Lasting Disappearance  
-
----  
+### Dust of Lasting Disappearance
 **Source**: Homebrew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -404,9 +334,7 @@ _Consumable (Rare)_
 
   
 
-### Rug of Horror  
-
----  
+### Rug of Horror
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -417,41 +345,31 @@ _Consumable (Very Rare)_
 
   
 
-### Broom of Flying  
-
----  
+### Broom of Flying
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)(Requires Attunement)_  
 **Description**: This wooden broom functions like a mundane broom until you stand astride it and take a Magic action to make it hover beneath you, at which time it can be ridden in the air. It has a Fly Speed of 50 feet. It can carry up to 400 pounds, but its Fly Speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you’re no longer riding it.<br><br>As a Magic action, you can send the broom to travel alone to a destination within 1 mile of you if you name the location and are familiar with it. The broom comes back to you when you take a Magic action and use a command word if the broom is still within 1 mile of you.  
 
   
 
-### White Seance Ring  
-
----  
+### White Seance Ring
 **Source**: Home-brew  
 _Ring (Rare)_  
 **Description**: When worn, you have one more 2nd level spell slot, and 1 more 1st level spell slot.  
 
   
 
-### Random Arcana (DMG p.327) (Very Rare)  
-
----  
+### Random Arcana (DMG p.327) (Very Rare)
 **Source**: The Crooked Moon  
 _Arcana (Very Rare)_  
   
 
-### Random Spell Scroll (spell level 6 or several which sum to 6)  
-
----  
+### Random Spell Scroll (spell level 6 or several which sum to 6)
 **Source**: Home-brew  
 _Spell Scroll (Very Rare)_  
   
 
-### Memory Orb  
-
----  
+### Memory Orb
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -459,9 +377,7 @@ _Consumable (Very Rare)_
 **Description**: An orb containing the memories of a slain hero of the past. When you consume this item, you see the memories and feel them as if your own, and you gain a Feat of your choice. The orb shatters and becomes dust after use.   
   
 
-### Memory Orb Dust  
-
----  
+### Memory Orb Dust
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _vial, cloth, pouch_  
@@ -470,9 +386,7 @@ _Ingredient (Very Rare)_
 **Description**: The remaining dust of the memory orb can be used as material worth 2500 GP when crafting a magical item   
   
 
-### Uvula of Horror  
-
----  
+### Uvula of Horror
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Store in**: _bag_  
@@ -481,27 +395,21 @@ _Wondrous Item (Very Rare)_
 
   
 
-### Gem  
-
----  
+### Gem
 **Source**: The Crooked Moon  
 _?_  
 **Description**: A red bloodstone gem eye found in the peacock statue  
 
   
 
-### Key  
-
----  
+### Key
 **Source**: The Crooked Moon  
 _?_  
 **Description**: A black ivory harpsichord key  
 
   
 
-### Pearl of Power  
-
----  
+### Pearl of Power
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon) (Requires Attunement by a Spellcaster)_  
 **Store in**: _pouch_  
@@ -510,9 +418,7 @@ _Wondrous Item (Uncommon) (Requires Attunement by a Spellcaster)_
 
   
 
-### Gold Ring  
-
----  
+### Gold Ring
 **Source**: The Crooked Moon  
 _Mundane_  
 **Store in**: _pouch_  
@@ -522,27 +428,21 @@ _Mundane_
 
   
 
-### Petunia's Green Ribbon  
-
----  
+### Petunia's Green Ribbon
 **Source**: The Crooked Moon  
 _Wondrous Item (Rare)(Requires Attunement)_  
 **Description**: Green Ribbon, from the Crooked Moon cursed curios.  
 
   
 
-### Cup  
-
----  
+### Cup
 **Source**: The Crooked Moon  
 _?_  
 **Description**: A white porcelain teacup  
 
   
 
-### Gold Pocket Watch  
-
----  
+### Gold Pocket Watch
 **Source**: The Crooked Moon  
 _Mundane_  
 **Store in**: _pouch_  
@@ -552,18 +452,14 @@ _Mundane_
 
   
 
-### Doll  
-
----  
+### Doll
 **Source**: The Crooked Moon  
 _?_  
 **Description**: A lifeless wooden doll.  
 
   
 
-### Lurker Dust  
-
----  
+### Lurker Dust
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial, cloth_  
@@ -576,9 +472,7 @@ _Consumable (Uncommon)_
 
   
 
-### Figurine of Wondrous Power (Duckie)  
-
----  
+### Figurine of Wondrous Power (Duckie)
 **Source**: The Crooked Moon  
 _Wondrous Item (Uncommon)_  
 **Store in**: _pouch_  
@@ -587,9 +481,7 @@ _Wondrous Item (Uncommon)_
 
   
 
-### Philip Druskenvald's Journal  
-
----  
+### Philip Druskenvald's Journal
 **Source**: The Crooked Moon  
 _Mundane_  
 **Store in**: _bag_  
@@ -598,18 +490,14 @@ _Mundane_
 
   
 
-### Bear  
-
----  
+### Bear
 **Source**: The Crooked Moon  
 _?_  
 **Description**: A blue teddy bear  
 
   
 
-### Ketgrinn's Bell  
-
----  
+### Ketgrinn's Bell
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -620,16 +508,12 @@ _Consumable (Uncommon)_
 
   
 
-### Random Arcana (DMG p.327) (Uncommon)  
-
----  
+### Random Arcana (DMG p.327) (Uncommon)
 **Source**: The Crooked Moon  
 _Arcana (Uncommon)_  
   
 
-### Potion of Healing  
-
----  
+### Potion of Healing
 **Source**: Player's Handbook  
 _Potion (Common)_  
 **Store in**: _pouch_  
@@ -638,18 +522,14 @@ _Potion (Common)_
 
   
 
-### Pin  
-
----  
+### Pin
 **Source**: The Crooked Moon  
 _?_  
 **Description**: A silver hairpin  
 
   
 
-### Bag of Humanoid Teeth  
-
----  
+### Bag of Humanoid Teeth
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
@@ -659,9 +539,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Lilypad Tonic  
-
----  
+### Lilypad Tonic
 **Source**: The Crooked Moon  
 _Potion (Common)_  
 **Store in**: _vial_  
@@ -669,16 +547,12 @@ _Potion (Common)_
 
   
 
-### Random Spell scroll (spell level 3 or several that sum to 3)  
-
----  
+### Random Spell scroll (spell level 3 or several that sum to 3)
 **Source**: Home-brew  
 _Spell Scroll (Uncommon)_  
   
 
-### Compass of Wanting  
-
----  
+### Compass of Wanting
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)_  
 **Store in**: _pouch_  
@@ -686,9 +560,7 @@ _Wondrous Item (Uncommon)_
 
   
 
-### Twisted Charm  
-
----  
+### Twisted Charm
 **Source**: The Crooked Moon  
 _Wondrous Item (Rare)_  
 **Store in**: _pouch_  
@@ -696,9 +568,7 @@ _Wondrous Item (Rare)_
 
   
 
-### Memory Shard  
-
----  
+### Memory Shard
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -709,9 +579,7 @@ _Consumable (Uncommon)_
 
   
 
-### Harvest Brew Base  
-
----  
+### Harvest Brew Base
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bottle_  
@@ -724,9 +592,7 @@ _Consumable (Uncommon)_
 
   
 
-### Daemon Ichor  
-
----  
+### Daemon Ichor
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -738,9 +604,7 @@ _Consumable (Uncommon)_
 **Cooking Effect**: When used in cooking, you can cook food with a special effect for up to 2 people. When eaten, your eyes become slightly demonic for 1 hour, and you gain the ability to see in Darkness as if it was Bright Light up to 40 ft, and as if it was Dim Light up to 80 ft for the duration.   
   
 
-### False Crow Feather  
-
----  
+### False Crow Feather
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -751,9 +615,7 @@ _Consumable (Common)_
 
   
 
-### Harvest Terror Feather  
-
----  
+### Harvest Terror Feather
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -764,9 +626,7 @@ _Consumable (Uncommon)_
 
   
 
-### Amber Eye  
-
----  
+### Amber Eye
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _pouch_  
@@ -776,9 +636,7 @@ _Ingredient (Rare)_
 
   
 
-### Raum's Rag  
-
----  
+### Raum's Rag
 **Source**: Home-brew  
 _ Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -789,9 +647,7 @@ _ Consumable (Rare)_
 
   
 
-### Secret Shard  
-
----  
+### Secret Shard
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -802,9 +658,7 @@ _Consumable (Rare)_
 
   
 
-### Ol' Jericho Sticks' Memory Shard  
-
----  
+### Ol' Jericho Sticks' Memory Shard
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -815,25 +669,19 @@ _Consumable (Rare)_
 
   
 
-### Random Implement (DMG p.329) (Rare)  
-
----  
+### Random Implement (DMG p.329) (Rare)
 **Source**: The Crooked Moon  
 _Implement (Rare)_  
   
 
-### The Harvest Terror's Scythe  
-
----  
+### The Harvest Terror's Scythe
 **Source**: Home-brew  
 _Weapon (Rare)(Requires Attunement)_  
 **Description**: The Fated Tarot treasure, with alternative roll to find options.  
 
   
 
-### Onyx Marble  
-
----  
+### Onyx Marble
 **Source**: The Crooked Moon  
 _Mundane_  
 **Store in**: _pouch_  
@@ -843,18 +691,14 @@ _Mundane_
 
   
 
-### Sack of coins (300 SP,1000 CP)  
-
----  
+### Sack of coins (300 SP,1000 CP)
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: Found under a floor board in the Reception of the Foxwillow Inn. Outside the sack was a single black coin with a feather icon on one face.  
 
   
 
-### Beautiful Banjo  
-
----  
+### Beautiful Banjo
 **Source**: The Crooked Moon  
 _Mundane_  
 **Use as ingredient for**: _Banjo_  
@@ -863,61 +707,47 @@ _Mundane_
 
   
 
-### Bloody Bundle  
-
----  
+### Bloody Bundle
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A ritual circle drawn in dried calf ’s blood hidden under a rug, a cow skull, a chicken skull, and a lamb skull on a shelf, all marked with a bloody thumbprint, and a bundle of dried wheat, barley, and flax, bound in a blood-drenched rag, all found in the Butcher's shop's back room.  
 
   
 
-### Virgil's Birdcage transcript  
-
----  
+### Virgil's Birdcage transcript
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: Clutched in the librarian scarecrow's hand was this, a gorgeous transcription of a song titled Virgil's Birdcage, one of Jericho's classics.  
 
   
 
-### Ol' Jericho Sticks birth certificate  
-
----  
+### Ol' Jericho Sticks birth certificate
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: Ol' Jericho Sticks was granted official citizenship of Foxwillow  
 
   
 
-### Crumpled Note  
-
----  
+### Crumpled Note
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: Isaac, come meet me in the windmill cellar where I used to hide when we played as kids. Remember? I've learned something amazing  
 
   
 
-### Isaac's Locket  
-
----  
+### Isaac's Locket
 **Source**: The Crooked Moon  
 _Wondrous Item (Uncommon)(Requires Attunement)_  
 **Description**: A locket given by Martha to help protect you against the monster her daughter has become. You gain a +1 bonus to your armor class when wearing this locket and while attuned to it.  
 
   
 
-### Random Magic Item (DMG p.327) (Rare)  
-
----  
+### Random Magic Item (DMG p.327) (Rare)
 **Source**: The Crooked Moon  
 _Magic Item (Rare)_  
   
 
-### Silence of the Drowned Base  
-
----  
+### Silence of the Drowned Base
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -929,9 +759,7 @@ _Consumable (Uncommon)_
 **Cooking Effect**: When added to cooking, you can make food with the same effect as drinking it directly but for 2 people, who can breathe underwater for 1 hour when eaten.   
   
 
-### Wellwyrm venom gland  
-
----  
+### Wellwyrm venom gland
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -944,9 +772,7 @@ _Consumable (Rare)_
 
   
 
-### Wellwyrm Antitoxin  
-
----  
+### Wellwyrm Antitoxin
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -956,9 +782,7 @@ _Consumable (Rare)_
 _Crafted Item_  
   
 
-### Kackle Lantern Fuel  
-
----  
+### Kackle Lantern Fuel
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _flask_  
@@ -971,9 +795,7 @@ _Consumable (Rare)_
 
   
 
-### Kackle Charm  
-
----  
+### Kackle Charm
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _flask_  
@@ -984,9 +806,7 @@ _Consumable (Rare)_
 
   
 
-### Raven Feather  
-
----  
+### Raven Feather
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _pouch_  
@@ -996,9 +816,7 @@ _Ingredient (Common)_
 
   
 
-### Raven Meat  
-
----  
+### Raven Meat
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -1006,9 +824,7 @@ _Ingredient (Common)_
 
   
 
-### Unidentified Spooky Object  
-
----  
+### Unidentified Spooky Object
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -1019,9 +835,7 @@ _Consumable (Rare)_
 
   
 
-### Meteorite Dust  
-
----  
+### Meteorite Dust
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -1032,9 +846,7 @@ _Consumable (Rare)_
 
   
 
-### Harvested Blood  
-
----  
+### Harvested Blood
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _vial,bottle(x10)_  
@@ -1046,15 +858,11 @@ _Ingredient (Common)_
 **Cooking Effect**: You can use 10 vials to make blood pudding for 1 person. When eaten, you gain +1 to your Charisma modifier for 1 hour.   
   
 
-### Random Relic (DMG p.331) (Common)  
-
----  
+### Random Relic (DMG p.331) (Common)
 **Source**: The Crooked Moon  
   
 
-### Crimson Wine (Draught of the Red Hunger Base)  
-
----  
+### Crimson Wine (Draught of the Red Hunger Base)
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial, bottle(x10)_  
@@ -1066,9 +874,7 @@ _Consumable (Uncommon)_
 **Cooking Effect**: When used for cooking, you can cook food with special effects for 4 people. When eaten, you do not have Disadvantage on attacks melee made in Darkness for 1 hour, and it also gives the user sunlight sensitivity giving disadvantage on D20 tests while exposed, and it also gives the user an urge to say Bleh Bleh Bleh   
   
 
-### Life vessel  
-
----  
+### Life vessel
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -1079,9 +885,7 @@ _Consumable (Uncommon)_
 
   
 
-### Pirozhki  
-
----  
+### Pirozhki
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -1090,9 +894,7 @@ _Consumable (Rare)_
 
   
 
-### Bat Eyes  
-
----  
+### Bat Eyes
 **Source**: Home-brew  
 _ Consumable (Common)_  
 **Store in**: _pouch_  
@@ -1103,9 +905,7 @@ _ Consumable (Common)_
 
   
 
-### Bat Wings  
-
----  
+### Bat Wings
 **Source**: Home-brew  
 _ Consumable (Common)_  
 **Store in**: _bag_  
@@ -1116,9 +916,7 @@ _ Consumable (Common)_
 
   
 
-### Distant Shot Ring  
-
----  
+### Distant Shot Ring
 **Source**: Home-brew  
 _Ring (Uncommon)_  
 **Store in**: _pouch_  
@@ -1127,9 +925,7 @@ _Ring (Uncommon)_
 _Crafted Item_  
   
 
-### Bat Echor  
-
----  
+### Bat Echor
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -1142,9 +938,7 @@ _Consumable (Common)_
 
   
 
-### Bat Hound Wings  
-
----  
+### Bat Hound Wings
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -1155,9 +949,7 @@ _Consumable (Uncommon)_
 
   
 
-### Chewed Homeward Bone  
-
----  
+### Chewed Homeward Bone
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -1169,9 +961,7 @@ _Consumable (Rare)_
 **Cooking Effect**: You can cook this bone to cook a bone broth for up to 3 people. When drunk, you gain the effects of a short rest without needing to spend time to rest.   
   
 
-### Homeward Bone  
-
----  
+### Homeward Bone
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -1183,9 +973,7 @@ _Consumable (Very Rare)_
 **Cooking Effect**: You can cook this bone to cook a bone broth for up to 6 people. When drunk, you gain the effects of a short rest without needing to spend time to rest.   
   
 
-### Horse Hooves  
-
----  
+### Horse Hooves
 **Source**: Home-brew  
 _Ingredient(Common)_  
 **Store in**: _bag_  
@@ -1195,9 +983,7 @@ _Ingredient(Common)_
 
   
 
-### Iron Horseshoe  
-
----  
+### Iron Horseshoe
 **Source**: Home-brew  
 _Mundane_  
 **Store in**: _bag_  
@@ -1205,9 +991,7 @@ _Mundane_
 
   
 
-### Horse Meat  
-
----  
+### Horse Meat
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -1215,16 +999,12 @@ _Ingredient (Common)_
 
   
 
-### Random Magic Item Except Relics (DMG p.327) (Rare)  
-
----  
+### Random Magic Item Except Relics (DMG p.327) (Rare)
 **Source**: The Crooked Moon  
 _Magic Item Except Relic (Rare)_  
   
 
-### Alpengrendel Horn  
-
----  
+### Alpengrendel Horn
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -1235,9 +1015,7 @@ _Consumable (Rare)_
 
   
 
-### Alpengrendel Tusk  
-
----  
+### Alpengrendel Tusk
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -1248,9 +1026,7 @@ _Consumable (Uncommon)_
 
   
 
-### Alpengrendel Fur  
-
----  
+### Alpengrendel Fur
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -1261,9 +1037,7 @@ _Consumable (Uncommon)_
 
   
 
-### Alpengrendel Meat  
-
----  
+### Alpengrendel Meat
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
@@ -1271,15 +1045,11 @@ _Ingredient (Uncommon)_
 
   
 
-### Random Relic (DMG p.331) (Rare)  
-
----  
+### Random Relic (DMG p.331) (Rare)
 **Source**: The Crooked Moon  
   
 
-### Crimson Cloak  
-
----  
+### Crimson Cloak
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
 **Store in**: _bag_  
@@ -1287,9 +1057,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 
   
 
-### Wings of the Crimson Abbot  
-
----  
+### Wings of the Crimson Abbot
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -1300,9 +1068,7 @@ _Consumable (Rare)_
 
   
 
-### Greater Life Vessel  
-
----  
+### Greater Life Vessel
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _flask_  
@@ -1313,9 +1079,7 @@ _Consumable (Rare)_
 
   
 
-### Vampire Blood  
-
----  
+### Vampire Blood
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _vial_  
@@ -1328,36 +1092,28 @@ _Consumable (Very Rare)_
 
   
 
-### Vampiric Weapon (Vampire Blood)  
-
----  
+### Vampiric Weapon (Vampire Blood)
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Description**: A Weapon enchanted by bathing it in the blood of a Vampire. If you are attuned to this item you gain the following benefits.<br>The weapon adds +1d6 Necrotic damage to hits, and you gain the added damage as Temporary Hit Points if you are holding the weapon.<br>You can also use this weapon as a focus for your spells.<br>As a Bonus Action you can toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls. While the weapon hovers, you can take a Bonus Action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same Bonus Action, you can cause the weapon to attack one creature within 5 feet of the weapon. After the hovering weapon attacks for the fourth time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it.  
 
   
 
-### Vampiric Shield (Vampire Blood)  
-
----  
+### Vampiric Shield (Vampire Blood)
 **Source**: Home-brew  
 _Shield (Very Rare)(Requires Attunement)_  
 **Description**: A Shield enchanted by bathing it in the blood of a Vampire. If you are attuned to this item you gain the following benefits.<br>The shield does +1d6 Necrotic damage when you are hit with melee attacks, and you gain the damage as Temporary Hit Points if you are holding the shield.<br>You can also use this shield as a focus for your spells.<br>You can take a Bonus Action to cause it to animate. The Shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The Shield remains animate for 1 minute, until you take a Bonus Action to end this effect, or until you die or have the Incapacitated condition, at which point the Shield falls to the ground or into your hand if you have one free.  
 
   
 
-### Vampiric Accessory  
-
----  
+### Vampiric Accessory
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
 **Description**: An amulet or ring bathed in the blood of a Vampire in an unholy ritual. While you are wearing this accessory and you are attuned to it, you gain a +1 bonus to your Armor Class and Saving Throws. You also gain resistance to Necrotic damage, and you regain 5 plus half your character level (round up) Hit Points when killing a creature within your melee range.<br>You can cast Blood Bolt from the accessory.<br>The accessory has 6 charges.<br>You can use 1 charge to cast False Life.<br>You can use 2 charges to cast Blood Sacrifice.<br>You can use 3 charges to cast Vampiric Touch.<br>The accessory regains 1d6 charges on a Long Rest.  
 
   
 
-### Vampire Heart  
-
----  
+### Vampire Heart
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bottle_  
@@ -1370,9 +1126,7 @@ _Consumable (Very Rare)_
 
   
 
-### Vampire Locket  
-
----  
+### Vampire Locket
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
 **Description**: You have Vampiric powers while wearing and attuned to this locket made with a Vampire Heart. You have Darkvision up to 120 ft. Your speed increases by 20 ft, and you gain a Climb Speed and Fly Speed of 30 ft, in addition to any you might already have. While you are wearing this accessory and you are attuned to it, you gain a +1 bonus to your Armor Class and Saving Throws. You also gain resistance to Necrotic damage, and you regain 5 plus half your character level (round up) Hit Points when killing a creature within your melee range. You can cast Blood Bolt, False Life and Blood Sacrifice from the accessory without spending a spell slot. The locket has 5 charges. You can use one charge to cast Charm Person with a save DC of 20 without Concentration. You can use one charge to gain the effect of Vampiric Touch casted at the 6th level without using Concentration. You can use one charge to use a Magic Action to gain the effects of the Gaseous Form spell without using a spell slot while you aren't in sunlight. You can also revert to your normal form as a Magic Action. You can use one charge and a Magic Action to to yell 'Bat!' and cast Polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores, and can speak. You can dismiss the effect by yelling '(your species here) Form!' or 'Normal Form!' to transform back to your original form. The locket regains 1d6 charges on a Long Rest up to its maximum.  
@@ -1380,9 +1134,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Vampiric Weapon (Vampire Heart)  
-
----  
+### Vampiric Weapon (Vampire Heart)
 **Source**: Home-brew  
 _Weapon (Legendary)(Requires Attunement)_  
 **Description**: The weapon has a +2 bonus to attack rolls and damage rolls, adds +3d6 Necrotic damage to hits, and you gain the added damage as Temporary Hit Points if you are holding the weapon. You can also use this weapon as a focus for your spells. As a Bonus Action you can toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls. While the weapon hovers, you can take a Bonus Action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same Bonus Action, you can cause the weapon to attack one creature within 5 feet of the weapon. After the hovering weapon attacks for the eight time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it.  
@@ -1390,9 +1142,7 @@ _Weapon (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Vampiric Shield (Vampire Heart)  
-
----  
+### Vampiric Shield (Vampire Heart)
 **Source**: Home-brew  
 _Shield (Legendary)(Requires Attunement)_  
 **Description**: The shield has a +2 bonus to your Armor Class and saving throws. It does +3d6 Necrotic damage when you are hit with melee attacks, and you gain the damage as Temporary Hit Points if you are holding the shield. You can also use this shield as a focus for your spells. You can take a Bonus Action to cause it to animate. The Shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The Shield remains animate for 10 minutes, until you take a Bonus Action to end this effect, or until you die or have the Incapacitated condition, at which point the Shield falls to the ground or into your hand if you have one free.  
@@ -1400,9 +1150,7 @@ _Shield (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Ring of Command  
-
----  
+### Ring of Command
 **Source**: Home-brew  
 _Ring (Uncommon)_  
 **Store in**: _pouch_  
@@ -1412,36 +1160,28 @@ _Ring (Uncommon)_
 
   
 
-### Sword of Crimson Abbot  
-
----  
+### Sword of Crimson Abbot
 **Source**: The Crooked Moon  
 _Weapon (Very Rare)_  
 **Description**: Sword of Crimson Abbot, from the Fated Tarot Reading, with alternate rolling to find options.  
 
   
 
-### Hound Treat  
-
----  
+### Hound Treat
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A bloody lump of meat, hounds love these.  
 
   
 
-### Jaeger's Workbook  
-
----  
+### Jaeger's Workbook
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: This workbook contains notes on using blood magic for a variety of processes, including the creation of Bat Hounds, the enchantment of weapons, and the general transference of vitality from one person to another. It also contains his observations on the behavior of the monastery's people, including a note that Father Renathyr spends the Witching Hour in the bell tower every night. Studying the notes for 24 succeeding on a DC 14 Arcana check per 8 hours studied lets you learn the spell Blood Sacrifice. Studying the notes for 72 hours succeeding on a DC 17 Arcana check every 8 hours grants you the Crimson Ritualist Feat. As for the Blood Hounds, it seems only a Forgemaster can perform these rites.  
 
   
 
-### Ornate Calligrapher's Tools  
-
----  
+### Ornate Calligrapher's Tools
 **Source**: The Crooked Moon  
 _Ingredient_  
 **Use as ingredient for**: _Scrolls_  
@@ -1450,9 +1190,7 @@ _Ingredient_
 
   
 
-### Blank Book  
-
----  
+### Blank Book
 **Source**: The Crooked Moon  
 _Ingredient_  
 **Use as ingredient for**: _Spellbook, Wondrous Item (book)_  
@@ -1460,9 +1198,7 @@ _Ingredient_
 
   
 
-### Paper  
-
----  
+### Paper
 **Source**: The Crooked Moon  
 _Ingredient_  
 **Use as ingredient for**: _Scrolls_  
@@ -1470,18 +1206,14 @@ _Ingredient_
 
   
 
-### Religion Book  
-
----  
+### Religion Book
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: aaa  
 
   
 
-### The Rosen Testament  
-
----  
+### The Rosen Testament
 **Source**: The Crooked Moon  
 _Mundane_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
@@ -1489,18 +1221,14 @@ _Mundane_
 
   
 
-### Liturgical Book of Crimson Prayers  
-
----  
+### Liturgical Book of Crimson Prayers
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: Tucked away in a drawer within Olaf's writing desk is his personal missal, a liturgical book that contains the prayers and rituals of the Crimson Faith.<br><br>It contains details on the ritual to enter the secret chamber beneath the monastery where the Bloodless receive the gift of the Crimson Rose, and where he, Cromwell, and Jaeger had been anointed as the goddess’s chosen. To access this chamber, a hidden goblet beneath the altar in the cathedral must be filled with a pint of blood.  
 
   
 
-### Jewelry box  
-
----  
+### Jewelry box
 **Source**: The Crooked Moon  
 _Mundane_  
 **Use as ingredient for**: _Wondrous Items_  
@@ -1509,9 +1237,7 @@ _Mundane_
 
   
 
-### Diamonds (300 GP)  
-
----  
+### Diamonds (300 GP)
 **Source**: The Crooked Moon  
 _Ingredient_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Rods, Wands, Staffs, Rings, Wondrous Items_  
@@ -1520,9 +1246,7 @@ _Ingredient_
 
   
 
-### Rubies (200 GP)  
-
----  
+### Rubies (200 GP)
 **Source**: The Crooked Moon  
 _Ingredient_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Rods, Wands, Staffs, Rings, Wondrous Items_  
@@ -1531,27 +1255,21 @@ _Ingredient_
 
   
 
-### Lethica Nightborne painting  
-
----  
+### Lethica Nightborne painting
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: The painting on the altar is of the wife Renathyr abandoned—Lethica Nightborne. It’s of fine craftsmanship and has a haunting quality, easily worth 500 GP to a collector in Wickermoor Village.  
 
   
 
-### Renathyr's Journal  
-
----  
+### Renathyr's Journal
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: Contains journal entries detailing Renathyr's story. The pages become increasingly difficult to read as they become smudged or stained with blood until eventually the pages are completely smeared with red.  
 
   
 
-### Stone Giant Nail Dust  
-
----  
+### Stone Giant Nail Dust
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -1562,9 +1280,7 @@ _Consumable (Uncommon)_
 
   
 
-### Stone Giant Blood  
-
----  
+### Stone Giant Blood
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _vial_  
@@ -1576,9 +1292,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Ring of Stone Carrying  
-
----  
+### Ring of Stone Carrying
 **Source**: Home-brew  
 _Ring (Rarity Varies)_  
 **Store in**: _pouch_  
@@ -1587,9 +1301,7 @@ _Ring (Rarity Varies)_
 _Crafted Item_  
   
 
-### Vampire Spawn Fang  
-
----  
+### Vampire Spawn Fang
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -1600,9 +1312,7 @@ _Consumable (Uncommon)_
 
   
 
-### Proboscus  
-
----  
+### Proboscus
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -1610,9 +1320,7 @@ _Consumable (Common)_
 **Description**: These probosci could be used as darts. When thrown they do 1d4 Piercing and 1d4 Necrotic damage.   
   
 
-### Jinxed trinket  
-
----  
+### Jinxed trinket
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -1623,9 +1331,7 @@ _Consumable (Rare)_
 
   
 
-### Jinxed Rum Base  
-
----  
+### Jinxed Rum Base
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial(x1),bottle(x10)_  
@@ -1638,9 +1344,7 @@ _Consumable (Uncommon)_
 
   
 
-### Giant Crocodile Teeth  
-
----  
+### Giant Crocodile Teeth
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
@@ -1650,9 +1354,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Giant Crocodile Skin  
-
----  
+### Giant Crocodile Skin
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
@@ -1662,18 +1364,14 @@ _Ingredient (Uncommon)_
 
   
 
-### Crocodile Meat  
-
----  
+### Crocodile Meat
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
 **Cooking Effect**: You can use this to cook mundane food for 4 people   
   
 
-### Crocodile Tooth  
-
----  
+### Crocodile Tooth
 **Source**: Home-brew  
 _Ingredient(Common)_  
 **Store in**: _pouch_  
@@ -1683,9 +1381,7 @@ _Ingredient(Common)_
 
   
 
-### Crocodile Skin  
-
----  
+### Crocodile Skin
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -1695,9 +1391,7 @@ _Ingredient (Common)_
 
   
 
-### Paralytic Dust  
-
----  
+### Paralytic Dust
 **Source**: Home-brew  
 _Ingredient (common)_  
 **Store in**: _pouch_  
@@ -1709,9 +1403,7 @@ _Ingredient (common)_
 **Cooking Effect**: When used as a spice for cooking, you can make food with a special effect for 4 people. When eaten, you become Paralyzed for 1 minute. Try not to eat it yourself.   
   
 
-### Paralytic Ammunition  
-
----  
+### Paralytic Ammunition
 **Source**: Home-brew  
 _Ammunition (Common)_  
 **Description**: You can use a Bonus Action to apply this to a weapon. When applied to a weapon or 1 ammunition, a paralytic effect is added to it for 1 hit that can affect creatures that aren't Undead. The effect is removed after 1 hit, and you can use a larger quantity of dust to increase the number of hits or ammunition without needing to spend several Bonus Actions to do so. When hitting with the weapon or ammunition, the target makes a DC 12 Constitution Saving Throw, and becomes Paralyzed until the end of its next turn if failed.  
@@ -1719,9 +1411,7 @@ _Ammunition (Common)_
 _Crafted Item_  
   
 
-### Coffin Nails  
-
----  
+### Coffin Nails
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -1731,9 +1421,7 @@ _Consumable (Rare)_
 **Description**: These coffin nails exhude cursed energy. Make a ranged spell attack with +7 to hit, the nail will float in the air and fly at a piercing speed towards the target. On a hit, it deals 1d4 Piercing damage and 2d8 Necrotic damage, and the target will have the Restrained condition until the end of the user's next turn.   
   
 
-### Coffin Water (Elixir of Fog Walking Base)  
-
----  
+### Coffin Water (Elixir of Fog Walking Base)
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial, bottle(x10)_  
@@ -1744,9 +1432,7 @@ _Consumable (Uncommon)_
 
   
 
-### Ghast Blood  
-
----  
+### Ghast Blood
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -1757,9 +1443,7 @@ _Consumable (Common)_
 
   
 
-### Bonemeal  
-
----  
+### Bonemeal
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _bag_  
@@ -1770,9 +1454,7 @@ _Consumable (Common)_
 
   
 
-### Skull  
-
----  
+### Skull
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -1781,9 +1463,7 @@ _Ingredient (Common)_
 **Description**: A skull is always a nice addition to spellcasting tools. You can use this in place of 20 GP worth in materials for casting spells or crafting magic wands, rods, or staffs.   
   
 
-### Homeward Bone Fragment  
-
----  
+### Homeward Bone Fragment
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -1796,9 +1476,7 @@ _Consumable (Uncommon)_
 
   
 
-### Zombie Fluid  
-
----  
+### Zombie Fluid
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -1810,9 +1488,7 @@ _Consumable (Common)_
 **Cooking Effect**: When added in cooking, you can prepare a meal with a special effect for 4 people. When eaten, you take 1d6 Poison damage and have the Poisoned condition for 3 hours.   
   
 
-### Curse Bottle  
-
----  
+### Curse Bottle
 **Source**: Home-brew  
 _Ingredient (Very Rare) _  
 **Store in**: _bottle_  
@@ -1824,9 +1500,7 @@ _Ingredient (Very Rare) _
 
   
 
-### Nectar of the Green Man  
-
----  
+### Nectar of the Green Man
 **Source**: Home-brew  
 _Potion (Very Rare)_  
 **Store in**: _vial_  
@@ -1834,9 +1508,7 @@ _Potion (Very Rare)_
 
   
 
-### Jinxed Rum  
-
----  
+### Jinxed Rum
 **Source**: Home-brew  
 _Potion (Rare)_  
 **Store in**: _vial_  
@@ -1844,16 +1516,12 @@ _Potion (Rare)_
 
   
 
-### Random Magic Item (DMG p.327) (Very Rare)  
-
----  
+### Random Magic Item (DMG p.327) (Very Rare)
 **Source**: The Crooked Moon  
 _Magic Item (Very Rare)_  
   
 
-### Blunderbuss of the Grinning Sinner  
-
----  
+### Blunderbuss of the Grinning Sinner
 **Source**: The Crooked Moon  
 _Weapon (Very Rare)_  
 **Store in**: _bag_  
@@ -1861,27 +1529,21 @@ _Weapon (Very Rare)_
 
   
 
-### Withered Hand  
-
----  
+### Withered Hand
 **Source**: The Crooked Moon  
 _Wondrous Item (Rare)(Requires Attunement)_  
 **Description**: A Withered Hand, from the Crooked Moon cursed curios.  
 
   
 
-### Enticing Suspenders  
-
----  
+### Enticing Suspenders
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)_  
 **Use**: _Wear_  
 **Description**: These suspenders are worn by undead all about the bayou. They look a bit tattered from all the bog water, but wearing them feels right. You gain a +1 bonus in Persuasion and Deception checks when wearing them, but only if they are worn as intended to hold some garment from falling down.   
   
 
-### Black Slime  
-
----  
+### Black Slime
 **Source**: Home-brew  
 _Consumable (common)_  
 **Store in**: _vial_  
@@ -1894,9 +1556,7 @@ _Consumable (common)_
 
   
 
-### Soul Embers  
-
----  
+### Soul Embers
 **Source**: Home-brew  
 _Consumable (common)_  
 **Store in**: _pouch_  
@@ -1907,9 +1567,7 @@ _Consumable (common)_
 
   
 
-### Dream Shard  
-
----  
+### Dream Shard
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -1920,9 +1578,7 @@ _Consumable (Rare)_
 
   
 
-### Dream Orb  
-
----  
+### Dream Orb
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _pouch_  
@@ -1931,9 +1587,7 @@ _Consumable (Very Rare)_
 
   
 
-### Dream Eater Blood  
-
----  
+### Dream Eater Blood
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _vial_  
@@ -1944,9 +1598,7 @@ _Ingredient (Very Rare)_
 **Cooking Effect**: When used to cook food, you can prepare food with a special effect for up to 2 people. When eaten, your eyes become filled with hypnotic swirls for 12 hours. You can cast Charm Person at will for the duration.   
   
 
-### Dream Eater Feather  
-
----  
+### Dream Eater Feather
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -1956,9 +1608,7 @@ _Consumable (Very Rare)_
 **Description**: When activated, or when tied to an ammunition and it hits a target, an emanation of hypnotic light in a 10 ft radius sphere is generated from the feather, and creatures in the area make a DC 16 Wisdom Saving Throw, becoming Incapacitated and having their Speed reduced to 0 until the start of the user's next turn on a failure. The feather can be used as is, tied to ammunition, or as 2000 GP worth of materials towards the 10,000 GP necessary to craft Dream Eater Ammunition (Very Rare)(10), or towards the 20,000 GP necessary to craft a Cloak of the Dream Eater (Very Rare)   
   
 
-### Dream Eater Ammunition  
-
----  
+### Dream Eater Ammunition
 **Source**: Home-brew  
 _Ammunition (Very Rare)_  
 **Store in**: _quiver_  
@@ -1967,9 +1617,7 @@ _Ammunition (Very Rare)_
 _Crafted Item_  
   
 
-### Cloak of the Dream Eater  
-
----  
+### Cloak of the Dream Eater
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
 **Description**: Filled with hypnotic patterns, this cloak can confuse and entrance people like the Dream Eater used to.<br>The cloak has 5 charges.<br>While wearing the cloak and attuned to it, you can spend 1 charge and use a Magic Action to extend the cloak and reveal the hypnotic patterns on the inside lining. Creatures in a 20 ft Cube from you that are able to see the inside lining of the cloak must succeed on a DC 16 Wisdom Saving Throw or become Incapacitated and have their Speed reduced to 0 until the start of your next turn.<br>You can also spend 1 charge and gain a Flying Speed equal to your ground speed for 1 hour.<br>You can also use 3 charges and a Magic Action to consume the energy of an Incapacitated creature, which take 4d8 Psychic damage and their Charisma score is reduced by 1d6.<br>The cloak regains 1d6 charges on a Long Rest up to its maximum.  
@@ -1977,9 +1625,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Bug Parts  
-
----  
+### Bug Parts
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _pouch_  
@@ -1990,9 +1636,7 @@ _Ingredient (Common)_
 **Cooking Effect**: Ew! When added to cooking, you can cook for 1 person. When the food is eaten, you take 1d4 Poison damage, and for 1 hour, all your attacks also deal +1d4 Potion damage   
   
 
-### Giant Carapace  
-
----  
+### Giant Carapace
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -2005,32 +1649,24 @@ _Consumable (Uncommon)_
 
   
 
-### Random Armament (DMG p.328) (Rare or Uncommon)  
-
----  
+### Random Armament (DMG p.328) (Rare or Uncommon)
 **Source**: The Crooked Moon  
 _Armament (Rare)_  
   
 
-### Memento  
-
----  
+### Memento
 **Source**: Home-brew  
 _Mundane_  
 **Store in**: _pouch_  
 **Description**: Locket with pictures of a loved one   
   
 
-### Random Implement (DMG p.329)(Uncommon)  
-
----  
+### Random Implement (DMG p.329)(Uncommon)
 **Source**: The Crooked Moon  
 _Implement (Uncommon)_  
   
 
-### Gunpowder  
-
----  
+### Gunpowder
 **Source**: Home-brew  
 _Ingredient(uncommon)_  
 **Store in**: _bag_  
@@ -2042,9 +1678,7 @@ _Ingredient(uncommon)_
 
   
 
-### Crooked Moon Seance Ring  
-
----  
+### Crooked Moon Seance Ring
 **Source**: Home-brew  
 _Ring (Very Rare)_  
 **Store in**: _vial_  
@@ -2052,9 +1686,7 @@ _Ring (Very Rare)_
 
   
 
-### Contagious Ooze  
-
----  
+### Contagious Ooze
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _vial_  
@@ -2067,9 +1699,7 @@ _Consumable (Very Rare)_
 
   
 
-### Bag of Vile Filth  
-
----  
+### Bag of Vile Filth
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -2078,18 +1708,14 @@ _Consumable (Very Rare)_
 
   
 
-### Rusty Lockbox  
-
----  
+### Rusty Lockbox
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A metal lockbox with a rusty lock under the rubble at Skitterdeep Mine  
 
   
 
-### Citrine (50 GP)  
-
----  
+### Citrine (50 GP)
 **Source**: The Crooked Moon  
 _Ingredient_  
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Rods, Wands, Staffs, Rings, Wondrous Items_  
@@ -2098,9 +1724,7 @@ _Ingredient_
 
   
 
-### Potion of Healing (Greater)  
-
----  
+### Potion of Healing (Greater)
 **Source**: Player's Handbook  
 _Potion (Uncommon)_  
 **Store in**: _vial_  
@@ -2109,97 +1733,75 @@ _Potion (Uncommon)_
 
   
 
-### Maul  
-
----  
+### Maul
 **Source**: Player's Handbook  
 _Mundane_  
 **Description**: Martial, 2d6 Bludgeoning, Heavy, Two-Handed, Topple  
 
   
 
-### Dungeoneer's Pack  
-
----  
+### Dungeoneer's Pack
 **Source**: Player's Handbook  
 _Mundane_  
 **Description**: A Dungeoneer’s Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.  
 
   
 
-### Alchemist's Fire  
-
----  
+### Alchemist's Fire
 **Source**: Player's Handbook  
 _Consumable (Common)_  
 **Description**: When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).  
 
   
 
-### Oil  
-
----  
+### Oil
 **Source**: Player's Handbook  
 _Mundane_  
   
 
-### Ring of Evasion  
-
----  
+### Ring of Evasion
 **Source**: Dungeon Master's Guide  
 _Ring (Rare)(Requires Attunement)_  
 **Description**: This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing the ring, you can take a Reaction to expend 1 charge to succeed on that save instead.  
 
   
 
-### Centipede Necklace of Adaptation  
-
----  
+### Centipede Necklace of Adaptation
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon)(Requires Attunement)_  
 **Description**: While wearing this necklace, you can breathe normally in any environment, and you have Advantage on saving throws made to avoid or end the Poisoned condition.  
 
   
 
-### Alarm (Spell Scroll)  
-
----  
+### Alarm (Spell Scroll)
 **Source**: Player's Handbook  
 _Scroll (Common)_  
 **Description**: Level 1 Abjuration<br><br>**Casting Time**: 1 minute or Ritual<br>**Range**: 30 feet<br>**Components**: V, S, M (a bell and silver wire)<br>**Duration**: 8 hours<br><br>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is audible or mental:<br><br>**Audible Alarm**. The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.<br><br>**Mental Alarm**. You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you’re asleep.  
 
   
 
-### Inflict Wounds (Spell Scroll)  
-
----  
+### Inflict Wounds (Spell Scroll)
 **Source**: Player's Handbook  
 _Scroll (Common)_  
 **Description**: Level 1 Necromancy<br><br>**Casting Time**: Action<br>**Range**: Touch<br>**Components**: V, S<br>**Duration**: Instantaneous<br><br>A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.  
 
   
 
-### Sleep (Spell Scroll)  
-
----  
+### Sleep (Spell Scroll)
 **Source**: Player's Handbook  
 _Scroll (Common)_  
 **Description**: Level 1 Enchantment<br><br>**Casting Time**: Action<br>**Range**: 60 feet<br>**Components**: V, S, M (a pinch of sand or rose petals)<br>**Duration**: Concentration, up to 1 minute<br><br>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect.<br><br>Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.  
 
   
 
-### Invisibility (Spell Scroll)  
-
----  
+### Invisibility (Spell Scroll)
 **Source**: Player's Handbook  
 _Scroll (Uncommon)_  
 **Description**: Level 2 Illusion<br><br>Casting Time: Action<br>Range: Touch<br>Components: V, S, M (an eyelash in gum arabic)<br>Duration: Concentration, up to 1 hour<br><br>A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.  
 
   
 
-### Memory Fragment  
-
----  
+### Memory Fragment
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _pouch_  
@@ -2210,15 +1812,11 @@ _Consumable (Very Rare)_
 
   
 
-### Random Arcana (DMG p.327) (Common)  
-
----  
+### Random Arcana (DMG p.327) (Common)
 **Source**: The Crooked Moon  
   
 
-### Mutant Catalyst  
-
----  
+### Mutant Catalyst
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _syringe_  
@@ -2228,9 +1826,7 @@ _Consumable (Common)_
 **Description**: You can use a Bonus Action to inject the stimulant, and until the start of your next turn, your speed is doubled, you can make one more Attack action, and you have a +2 bonus to your Armor Class. However, once the current battle is over, you roll 1d4, and on a 1 you take 1d6 Poison damage.   
   
 
-### Tranquilizer  
-
----  
+### Tranquilizer
 **Source**: The Crooked Moon  
 _Consumable (Common)_  
 **Store in**: _syringe_  
@@ -2240,9 +1836,7 @@ _Consumable (Common)_
 **Description**: As an Attack action, you can stab a creature with this tranquilizer. On a hit, the target must succeed on a DC 13 Constitution Saving Throw or take 3d6 Psychic damage and have the Poisoned condition for 1 hour. On a Failure by 5 or more, the Poisoned target also has the Unconscious condition until it takes damage or a creature within 5 feet of it takes an action to shake it awake. On a Success: The target takes half damage and no additional effect.   
   
 
-### Tincture Base  
-
----  
+### Tincture Base
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial, bottle(x10)_  
@@ -2254,9 +1848,7 @@ _Consumable (Common)_
 **Cooking Effect**: When used for cooking, you can prepare food with a special effect for up to 4 people. When eaten, you gain a +1 bonus on Wisdom Saving Throws against being Charmed for 2 hours.   
   
 
-### Infested Bottle  
-
----  
+### Infested Bottle
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bottle_  
@@ -2267,9 +1859,7 @@ _Consumable (Uncommon)_
 
   
 
-### Rage Serum  
-
----  
+### Rage Serum
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -2280,9 +1870,7 @@ _Consumable (Common)_
 
   
 
-### Mutant Blood  
-
----  
+### Mutant Blood
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -2295,9 +1883,7 @@ _Consumable (Uncommon)_
 
   
 
-### Cursed Eye  
-
----  
+### Cursed Eye
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bottle_  
@@ -2308,9 +1894,7 @@ _Consumable (Rare)_
 
   
 
-### Cursed Eye Prosthetic  
-
----  
+### Cursed Eye Prosthetic
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Description**: You have refined the magic in the cursed eye of the Serum Brute to make a prostethic immitation of its power. You wear this as a prosthetic eye tied to your forehead.<br>The eye has 3 charges.<br>You can spend 1 charge to activate it and become surrounded by a withering gaze for 1 minute, a 5 ft emanation which creatures who enter or start their turn in the emanation take 1d6 Psychic damage. You take 1d4-1 to a minimum of 1 Psychic damage per turn while in the emanation as well.<br>During this time, you can spend 1 charge and a Magic Action to point the eye gaze to a 20 ft Cone area. Creatures in the cone area make a DC 15 Wisdom Saving Throw taking 2d6 Psychic damage and becoming Frightened for the duration on a failure, or half as much damage with no additional effects on a success.<br>The eye recovers 1d3 charges on a long rest.  
@@ -2318,9 +1902,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Mutant Fire Gland  
-
----  
+### Mutant Fire Gland
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -2331,15 +1913,11 @@ _Consumable (Rare)_
 
   
 
-### Random Relic or Arcana (DMG p.331) (Rare)  
-
----  
+### Random Relic or Arcana (DMG p.331) (Rare)
 **Source**: The Crooked Moon  
   
 
-### Soporific Concoction  
-
----  
+### Soporific Concoction
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -2352,90 +1930,70 @@ _Consumable (Rare)_
 
   
 
-### Veil of the Weeping Widow  
-
----  
+### Veil of the Weeping Widow
 **Source**: The Crooked Moon  
 _Wondrous Item (Very Rare)_  
 **Description**: The Veil of the Weeping Widow, from the Fated Tarot Reading, with alternate rolling to find options.  
 
   
 
-### Potion of Healing  
-
----  
+### Potion of Healing
 **Source**: Player's Handbook  
 _Potion (Common)_  
 **Description**: As a Bonus Action, you can drink it or administer it to another creature within 5 ft of yourself. The creature that drinks the magical red fluid in this vial regains 2d4+2 Hit Points.  
 
   
 
-### Nurse Uniform with mask (Costume)  
-
----  
+### Nurse Uniform with mask (Costume)
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.  
 
   
 
-### Healer's Kit  
-
----  
+### Healer's Kit
 **Source**: Player's Handbook  
 _Consumable (Common)_  
 **Description**: A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  
 
   
 
-### Note: 1756  
-
----  
+### Note: 1756
 **Source**: The Crooked Moon  
 _1756_  
 **Description**: A note with the numbers 1756 written on it found in the nurse's station locker.  
 
   
 
-### Potion of Healing  
-
----  
+### Potion of Healing
 **Source**: Player's Handbook  
 _Potion (Common)_  
 **Description**: As a Bonus Action, you can drink it or administer it to another creature within 5 ft of yourself. The creature that drinks the magical red fluid in this vial regains 2d4+2 Hit Points.  
 
   
 
-### Nurse Uniform with mask (Costume)  
-
----  
+### Nurse Uniform with mask (Costume)
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.  
 
   
 
-### Healer's Kit  
-
----  
+### Healer's Kit
 **Source**: Player's Handbook  
 _Consumable (Common)_  
 **Description**: A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  
 
   
 
-### Note: 1756  
-
----  
+### Note: 1756
 **Source**: The Crooked Moon  
 _1756_  
 **Description**: A note with the numbers 1756 written on it found in the nurse's station locker.  
 
   
 
-### Potion of Healing (Greater)  
-
----  
+### Potion of Healing (Greater)
 **Source**: Dungeon Master's Guide  
 _Potion (Uncommon)_  
 **Store in**: _vial_  
@@ -2444,17 +2002,13 @@ _Potion (Uncommon)_
 
   
 
-### Alchemist's Supplies  
-
----  
+### Alchemist's Supplies
 **Source**: The Crooked Moon  
 **Description**: Utilize: Identify a substance (DC 15), or start a fire (DC 15). Craft: Acid, Alchemist’s Fire, Component Pouch, Oil, Paper, Perfume  
 
   
 
-### Tranquilizer  
-
----  
+### Tranquilizer
 **Source**: The Crooked Moon  
 _Consumable (Common)_  
 **Store in**: _syringe_  
@@ -2465,9 +2019,7 @@ _Consumable (Common)_
 
   
 
-### Unlabled Medicine  
-
----  
+### Unlabled Medicine
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2476,9 +2028,7 @@ _Potion (?)_
 
   
 
-### Tonic  
-
----  
+### Tonic
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2487,9 +2037,7 @@ _Potion (?)_
 
   
 
-### Energy Drink  
-
----  
+### Energy Drink
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2498,9 +2046,7 @@ _Potion (?)_
 
   
 
-### Hypnotic  
-
----  
+### Hypnotic
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2509,9 +2055,7 @@ _Potion (?)_
 
   
 
-### Relaxant  
-
----  
+### Relaxant
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2520,9 +2064,7 @@ _Potion (?)_
 
   
 
-### Suppressant  
-
----  
+### Suppressant
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2531,9 +2073,7 @@ _Potion (?)_
 
   
 
-### Euphoriant  
-
----  
+### Euphoriant
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2542,9 +2082,7 @@ _Potion (?)_
 
   
 
-### True Tonic  
-
----  
+### True Tonic
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2553,9 +2091,7 @@ _Potion (?)_
 
   
 
-### True Energy Drink (Sedative)  
-
----  
+### True Energy Drink (Sedative)
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2564,9 +2100,7 @@ _Potion (?)_
 
   
 
-### True Hypnotic  
-
----  
+### True Hypnotic
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2575,9 +2109,7 @@ _Potion (?)_
 
   
 
-### True Relaxant  
-
----  
+### True Relaxant
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2586,9 +2118,7 @@ _Potion (?)_
 
   
 
-### True Suppressant  
-
----  
+### True Suppressant
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2597,9 +2127,7 @@ _Potion (?)_
 
   
 
-### True Euphoriant  
-
----  
+### True Euphoriant
 **Source**: The Crooked Moon  
 _Potion (?)_  
 **Store in**: _vial_  
@@ -2608,9 +2136,7 @@ _Potion (?)_
 
   
 
-### Bead of Force  
-
----  
+### Bead of Force
 **Source**: Dungeon Master's Guide  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -2618,35 +2144,27 @@ _Consumable (Rare)_
 
   
 
-### Wand of Magic Missiles  
-
----  
+### Wand of Magic Missiles
 **Source**: Dungeon Master's Guide  
 _Wand (Uncommon)_  
 **Description**: This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Magic Missile from it. For 1 charge, you cast the level 1 version of the spell. You can increase the spell’s level by 1 for each additional charge you expend.<br><br>**Regaining Charges**. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.  
 
   
 
-### Ring of Water Walking  
-
----  
+### Ring of Water Walking
 **Source**: Dungeon Master's Guide  
 _Ring (Uncommon)_  
 **Description**: While wearing this ring, you cast Water Walk from it, targeting only yourself.  
 
   
 
-### Diplomat’s Pack  
-
----  
+### Diplomat’s Pack
 **Source**: Player's Handbook  
 **Description**: A Diplomat’s Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.  
 
   
 
-### Elegant Jewelry (250 GP)  
-
----  
+### Elegant Jewelry (250 GP)
 **Source**: The Crooked Moon  
 **Use as ingredient for**: _Rings, Wondrous Items (Accessories)_  
 **Crafting Value (when used as ingredient)**: _250 GP_  
@@ -2654,126 +2172,98 @@ _Ring (Uncommon)_
 
   
 
-### Godlee's Diary  
-
----  
+### Godlee's Diary
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A small diary showcasing Godlee’s admiration for and obsession with Matron Lethica, revealing that the way to enter her personal Laboratory (area L27) is to inject a dose of Lethic Serum into the eye of the owl painted on the wall of the second floor hallway.  
 
   
 
-### Wedding Portrait  
-
----  
+### Wedding Portrait
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A portrait of Lethica and Marius Renathyr, painted on the night they were wed.  
 
   
 
-### Lethica's Betrothal Ring  
-
----  
+### Lethica's Betrothal Ring
 **Source**: The Crooked Moon  
 _Ring (Rare) (Requires Attunement)_  
 **Description**: Her silver-and-purple-garnet betrothal ring. You gain a +1 bonus to Armor Class and saving throws while wearing this ring and are attuned to it.  
 
   
 
-### Fallen Knight's Tabard  
-
----  
+### Fallen Knight's Tabard
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A blood-stained knight’s tabard bearing heraldry depicting a rising sun  
 
   
 
-### Weathered Sonnet  
-
----  
+### Weathered Sonnet
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A weathered parchment bearing a faded sonnet of undying love  
 
   
 
-### Mnemonic Residue  
-
----  
+### Mnemonic Residue
 **Source**: The Crooked Moon  
 _?_  
 **Description**: A silvery lavender ash harvested from the Crematorium (area L18), formed only by the incineration of creatures infused with Lethic Serum.  
 
   
 
-### Noetic Extract  
-
----  
+### Noetic Extract
 **Source**: The Crooked Moon  
 _?_  
 **Description**: A pale viscous fluid siphoned from brains preserved in Monster Containment (area L22)  
 
   
 
-### Unrefined Ichor  
-
----  
+### Unrefined Ichor
 **Source**: The Crooked Moon  
 _?_  
 **Description**: An amethyst-purple liquid produced by the White Worm, found in Lethica’s Quarters (area L19), the Laboratory (area L27)  
 
   
 
-### Numbing Agent  
-
----  
+### Numbing Agent
 **Source**: The Crooked Moon  
 _Consumable_  
 **Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Stoneskin (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
 
   
 
-### Alkaline Stabilizer  
-
----  
+### Alkaline Stabilizer
 **Source**: The Crooked Moon  
 _Consumable_  
 **Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Protection from Energy (Acid) (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
 
   
 
-### Adrenal Stimulant  
-
----  
+### Adrenal Stimulant
 **Source**: The Crooked Moon  
 _Consumable_  
 **Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Enhance Ability (Strength) (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
 
   
 
-### Experimental Procedure File  
-
----  
+### Experimental Procedure File
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A yellowing file folder tucked beneath one side of the woven bed. It includes a detailed record of Hugo’s surgeries and transformation.  
 
   
 
-### Belkin's Journal  
-
----  
+### Belkin's Journal
 **Source**: The Crooked Moon  
 _Mundane_  
 **Description**: A journal of complicated medical jargon by Belkin. Studying it might reveal some useful information, but it will need some time and skill.  
 
   
 
-### Pheromones (Philter of Love)  
-
----  
+### Pheromones (Philter of Love)
 **Source**: Dungeon Master's Guide  
 _Potion (Uncommon)_  
 **Use**: _drink_  
@@ -2781,9 +2271,7 @@ _Potion (Uncommon)_
 
   
 
-### Potion of Healing (Greater)  
-
----  
+### Potion of Healing (Greater)
 **Source**: Dungeon Master's Guide  
 _Potion (Uncommon)_  
 **Store in**: _vial_  
@@ -2792,18 +2280,14 @@ _Potion (Uncommon)_
 
   
 
-### Lethic Serum  
-
----  
+### Lethic Serum
 **Source**: The Crooked Moon  
 _Potion_  
 **Description**: A sealed vial of Lethic Serum  
 
   
 
-### Poison vial? (found in owlbear nest)  
-
----  
+### Poison vial? (found in owlbear nest)
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -2816,9 +2300,7 @@ _Consumable (Rare)_
 
   
 
-### Owlbear Pellet  
-
----  
+### Owlbear Pellet
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -2829,9 +2311,7 @@ _Consumable (Common)_
 
   
 
-### Bottled Soul  
-
----  
+### Bottled Soul
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -2842,9 +2322,7 @@ _Consumable (Common)_
 
   
 
-### Owlbear Pelt  
-
----  
+### Owlbear Pelt
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _bag_  
@@ -2854,9 +2332,7 @@ _Consumable (Common)_
 
   
 
-### Owlbear Meat  
-
----  
+### Owlbear Meat
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _bag_  
@@ -2864,9 +2340,7 @@ _Consumable (Common)_
 
   
 
-### Bulette Scale  
-
----  
+### Bulette Scale
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -2877,9 +2351,7 @@ _Consumable (Uncommon)_
 
   
 
-### Bulette Claw  
-
----  
+### Bulette Claw
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -2890,9 +2362,7 @@ _Consumable (Uncommon)_
 
   
 
-### Bulette Pick (Uncommon)  
-
----  
+### Bulette Pick (Uncommon)
 **Source**: Home-brew  
 _Weapon (Uncommon)_  
 **Description**: This weapon deals 1d10 Piercing damage.  You can also use this weapon as a focus for your spells. As a Magic Action, you can use it to crush rock or dirt in a 10 ft cube area, creating a traversable path as a tunnel, or an area of difficult terrain.  
@@ -2900,9 +2370,7 @@ _Weapon (Uncommon)_
 _Crafted Item_  
   
 
-### Snake Skin  
-
----  
+### Snake Skin
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -2912,9 +2380,7 @@ _Ingredient (Common)_
 
   
 
-### Snake Meat  
-
----  
+### Snake Meat
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -2922,9 +2388,7 @@ _Ingredient (Common)_
 
   
 
-### Snake Venom  
-
----  
+### Snake Venom
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -2935,9 +2399,7 @@ _Consumable (Common)_
 
   
 
-### Antitoxin  
-
----  
+### Antitoxin
 **Source**: Player's Handbook, Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -2946,9 +2408,7 @@ _Consumable (Common)_
 
   
 
-### Troll Skin Patch  
-
----  
+### Troll Skin Patch
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -2959,9 +2419,7 @@ _Consumable (Uncommon)_
 
   
 
-### Troll Blood  
-
----  
+### Troll Blood
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -2974,9 +2432,7 @@ _Consumable (Uncommon)_
 
   
 
-### Troll Heart  
-
----  
+### Troll Heart
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bottle_  
@@ -2989,9 +2445,7 @@ _Consumable (Rare)_
 
   
 
-### Troll Amulet  
-
----  
+### Troll Amulet
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Store in**: _pouch_  
@@ -3000,9 +2454,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Purple Worm Blood  
-
----  
+### Purple Worm Blood
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -3015,9 +2467,7 @@ _Consumable (Rare)_
 
   
 
-### Purple Worm Tooth  
-
----  
+### Purple Worm Tooth
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -3028,9 +2478,7 @@ _Consumable (Very Rare)_
 
   
 
-### Purple Worm Excavator Pick (Very Rare)  
-
----  
+### Purple Worm Excavator Pick (Very Rare)
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Description**: While you are attuned to this weapon you gain the following benefits. This weapon deals 1d12 Piercing damage and 1d8 Acid damage on a hit. You can also use this weapon as a focus for your spells.<br>As a Magic Action, you can use it to destroy rock or dirt in a 20 ft cube, making a traversable path, or creating difficult terrain. You can also use a Magic Action to create an Earthquake effect in a 40 ft square adjacent to a point you can swing the pick at. The area immediately becomes shaking earth and difficult terrain, and creatures in the area make a DC 20 Dexterity Saving Throw, failing which they take 4d6 Bludgeoning damage and are Prone until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. On subsequent turns for 1 minute, the area continues to shake and creatures ending their movement in the area make another DC 20 Dexterity Saving Throw and take 2d6 Bludgeoning damage and become Prone again until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. Once you use the Earthquake effect, it can’t be used again until the next dawn.  
@@ -3038,9 +2486,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Purple Worm Stomach Acid  
-
----  
+### Purple Worm Stomach Acid
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _vial_  
@@ -3051,9 +2497,7 @@ _Consumable (Very Rare)_
 
   
 
-### Purple Worm Stinger  
-
----  
+### Purple Worm Stinger
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -3066,9 +2510,7 @@ _Consumable (Very Rare)_
 
   
 
-### Purple Worm Antitoxin  
-
----  
+### Purple Worm Antitoxin
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _vial_  
@@ -3078,9 +2520,7 @@ _Consumable (Very Rare)_
 _Crafted Item_  
   
 
-### Decaying Staff  
-
----  
+### Decaying Staff
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Use as ingredient for**: _Spells_  
@@ -3090,9 +2530,7 @@ _Consumable (Rare)_
 
   
 
-### Staff of Decay  
-
----  
+### Staff of Decay
 **Source**: Home-brew  
 _Staff (Rare)_  
 **Description**: The staff deals 1d8 Bludgeoning damage or 1d10 Bludgeoning damage when wielded as a two-handed weapon, and deals an additional 1d6 Necrotic damage on a hit. You can also use this weapon as a focus for your spells.<br><br>The staff has 3 charges.<br><br>You can spend 1 charge to cast the spell Blight.<br><br>Alternatively, you can spend 1 charge to create Frenzying Spores, with which you target a creature you can see 30 ft from you and they make a DC 16 Wisdom Saving Throw. On a failure, the target takes 3d6 Psychic damage, and they must take a Reaction to attack a creature you decide that is within range of the attack. On a successful save they take half damage and no additional effect.<br><br>Alternatively, you can spend 1 charge to create a 60 ft radius field of fungi that lasts for 1 minute. For the duration, creatures in the area (excluding you) have the Poisoned condition, and the area is Difficult Terrain.  
@@ -3100,9 +2538,7 @@ _Staff (Rare)_
 _Crafted Item_  
   
 
-### Spongy Fungus Ball  
-
----  
+### Spongy Fungus Ball
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3113,9 +2549,7 @@ _Consumable (Uncommon)_
 
   
 
-### Luminous Mushroom  
-
----  
+### Luminous Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3128,9 +2562,7 @@ _Consumable (Uncommon)_
 
   
 
-### Soporiphic Mushroom  
-
----  
+### Soporiphic Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3143,9 +2575,7 @@ _Consumable (Uncommon)_
 
   
 
-### Rotting Spores  
-
----  
+### Rotting Spores
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -3155,9 +2585,7 @@ _Consumable (Common)_
 **Description**: You can use a Bonus Action to apply this to a weapon or 5 pieces of ammunition. When applied to a weapon or 5 ammunition, hits with that weapon or ammunition will also incur the Poisoned condition. However you must succeed on a DC 13 Constitution Saving Throw or also be Poisoned after applying it.   
   
 
-### Vine-wrapped Rib  
-
----  
+### Vine-wrapped Rib
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -3166,9 +2594,7 @@ _Consumable (Rare)_
 **Description**: All that is left of the hartsblighted amalgamation of creatures in these rotten remains is what looks to be once the rib of a large beast wrapped in vines, thrumming with the energy of growth. You can use this as a weapon that deals 1d8 Slashing damage and 2d8 Necrotic damage.<br><br>It has 5 charges, and you can spend 1 charge to cast the spell Thorn Whip from it. Once you spend all charges or hit with the weapon 20 times, the vine breaks the bone and becomes unusable. Repairing the bone with magic does not return its properties and it instead becomes simply an improvised weapon.   
   
 
-### Halden Wreath's Memory Shard  
-
----  
+### Halden Wreath's Memory Shard
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -3179,9 +2605,7 @@ _Consumable (Rare)_
 
   
 
-### (Tainted) Strange fruit  
-
----  
+### (Tainted) Strange fruit
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -3194,9 +2618,7 @@ _Consumable (Common)_
 
   
 
-### Hartsblighted Dog's Saliva  
-
----  
+### Hartsblighted Dog's Saliva
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _bag_  
@@ -3209,9 +2631,7 @@ _Consumable (Common)_
 
   
 
-### Necrotic Salve  
-
----  
+### Necrotic Salve
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -3222,9 +2642,7 @@ _Consumable (Uncommon)_
 
   
 
-### Gloomwood Lichen Clump  
-
----  
+### Gloomwood Lichen Clump
 **Source**: Home-brew  
 _Comsumable (Rare)_  
 **Store in**: _pouch_  
@@ -3237,9 +2655,7 @@ _Comsumable (Rare)_
 
   
 
-### Gloomwood Stump  
-
----  
+### Gloomwood Stump
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -3250,9 +2666,7 @@ _Consumable (Very Rare)_
 
   
 
-### Gloomwood Maul  
-
----  
+### Gloomwood Maul
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Description**: Built from the rotting stump of a Gloomwood, you have harnessed its energy for your benefit. While you are attuned to this weapon you gain the following benefits. When you attack with it you deal 2d6 Bludgeoning damage and 2d6 Necrotic damage. You can also use this weapon as a focus for your spells.<br>The Gloomwood Maul has 3 charges.<br>As a Magic action you can spend 1 charge to add a necrotic blast when you attack with it. When doing this, calculate the hit and damage after hitting normally, and then a blast of necrotic spores will explode in a 20 ft radius. Creatures in the radius, excluding you, make a DC 17 Constitution saving throw. On a failure they take 8d8 Poison damage and have the Poisoned condition until the start of your next turn.<br>The Gloomwood Maul recovers 1d3 charges at a long rest.  
@@ -3260,9 +2674,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Poison Mushroom  
-
----  
+### Poison Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3275,9 +2687,7 @@ _Consumable (Uncommon)_
 
   
 
-### Green Man Sap (Nectar of the Green Man base)  
-
----  
+### Green Man Sap (Nectar of the Green Man base)
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _vial_  
@@ -3287,9 +2697,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Gold Pine Resin  
-
----  
+### Gold Pine Resin
 **Source**: Home-brew  
 _ Consumable (Common)_  
 **Store in**: _vial_  
@@ -3301,9 +2709,7 @@ _ Consumable (Common)_
 **Cooking Effect**: If you add this to a meal, you can prepare food with a special effect for up to 4 people. When eaten, you gain resistance to Lightning damage for 10 minutes.   
   
 
-### Bouncing Mushroom  
-
----  
+### Bouncing Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3316,9 +2722,7 @@ _Consumable (Uncommon)_
 
   
 
-### Bounceback Ring  
-
----  
+### Bounceback Ring
 **Source**: Home-brew  
 _Ring (Rare)_  
 **Store in**: _pouch_  
@@ -3327,9 +2731,7 @@ _Ring (Rare)_
 _Crafted Item_  
   
 
-### Poison Mushroom  
-
----  
+### Poison Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3342,9 +2744,7 @@ _Consumable (Uncommon)_
 
   
 
-### Luminous Mushroom  
-
----  
+### Luminous Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3357,9 +2757,7 @@ _Consumable (Uncommon)_
 
   
 
-### Soporiphic Mushroom  
-
----  
+### Soporiphic Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3372,9 +2770,7 @@ _Consumable (Uncommon)_
 
   
 
-### Energetic Mushroom  
-
----  
+### Energetic Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3387,9 +2783,7 @@ _Consumable (Uncommon)_
 
   
 
-### Cloranthy Ring  
-
----  
+### Cloranthy Ring
 **Source**: Home-brew  
 _Ring (Rare, Very Rare)_  
 **Store in**: _pouch_  
@@ -3398,9 +2792,7 @@ _Ring (Rare, Very Rare)_
 _Crafted Item_  
   
 
-### Steelcap Mushroom  
-
----  
+### Steelcap Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3412,9 +2804,7 @@ _Consumable (Uncommon)_
 **Cooking Effect**: You can cook this to make food for 1 person. When eaten, you gain a +1 bonus to your Armor Class and +1 bonus to your Constitution Saving Throws for 10 minutes.   
   
 
-### Ring of Fortitude  
-
----  
+### Ring of Fortitude
 **Source**: Home-brew  
 _Ring (Rare, Very Rare)_  
 **Store in**: _pouch_  
@@ -3423,9 +2813,7 @@ _Ring (Rare, Very Rare)_
 _Crafted Item_  
   
 
-### Sharpcap Mushroom  
-
----  
+### Sharpcap Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3438,9 +2826,7 @@ _Consumable (Uncommon)_
 
   
 
-### Paralytic Mushroom  
-
----  
+### Paralytic Mushroom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -3453,9 +2839,7 @@ _Consumable (Uncommon)_
 
   
 
-### Elizabeth's Mushroom  
-
----  
+### Elizabeth's Mushroom
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -3468,9 +2852,7 @@ _Consumable (Rare)_
 
   
 
-### Festering Skull Mushroom  
-
----  
+### Festering Skull Mushroom
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _pouch_  
@@ -3482,9 +2864,7 @@ _Consumable (Very Rare)_
 **Cooking Effect**: You must have the Poisoner's Kit or the Alchemist Kit proficiency to handle this mushroom, but you can refine a powerful antitoxin from it in 1 hour with either kit. When drank, you end the Poisoned condition if you have it, and gain immunity to Poison damage for 1 hour, and resistance to Poison damage for 24 hours.   
   
 
-### Black Ooze  
-
----  
+### Black Ooze
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -3495,9 +2875,7 @@ _Consumable (Uncommon)_
 
   
 
-### Hallucinatory Mushroom  
-
----  
+### Hallucinatory Mushroom
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _pouch_  
@@ -3510,25 +2888,19 @@ _Consumable (Very Rare)_
 
   
 
-### Random Relic (DMG p.331) (Very Rare)  
-
----  
+### Random Relic (DMG p.331) (Very Rare)
 **Source**: The Crooked Moon  
 _Relic (Very Rare)_  
   
 
-### Idol of the Beast of Blight  
-
----  
+### Idol of the Beast of Blight
 **Source**: The Crooked Moon  
 _Wondrous Item (Very Rare)_  
 **Description**: The Idol of the Beast of Blight, from the Fated Tarot Reading, with alternate rolling to find options.  
 
   
 
-### Strange Fruit  
-
----  
+### Strange Fruit
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _bag_  
@@ -3541,9 +2913,7 @@ _Consumable (Common)_
 
   
 
-### Vengeful Essence (Reaper's Revenge base)  
-
----  
+### Vengeful Essence (Reaper's Revenge base)
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -3554,9 +2924,7 @@ _Consumable (Uncommon)_
 
   
 
-### Mummified Finger  
-
----  
+### Mummified Finger
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -3569,9 +2937,7 @@ _Consumable (Common)_
 
   
 
-### Mummy's Wraps  
-
----  
+### Mummy's Wraps
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -3582,9 +2948,7 @@ _Consumable (Common)_
 
   
 
-### Wraps of the Lotus  
-
----  
+### Wraps of the Lotus
 **Source**: Home-brew  
 _Wondrous Item (Varies)(Requires Attunement)_  
 **Description**: Wraps imbued with extreme athletic power. While you are attuned to this item you gain the following benefits. You gain a (Rare:+1,Very Rare:+2,Legendary:+3) bonus to attack and damage rolls with Unarmed Strikes. You also gain a (Rare:+1,Very Rare:+2,Legendary:+3) bonus in Athletics and Acrobatics.<br>The wraps have (Rare:3,Very Rare:5,Legendary:8) charges. Whenever you make an Unarmed Strike, you can use 1 charge to violently launch the target 10 ft into the air. You can expend an extra charge to add 10 ft, and each time you do, you jump and do an Unarmed Strike midair to launch the target higher. You Grapple the target mid air and rotate it upside down towards the ground, adding 1d6 per charge spent to whatever fall damage they might suffer.<br>You can spend 5 charges to deal an additional 2 Unarmed Strikes without launcihng it further up, which might be useful in lower ceiled areas. You can spend 1 charge to avoid any fall damage you might suffer from jumping so high.<br>The wraps regain (Rare: 1d3, Very Rare: 1d6, Legendary:1d10) charges up to their maximum on a Long rest.  
@@ -3592,9 +2956,7 @@ _Wondrous Item (Varies)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Vengeful Wrath  
-
----  
+### Vengeful Wrath
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -3605,9 +2967,7 @@ _Consumable (Rare)_
 
   
 
-### Ghastly Horseshoe  
-
----  
+### Ghastly Horseshoe
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -3618,9 +2978,7 @@ _Consumable (Uncommon)_
 
   
 
-### Tolling Bell  
-
----  
+### Tolling Bell
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -3631,9 +2989,7 @@ _Consumable (Rare)_
 
   
 
-### Hearse's Toll  
-
----  
+### Hearse's Toll
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Store in**: _bag_  
@@ -3643,9 +2999,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Coachman's Whip  
-
----  
+### Coachman's Whip
 **Source**: Home-brew  
 _Weapon (Rare)_  
 **Store in**: _bag_  
@@ -3654,9 +3008,7 @@ _Weapon (Rare)_
 
   
 
-### Mephit Muck ball  
-
----  
+### Mephit Muck ball
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _bottle_  
@@ -3669,9 +3021,7 @@ _Consumable (Common)_
 
   
 
-### Necrolisk Slime  
-
----  
+### Necrolisk Slime
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bottle_  
@@ -3684,9 +3034,7 @@ _Consumable (Rare)_
 
   
 
-### Necrolisk Claw  
-
----  
+### Necrolisk Claw
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -3697,9 +3045,7 @@ _Consumable (Rare)_
 
   
 
-### Spirit Hunting Knife  
-
----  
+### Spirit Hunting Knife
 **Source**: Home-brew  
 _Weapon (Rare)_  
 **Description**: This knife, dagger or sickle is attuned to the spirit hunting claws of the Necrolisk. You can also use this weapon as a focus for your spells. When you attack, you deal the damage for the weapon type, and an additional 1d4 Force damage.<br>The weapon has 3 charges.<br>You can spend one of these charges to strike the ground and disturb nearby undead spirits with an Intelligence score lower than 10 in a 300 ft radius. They become hostile to you and pursue you, abandoning whatever other thing they were doing. If it is already hostile towards your party, it now becomes focused on you for the next 10 minutes. The weapon regains 1d3 charges on a Long Rest up to its maximum.  
@@ -3707,9 +3053,7 @@ _Weapon (Rare)_
 _Crafted Item_  
   
 
-### Necrolisk Blood  
-
----  
+### Necrolisk Blood
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _vial_  
@@ -3722,9 +3066,7 @@ _Consumable (Very Rare)_
 
   
 
-### Shroudbane Weapon  
-
----  
+### Shroudbane Weapon
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Description**: A weapon coated with the blood of the spirit devouring Necrolisk. The weapon ignores resistances to Slashing, Piercing or Bludgeoning damage caused by a creature being incorporeal, and adds 1d6 Force damage to hits, or 3d6 Force damage for incorporeal creatures. You can also use this weapon as a focus for your spells. The weapon has a +2 bonus to attack and damage rolls. As a Magic Action, you can shoot an ephemeral slime ball to a point, which explodes in a 30 ft radius sphere. Any spirits or otherwise incorporeal creatures in the area must succeed on a DC 15 Dexterity Saving Throw or be Restrained for 1 minute (escape DC 12). While Restrained this way, the spirit takes 1d10 Force damage at the start of each of its turns.  
@@ -3732,9 +3074,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Shroud Repellent Armor (Shield or Clothing)  
-
----  
+### Shroud Repellent Armor (Shield or Clothing)
 **Source**: Home-brew  
 _Equipment (Very Rare)(Requires Attunement)_  
 **Description**: You have coated this armor, shield or clothing with the blood of the Necrolisk. When wearing this piece of equipment and attuned to it, you gain a +1 bonus to your Armor Class, and the item grants resistance to any damage by melee attacks dealt by incorporeal creatures.  
@@ -3742,9 +3082,7 @@ _Equipment (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Silver Accessory of Coveting  
-
----  
+### Silver Accessory of Coveting
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Description**: A silver accessory bathed in the blood of of a Necrolisk. It covets the souls of your defeated enemies. Whenever you gain Experience Points for defeating an enemy, you gain 10% more.  
@@ -3752,9 +3090,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Necrolisk Extract  
-
----  
+### Necrolisk Extract
 **Source**: Home-brew  
 **Store in**: _vial_  
 **Use**: _Weapon Enchant, Armor Enchant, Drink_  
@@ -3763,9 +3099,7 @@ _Crafted Item_
 _Crafted Item_  
   
 
-### Necrolisk Tooth  
-
----  
+### Necrolisk Tooth
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -3776,9 +3110,7 @@ _Consumable (Very Rare)_
 
   
 
-### Necrolisk Spiritbane  
-
----  
+### Necrolisk Spiritbane
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Description**: The Necrolisk is an underground creature that feeds on the essence of spirits, and this magical hunger is still present on its teeth and bones. You used this powerful material to make a necrotic dragon tooth weapon that is the bane of spirits. You can also use this weapon as a focus for your spells. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d10 Force damage on any hit, or +4d10 Force damage against incorporeal enemies.<br>As a Magic action, you can call to the hunger of the weapon to pull spirits or otherwise incorporeal enemies that are in a 40 ft radius from you, when doing so, they immediately get pulled 10 ft toward you. As part of the same action, any incorporeal enemies that are within 20 ft of you must succeed on a DC 20 Strength Saving Throw or take 8d10 Force damage. Also as a Magic Action, you can sense the presence of spirits or incorporeal creatures in a 300 ft radius. Once you use either feature you can't use that feature again until you take a Long Rest.  
@@ -3786,9 +3118,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Necrolisk Skin  
-
----  
+### Necrolisk Skin
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -3798,9 +3128,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Necrolisk Scale Armor  
-
----  
+### Necrolisk Scale Armor
 **Source**: Home-brew  
 _Armor (Very Rare)(Requires Attunement)_  
 **Description**: This armor is made from the scales of the Necrolisk, which is highly valued. While wearing this armor, you gain a +1 bonus to your Armor Class, you have Advantage on saving throws against the breath weapons of Dragons and the Saliva of the Necrolisk, and you have Resistance to Force damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Necrolisk within 30 miles of yourself. This action can’t be used again until you take a Long Rest.  
@@ -3808,9 +3136,7 @@ _Armor (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Necrolisk Vestigial Wings  
-
----  
+### Necrolisk Vestigial Wings
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -3820,9 +3146,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Cloak of the Necrolisk  
-
----  
+### Cloak of the Necrolisk
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
 **Description**: While you are wearing this cloak that look like necrolisk wings and are attuned to them, you can speak and understand draconic.<br>The cloak have 5 charges.<br>You can spend 1 charge and use a Magic Action to grow sharp Necrolisk claws, and gain a Burrow speed equal to your ground speed for 1 hour.<br>You can also spend 1 charge and a Bonus Action to grow the Necrolisk mole-like snout and gain the Necrolisk's Ephemeral Spit for 10 minutes, which allows you to take a Magic Action to breathe an ephemeral slime in a 60 ft long 5 ft wide line. Creatures in the line must succeed on a DC 16 Dexterity Saving Throw or take 7d6 Force damage and be Restrained until the start of your next turn, taking only half damage on a successful save. The cloak recover 1d6 charges on a Long Rest up to its maximum.  
@@ -3830,9 +3154,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Necrolisk Bone  
-
----  
+### Necrolisk Bone
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -3844,9 +3166,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Soul Eater  
-
----  
+### Soul Eater
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Description**: The Necrolisk is hungry for spirits and souls, and so is this weapon made from the teeth and bones of the beast itself. <br><br>You can also use this weapon as a focus for your spells, and have a +1 bonus to attack rolls and damage rolls against incorporeal creatures. The weapon also has a +1 bonus to spell attack and spell damage rolls and a +1 bonus to spell save DC. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d6 Force damage on any hit, and +4d6 damage to incorporeal creatures, and you gain half of that damage as Temporary Hit Points.<br><br>As a Magic Action, you can choose any number of creatures you can see in a 60 ft radius of you, in addition to automatically affecting incorporeal creatures you cannot see in the same range. You call the hunger of souls within your Soul Eater, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed.<br><br>You can also use a Magic Action to sense the presence of spirits or incorporeal creatures in a 300 ft radius.<br><br>Once you use either feature you can't use that feature again until you take a Long Rest.  
@@ -3854,9 +3174,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Necrolisk Heart  
-
----  
+### Necrolisk Heart
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bottle_  
@@ -3869,9 +3187,7 @@ _Consumable (Very Rare)_
 
   
 
-### Necrolisk Amulet  
-
----  
+### Necrolisk Amulet
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
 **Description**: This amulet crafted from the heart of a Necrolisk grants you its powers. While you are wearing this amulet and are attuned to it you gain the following benefits. You can speak and understand Draconic. You gain Tremorsense to 60 ft and Blindsight to 30 ft. You can use a Free Action to forgo sight to gain 120 ft Tremorsense and 60 ft Blindsight, and you can use a Free Action to reverse this.<br>The amulet has 10 charges.<br>You can use one charge to cast Speak with Animals without a spell slot and without Concentration. You can use a charge and a Magic Action to sense the direction and distance of spirits in a 600 ft radius.<br>**Necrolisk Breath**:You can use 1 charge and a Bonus Action to grow the Necrolisk mole-like snout and gain the Necrolisk's Ephemeral Spit for 1 hour, which allows you to take a Magic Action to breathe an ephemeral slime in a 60 ft long 5 ft wide line. Creatures in the line must succeed on a DC 16 Dexterity Saving Throw or take 7d6 Force damage and be Restrained until the start of your next turn, taking only half damage on a successful save.<br>**Necrolisk Claws**: You can use 1 charge and a Magic Action to grow sharp Necrolisk claws, and gain a Burrow speed equal to your ground speed for 1 hour.<br>**Soul Feast**:You can use 5 charges and a Magic Action to call the hunger of souls within the Necrolisk Amulet, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed.<br>**Soul Hunger**: You can use 5 charges and a Magic Action to pull spirits or otherwise incorporeal enemies that are in a 40 ft radius from you, when doing so, they immediately get pulled 10 ft toward you. As part of the same action, any incorporeal enemies that are within 20 ft of you must succeed on a DC 20 Strength Saving Throw or take 8d10 Force damage.<br>The amulet regains 1d12 charges on a Long Rest up to its maximum.  
@@ -3879,9 +3195,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Bellowing Dragoncrest Ring  
-
----  
+### Bellowing Dragoncrest Ring
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
 **Store in**: _pouch_  
@@ -3890,9 +3204,7 @@ _Ring (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Lingering Dragoncrest Ring  
-
----  
+### Lingering Dragoncrest Ring
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
 **Store in**: _pouch_  
@@ -3901,9 +3213,7 @@ _Ring (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Memorial Slab Fragment  
-
----  
+### Memorial Slab Fragment
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -3914,9 +3224,7 @@ _Consumable (Very Rare)_
 
   
 
-### Shred of Reaper Cloak  
-
----  
+### Shred of Reaper Cloak
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _pouch_  
@@ -3927,9 +3235,7 @@ _Consumable (Very Rare)_
 
   
 
-### Balefire Oil  
-
----  
+### Balefire Oil
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _flask_  
@@ -3942,9 +3248,7 @@ _Consumable (Very Rare)_
 
   
 
-### Balefire Weapon  
-
----  
+### Balefire Weapon
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Description**: A weapon bathed in the Balefire of the Chained Reaper. It can also be used as an arcane focus for your spells. This weapon deals its regular damage, but you can choose to deal Necrotic damage when you attack with it. The weapon has a +1 bonus to attack rolls and damage rolls. It also has a +1 bonus to spell attack rolls and damage rolls as well as save DC for spells in the Necromancy school. On a hit with melee attacks or Fire damage spells, it deals an additional +2d6 Necrotic damage, and the target starts burning but takes Necrotic damage instead. The Fire damage from spells casted while attuned to this weapon can be changed to Necrotic damage instead. Once per turn, as one of your attacks with this weapon, you can send it spinning up to 15 ft of you and it returns to your hand immediately after it hits or misses.  
@@ -3952,9 +3256,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Baleflame Annealed Shield or Armor  
-
----  
+### Baleflame Annealed Shield or Armor
 **Source**: Home-brew  
 _Armor (Very Rare)(Requires Attunement)_  
 **Description**: A shield or armor bathed in the Balefire of the Chained Reaper. While equipped and attuned to it, you gain a +1 bonus to your Armor Class, and you gain resistance to Fire and Necrotic damage. You can also use a Magic Action to become engulfed in protective balefire flames for 10 minutes. While protected by the flames, creatures that damage you with melee attacks take 1d6 Fire or Necrotic damage. You can only use this feature again after a Long Rest.  
@@ -3962,9 +3264,7 @@ _Armor (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Balefire Accessory  
-
----  
+### Balefire Accessory
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)-_  
 **Description**: An accessory bathed in the Balefire of the Chained Reaper. While equipped and attuned to it, you gain a +1 bonus to your Armor Class and a +1 bonus to all Saving Throws. You also gain resistance to Fire damage. Whenever you cast a spell that deals Fire damage, you can add a +1 bonus to attack rolls, damage rolls, or spell save DC, and it can deal Necrotic damage instead. You can cast Firebolt from the accessory. The accessory has 6 charges. You can use 1 charge to cast Hungering Blade. You can use 2 charges to cast Scorching Ray. You can use 2 charges to cast Veil of the Reaper. You can use 3 charges to cast Culling Sickle. The accessory regains 1d6 charges on a Long Rest.  
@@ -3972,9 +3272,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)-_
 _Crafted Item_  
   
 
-### Balefire Lantern  
-
----  
+### Balefire Lantern
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Description**: The lantern has been changed permanently by the Balefire of the Chained Reaper. It shines Bright Light in a 50 ft radius and Dim Light for an additional 50 ft for a hooded lantern, or 70 ft cone Bright light and 70 ft Dim Light for a bullseye lantern. Incorporeal creatures illuminated by it become corporeal and visible, losing any resistances to slashing, bludgeoning and piercing damage when affected like this. As a Magic Action, you can create a beam of light from the lantern at an incorporeal creature you can see in a 60 ft range, or point in a 60 ft long 5 ft line where you suspect an invisible and incorporeal creature is. It becomes corporeal and visible and loses resistances or immunities caused by its incorporeal nature, and must succeed on a DC 16 Wisdom Saving Throw or become Restrained by the light. As long as the light is pointed at it, it must make a DC 15 Strenght Saving Throw to escape the light. On subsequent turns you can use other actions besides using the lantern this way as long as you remain pointing the lantern at it by remaining in range and facing it. If you want to keep it pointed at the target while attacking something else, it requires your Concentration to keep the lamp steady, but otherwise it does not require Concentration.  
@@ -3982,9 +3280,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Balefire Resin  
-
----  
+### Balefire Resin
 **Source**: Home-brew  
 _Wondrous Item(Very Rare)_  
 **Store in**: _pouch_  
@@ -3994,36 +3290,28 @@ _Wondrous Item(Very Rare)_
 _Crafted Item_  
   
 
-### Chains of the Reaper  
-
----  
+### Chains of the Reaper
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Description**: The Chains of the Reaper are imbued with Necrotic power. When you attune to the chains, they magically wrap around one or both of your arms, leaving your hand available when they aren't in use. You can use the chains as a Whip-like weapon (15 ft Reach) with one of your arms, and another weapon in your other hand without needing it to have the Light property, and choose which one you use to attack each time you attack. You can also opt to use the chains in both of your arms, although this does not grant attacks with the Bonus Action as it would with a weapon with the Light property. The chains deal 2d10 Piercing damage and have the Slow Weapon Mastery when used to attack, and can be used to Grapple with Reach (15 ft).<br>The chains have 8 charges.<br>You can use 1 charge and a Bonus Action to use the chains in one of your arms to the effect of the Chain of Conviction spell casted at the 3rd level, and you can upcast it by spending 1 more charge per level up to level 5. The save DC for the Chain of Conviction when casted this way is 17. When casted through the Chains of the Reaper, the target becomes Grappled if it fails the save throw for the spell.<br>You can use 1 charge to slam a creature you have Grappled with the chains. The target must succeed on a DC 17 Strength Saving Throw or take 1d8 Bludgeoning damage and have the Stunned condition until the start of your next turn, taking half of that damage and no additional effects on a successful save.<br>The chain regains 1d8 charges on a Long Rest.<br>You can also use the Chains without attunement as a mundane weapon that deals 1d10 Piercing damage and has the Slow Weapon Mastery when used to attack, and can be used to Grapple, with a Reach of 15 ft, but without other magical effects.  
 
   
 
-### Cloak of the Reaper  
-
----  
+### Cloak of the Reaper
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
 **Description**: The cloak worn by Yorgrim is worn and shredded from the long years of guarding the Maidenmist Cementery. While you are wearing this cloak and are attuned to it, you gain a +1 bonus to your Armor Class and Saving Throws.<br>The cloak has 8 charges.<br>You can use 3 charges and a Bonus Action to gain the effects of the Veil of the Reaper spell without Concentration. Once you have used this feature you cannot use it again until you take a Long Rest.<br>You can also use 3 charges and a Bonus Action to gain the effects of a Heightened Elixir of Fogwalking. Once you have used this feature you cannot use it again until you have taken a Long Rest.<br>You can use 1 charge to cast the Veil of the Reaper normally.<br>You can use 1 charge to cast Hungering Blade.<br>You can use 3 charges to cast Culling Sickle.<br>You can use 3 charges to gain a Fly speed equal to your ground speed for 1 hour.<br>The cloak regains 1d8 charges on a Long Rest.  
 
   
 
-### Lantern Of The Chained Reaper  
-
----  
+### Lantern Of The Chained Reaper
 **Source**: The Crooked Moon  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
 **Description**: The Lantern Of The Chained Reaper, from the Fated Tarot Reading, with alternate rolling to find options.  
 
   
 
-### Seer's Webs  
-
----  
+### Seer's Webs
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _spool_  
@@ -4033,9 +3321,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Undelivered Message  
-
----  
+### Undelivered Message
 **Source**: Home-brew  
 _Mundane_  
 **Store in**: _pouch_  
@@ -4043,16 +3329,12 @@ _Mundane_
 
   
 
-### Random Arcana (DMG p.327) (Rare)  
-
----  
+### Random Arcana (DMG p.327) (Rare)
 **Source**: Monster Manual  
 _Arcane (Rare)_  
   
 
-### Pocket Sand  
-
----  
+### Pocket Sand
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -4063,9 +3345,7 @@ _Consumable (Common)_
 
   
 
-### Golem Clay  
-
----  
+### Golem Clay
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _bottle_  
@@ -4077,9 +3357,7 @@ _Ingredient (Rare)_
 
   
 
-### Golem Core  
-
----  
+### Golem Core
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -4088,9 +3366,7 @@ _Ingredient (Very Rare)_
 **Description**: The core of a golem, when removed correctly, can be used to craft another clay golem. You can use this as 30,000 GP worth of materials towards the 65,000 GP necessary to craft a Golem (of the kind you defeated). However, you need a Manual of Golems (of the kind you defeated) to do so. You can also use it as 10,000 GP needed to craft other magic items.   
   
 
-### Hydra Blood  
-
----  
+### Hydra Blood
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -4103,9 +3379,7 @@ _Consumable (Rare)_
 
   
 
-### Hydra Teeth  
-
----  
+### Hydra Teeth
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _pouch_  
@@ -4115,9 +3389,7 @@ _Ingredient (Rare)_
 
   
 
-### Hydra Scales  
-
----  
+### Hydra Scales
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _bag_  
@@ -4127,9 +3399,7 @@ _Ingredient (Rare)_
 
   
 
-### Hydra Heart  
-
----  
+### Hydra Heart
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bottle_  
@@ -4142,9 +3412,7 @@ _Consumable (Rare)_
 
   
 
-### Ring of the Dusk Hydra  
-
----  
+### Ring of the Dusk Hydra
 **Source**: Home-brew  
 _Ring (Rare)(Requires Attunement)_  
 **Description**: While you are wearing this ring and are attuned to it, you can expend up to 4 Hit Die and temporarily reduce your Hit Point maximum by the result, and be unable to regain these Hit Die on a rest temporarily.<br>In exchange you gain 2 Sorcery points per Hit Die expended, and gain the Twinned Spell and Quickened Spell Metamagic options if you don't already have them.<br>You follow the normal rules for the Font of Magic feature of the Sorcerer class, but can use it to cast spells with any class.<br>You can reduce 2 of your Sorcery Points maximum obtained with this feature to regain the Hit Die and Hit Point maximum you subtracted, but it does not recover Hit Points when you do so.<br>You regain the sorcery points you allow for with this feature on a Long Rest.  
@@ -4152,9 +3420,7 @@ _Ring (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Water Elemental Water  
-
----  
+### Water Elemental Water
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _vial_  
@@ -4166,9 +3432,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Stone Golem Fragment  
-
----  
+### Stone Golem Fragment
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -4178,9 +3442,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Earth Elemental Earth  
-
----  
+### Earth Elemental Earth
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _vial_  
@@ -4190,9 +3452,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Wyvern Blood  
-
----  
+### Wyvern Blood
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -4205,9 +3465,7 @@ _Consumable (Rare)_
 
   
 
-### Wyvern Stinger Venom  
-
----  
+### Wyvern Stinger Venom
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -4220,9 +3478,7 @@ _Consumable (Rare)_
 
   
 
-### Wyvern Antitoxin  
-
----  
+### Wyvern Antitoxin
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -4232,9 +3488,7 @@ _Consumable (Rare)_
 _Crafted Item_  
   
 
-### Wyvern Tooth  
-
----  
+### Wyvern Tooth
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _pouch_  
@@ -4244,9 +3498,7 @@ _Ingredient (Rare)_
 
   
 
-### Wyvern Scales  
-
----  
+### Wyvern Scales
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _bag_  
@@ -4256,9 +3508,7 @@ _Ingredient (Rare)_
 
   
 
-### Wyvern Heart  
-
----  
+### Wyvern Heart
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bottle_  
@@ -4271,9 +3521,7 @@ _Consumable (Rare)_
 
   
 
-### Wyvern Ring  
-
----  
+### Wyvern Ring
 **Source**: Home-brew  
 _Ring (Rare)(Requires Attunement)_  
 **Description**: You can speak and understand Draconic, gain Darkvision to 120 ft. You grow spectral dragon scales, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.<br>The ring has 4 charges.<br>You can use 1 charge and a Magic Action to cast Alter Self.<br>You can use 2 charges to cast Fly on yourself by growing spectral dragon wings for 1 hour.<br>The ring regains 1d4 charges on a Long Rest.  
@@ -4281,9 +3529,7 @@ _Ring (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Vulture Feathers  
-
----  
+### Vulture Feathers
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -4292,9 +3538,7 @@ _Ingredient (Common)_
 **Description**: You can use these in place of 13 GP to craft ammunition that uses fletchings.   
   
 
-### Vulture Stomach Acid  
-
----  
+### Vulture Stomach Acid
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _bag_  
@@ -4303,9 +3547,7 @@ _Ingredient (Common)_
 **Description**: You can use this as 25 GP worth in crafting Acid (Players Handbook).   
   
 
-### Fire Elemental Embers  
-
----  
+### Fire Elemental Embers
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _vial_  
@@ -4315,9 +3557,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Shield Guardian Plates  
-
----  
+### Shield Guardian Plates
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -4328,9 +3568,7 @@ _Consumable (Rare)_
 
   
 
-### Shield Guardian Core  
-
----  
+### Shield Guardian Core
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -4341,9 +3579,7 @@ _Consumable (Rare)_
 
   
 
-### Ettin Tusk  
-
----  
+### Ettin Tusk
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
@@ -4353,9 +3589,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Nightmare Ashes  
-
----  
+### Nightmare Ashes
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -4366,9 +3600,7 @@ _Consumable (Uncommon)_
 
   
 
-### Nightmare Mane  
-
----  
+### Nightmare Mane
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
@@ -4378,9 +3610,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Nightmare Tail  
-
----  
+### Nightmare Tail
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _bag_  
@@ -4390,9 +3620,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Nightmare Hooves  
-
----  
+### Nightmare Hooves
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -4403,9 +3631,7 @@ _Consumable (Uncommon)_
 
   
 
-### Totem of Nightmare Recall  
-
----  
+### Totem of Nightmare Recall
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Description**: Made of the hooves of a Nightmare, this tiny figurine of a fiery steed has the power to summon a Nightmare, although only for 2 hours, and only once.<br>The Nightmare fights only to defend itself.<br>The figurine has a 20 percent chance each time you use it to ignore your orders, including a command to revert to figurine form.<br>If you mount the Nightmare while it is ignoring your orders, you and the Nightmare are instantly transported to the Ethereal Plane.<br>You can command it to jump between the Ethereal Plane and Material Plane as a Magic Action. If you are still in the Ethereal Plane when its time runs out, it must take a Reaction to kick you right back to the Material Plane dealing 2d8 Bludgeoning damage.  
@@ -4413,9 +3639,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Air Elemental Dust  
-
----  
+### Air Elemental Dust
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _vial_  
@@ -4425,9 +3649,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Oni Blood  
-
----  
+### Oni Blood
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -4440,9 +3662,7 @@ _Consumable (Rare)_
 
   
 
-### Oni Horn  
-
----  
+### Oni Horn
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -4453,9 +3673,7 @@ _Consumable (Rare)_
 
   
 
-### Oni Claws  
-
----  
+### Oni Claws
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bag_  
@@ -4466,9 +3684,7 @@ _Consumable (Rare)_
 
   
 
-### Oni Claw Ammunition  
-
----  
+### Oni Claw Ammunition
 **Source**: Home-brew  
 _Ammunition (Rare)_  
 **Description**: Ammunition made with the claws of an Oni. If hit, additional to the normal damage the ammunition would deal, the target takes 1d12 Piercing and 1d8 Necrotic damage and becomes Frightened until the start of your next turn.  
@@ -4476,9 +3692,7 @@ _Ammunition (Rare)_
 _Crafted Item_  
   
 
-### Oni Heart  
-
----  
+### Oni Heart
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -4491,9 +3705,7 @@ _Consumable (Very Rare)_
 
   
 
-### Oni Amulet  
-
----  
+### Oni Amulet
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
 **Description**: You harnessed the power of an Oni without the repercussions of its corruption into this amulet.<br>The amulet has 6 charges.<br>You can use 1 charge to gain regenerative powers for 10 minutes, gaining 5 Hit Points at the start of each of your turns as long as you have at least 1 Hit Point.<br>You can use 2 charges and a Bonus Action to gain 20 ft of Speed and an extra Attack action per turn for 1 minute.<br>You can use 1 charge to cast the spell Sleep with a spell save DC of 17.<br>You can use 2 charges to cast the spell Gaseous Form.<br>You can use 1 charge and a Magic Action to give a nightmarish stare to a target you can see within 60 ft of you. The target must succeed on a DC 16 Wisdom Saving Throw or take 2d6 plus your Charisma modifier Psychic damage and have the Frightened condition until the start of your next turn.<br>The amulet regains 1d6 charges on a Long Rest.  
@@ -4501,9 +3713,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Oni Mask  
-
----  
+### Oni Mask
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
 **Description**: A mask made to resemble the face of an Oni. While you are wearing this mask and are attuned to it, you gain a +5 bonus to Intimidation checks.<br>You can use a Bonus Action instead of the Influence Action on any given turn to attempt to Intimidate a target.<br>The mask has 3 charges.<br>You can use 1 charge to cast the spell Sleep with a spell save DC of 15, or with your Charisma modifier and your Proficiency Bonus added to 8, whichever result is higher.<br>You also gain a +1 bonus to attack rolls and damage rolls made with 2 handed weapons.  
@@ -4511,9 +3721,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Belt of the Oni  
-
----  
+### Belt of the Oni
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
 **Store in**: _bag_  
@@ -4521,9 +3729,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 
   
 
-### Paralytic Chuul Venom  
-
----  
+### Paralytic Chuul Venom
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -4534,9 +3740,7 @@ _Consumable (Uncommon)_
 
   
 
-### Antiparalytic  
-
----  
+### Antiparalytic
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Use**: _Drink, Inject_  
@@ -4545,9 +3749,7 @@ _Consumable (Uncommon)_
 _Crafted Item_  
   
 
-### Spider Silk  
-
----  
+### Spider Silk
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _spool_  
@@ -4557,9 +3759,7 @@ _Ingredient (Common)_
 
   
 
-### Spider Venom  
-
----  
+### Spider Venom
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -4570,9 +3770,7 @@ _Consumable (Common)_
 
   
 
-### History of the Lilac Eyed  
-
----  
+### History of the Lilac Eyed
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -4583,9 +3781,7 @@ _Consumable (Rare)_
 
   
 
-### Tome of Many Secrets  
-
----  
+### Tome of Many Secrets
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -4594,9 +3790,7 @@ _Consumable (Very Rare)_
 
   
 
-### Bag of Hilarity  
-
----  
+### Bag of Hilarity
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -4606,9 +3800,7 @@ _Consumable (Rare)_
 **Description**: When thrown, upon impact a cloud of confetti and glitter explodes in a 5 ft radius, creatures in the radius must succeed on a DC 15 Wisdom Saving Throw or take 4d6 Psychic Damage and be affected by a random chaotic curse for 1 minute, or half the damage and no chaotic curse on a success. When sprinkled on the ground, an emanation of 15 ft radius surrounds the sprinkled area, and enemies entering the emanation or starting their turn in the emanation make a DC 15 Wisdom saving throw, and take 2d6 Psychic damage and become affected by incontrollable laughter which makes them unable to attack until the start of their next turn, or half damage and no laughter on a success. Revelers and Fools roll with Advantage on all saving throws for these effects.   
   
 
-### Fool's Treat  
-
----  
+### Fool's Treat
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -4616,9 +3808,7 @@ _Consumable (Uncommon)_
 **Description**: Food from the Fool's Day Festival. When eaten, you recover 1d4-1 Hit Points (a minimum of 0), but you are still hungry when you finish eating it. When thrown as bait, you can attract beasts (DM's Eyes only: or children) that would eat it.   
   
 
-### Drama Prop  
-
----  
+### Drama Prop
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Store in**: _bag_  
@@ -4626,9 +3816,7 @@ _Wondrous Item (Very Rare)_
 
   
 
-### Medallion of the Hero  
-
----  
+### Medallion of the Hero
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Store in**: _pouch_  
@@ -4636,9 +3824,7 @@ _Wondrous Item (Rare)_
 
   
 
-### Booklet of the Riddler  
-
----  
+### Booklet of the Riddler
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -4647,9 +3833,7 @@ _Consumable (Rare)_
 
   
 
-### Crown of the Great Beast Reveler  
-
----  
+### Crown of the Great Beast Reveler
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Store in**: _bag_  
@@ -4657,9 +3841,7 @@ _Wondrous Item (Rare)_
 
   
 
-### Charm of the Wrestler  
-
----  
+### Charm of the Wrestler
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -4668,9 +3850,7 @@ _Consumable (Uncommon)_
 
   
 
-### Wicked Wind-vane  
-
----  
+### Wicked Wind-vane
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Store in**: _bag_  
@@ -4678,9 +3858,7 @@ _Wondrous Item (Rare)_
 
   
 
-### Badge of the Drinking Champion  
-
----  
+### Badge of the Drinking Champion
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -4689,18 +3867,14 @@ _Consumable (Uncommon)_
 
   
 
-### Drone of the Reveler  
-
----  
+### Drone of the Reveler
 **Source**: Home-brew  
 _Instrument (Rare)_  
 **Description**: A hurdy gurdy imbued with the power of bees. Once per long rest, you can use the instrument to attract bees to a point in a 30 ft range. Surrounding the point bees swarm in a 10 ft radius sphere. The area becomes Lightly Obscured. When the swarm appears, each creature in it makes a DC 16 Constitution saving throw, taking 2d10 Piercing damage on a failed save or half as much damage on a successful one. On subsequent turns, the bees will chase creatures that failed the initial save, keeping their space Lightly Obscured and repeating their saving throw, taking an additional 1d10 Piercing damage on a failure or half as much on a success. The effect continues on each creature until they succeed on their saving throw.  
 
   
 
-### Apiary Dart  
-
----  
+### Apiary Dart
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -4709,9 +3883,7 @@ _Consumable (Uncommon)_
 
   
 
-### Beesting Ring  
-
----  
+### Beesting Ring
 **Source**: Home-brew  
 _Ring(Very Rare)_  
 **Store in**: _pouch_  
@@ -4719,18 +3891,14 @@ _Ring(Very Rare)_
 
   
 
-### Bell of the Reveler  
-
----  
+### Bell of the Reveler
 **Source**: Home-brew  
 _Instrument (Rare)_  
 **Description**: A bell imbued with the power of confusion. Once per long rest, you can use the instrument to confuse a target within 30 ft of you. The target must succeed on a DC 16 Constitution Saving Throw or take 5d8 Thunder damage and be Stunned until the start of your next turn, taking only half damage on a success.  
 
   
 
-### Chime of Confusion  
-
----  
+### Chime of Confusion
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -4739,18 +3907,14 @@ _Consumable (Uncommon)_
 
   
 
-### Drum of the Reveler  
-
----  
+### Drum of the Reveler
 **Source**: Home-brew  
 _Instrument (Rare)_  
 **Description**: A drum imbued with the power of dancing. Once per long rest, you can use the drum to target up to 2 creatures you can see within 30 ft of you. The targets must then succeed on a DC 16 Wisdom Saving Throw or be compelled to dance for up to 1 minute. While dancing, it cannot fight. They must repeat the save at the end of each of its turns. The effect ends if it succeeds any of its saves, or if 3 rounds have passed.  
 
   
 
-### Drumstick of Rhythm  
-
----  
+### Drumstick of Rhythm
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _bag_  
@@ -4758,9 +3922,7 @@ _Consumable (Uncommon)_
 
   
 
-### Flag of the Herald  
-
----  
+### Flag of the Herald
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Store in**: _bag_  
@@ -4769,9 +3931,7 @@ _Wondrous Item (Rare)_
 
   
 
-### Toy Car  
-
----  
+### Toy Car
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
@@ -4782,9 +3942,7 @@ _Consumable (Very Rare)_
 
   
 
-### Personalized Clown Car  
-
----  
+### Personalized Clown Car
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Use**: _Activate_  
@@ -4793,9 +3951,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Bottle  
-
----  
+### Bottle
 **Source**: Home-brew  
 _Mundane_  
 **Store in**: _bag_  
@@ -4803,9 +3959,7 @@ _Mundane_
 
   
 
-### Flower of Endless Water  
-
----  
+### Flower of Endless Water
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)_  
 **Store in**: _bag_  
@@ -4813,9 +3967,7 @@ _Wondrous Item (Uncommon)_
 
   
 
-### Hat of the Fool  
-
----  
+### Hat of the Fool
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Use**: _Wear_  
@@ -4823,9 +3975,7 @@ _Wondrous Item (Very Rare)_
 
   
 
-### Party Favors  
-
----  
+### Party Favors
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -4835,9 +3985,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Ring of Pies  
-
----  
+### Ring of Pies
 **Source**: Home-brew  
 _Ring (Very Rare)_  
 **Store in**: _pouch_  
@@ -4845,9 +3993,7 @@ _Ring (Very Rare)_
 
   
 
-### Ribbons of the Fool  
-
----  
+### Ribbons of the Fool
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
 **Store in**: _pouch_  
@@ -4855,18 +4001,14 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 
   
 
-### Buzzer of the Fool  
-
----  
+### Buzzer of the Fool
 **Source**: Home-brew  
 _Weapon (Very Rare)_  
 **Description**: The electric buzzer of the Lord of Fools. You can keep it in one hand as long as you don't use it to hold another weapon. As a Magic Action, you can make a melee attack roll to grab the target and shock them. On a hit, the target takes 3d12 Lightning damage and can't take Reactions until the end of your next turn.  
 
   
 
-### Marotte Of The Lord Of Fools  
-
----  
+### Marotte Of The Lord Of Fools
 **Source**: The Crooked Moon  
 _Weapon (Very Rare)(Requires Attunement)_  
 **Store in**: _bag_  
@@ -4874,9 +4016,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 
   
 
-### Mirror Twig  
-
----  
+### Mirror Twig
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _pouch_  
@@ -4887,9 +4027,7 @@ _Consumable (Very Rare)_
 
   
 
-### Gobblegeist Petrified Eye  
-
----  
+### Gobblegeist Petrified Eye
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -4899,9 +4037,7 @@ _Consumable (Rare)_
 **Description**: As a Magic action, you can point the eye and expel a beam making a 60 ft long 5 ft wide line. Creatures in the line make a DC 14 Dexterity Saving Throw, and on a failure take 1d12 Psychic damage and have the Stunned condition until the start of the user's next turn.   
   
 
-### Gobblegeist Meat  
-
----  
+### Gobblegeist Meat
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _bag_  
@@ -4913,9 +4049,7 @@ _Ingredient (Rare)_
 
   
 
-### Unravelling Whispers  
-
----  
+### Unravelling Whispers
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _vial_  
@@ -4926,9 +4060,7 @@ _Consumable (Very Rare)_
 
   
 
-### Drakkenhob Blood  
-
----  
+### Drakkenhob Blood
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _vial_  
@@ -4941,9 +4073,7 @@ _Consumable (Rare)_
 
   
 
-### Covetous Weapon  
-
----  
+### Covetous Weapon
 **Source**: Home-brew  
 _Weapon (Rare)_  
 **Description**: This weapon imbued with the greed of the Drakkenhob covets the treasure and valuable body parts of your enemies. You have a +1 bonus to attack and damage rolls with this weapon. When the enemy is Bloodied, you have a +3 bonus to attack and damage rolls with this weapon. When you roll a 20 on an attack roll made with this weapon, the target takes an extra 10 damage.  
@@ -4951,9 +4081,7 @@ _Weapon (Rare)_
 _Crafted Item_  
   
 
-### Covetous Harvesting Knife  
-
----  
+### Covetous Harvesting Knife
 **Source**: Home-brew  
 _Weapon (Rare)_  
 **Description**: This harvesting knife imbued with the greed of the Drakkenhob covets the treasure and valuable body parts of your enemies. You have a +1 bonus to attack and damage rolls with this weapon. When the enemy is Bloodied, you have a +3 bonus to attack and damage rolls with this weapon. When you roll a 20 on an attack roll made with this weapon, the target takes an extra 5 damage. When you use this weapon to harvest body parts, you gain a +3 bonus to your Ability check.  
@@ -4961,9 +4089,7 @@ _Weapon (Rare)_
 _Crafted Item_  
   
 
-### Fright Shield  
-
----  
+### Fright Shield
 **Source**: Home-brew  
 _Shield (Rare)_  
 **Description**: This shield has a frightful face on its surface, which you can animate to move. You gain a +2 bonus to Intimidation checks. You have a +1 bonus to your Armor Class and saving throws. For each creature that is Frightened of you or your shield within a 20 ft radius of you, you gain a +1 bonus to your Armor Class. Once per long rest, you can use a Bonus Action to create a 30 ft Cone of Fright with your Shield's face. Creatures in the area must succeed on a DC 16 Wisdom Saving Throw or become Frightened.  
@@ -4971,9 +4097,7 @@ _Shield (Rare)_
 _Crafted Item_  
   
 
-### Gold Accessory of Coveting  
-
----  
+### Gold Accessory of Coveting
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Description**: A gold accessory bathed in the blood of a Drakkenhob, which covets material goods. When wearing the accessory, you gain a +2 bonus to Ability Checks used to find treasure, and you find 1 more of each treasure kind you find (up to the monster's harvesting limit or treasure hoard limit).  
@@ -4981,9 +4105,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Drakkenhob Scales  
-
----  
+### Drakkenhob Scales
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _bag_  
@@ -4993,9 +4115,7 @@ _Ingredient (Rare)_
 
   
 
-### Drakkenhob Scale Armor  
-
----  
+### Drakkenhob Scale Armor
 **Source**: Home-brew  
 _Armor (Rare)(Requires Attunement)_  
 **Description**: An armor made with the scales of a Drakkenhob. You gain Advantage on saving throws against the Drakkenhob's Terrifying Breath. Whenever you would take Psychic damage, roll 1d10 and subtract the total from the damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Drakkenhob within 30 miles of you. This action can’t be used again until the next time you take a Long Rest.  
@@ -5003,9 +4123,7 @@ _Armor (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Drakkenhob Horn  
-
----  
+### Drakkenhob Horn
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _bag_  
@@ -5016,9 +4134,7 @@ _Ingredient (Rare)_
 
   
 
-### Helm of the Drakkenhob  
-
----  
+### Helm of the Drakkenhob
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
 **Store in**: _bag_  
@@ -5028,9 +4144,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Drakkenhob Mantle  
-
----  
+### Drakkenhob Mantle
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _bag_  
@@ -5040,9 +4154,7 @@ _Ingredient (Rare)_
 
   
 
-### Drakkenhob Cloak  
-
----  
+### Drakkenhob Cloak
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Description**: A cloak made out of the costume worn by a Drakkenhob. When worn, you roll at Advantage for Saving Throws on effects that would deal Psychic damage.  
@@ -5050,9 +4162,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Drakkenhob Heart  
-
----  
+### Drakkenhob Heart
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _bottle_  
@@ -5065,9 +4175,7 @@ _Consumable (Rare)_
 
   
 
-### Ring of the Night Terror  
-
----  
+### Ring of the Night Terror
 **Source**: Home-brew  
 _Ring (Rare)(Requires Attunement)_  
 **Store in**: _pouch_  
@@ -5076,9 +4184,7 @@ _Ring (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Pearl of Infighting  
-
----  
+### Pearl of Infighting
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -5089,9 +4195,7 @@ _Consumable (Common)_
 
   
 
-### Caustic Brew  
-
----  
+### Caustic Brew
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _vial_  
@@ -5102,16 +4206,12 @@ _Consumable (Very Rare)_
 
   
 
-### Random Spell Scroll (spell level 7 or several which sum to 7)  
-
----  
+### Random Spell Scroll (spell level 7 or several which sum to 7)
 **Source**: Home-brew  
 _Spell Scroll (Very Rare)_  
   
 
-### Crooked Moon Gem  
-
----  
+### Crooked Moon Gem
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _pouch_  
@@ -5121,9 +4221,7 @@ _Consumable (Very Rare)_
 
   
 
-### Cauldron of the Vermintoll Coven  
-
----  
+### Cauldron of the Vermintoll Coven
 **Source**: The Crooked Moon  
 _Wondrous Item (Legendary)(Requires Attunement)_  
 **Store in**: _pouch_  
@@ -5131,9 +4229,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 
   
 
-### Large Dark Shard  
-
----  
+### Large Dark Shard
 **Source**: Home-brew  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
@@ -5144,9 +4240,7 @@ _Consumable (Rare)_
 
   
 
-### Blessing of the Harvest Charm  
-
----  
+### Blessing of the Harvest Charm
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _pouch_  
@@ -5157,23 +4251,17 @@ _Consumable (Uncommon)_
 
   
 
-### Random Relic (DMG p.331) (Uncommon)  
-
----  
+### Random Relic (DMG p.331) (Uncommon)
 **Source**: The Crooked Moon  
 _Relic (Uncommon)_  
   
 
-### Random Armament (DMG p.328) (Common)  
-
----  
+### Random Armament (DMG p.328) (Common)
 **Source**: Monster Manual  
 _Armament (Common)_  
   
 
-### Nightwatcher's Salve  
-
----  
+### Nightwatcher's Salve
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
 **Store in**: _vial_  
@@ -5186,9 +4274,7 @@ _Consumable (Uncommon)_
 
   
 
-### Charm of Quick Action  
-
----  
+### Charm of Quick Action
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _pouch_  
@@ -5198,9 +4284,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Charm of the Crooked Faith  
-
----  
+### Charm of the Crooked Faith
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Store in**: _pouch_  
@@ -5208,9 +4292,7 @@ _Wondrous Item (Very Rare)_
 
   
 
-### Accessory of Quick Action  
-
----  
+### Accessory of Quick Action
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Store in**: _pouch_  
@@ -5219,9 +4301,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Accursed Wicker  
-
----  
+### Accursed Wicker
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -5231,9 +4311,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Soul Mote Totem  
-
----  
+### Soul Mote Totem
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
 **Store in**: _pouch_  
@@ -5241,9 +4319,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 
   
 
-### Visage of the old ways  
-
----  
+### Visage of the old ways
 **Source**: The Crooked Moon  
 _Wondrous Item (Legendary)(Requires Attunement)_  
 **Store in**: _bag_  
@@ -5251,9 +4327,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 
   
 
-### Hypnovulfen Meat  
-
----  
+### Hypnovulfen Meat
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -5261,9 +4335,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Hypnovulfen Pelt  
-
----  
+### Hypnovulfen Pelt
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
 **Store in**: _bag_  
@@ -5273,9 +4345,7 @@ _Ingredient (Very Rare)_
 
   
 
-### Boots of the Hypnovulfen  
-
----  
+### Boots of the Hypnovulfen
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Description**: While you wear these boots, you gain 30 ft of ground Speed additional to your current Speed, your steps make no sound, regardless of the surface you are moving across, and you also have Advantage on Dexterity (Stealth) checks.  
@@ -5283,9 +4353,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Hypnovulfen Eye  
-
----  
+### Hypnovulfen Eye
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bottle_  
@@ -5296,9 +4364,7 @@ _Consumable (Very Rare)_
 
   
 
-### Hypnovulfen Pendulum  
-
----  
+### Hypnovulfen Pendulum
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
 **Store in**: _pouch_  
@@ -5307,9 +4373,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Large Memory Fragment  
-
----  
+### Large Memory Fragment
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _bottle_  
@@ -5318,9 +4382,7 @@ _Consumable (Very Rare)_
 
   
 
-### Twisting Venom  
-
----  
+### Twisting Venom
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -5331,9 +4393,7 @@ _Consumable (Common)_
 
   
 
-### Twisted Antitoxin  
-
----  
+### Twisted Antitoxin
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _vial_  
@@ -5343,9 +4403,7 @@ _Consumable (Common)_
 _Crafted Item_  
   
 
-### Magic Absorbing Wood  
-
----  
+### Magic Absorbing Wood
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _bag_  
@@ -5355,9 +4413,7 @@ _Ingredient (Rare)_
 
   
 
-### Wytchwood Sap  
-
----  
+### Wytchwood Sap
 **Source**: Home-brew  
 _Potion (Rare)_  
 **Store in**: _vial_  
@@ -5366,9 +4422,7 @@ _Potion (Rare)_
 
   
 
-### Wytchwood Ash  
-
----  
+### Wytchwood Ash
 **Source**: Home-brew  
 _Ingredient (Rare)_  
 **Store in**: _vial_  
@@ -5376,9 +4430,7 @@ _Ingredient (Rare)_
 
   
 
-### Crooked Sap (Sight of Sin base)  
-
----  
+### Crooked Sap (Sight of Sin base)
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
 **Store in**: _vial_  
@@ -5388,9 +4440,7 @@ _Ingredient (Uncommon)_
 
   
 
-### Blink Dog Blood  
-
----  
+### Blink Dog Blood
 **Source**: Home-brew  
 _Consummable (Uncommon)_  
 **Store in**: _vial_  
@@ -5403,9 +4453,7 @@ _Consummable (Uncommon)_
 
   
 
-### Pixie Dust  
-
----  
+### Pixie Dust
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -5416,9 +4464,7 @@ _Consumable (Common)_
 
   
 
-### Sprite Wings  
-
----  
+### Sprite Wings
 **Source**: Home-brew  
 _Ingredient (Common)_  
 **Store in**: _pouch_  
@@ -5428,9 +4474,7 @@ _Ingredient (Common)_
 
   
 
-### Sprite Dust  
-
----  
+### Sprite Dust
 **Source**: Home-brew  
 _Consumable (Common)_  
 **Store in**: _pouch_  
@@ -5441,9 +4485,7 @@ _Consumable (Common)_
 
   
 
-### Horned King's Battle Ashes  
-
----  
+### Horned King's Battle Ashes
 **Source**: Home-brew  
 _Ingredient (Legendary)_  
 **Store in**: _bottle_  
@@ -5453,9 +4495,7 @@ _Ingredient (Legendary)_
 
   
 
-### Circlet of the Horned King  
-
----  
+### Circlet of the Horned King
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
 **Description**: A circlet made from the ashes of the battle with the Horned King, which held strong magic but not the spirit of the Horned King himself.<br>While you are wearing this circlet, you have a +1 bonus to your Armor Class and saving throws.<br>While you are wearing this circlet and are attuned to it, you have another +1 bonus to your Armor Class and saving throws, and you can cast Detect Thoughts with a DC of 20, and you don't need to concentrate on this effect.<br>While you are wearing this circlet and are attuned to it, you also gain the ability to speak telepathically with creatures you can see within 60 ft of yourself, adding to any range you previously had. Whenever you use Detect Thoughts this way, you gain 1 level of Exhaustion until the end of your next turn, and while you are exhausted this way, you take double the damage you would take whenever you take damage.<br>You can use a Bonus Action to radiate an aura of power in a 20-foot Emanation that originates from you for 1 minute. When you activate this feature, and at the start of each of your turns, you can choose a creature you can see in the aura. The target must succeed on a DC 19 Charisma saving throw or suffer one of the following effects of your choice until the start of your next turn:<br>**Enticement**. The target has the Charmed condition.<br>**Wickedness**. The target has Disadvantage on attack rolls and ability checks.<br>**Terror**. The target has the Frightened condition and must move away from you by the safest route during its turn unless there is nowhere to move.<br>Once you use this feature you cannot use it again until you finish a Long Rest.  
@@ -5463,9 +4503,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Ring of Malediction  
-
----  
+### Ring of Malediction
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
 **Description**: This ring was made with the ashes from the battle with the Horned King, which helf strong magic but not the spirit of the Horned King himself. While wearing this ring, you have a +1 bonus to your Armor Class and saving throws.<br>While you are wearing this ring and are attuned to it, you have an additional +1 bonus to your Armor Class and saving throws, and you can use its charges and abilities.<br>The ring has 6 charges.<br>You can use 2 charges and a Magic action to targt 1 cursed creature within 15 ft of you and transfer the curse to another creature within 15 ft of you. Whenever you use this feature, you must succeed on a DC 15 Wisdom Saving Throw or suffer the effects of the Hex spell for 24 hours, and be afflicted with a Random Curse.<br>With the use of 1 charge and a Magic action, you can curse a creature you can see within 60 feet of you. Alternatively, when a creature within range targets you with an attack roll or a spell, you can take a Reaction to curse the creature with this feature. When cursed this way, the creature is affected as if by the spell Bestow Curse, without needing concentration. You use a DC 19 for this effect.  
@@ -5473,9 +4511,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Embers of Corruption  
-
----  
+### Embers of Corruption
 **Source**: Home-brew  
 _Consumable (Legendary)_  
 **Store in**: _bottle_  
@@ -5488,9 +4524,7 @@ _Consumable (Legendary)_
 
   
 
-### Weapon of Corruption  
-
----  
+### Weapon of Corruption
 **Source**: Home-brew  
 _Weapon (Legendary)(Requires Attunement)_  
 **Description**: A weapon made in the embers that burned the Horned King to ashes at the end of its catastrophic fight. While you are attuned to this weapon, attacks made with this weapon have a +3 bonus to attack and damage rolls, and it ignores resistances or immunitites to the damage dealt by the weapon. On a hit, you deal an additional 2d6 Psychic damage. Whenever you deal the killing blow on a creature with this weapon, the creature must succeed on a DC 19 Wisdom Saving Throw (calculated before it becomes unconscious or dead) or come back to life with a quarter of its Hit Points, and a +2 bonus to attack rolls and damage rolls. If it is killed again, this effect does not happen.<br>You can use a Magic Action to succumb to the corruption of the weapon and Shapechange into a monster of a CR that is equal or lower to your character level. When doing so, you must succeed on a DC 17 Wisdom Saving Throw or be unable to discern friend from foe in this state unless under the effects of a Calm Emotions spell. Once you use this feature you cannot use it again until you finish a Long Rest.  
@@ -5498,9 +4532,7 @@ _Weapon (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Armor of Terror  
-
----  
+### Armor of Terror
 **Source**: Home-brew  
 _Armor (Legendary)(Requires Attunement)_  
 **Description**: An armor made in the embers that burned the Horned King to ashes at the end of its catastrophic fight. While you are wearing this armor, you gain a +1 bonus to your Armor Class and Saving Throws. While you are wearing this armor and are attuned to it, you gain an additional +1 bonus to your Armor Class.<br>While you are wearing this armor and are attuned to it, you are immune to the Frightened condition and have Advantage on Intimidation checks.<br>For each creature that is Frightened of you within a 20 ft radius of you, you gain a +1 bonus to your Armor Class.<br>You can use a Magic Action to create a 10 ft emanation of terrifying aura around you for 1 minute. When creatures enter this area or they start their turns in it, they must succeed on a DC 18 Wisdom Saving Throw or have the Frightened condition and take 4d6 Psychic damage. However, when you activate this aura, you must also succeed on a DC 15 Wisdom Saving Throw or face the effects of a Phantasmal Force spell until the end of your next turn. Once you use this feature you cannot use it again until you have finished a Long Rest.  
@@ -5508,9 +4540,7 @@ _Armor (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Helm of Horns  
-
----  
+### Helm of Horns
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
 **Store in**: _bag_  
@@ -5519,9 +4549,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Ring of Corruption  
-
----  
+### Ring of Corruption
 **Source**: Home-brew  
 _Ring (Legendary)(Requires Attunement)_  
 **Store in**: _pouch_  
@@ -5530,9 +4558,7 @@ _Ring (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Corrupting Sludge  
-
----  
+### Corrupting Sludge
 **Source**: Home-brew  
 _Consumable (Legendary)_  
 **Store in**: _bottle_  
@@ -5545,9 +4571,7 @@ _Consumable (Legendary)_
 
   
 
-### Goat Eye of Sin Amulet  
-
----  
+### Goat Eye of Sin Amulet
 **Source**: Home-brew  
 _Wondrous Item (Legendary)_  
 **Store in**: _pouch_  
@@ -5556,9 +4580,7 @@ _Wondrous Item (Legendary)_
 _Crafted Item_  
   
 
-### Ring of Temptation  
-
----  
+### Ring of Temptation
 **Source**: Home-brew  
 _Wondrous Item (Legendary)_  
 **Store in**: _pouch_  
@@ -5567,9 +4589,7 @@ _Wondrous Item (Legendary)_
 _Crafted Item_  
   
 
-### Crystallized Temptation  
-
----  
+### Crystallized Temptation
 **Source**: Home-brew  
 _Consumable (Legendary)_  
 **Store in**: _pouch_  
@@ -5578,9 +4598,7 @@ _Consumable (Legendary)_
 
   
 
-### Crooked Moonstone  
-
----  
+### Crooked Moonstone
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
 **Store in**: _pouch_  
@@ -5589,9 +4607,7 @@ _Consumable (Very Rare)_
 
   
 
-### Crooked Tree Ashes  
-
----  
+### Crooked Tree Ashes
 **Source**: Home-brew  
 _Ingredient (Legendary)_  
 **Store in**: _bottle_  

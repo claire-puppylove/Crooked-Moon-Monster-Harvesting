@@ -1,8 +1,6 @@
 ## Harvesting Items (By item and in order of appearance)  
 
-### Spectral Slick  
-
----  
+### Spectral Slick
 **Monster(s)**: Specter  
 **Source**: Home-brew  
 _ Consumable (Common)_  
@@ -19,9 +17,7 @@ _ Consumable (Common)_
 **Locations**: Ghostlight Express  
   
 
-### Dark Dust  
-
----  
+### Dark Dust
 **Monster(s)**: Phantom Trainhopper (Shadow)  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
@@ -38,9 +34,7 @@ _ Consumable (Uncommon)_
 **Locations**: Ghostlight Express  
   
 
-### Haint Hooch Berries  
-
----  
+### Haint Hooch Berries
 **Monster(s)**: Wayward Haint  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
@@ -57,9 +51,7 @@ _ Consumable (Uncommon)_
 **Locations**: Ghostlight Express, Ghostlight Crashsite  
   
 
-### Wildpyre Claw  
-
----  
+### Wildpyre Claw
 **Monster(s)**: Wildpyre  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
@@ -74,9 +66,7 @@ _ Consumable (Uncommon)_
 **Locations**: Ghostlight Express  
   
 
-### Wildpyre Fur  
-
----  
+### Wildpyre Fur
 **Monster(s)**: Wildpyre  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
@@ -91,9 +81,7 @@ _ Consumable (Uncommon)_
 **Locations**: Ghostlight Express  
   
 
-### Soul Coal  
-
----  
+### Soul Coal
 **Monster(s)**: Soulfire Stoker, Ghostlight Locomotive, House of Horror  
 **Source**: Home-brew  
 _ Consumable (Uncommon)_  
@@ -116,9 +104,7 @@ _ Consumable (Uncommon)_
 **Locations (House of Horror)**: Wickermoor Village (The old pyethymer place)  
   
 
-### Ghostlight Grease  
-
----  
+### Ghostlight Grease
 **Monster(s)**: Ghostlight Locomotive  
 **Source**: Home-brew  
 _ Consumable (Rare)_  
@@ -135,9 +121,7 @@ _ Consumable (Rare)_
 **Locations**: Ghostlight Crashsite  
   
 
-### Random Magic Item (DMG p.327) (Uncommon)  
-
----  
+### Random Magic Item (DMG p.327) (Uncommon)
 **Monster(s)**: Ghostlight Locomotive, Lurker in the Dark  
 **Source**: The Crooked Moon  
 _Magic Item (Uncommon)_  
@@ -149,9 +133,7 @@ _Magic Item (Uncommon)_
 **Locations (Lurker in the Dark)**: The Crooked House, The Bag  
   
 
-### Whistle of the Vagrant  
-
----  
+### Whistle of the Vagrant
 **Monster(s)**: Ghostlight Locomotive  
 **Source**: The Crooked Moon  
 _ Wondrous Item (Rare)(Requires Attunement)_  
@@ -163,9 +145,7 @@ _ Wondrous Item (Rare)(Requires Attunement)_
 **Locations**: Ghostlight Crashsite  
   
 
-### Goggles of Night  
-
----  
+### Goggles of Night
 **Monster(s)**: -  
 **Source**: Dungeon's Master Guide  
 _Wondrous Item (Uncommon)_  
@@ -177,9 +157,7 @@ _Wondrous Item (Uncommon)_
 **Locations**: Ghostlight Locomotive  
   
 
-### Fine Clothes  
-
----  
+### Fine Clothes
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Mundane_  
@@ -192,9 +170,7 @@ _Mundane_
 **Locations**: Ghostlight Locomotive  
   
 
-### Silver Ring with Ruby  
-
----  
+### Silver Ring with Ruby
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -207,9 +183,7 @@ _Mundane_
 **Locations**: Ghostlight Locomotive  
   
 
-### Oil of Acuteness  
-
----  
+### Oil of Acuteness
 **Monster(s)**: -  
 **Source**:   
 _Consummable (Rare)_  
@@ -223,9 +197,7 @@ _Consummable (Rare)_
 **Locations**: Ghostlight Crashsite  
   
 
-### Cloak of Protection  
-
----  
+### Cloak of Protection
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon) (Requires Attunement)_  
@@ -237,9 +209,7 @@ _Wondrous Item (Uncommon) (Requires Attunement)_
 **Locations**: Ghostlight Crashsite  
   
 
-### Bag of Tricks (Gray)  
-
----  
+### Bag of Tricks (Gray)
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon)_  
@@ -251,9 +221,7 @@ _Wondrous Item (Uncommon)_
 **Locations**: Ghostlight Crashsite  
   
 
-### Dust of Disappearance  
-
----  
+### Dust of Disappearance
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Consumable (Uncommon)_  
@@ -265,9 +233,7 @@ _Consumable (Uncommon)_
 **Locations**: Ghostlight Crashsite  
   
 
-### Immovable Rod with goat heads on each end  
-
----  
+### Immovable Rod with goat heads on each end
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon)_  
@@ -279,9 +245,7 @@ _Wondrous Item (Uncommon)_
 **Locations**: Ghostlight Crashsite  
   
 
-### Medallion of Thoughts  
-
----  
+### Medallion of Thoughts
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon)_  
@@ -293,9 +257,7 @@ _Wondrous Item (Uncommon)_
 **Locations**: Ghostlight Crashsite  
   
 
-### Random Implement (DMG p.329)(Common)  
-
----  
+### Random Implement (DMG p.329)(Common)
 **Monster(s)**: Scout, Bandit Captain  
 **Source**: Monster Manual  
 _Implement (Common)_  
@@ -307,9 +269,7 @@ _Implement (Common)_
 **Locations (Bandit Captain)**: Dawn's Gate, The Crimson Monastery, The Drowned Crossroads, Prairie, The Drowned Crossroads(Jinxed Leviathan riled)  
   
 
-### Random Armament (DMG p.328) (Uncommon)  
-
----  
+### Random Armament (DMG p.328) (Uncommon)
 **Monster(s)**: Tough Boss, Woodwarped  
 **Source**: Monster Manual, The Crooked Moon  
 _Armament (Uncommon)_  
@@ -321,9 +281,7 @@ _Armament (Uncommon)_
 **Locations (Woodwarped)**: Moors, The Wytchwood, Howlers(Wild Titan riled)  
   
 
-### Random Mundane (PHB p.223)  
-
----  
+### Random Mundane (PHB p.223)
 **Monster(s)**: Commoner, Bandit, Though  
 **Source**: Home-brew  
 _Mundane_  
@@ -338,9 +296,7 @@ _Mundane_
 **Locations (Though)**: The Drowned Crossroads, Moonsong Lake(Tough)  
   
 
-### Weasel Pelt  
-
----  
+### Weasel Pelt
 **Monster(s)**: Weasel, Boogleswarm, Weasel Hag  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -360,9 +316,7 @@ _Ingredient (Common)_
 **Locations (Weasel Hag)**: The Crooked House, The Crooked Nightmare  
   
 
-### Weasel Meat  
-
----  
+### Weasel Meat
 **Monster(s)**: Weasel, Boogleswarm  
 **Source**: Home-brew  
 _Ingredient (Mundane)_  
@@ -377,9 +331,7 @@ _Ingredient (Mundane)_
 **Locations (Boogleswarm)**: Wickermoor Village, The Crooked House, The Crooked Nightmare  
   
 
-### Humanoid Tooth  
-
----  
+### Humanoid Tooth
 **Monster(s)**: Boogleswarm  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -393,9 +345,7 @@ _Ingredient (Common)_
 **Locations**: The Crooked House, The Crooked Nightmare  
   
 
-### Wolf Pelt  
-
----  
+### Wolf Pelt
 **Monster(s)**: Wolf  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -410,9 +360,7 @@ _Ingredient (Common)_
 **Locations**: Wickermoor Village  
   
 
-### Wolf Meat  
-
----  
+### Wolf Meat
 **Monster(s)**: Wolf, Dire Wolf  
 **Source**: Home-brew  
 _Ingredient (Mundane)_  
@@ -427,9 +375,7 @@ _Ingredient (Mundane)_
 **Locations (Dire Wolf)**: Wickermoor Village  
   
 
-### Dire Wolf Pelt  
-
----  
+### Dire Wolf Pelt
 **Monster(s)**: Dire Wolf  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -444,9 +390,7 @@ _Ingredient (Uncommon)_
 **Locations**: Wickermoor Village  
   
 
-### Dire Wolf Tooth  
-
----  
+### Dire Wolf Tooth
 **Monster(s)**: Dire Wolf  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -460,9 +404,7 @@ _Ingredient (Uncommon)_
 **Locations**: Wickermoor Village  
   
 
-### Ring of the Dire Wolf  
-
----  
+### Ring of the Dire Wolf
 **Monster(s)**: Dire Wolf  
 **Source**: Home-brew  
 _Ring (Uncommon)_  
@@ -472,9 +414,7 @@ _Ring (Uncommon)_
 _Crafted Item_  
   
 
-### Hag Familiar Pearl  
-
----  
+### Hag Familiar Pearl
 **Monster(s)**: Vermin Familiar  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -489,9 +429,7 @@ _Consumable (Common)_
 **Locations**: Wickermoor Village, The Crooked House, Skitterdeep Mine, Roving Rookery, The Crooked Nightmare  
   
 
-### Dark Shard  
-
----  
+### Dark Shard
 **Monster(s)**: Wight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -506,9 +444,7 @@ _Consumable (Uncommon)_
 **Locations**: The Crooked House, Drowned Crossroads, Wickermoor Village (The Barrow King waves)  
   
 
-### Ochre Ooze  
-
----  
+### Ochre Ooze
 **Monster(s)**: Ochre Jelly  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -525,9 +461,7 @@ _Consumable (Common)_
 **Locations**: The Crooked House  
   
 
-### Thread of Grasping  
-
----  
+### Thread of Grasping
 **Monster(s)**: Animated Rug of Smothering  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -542,9 +476,7 @@ _Consumable (Common)_
 **Locations**: The Crooked House  
   
 
-### Dust of Disappearance  
-
----  
+### Dust of Disappearance
 **Monster(s)**: Death Cultist (Gory Gus)  
 **Source**: Dungeon Master's Guide  
 _Consumable (Uncommon)_  
@@ -557,9 +489,7 @@ _Consumable (Uncommon)_
 **Locations**: Wickermoor Village  
   
 
-### Dust of Lasting Disappearance  
-
----  
+### Dust of Lasting Disappearance
 **Monster(s)**: Death Cultist (Gory Gus)  
 **Source**: Homebrew  
 _Consumable (Rare)_  
@@ -572,9 +502,7 @@ _Consumable (Rare)_
 **Locations**: Wickermoor Village  
   
 
-### Rug of Horror  
-
----  
+### Rug of Horror
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -589,9 +517,7 @@ _Consumable (Very Rare)_
 **Locations**: Wickermoor Village (The old pyethymer place)  
   
 
-### Broom of Flying  
-
----  
+### Broom of Flying
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)(Requires Attunement)_  
@@ -602,9 +528,7 @@ _Wondrous Item (Uncommon)(Requires Attunement)_
 **Locations**: Wickermoor Village (The old pyethymer place)  
   
 
-### White Seance Ring  
-
----  
+### White Seance Ring
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _Ring (Rare)_  
@@ -615,9 +539,7 @@ _Ring (Rare)_
 **Locations**: Wickermoor Village (The old pyethymer place)  
   
 
-### Random Arcana (DMG p.327) (Very Rare)  
-
----  
+### Random Arcana (DMG p.327) (Very Rare)
 **Monster(s)**: House of Horror, Centipede Hag, Pigeon Hag, The Vermintoll Abomination  
 **Source**: The Crooked Moon  
 _Arcana (Very Rare)_  
@@ -635,9 +557,7 @@ _Arcana (Very Rare)_
 **Locations (The Vermintoll Abomination)**: The Crooked Nightmare  
   
 
-### Random Spell Scroll (spell level 6 or several which sum to 6)  
-
----  
+### Random Spell Scroll (spell level 6 or several which sum to 6)
 **Monster(s)**: House of Horror, Centipede Hag, Pigeon Hag  
 **Source**: Home-brew  
 _Spell Scroll (Very Rare)_  
@@ -652,9 +572,7 @@ _Spell Scroll (Very Rare)_
 **Locations (Pigeon Hag)**: Walking Dovecote  
   
 
-### Memory Orb  
-
----  
+### Memory Orb
 **Monster(s)**: House of Horror, Centipede Hag  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -670,9 +588,7 @@ _Consumable (Very Rare)_
 **Locations (Centipede Hag)**: Skitterdeep Mines  
   
 
-### Memory Orb Dust  
-
----  
+### Memory Orb Dust
 **Monster(s)**: House of Horror, Centipede Hag  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -682,9 +598,7 @@ _Ingredient (Very Rare)_
 **Description**: The remaining dust of the memory orb can be used as material worth 2500 GP when crafting a magical item   
   
 
-### Uvula of Horror  
-
----  
+### Uvula of Horror
 **Monster(s)**: House of Horror  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -697,9 +611,7 @@ _Wondrous Item (Very Rare)_
 **Locations**: Wickermoor Village (The old Pyethymer place)  
   
 
-### Gem  
-
----  
+### Gem
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -709,9 +621,7 @@ _?_
 **Locations**: The Crooked House  
   
 
-### Key  
-
----  
+### Key
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -721,9 +631,7 @@ _?_
 **Locations**: The Crooked House  
   
 
-### Pearl of Power  
-
----  
+### Pearl of Power
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon) (Requires Attunement by a Spellcaster)_  
@@ -736,9 +644,7 @@ _Wondrous Item (Uncommon) (Requires Attunement by a Spellcaster)_
 **Locations**: Dining Room at The Crooked House  
   
 
-### Gold Ring  
-
----  
+### Gold Ring
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -752,9 +658,7 @@ _Mundane_
 **Locations**: Dining Room at The Crooked House  
   
 
-### Petunia's Green Ribbon  
-
----  
+### Petunia's Green Ribbon
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Wondrous Item (Rare)(Requires Attunement)_  
@@ -764,9 +668,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 **Locations**: The Crooked House  
   
 
-### Cup  
-
----  
+### Cup
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -776,9 +678,7 @@ _?_
 **Locations**: The Crooked House  
   
 
-### Gold Pocket Watch  
-
----  
+### Gold Pocket Watch
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -792,9 +692,7 @@ _Mundane_
 **Locations**: Sitting Room at The Crooked House  
   
 
-### Doll  
-
----  
+### Doll
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -804,9 +702,7 @@ _?_
 **Locations**: The Crooked House  
   
 
-### Lurker Dust  
-
----  
+### Lurker Dust
 **Monster(s)**: Lurker in the Dark  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -823,9 +719,7 @@ _Consumable (Uncommon)_
 **Locations**: The Crooked House, The Bag  
   
 
-### Figurine of Wondrous Power (Duckie)  
-
----  
+### Figurine of Wondrous Power (Duckie)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Wondrous Item (Uncommon)_  
@@ -837,9 +731,7 @@ _Wondrous Item (Uncommon)_
 **Locations**: Bathroom at The Crooked House  
   
 
-### Philip Druskenvald's Journal  
-
----  
+### Philip Druskenvald's Journal
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -852,9 +744,7 @@ _Mundane_
 **Locations**: Master Bedroom at The Crooked House  
   
 
-### Bear  
-
----  
+### Bear
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -864,9 +754,7 @@ _?_
 **Locations**: The Crooked House  
   
 
-### Ketgrinn's Bell  
-
----  
+### Ketgrinn's Bell
 **Monster(s)**: Ketgrinn  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -881,9 +769,7 @@ _Consumable (Uncommon)_
 **Locations**: The Crooked House, The Wytchwood, The Hartsblight Forest (The Tall Man)  
   
 
-### Random Arcana (DMG p.327) (Uncommon)  
-
----  
+### Random Arcana (DMG p.327) (Uncommon)
 **Monster(s)**: Ketgrinn, Corvodaemon, Weasel Hag  
 **Source**: The Crooked Moon  
 _Arcana (Uncommon)_  
@@ -898,9 +784,7 @@ _Arcana (Uncommon)_
 **Locations (Weasel Hag)**: The Crooked House  
   
 
-### Potion of Healing  
-
----  
+### Potion of Healing
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Potion (Common)_  
@@ -912,9 +796,7 @@ _Potion (Common)_
 **Locations**: Library at The Crooked House  
   
 
-### Pin  
-
----  
+### Pin
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -924,9 +806,7 @@ _?_
 **Locations**: The Crooked House  
   
 
-### Bag of Humanoid Teeth  
-
----  
+### Bag of Humanoid Teeth
 **Monster(s)**: Weasel Hag  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -940,9 +820,7 @@ _Ingredient (Uncommon)_
 **Locations**: The Crooked House  
   
 
-### Lilypad Tonic  
-
----  
+### Lilypad Tonic
 **Monster(s)**: Weasel Hag  
 **Source**: The Crooked Moon  
 _Potion (Common)_  
@@ -954,9 +832,7 @@ _Potion (Common)_
 **Locations**: The Crooked House  
   
 
-### Random Spell scroll (spell level 3 or several that sum to 3)  
-
----  
+### Random Spell scroll (spell level 3 or several that sum to 3)
 **Monster(s)**: Weasel Hag  
 **Source**: Home-brew  
 _Spell Scroll (Uncommon)_  
@@ -965,9 +841,7 @@ _Spell Scroll (Uncommon)_
 **Locations**: The Crooked House  
   
 
-### Compass of Wanting  
-
----  
+### Compass of Wanting
 **Monster(s)**: Weasel Hag  
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)_  
@@ -979,9 +853,7 @@ _Wondrous Item (Uncommon)_
 **Locations**: The Crooked House  
   
 
-### Twisted Charm  
-
----  
+### Twisted Charm
 **Monster(s)**: Weasel Hag  
 **Source**: The Crooked Moon  
 _Wondrous Item (Rare)_  
@@ -993,9 +865,7 @@ _Wondrous Item (Rare)_
 **Locations**: The Crooked House  
   
 
-### Memory Shard  
-
----  
+### Memory Shard
 **Monster(s)**: Pumpkin Head  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1010,9 +880,7 @@ _Consumable (Uncommon)_
 **Locations**: Foxwillow, Cornfield, Foxwillow (The Galloping Headsman riled)  
   
 
-### Harvest Brew Base  
-
----  
+### Harvest Brew Base
 **Monster(s)**: Pumpkin Head  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1029,9 +897,7 @@ _Consumable (Uncommon)_
 **Locations**: Foxwillow, Cornfield, Foxwillow (The Galloping Headsman riled)  
   
 
-### Daemon Ichor  
-
----  
+### Daemon Ichor
 **Monster(s)**: Corvodaemon, The Harvest Terror  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1051,9 +917,7 @@ _Consumable (Uncommon)_
 **Locations (The Harvest Terror)**: Foxwillow, Cornfield  
   
 
-### False Crow Feather  
-
----  
+### False Crow Feather
 **Monster(s)**: Crowstorm  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -1068,9 +932,7 @@ _Consumable (Common)_
 **Locations**: Foxwillow, Cornfield  
   
 
-### Harvest Terror Feather  
-
----  
+### Harvest Terror Feather
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1085,9 +947,7 @@ _Consumable (Uncommon)_
 **Locations**: Cornfield  
   
 
-### Amber Eye  
-
----  
+### Amber Eye
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -1101,9 +961,7 @@ _Ingredient (Rare)_
 **Locations**: Cornfield  
   
 
-### Raum's Rag  
-
----  
+### Raum's Rag
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _ Consumable (Rare)_  
@@ -1118,9 +976,7 @@ _ Consumable (Rare)_
 **Locations**: Cornfield  
   
 
-### Secret Shard  
-
----  
+### Secret Shard
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1135,9 +991,7 @@ _Consumable (Rare)_
 **Locations**: Cornfield  
   
 
-### Ol' Jericho Sticks' Memory Shard  
-
----  
+### Ol' Jericho Sticks' Memory Shard
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1152,9 +1006,7 @@ _Consumable (Rare)_
 **Locations**: Foxwillow, Cornfield, Foxwillow (The Galloping Headsman riled)  
   
 
-### Random Implement (DMG p.329) (Rare)  
-
----  
+### Random Implement (DMG p.329) (Rare)
 **Monster(s)**: The Harvest Terror, Ferryman, Herald of Fools, Kackle, Assassin  
 **Source**: The Crooked Moon  
 _Implement (Rare)_  
@@ -1175,9 +1027,7 @@ _Implement (Rare)_
 **Locations (Assassin)**: Lakeshore  
   
 
-### The Harvest Terror's Scythe  
-
----  
+### The Harvest Terror's Scythe
 **Monster(s)**: The Harvest Terror  
 **Source**: Home-brew  
 _Weapon (Rare)(Requires Attunement)_  
@@ -1188,9 +1038,7 @@ _Weapon (Rare)(Requires Attunement)_
 **Locations**: Cornfield  
   
 
-### Onyx Marble  
-
----  
+### Onyx Marble
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -1204,9 +1052,7 @@ _Mundane_
 **Locations**: Foxwillow  
   
 
-### Sack of coins (300 SP,1000 CP)  
-
----  
+### Sack of coins (300 SP,1000 CP)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -1217,9 +1063,7 @@ _Mundane_
 **Locations**: Foxwillow  
   
 
-### Beautiful Banjo  
-
----  
+### Beautiful Banjo
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -1232,9 +1076,7 @@ _Mundane_
 **Locations**: Foxwillow  
   
 
-### Bloody Bundle  
-
----  
+### Bloody Bundle
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -1245,9 +1087,7 @@ _Mundane_
 **Locations**: Foxwillow  
   
 
-### Virgil's Birdcage transcript  
-
----  
+### Virgil's Birdcage transcript
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -1257,9 +1097,7 @@ _Mundane_
 **Locations**: Foxwillow  
   
 
-### Ol' Jericho Sticks birth certificate  
-
----  
+### Ol' Jericho Sticks birth certificate
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -1269,9 +1107,7 @@ _Mundane_
 **Locations**: Foxwillow  
   
 
-### Crumpled Note  
-
----  
+### Crumpled Note
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -1281,9 +1117,7 @@ _Mundane_
 **Locations**: Foxwillow  
   
 
-### Isaac's Locket  
-
----  
+### Isaac's Locket
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Wondrous Item (Uncommon)(Requires Attunement)_  
@@ -1293,9 +1127,7 @@ _Wondrous Item (Uncommon)(Requires Attunement)_
 **Locations**: Foxwillow  
   
 
-### Random Magic Item (DMG p.327) (Rare)  
-
----  
+### Random Magic Item (DMG p.327) (Rare)
 **Monster(s)**: Wellwyrm, Invader out of Space  
 **Source**: The Crooked Moon  
 _Magic Item (Rare)_  
@@ -1307,9 +1139,7 @@ _Magic Item (Rare)_
 **Locations (Invader out of Space)**: Foxwillow Farmland, Rowan's Rise, The Wytchwood, Moonsong Lake (White Worm twisted), Meteorite crashsite  
   
 
-### Silence of the Drowned Base  
-
----  
+### Silence of the Drowned Base
 **Monster(s)**: Wellwyrm, Lake Dredger, Chuul  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1332,9 +1162,7 @@ _Consumable (Uncommon)_
 **Locations (Chuul)**: Lakeshore  
   
 
-### Wellwyrm venom gland  
-
----  
+### Wellwyrm venom gland
 **Monster(s)**: Wellwyrm  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1351,9 +1179,7 @@ _Consumable (Rare)_
 **Locations**: Foxwillow Farmland, Moors, The Wytchwood, Moonsong Lake (White Worm twisted)  
   
 
-### Wellwyrm Antitoxin  
-
----  
+### Wellwyrm Antitoxin
 **Monster(s)**: Wellwyrm  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1364,9 +1190,7 @@ _Consumable (Rare)_
 _Crafted Item_  
   
 
-### Kackle Lantern Fuel  
-
----  
+### Kackle Lantern Fuel
 **Monster(s)**: Kackle  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1383,9 +1207,7 @@ _Consumable (Rare)_
 **Locations**: Maidenmist Cementery, Foxwillow (Galloping Headsman riled), Maidenmist Cementery (The Barrow King)  
   
 
-### Kackle Charm  
-
----  
+### Kackle Charm
 **Monster(s)**: Kackle  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1400,9 +1222,7 @@ _Consumable (Rare)_
 **Locations**: Maidenmist Cementery, Foxwillow (Galloping Headsman riled), Maidenmist Cementery (The Barrow King)  
   
 
-### Raven Feather  
-
----  
+### Raven Feather
 **Monster(s)**: Swarm of Ravens  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -1416,9 +1236,7 @@ _Ingredient (Common)_
 **Locations**: Moors, Foxwillow  
   
 
-### Raven Meat  
-
----  
+### Raven Meat
 **Monster(s)**: Swarm of Ravens  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -1430,9 +1248,7 @@ _Ingredient (Common)_
 **Locations**: Moors, Foxwillow  
   
 
-### Unidentified Spooky Object  
-
----  
+### Unidentified Spooky Object
 **Monster(s)**: Invader Out of Space  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1447,9 +1263,7 @@ _Consumable (Rare)_
 **Locations**: Meteorite crashsite  
   
 
-### Meteorite Dust  
-
----  
+### Meteorite Dust
 **Monster(s)**: Invader Out of Space  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1464,9 +1278,7 @@ _Consumable (Rare)_
 **Locations**: Meteorite crashsite  
   
 
-### Harvested Blood  
-
----  
+### Harvested Blood
 **Monster(s)**: Crimson Clergy, The Crimson Abbot, Vampire Spawn, Hemonculus  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -1492,9 +1304,7 @@ _Ingredient (Common)_
 **Locations (Hemonculus)**: Howlers, The Crimson Monastery  
   
 
-### Random Relic (DMG p.331) (Common)  
-
----  
+### Random Relic (DMG p.331) (Common)
 **Monster(s)**: Crimson Clergy, Druid, Mummy, Cultist, Priest, Cultist Fanatic, Priest Acolyte  
 **Source (Crimson Clergy)**: The Crooked Moon  
 **Source (Druid)**: Monster Manual  
@@ -1526,9 +1336,7 @@ _Ingredient (Common)_
 **Locations (Priest Acolyte)**: Moors, The Crimson Monastery, Howlers, Hartsblight Forest, Maidenmist Cementery, Rowan's Rise  
   
 
-### Crimson Wine (Draught of the Red Hunger Base)  
-
----  
+### Crimson Wine (Draught of the Red Hunger Base)
 **Monster(s)**: Crimson Clergy, The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1548,9 +1356,7 @@ _Consumable (Uncommon)_
 **Locations (The Crimson Abbot)**: The Crimson Monastery  
   
 
-### Life vessel  
-
----  
+### Life vessel
 **Monster(s)**: Night Creature  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1565,9 +1371,7 @@ _Consumable (Uncommon)_
 **Locations**: The Crimson Monastery, Howlers  
   
 
-### Pirozhki  
-
----  
+### Pirozhki
 **Monster(s)**: Night Creature  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1580,9 +1384,7 @@ _Consumable (Rare)_
 **Locations**: The Crimson Monastery, Howlers  
   
 
-### Bat Eyes  
-
----  
+### Bat Eyes
 **Monster(s)**: Swarm of Bats  
 **Source**: Home-brew  
 _ Consumable (Common)_  
@@ -1597,9 +1399,7 @@ _ Consumable (Common)_
 **Locations**: Dawn's Gate  
   
 
-### Bat Wings  
-
----  
+### Bat Wings
 **Monster(s)**: Swarm of Bats  
 **Source**: Home-brew  
 _ Consumable (Common)_  
@@ -1614,9 +1414,7 @@ _ Consumable (Common)_
 **Locations**: Dawn's Gate  
   
 
-### Distant Shot Ring  
-
----  
+### Distant Shot Ring
 **Monster(s)**: Swarm of Bats  
 **Source**: Home-brew  
 _Ring (Uncommon)_  
@@ -1626,9 +1424,7 @@ _Ring (Uncommon)_
 _Crafted Item_  
   
 
-### Bat Echor  
-
----  
+### Bat Echor
 **Monster(s)**: Bat Hound  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -1645,9 +1441,7 @@ _Consumable (Common)_
 **Locations**: Dawn's Gate, The Crimson Monastery, Howlers, Maidenmist Cementery (The Barrow King)  
   
 
-### Bat Hound Wings  
-
----  
+### Bat Hound Wings
 **Monster(s)**: Bat Hound  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1662,9 +1456,7 @@ _Consumable (Uncommon)_
 **Locations**: Dawn's Gate, The Crimson Monastery, Howlers, Maidenmist Cementery (The Barrow King)  
   
 
-### Chewed Homeward Bone  
-
----  
+### Chewed Homeward Bone
 **Monster(s)**: Bat Hound, Boneflayer  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1684,9 +1476,7 @@ _Consumable (Rare)_
 **Locations (Boneflayer)**: The Crimson Monastery, Moors  
   
 
-### Homeward Bone  
-
----  
+### Homeward Bone
 **Monster(s)**: Bat Hound, Skeleton, The Chained Reaper, Boneflayer  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -1712,9 +1502,7 @@ _Consumable (Very Rare)_
 **Locations (Boneflayer)**: The Crimson Monastery, Maidenmist Cementery  
   
 
-### Horse Hooves  
-
----  
+### Horse Hooves
 **Monster(s)**: Warhorse  
 **Source**: Home-brew  
 _Ingredient(Common)_  
@@ -1728,9 +1516,7 @@ _Ingredient(Common)_
 **Locations**: The Crimson Monastery  
   
 
-### Iron Horseshoe  
-
----  
+### Iron Horseshoe
 **Monster(s)**: Warhorse  
 **Source**: Home-brew  
 _Mundane_  
@@ -1742,9 +1528,7 @@ _Mundane_
 **Locations**: The Crimson Monastery  
   
 
-### Horse Meat  
-
----  
+### Horse Meat
 **Monster(s)**: Warhorse  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -1756,9 +1540,7 @@ _Ingredient (Common)_
 **Locations**: The Crimson Monastery  
   
 
-### Random Magic Item Except Relics (DMG p.327) (Rare)  
-
----  
+### Random Magic Item Except Relics (DMG p.327) (Rare)
 **Monster(s)**: Alpengrendel  
 **Source**: The Crooked Moon  
 _Magic Item Except Relic (Rare)_  
@@ -1767,9 +1549,7 @@ _Magic Item Except Relic (Rare)_
 **Locations**: Dawn's Gate, Howlers  
   
 
-### Alpengrendel Horn  
-
----  
+### Alpengrendel Horn
 **Monster(s)**: Alpengrendel  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1784,9 +1564,7 @@ _Consumable (Rare)_
 **Locations**: Dawn's Gate, Howlers  
   
 
-### Alpengrendel Tusk  
-
----  
+### Alpengrendel Tusk
 **Monster(s)**: Alpengrendel  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1801,9 +1579,7 @@ _Consumable (Uncommon)_
 **Locations**: Dawn's Gate, Howlers  
   
 
-### Alpengrendel Fur  
-
----  
+### Alpengrendel Fur
 **Monster(s)**: Alpengrendel  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -1818,9 +1594,7 @@ _Consumable (Uncommon)_
 **Locations**: Dawn's Gate, Howlers  
   
 
-### Alpengrendel Meat  
-
----  
+### Alpengrendel Meat
 **Monster(s)**: Alpengrendel  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -1832,9 +1606,7 @@ _Ingredient (Uncommon)_
 **Locations**: Dawn's Gate, Howlers  
   
 
-### Random Relic (DMG p.331) (Rare)  
-
----  
+### Random Relic (DMG p.331) (Rare)
 **Monster(s)**: The Crimson Abbot  
 **Source**: The Crooked Moon  
 **Find Checks**: Perception, Investigation, Religion, Arcana, Keeper of the Blight)  
@@ -1842,9 +1614,7 @@ _Ingredient (Uncommon)_
 **Locations**: The Crimson Monastery, The Hartsblight Forest, Swamp  
   
 
-### Crimson Cloak  
-
----  
+### Crimson Cloak
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
@@ -1856,9 +1626,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 **Locations**: The Crimson Monastery  
   
 
-### Wings of the Crimson Abbot  
-
----  
+### Wings of the Crimson Abbot
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1873,9 +1641,7 @@ _Consumable (Rare)_
 **Locations**: The Crimson Monastery  
   
 
-### Greater Life Vessel  
-
----  
+### Greater Life Vessel
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -1890,9 +1656,7 @@ _Consumable (Rare)_
 **Locations**: The Crimson Monastery  
   
 
-### Vampire Blood  
-
----  
+### Vampire Blood
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -1909,9 +1673,7 @@ _Consumable (Very Rare)_
 **Locations**: The Crimson Monastery  
   
 
-### Vampiric Weapon (Vampire Blood)  
-
----  
+### Vampiric Weapon (Vampire Blood)
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -1920,9 +1682,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 **Find Checks**: Crafted item  
   
 
-### Vampiric Shield (Vampire Blood)  
-
----  
+### Vampiric Shield (Vampire Blood)
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Shield (Very Rare)(Requires Attunement)_  
@@ -1931,9 +1691,7 @@ _Shield (Very Rare)(Requires Attunement)_
 **Find Checks**: Crafted item  
   
 
-### Vampiric Accessory  
-
----  
+### Vampiric Accessory
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
@@ -1942,9 +1700,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 **Find Checks**: Crafted item  
   
 
-### Vampire Heart  
-
----  
+### Vampire Heart
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -1961,9 +1717,7 @@ _Consumable (Very Rare)_
 **Locations**: The Crimson Monastery  
   
 
-### Vampire Locket  
-
----  
+### Vampire Locket
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
@@ -1972,9 +1726,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Vampiric Weapon (Vampire Heart)  
-
----  
+### Vampiric Weapon (Vampire Heart)
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Weapon (Legendary)(Requires Attunement)_  
@@ -1983,9 +1735,7 @@ _Weapon (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Vampiric Shield (Vampire Heart)  
-
----  
+### Vampiric Shield (Vampire Heart)
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Shield (Legendary)(Requires Attunement)_  
@@ -1994,9 +1744,7 @@ _Shield (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Ring of Command  
-
----  
+### Ring of Command
 **Monster(s)**: The Crimson Abbot  
 **Source**: Home-brew  
 _Ring (Uncommon)_  
@@ -2010,9 +1758,7 @@ _Ring (Uncommon)_
 **Locations**: The Crimson Monastery  
   
 
-### Sword of Crimson Abbot  
-
----  
+### Sword of Crimson Abbot
 **Monster(s)**: The Crimson Abbot  
 **Source**: The Crooked Moon  
 _Weapon (Very Rare)_  
@@ -2023,9 +1769,7 @@ _Weapon (Very Rare)_
 **Locations**: The Crimson Monastery  
   
 
-### Hound Treat  
-
----  
+### Hound Treat
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2035,9 +1779,7 @@ _Mundane_
 **Locations**: Crimson Monastery  
   
 
-### Jaeger's Workbook  
-
----  
+### Jaeger's Workbook
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2048,9 +1790,7 @@ _Mundane_
 **Locations**: Crimson Monastery  
   
 
-### Ornate Calligrapher's Tools  
-
----  
+### Ornate Calligrapher's Tools
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Ingredient_  
@@ -2063,9 +1803,7 @@ _Ingredient_
 **Locations**: Crimson Monastery  
   
 
-### Blank Book  
-
----  
+### Blank Book
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Ingredient_  
@@ -2076,9 +1814,7 @@ _Ingredient_
 **Locations**: Crimson Monastery  
   
 
-### Paper  
-
----  
+### Paper
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Ingredient_  
@@ -2089,9 +1825,7 @@ _Ingredient_
 **Locations**: Crimson Monastery  
   
 
-### Religion Book  
-
----  
+### Religion Book
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2101,9 +1835,7 @@ _Mundane_
 **Locations**: Crimson Monastery  
   
 
-### The Rosen Testament  
-
----  
+### The Rosen Testament
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2114,9 +1846,7 @@ _Mundane_
 **Locations**: Crimson Monastery  
   
 
-### Liturgical Book of Crimson Prayers  
-
----  
+### Liturgical Book of Crimson Prayers
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2127,9 +1857,7 @@ _Mundane_
 **Locations**: Crimson Monastery  
   
 
-### Jewelry box  
-
----  
+### Jewelry box
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2142,9 +1870,7 @@ _Mundane_
 **Locations**: Crimson Monastery  
   
 
-### Diamonds (300 GP)  
-
----  
+### Diamonds (300 GP)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Ingredient_  
@@ -2157,9 +1883,7 @@ _Ingredient_
 **Locations**: Crimson Monastery  
   
 
-### Rubies (200 GP)  
-
----  
+### Rubies (200 GP)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Ingredient_  
@@ -2172,9 +1896,7 @@ _Ingredient_
 **Locations**: Crimson Monastery  
   
 
-### Lethica Nightborne painting  
-
----  
+### Lethica Nightborne painting
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2185,9 +1907,7 @@ _Mundane_
 **Locations**: Crimson Monastery  
   
 
-### Renathyr's Journal  
-
----  
+### Renathyr's Journal
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2197,9 +1917,7 @@ _Mundane_
 **Locations**: Crimson Monastery  
   
 
-### Stone Giant Nail Dust  
-
----  
+### Stone Giant Nail Dust
 **Monster(s)**: Stone Giant  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -2214,9 +1932,7 @@ _Consumable (Uncommon)_
 **Locations**: Howlers  
   
 
-### Stone Giant Blood  
-
----  
+### Stone Giant Blood
 **Monster(s)**: Stone Giant  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -2232,9 +1948,7 @@ _Ingredient (Uncommon)_
 **Locations**: Howlers  
   
 
-### Ring of Stone Carrying  
-
----  
+### Ring of Stone Carrying
 **Monster(s)**: Stone Giant  
 **Source**: Home-brew  
 _Ring (Rarity Varies)_  
@@ -2244,9 +1958,7 @@ _Ring (Rarity Varies)_
 _Crafted Item_  
   
 
-### Vampire Spawn Fang  
-
----  
+### Vampire Spawn Fang
 **Monster(s)**: Vampire Spawn  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -2261,9 +1973,7 @@ _Consumable (Uncommon)_
 **Locations**: Maidenmist Cementery, Maidenmist Cementery (The Barrow King)  
   
 
-### Proboscus  
-
----  
+### Proboscus
 **Monster(s)**: Stirge, Jinxed Mosquito  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -2279,9 +1989,7 @@ _Consumable (Common)_
 **Locations (Jinxed Mosquito)**: Drowned Crossroads  
   
 
-### Jinxed trinket  
-
----  
+### Jinxed trinket
 **Monster(s)**: Bayou Beast  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -2296,9 +2004,7 @@ _Consumable (Rare)_
 **Locations**: The Drowned Crossroads  
   
 
-### Jinxed Rum Base  
-
----  
+### Jinxed Rum Base
 **Monster(s)**: Bayou Beast  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -2315,9 +2021,7 @@ _Consumable (Uncommon)_
 **Locations**: The Drowned Crossroads  
   
 
-### Giant Crocodile Teeth  
-
----  
+### Giant Crocodile Teeth
 **Monster(s)**: Giant Crocodile  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -2331,9 +2035,7 @@ _Ingredient (Uncommon)_
 **Locations**: The Drowned Crossroads  
   
 
-### Giant Crocodile Skin  
-
----  
+### Giant Crocodile Skin
 **Monster(s)**: Giant Crocodile  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -2347,9 +2049,7 @@ _Ingredient (Uncommon)_
 **Locations**: The Drowned Crossroads  
   
 
-### Crocodile Meat  
-
----  
+### Crocodile Meat
 **Monster(s)**: Giant Crocodile, Crocodile  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -2364,9 +2064,7 @@ _Ingredient (Uncommon)_
 **Locations (Crocodile)**: The Drowned Crossroads  
   
 
-### Crocodile Tooth  
-
----  
+### Crocodile Tooth
 **Monster(s)**: Crocodile  
 **Source**: Home-brew  
 _Ingredient(Common)_  
@@ -2380,9 +2078,7 @@ _Ingredient(Common)_
 **Locations**: The Drowned Crossroads  
   
 
-### Crocodile Skin  
-
----  
+### Crocodile Skin
 **Monster(s)**: Crocodile  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -2396,9 +2092,7 @@ _Ingredient (Common)_
 **Locations**: The Drowned Crossroads  
   
 
-### Paralytic Dust  
-
----  
+### Paralytic Dust
 **Monster(s)**: Ghoul, Ghast  
 **Source**: Home-brew  
 _Ingredient (common)_  
@@ -2418,9 +2112,7 @@ _Ingredient (common)_
 **Locations (Ghast)**: The Drowned Crossroads, Maidenmist Cementery  
   
 
-### Paralytic Ammunition  
-
----  
+### Paralytic Ammunition
 **Monster(s)**: Ghoul, Ghast  
 **Source**: Home-brew  
 _Ammunition (Common)_  
@@ -2429,9 +2121,7 @@ _Ammunition (Common)_
 _Crafted Item_  
   
 
-### Coffin Nails  
-
----  
+### Coffin Nails
 **Monster(s)**: Ferryman, Phantom Hearse  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -2449,9 +2139,7 @@ _Consumable (Rare)_
 **Locations (Phantom Hearse)**: Maidenmist Cementery  
   
 
-### Coffin Water (Elixir of Fog Walking Base)  
-
----  
+### Coffin Water (Elixir of Fog Walking Base)
 **Monster(s)**: Ferryman  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -2466,9 +2154,7 @@ _Consumable (Uncommon)_
 **Locations**: The Drowned Crossroads  
   
 
-### Ghast Blood  
-
----  
+### Ghast Blood
 **Monster(s)**: Ghast  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -2483,9 +2169,7 @@ _Consumable (Common)_
 **Locations**: The Drowned Crossroads, Maidenmist Cementery  
   
 
-### Bonemeal  
-
----  
+### Bonemeal
 **Monster(s)**: Skeleton  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -2500,9 +2184,7 @@ _Consumable (Common)_
 **Locations**: The Drowned Crossroads, Maidenmist Cementery  
   
 
-### Skull  
-
----  
+### Skull
 **Monster(s)**: Skeleton, Ogre Zombie, Ettin  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -2522,9 +2204,7 @@ _Ingredient (Common)_
 **Locations (Ettin)**: Foothill  
   
 
-### Homeward Bone Fragment  
-
----  
+### Homeward Bone Fragment
 **Monster(s)**: Skeleton  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -2541,9 +2221,7 @@ _Consumable (Uncommon)_
 **Locations**: The Drowned Crossroads, Maidenmist Cementery  
   
 
-### Zombie Fluid  
-
----  
+### Zombie Fluid
 **Monster(s)**: Zombie, Ogre Zombie  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -2563,9 +2241,7 @@ _Consumable (Common)_
 **Locations (Ogre Zombie)**: The Drowned Crossroads  
   
 
-### Curse Bottle  
-
----  
+### Curse Bottle
 **Monster(s)**: The Grinning Sinner  
 **Source**: Home-brew  
 _Ingredient (Very Rare) (DM Eyes only: Consumable (Very Rare))_  
@@ -2581,9 +2257,7 @@ _Ingredient (Very Rare) (DM Eyes only: Consumable (Very Rare))_
 **Locations**: The Drowned Crossroads  
   
 
-### Nectar of the Green Man  
-
----  
+### Nectar of the Green Man
 **Monster(s)**: The Grinning Sinner  
 **Source**: Home-brew  
 _Potion (Very Rare)_  
@@ -2595,9 +2269,7 @@ _Potion (Very Rare)_
 **Locations**: The Drowned Crossroads  
   
 
-### Jinxed Rum  
-
----  
+### Jinxed Rum
 **Monster(s)**: The Grinning Sinner  
 **Source**: Home-brew  
 _Potion (Rare)_  
@@ -2609,9 +2281,7 @@ _Potion (Rare)_
 **Locations**: The Drowned Crossroads  
   
 
-### Random Magic Item (DMG p.327) (Very Rare)  
-
----  
+### Random Magic Item (DMG p.327) (Very Rare)
 **Monster(s)**: The Grinning Sinner  
 **Source**: The Crooked Moon  
 _Magic Item (Very Rare)_  
@@ -2620,9 +2290,7 @@ _Magic Item (Very Rare)_
 **Locations**: Ghostlight Crashsite, The Crooked House, The Bag  
   
 
-### Blunderbuss of the Grinning Sinner  
-
----  
+### Blunderbuss of the Grinning Sinner
 **Monster(s)**: The Grinning Sinner  
 **Source**: The Crooked Moon  
 _Weapon (Very Rare)_  
@@ -2634,9 +2302,7 @@ _Weapon (Very Rare)_
 **Locations**: The Drowned Crossroads  
   
 
-### Withered Hand  
-
----  
+### Withered Hand
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Wondrous Item (Rare)(Requires Attunement)_  
@@ -2646,9 +2312,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 **Locations**: The Drowned Crossroads  
   
 
-### Enticing Suspenders  
-
----  
+### Enticing Suspenders
 **Monster(s)**: Ghoul, Ghast, Ferryman, Ogre Zombie, Bandit  
 **Source**:   
 _Wondrous Item (Uncommon)_  
@@ -2672,9 +2336,7 @@ _Wondrous Item (Uncommon)_
 **Locations (Bandit)**: The Drowned Crossroads  
   
 
-### Black Slime  
-
----  
+### Black Slime
 **Monster(s)**: Devil's Glove  
 **Source**: Home-brew  
 _Consumable (common)_  
@@ -2691,9 +2353,7 @@ _Consumable (common)_
 **Locations**: The Drowned Crossroads  
   
 
-### Soul Embers  
-
----  
+### Soul Embers
 **Monster(s)**: Will-o'-Wisp  
 **Source**: Home-brew  
 _Consumable (common)_  
@@ -2708,9 +2368,7 @@ _Consumable (common)_
 **Locations**: The Drowned Crossroads  
   
 
-### Dream Shard  
-
----  
+### Dream Shard
 **Monster(s)**: Dream Eater  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -2725,9 +2383,7 @@ _Consumable (Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Dream Orb  
-
----  
+### Dream Orb
 **Monster(s)**: Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -2740,9 +2396,7 @@ _Consumable (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Dream Eater Blood  
-
----  
+### Dream Eater Blood
 **Monster(s)**: Dream Eater, Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -2761,9 +2415,7 @@ _Ingredient (Very Rare)_
 **Locations (Dream Eater (Side Quest Boss Monster))**: Maidenmist Cementery  
   
 
-### Dream Eater Feather  
-
----  
+### Dream Eater Feather
 **Monster(s)**: Dream Eater, Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -2781,9 +2433,7 @@ _Consumable (Very Rare)_
 **Locations (Dream Eater (Side Quest Boss Monster))**: Maidenmist Cementery  
   
 
-### Dream Eater Ammunition  
-
----  
+### Dream Eater Ammunition
 **Monster(s)**: Dream Eater, Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Ammunition (Very Rare)_  
@@ -2793,9 +2443,7 @@ _Ammunition (Very Rare)_
 _Crafted Item_  
   
 
-### Cloak of the Dream Eater  
-
----  
+### Cloak of the Dream Eater
 **Monster(s)**: Dream Eater, Dream Eater (Side Quest Boss Monster)  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
@@ -2804,9 +2452,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Bug Parts  
-
----  
+### Bug Parts
 **Monster(s)**: Skitterswarm, Giant Centipede  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -2825,9 +2471,7 @@ _Ingredient (Common)_
 **Locations (Giant Centipede)**: Moors, Wickermoor Village, Skitterdeep Mine  
   
 
-### Giant Carapace  
-
----  
+### Giant Carapace
 **Monster(s)**: Giant Centipede  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -2844,9 +2488,7 @@ _Consumable (Uncommon)_
 **Locations**: Moors, Skitterdeep Mine, Vermintoll Abomination Lair  
   
 
-### Random Armament (DMG p.328) (Rare or Uncommon)  
-
----  
+### Random Armament (DMG p.328) (Rare or Uncommon)
 **Monster(s)**: Fleshdobbin, Undead Centaur  
 **Source (Fleshdobbin)**: The Crooked Moon  
 **Source (Undead Centaur)**: Monster Manua  
@@ -2859,9 +2501,7 @@ _Armament (Rare)_
 **Locations (Undead Centaur)**: Skitterdeep Mine, Moors, Foxwillow (Galloping Headsman riled), Maidenmist Cementery  
   
 
-### Memento  
-
----  
+### Memento
 **Monster(s)**: Fleshdobbin, Deepdrek  
 **Source**: Home-brew  
 _Mundane_  
@@ -2876,9 +2516,7 @@ _Mundane_
 **Locations (Deepdrek)**: Skitterdeep Mines  
   
 
-### Random Implement (DMG p.329)(Uncommon)  
-
----  
+### Random Implement (DMG p.329)(Uncommon)
 **Monster(s)**: Deepdrek  
 **Source**: The Crooked Moon  
 _Implement (Uncommon)_  
@@ -2887,9 +2525,7 @@ _Implement (Uncommon)_
 **Locations**: Skitterdeep Mines  
   
 
-### Gunpowder  
-
----  
+### Gunpowder
 **Monster(s)**: Deepdrek  
 **Source**: Home-brew  
 _Ingredient(uncommon)_  
@@ -2905,9 +2541,7 @@ _Ingredient(uncommon)_
 **Locations**: Skitterdeep Mines  
   
 
-### Crooked Moon Seance Ring  
-
----  
+### Crooked Moon Seance Ring
 **Monster(s)**: Centipede Hag  
 **Source**: Home-brew  
 _Ring (Very Rare)_  
@@ -2919,9 +2553,7 @@ _Ring (Very Rare)_
 **Locations**: Skitterdeep Mines  
   
 
-### Contagious Ooze  
-
----  
+### Contagious Ooze
 **Monster(s)**: Centipede Hag  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -2938,9 +2570,7 @@ _Consumable (Very Rare)_
 **Locations**: Skitterdeep Mines  
   
 
-### Bag of Vile Filth  
-
----  
+### Bag of Vile Filth
 **Monster(s)**: Centipede Hag  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -2953,9 +2583,7 @@ _Consumable (Very Rare)_
 **Locations**: Skitterdeep Mines  
   
 
-### Rusty Lockbox  
-
----  
+### Rusty Lockbox
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -2966,9 +2594,7 @@ _Mundane_
 **Locations**: Skitterdeep Mine  
   
 
-### Citrine (50 GP)  
-
----  
+### Citrine (50 GP)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Ingredient_  
@@ -2981,9 +2607,7 @@ _Ingredient_
 **Locations**: Skitterdeep Mine  
   
 
-### Potion of Healing (Greater)  
-
----  
+### Potion of Healing (Greater)
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Potion (Uncommon)_  
@@ -2996,9 +2620,7 @@ _Potion (Uncommon)_
 **Locations**: Skitterdeep Mine  
   
 
-### Maul  
-
----  
+### Maul
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Mundane_  
@@ -3009,9 +2631,7 @@ _Mundane_
 **Locations**: Skitterdeep Mine  
   
 
-### Dungeoneer's Pack  
-
----  
+### Dungeoneer's Pack
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Mundane_  
@@ -3022,9 +2642,7 @@ _Mundane_
 **Locations**: Skitterdeep Mine  
   
 
-### Alchemist's Fire  
-
----  
+### Alchemist's Fire
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Consumable (Common)_  
@@ -3035,9 +2653,7 @@ _Consumable (Common)_
 **Locations**: Skitterdeep Mine  
   
 
-### Oil  
-
----  
+### Oil
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Mundane_  
@@ -3046,9 +2662,7 @@ _Mundane_
 **Locations**: Skitterdeep Mine  
   
 
-### Ring of Evasion  
-
----  
+### Ring of Evasion
 **Monster(s)**: Giant Centipede  
 **Source**: Dungeon Master's Guide  
 _Ring (Rare)(Requires Attunement)_  
@@ -3058,9 +2672,7 @@ _Ring (Rare)(Requires Attunement)_
 **Locations**: Skitterdeep Mine  
   
 
-### Centipede Necklace of Adaptation  
-
----  
+### Centipede Necklace of Adaptation
 **Monster(s)**: Centipede Hag  
 **Source**: Dungeon Master's Guide  
 _Wondrous Item (Uncommon)(Requires Attunement)_  
@@ -3071,9 +2683,7 @@ _Wondrous Item (Uncommon)(Requires Attunement)_
 **Locations**: Skitterdeep Mine  
   
 
-### Alarm (Spell Scroll)  
-
----  
+### Alarm (Spell Scroll)
 **Monster(s)**: Centipede Hag  
 **Source**: Player's Handbook  
 _Scroll (Common)_  
@@ -3084,9 +2694,7 @@ _Scroll (Common)_
 **Locations**: Skitterdeep Mine  
   
 
-### Inflict Wounds (Spell Scroll)  
-
----  
+### Inflict Wounds (Spell Scroll)
 **Monster(s)**: Centipede Hag  
 **Source**: Player's Handbook  
 _Scroll (Common)_  
@@ -3097,9 +2705,7 @@ _Scroll (Common)_
 **Locations**: Skitterdeep Mine  
   
 
-### Sleep (Spell Scroll)  
-
----  
+### Sleep (Spell Scroll)
 **Monster(s)**: Centipede Hag  
 **Source**: Player's Handbook  
 _Scroll (Common)_  
@@ -3110,9 +2716,7 @@ _Scroll (Common)_
 **Locations**: Skitterdeep Mine  
   
 
-### Invisibility (Spell Scroll)  
-
----  
+### Invisibility (Spell Scroll)
 **Monster(s)**: Centipede Hag  
 **Source**: Player's Handbook  
 _Scroll (Uncommon)_  
@@ -3123,9 +2727,7 @@ _Scroll (Uncommon)_
 **Locations**: Skitterdeep Mine  
   
 
-### Memory Fragment  
-
----  
+### Memory Fragment
 **Monster(s)**: Lake Dredger  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -3140,9 +2742,7 @@ _Consumable (Very Rare)_
 **Locations**: Moonsong Lake  
   
 
-### Random Arcana (DMG p.327) (Common)  
-
----  
+### Random Arcana (DMG p.327) (Common)
 **Monster(s)**: Mutant Nurse  
 **Source**: The Crooked Moon  
 **Find Checks**: Survival, Perception, Investigation, Arcana  
@@ -3150,9 +2750,7 @@ _Consumable (Very Rare)_
 **Locations**: Memory's Rest  
   
 
-### Mutant Catalyst  
-
----  
+### Mutant Catalyst
 **Monster(s)**: Mutant Nurse, Serum Brute  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -3170,9 +2768,7 @@ _Consumable (Common)_
 **Locations (Serum Brute)**: Memory's Rest  
   
 
-### Tranquilizer  
-
----  
+### Tranquilizer
 **Monster(s)**: Mutant Nurse, Wormhost Surgeon  
 **Source**: The Crooked Moon  
 _Consumable (Common)_  
@@ -3190,9 +2786,7 @@ _Consumable (Common)_
 **Locations (Wormhost Surgeon)**: Memory's Rest  
   
 
-### Tincture Base  
-
----  
+### Tincture Base
 **Monster(s)**: Mutant Nurse, Wormhost Surgeon, The Weeping Widow  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -3215,9 +2809,7 @@ _Consumable (Common)_
 **Locations (The Weeping Widow)**: Memory's Rest  
   
 
-### Infested Bottle  
-
----  
+### Infested Bottle
 **Monster(s)**: Wormhost Surgeon  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -3232,9 +2824,7 @@ _Consumable (Uncommon)_
 **Locations**: Memory's Rest  
   
 
-### Rage Serum  
-
----  
+### Rage Serum
 **Monster(s)**: Hospital Horror  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -3249,9 +2839,7 @@ _Consumable (Common)_
 **Locations**: Memory's Rest  
   
 
-### Mutant Blood  
-
----  
+### Mutant Blood
 **Monster(s)**: Worm Mutant Patient (Flesh Golem)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -3268,9 +2856,7 @@ _Consumable (Uncommon)_
 **Locations**: Memory's Rest  
   
 
-### Cursed Eye  
-
----  
+### Cursed Eye
 **Monster(s)**: Serum Brute  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -3285,9 +2871,7 @@ _Consumable (Rare)_
 **Locations**: Memory's Rest  
   
 
-### Cursed Eye Prosthetic  
-
----  
+### Cursed Eye Prosthetic
 **Monster(s)**: Serum Brute  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -3296,9 +2880,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Mutant Fire Gland  
-
----  
+### Mutant Fire Gland
 **Monster(s)**: The Creation (Chimera)  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -3313,9 +2895,7 @@ _Consumable (Rare)_
 **Locations**: Memory's Rest  
   
 
-### Random Relic or Arcana (DMG p.331) (Rare)  
-
----  
+### Random Relic or Arcana (DMG p.331) (Rare)
 **Monster(s)**: The Weeping Widow  
 **Source**: The Crooked Moon  
 **Find Checks**: Survival, Perception, Investigation, Religion, Arcana  
@@ -3323,9 +2903,7 @@ _Consumable (Rare)_
 **Locations**: Memory's Rest  
   
 
-### Soporific Concoction  
-
----  
+### Soporific Concoction
 **Monster(s)**: The Weeping Widow  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -3342,9 +2920,7 @@ _Consumable (Rare)_
 **Locations**: Memory's Rest  
   
 
-### Veil of the Weeping Widow  
-
----  
+### Veil of the Weeping Widow
 **Monster(s)**: The Weeping Widow  
 **Source**: The Crooked Moon  
 _Wondrous Item (Very Rare)_  
@@ -3355,9 +2931,7 @@ _Wondrous Item (Very Rare)_
 **Locations**: Memory's Rest  
   
 
-### Potion of Healing  
-
----  
+### Potion of Healing
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Potion (Common)_  
@@ -3368,9 +2942,7 @@ _Potion (Common)_
 **Locations**: Left Nurse Station at Memory's Rest  
   
 
-### Nurse Uniform with mask (Costume)  
-
----  
+### Nurse Uniform with mask (Costume)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -3381,9 +2953,7 @@ _Mundane_
 **Locations**: Left Nurse Station at Memory's Rest  
   
 
-### Healer's Kit  
-
----  
+### Healer's Kit
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Consumable (Common)_  
@@ -3394,9 +2964,7 @@ _Consumable (Common)_
 **Locations**: Left Nurse Station at Memory's Rest  
   
 
-### Note: 1756  
-
----  
+### Note: 1756
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _1756_  
@@ -3407,9 +2975,7 @@ _1756_
 **Locations**: Left Nurse Station at Memory's Rest  
   
 
-### Potion of Healing  
-
----  
+### Potion of Healing
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Potion (Common)_  
@@ -3420,9 +2986,7 @@ _Potion (Common)_
 **Locations**: Right Nurse Station at Memory's Rest  
   
 
-### Nurse Uniform with mask (Costume)  
-
----  
+### Nurse Uniform with mask (Costume)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -3433,9 +2997,7 @@ _Mundane_
 **Locations**: Right Nurse Station at Memory's Rest  
   
 
-### Healer's Kit  
-
----  
+### Healer's Kit
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 _Consumable (Common)_  
@@ -3446,9 +3008,7 @@ _Consumable (Common)_
 **Locations**: Right Nurse Station at Memory's Rest  
   
 
-### Note: 1756  
-
----  
+### Note: 1756
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _1756_  
@@ -3459,9 +3019,7 @@ _1756_
 **Locations**: Right Nurse Station at Memory's Rest  
   
 
-### Potion of Healing (Greater)  
-
----  
+### Potion of Healing (Greater)
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Potion (Uncommon)_  
@@ -3473,9 +3031,7 @@ _Potion (Uncommon)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Alchemist's Supplies  
-
----  
+### Alchemist's Supplies
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 **Description**: Utilize: Identify a substance (DC 15), or start a fire (DC 15). Craft: Acid, Alchemist’s Fire, Component Pouch, Oil, Paper, Perfume  
@@ -3484,9 +3040,7 @@ _Potion (Uncommon)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Tranquilizer  
-
----  
+### Tranquilizer
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Consumable (Common)_  
@@ -3500,9 +3054,7 @@ _Consumable (Common)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Unlabled Medicine  
-
----  
+### Unlabled Medicine
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3515,9 +3067,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Tonic  
-
----  
+### Tonic
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3530,9 +3080,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Energy Drink  
-
----  
+### Energy Drink
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3545,9 +3093,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Hypnotic  
-
----  
+### Hypnotic
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3560,9 +3106,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Relaxant  
-
----  
+### Relaxant
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3575,9 +3119,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Suppressant  
-
----  
+### Suppressant
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3590,9 +3132,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Euphoriant  
-
----  
+### Euphoriant
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3605,9 +3145,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### True Tonic  
-
----  
+### True Tonic
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3620,9 +3158,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### True Energy Drink (Sedative)  
-
----  
+### True Energy Drink (Sedative)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3635,9 +3171,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### True Hypnotic  
-
----  
+### True Hypnotic
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3650,9 +3184,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### True Relaxant  
-
----  
+### True Relaxant
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3665,9 +3197,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### True Suppressant  
-
----  
+### True Suppressant
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3680,9 +3210,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### True Euphoriant  
-
----  
+### True Euphoriant
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion (?)_  
@@ -3695,9 +3223,7 @@ _Potion (?)_
 **Locations**: Pharmacy at Memory's Rest  
   
 
-### Bead of Force  
-
----  
+### Bead of Force
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Consumable (Rare)_  
@@ -3709,9 +3235,7 @@ _Consumable (Rare)_
 **Locations**: Godlee's Quarters at Memory's Rest  
   
 
-### Wand of Magic Missiles  
-
----  
+### Wand of Magic Missiles
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Wand (Uncommon)_  
@@ -3722,9 +3246,7 @@ _Wand (Uncommon)_
 **Locations**: Godlee's Quarters at Memory's Rest  
   
 
-### Ring of Water Walking  
-
----  
+### Ring of Water Walking
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Ring (Uncommon)_  
@@ -3735,9 +3257,7 @@ _Ring (Uncommon)_
 **Locations**: Godlee's Quarters at Memory's Rest  
   
 
-### Diplomat’s Pack  
-
----  
+### Diplomat’s Pack
 **Monster(s)**: -  
 **Source**: Player's Handbook  
 **Description**: A Diplomat’s Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.  
@@ -3747,9 +3267,7 @@ _Ring (Uncommon)_
 **Locations**: Godlee's Quarters at Memory's Rest  
   
 
-### Elegant Jewelry (250 GP)  
-
----  
+### Elegant Jewelry (250 GP)
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 **Use as ingredient for**: _Rings, Wondrous Items (Accessories)_  
@@ -3761,9 +3279,7 @@ _Ring (Uncommon)_
 **Locations**: Godlee's Quarters at Memory's Rest  
   
 
-### Godlee's Diary  
-
----  
+### Godlee's Diary
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -3774,9 +3290,7 @@ _Mundane_
 **Locations**: Godlee's Quarters at Memory's Rest  
   
 
-### Wedding Portrait  
-
----  
+### Wedding Portrait
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -3786,9 +3300,7 @@ _Mundane_
 **Locations**: Lethica's Quarters at Memory's Rest  
   
 
-### Lethica's Betrothal Ring  
-
----  
+### Lethica's Betrothal Ring
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Ring (Rare) (Requires Attunement)_  
@@ -3798,9 +3310,7 @@ _Ring (Rare) (Requires Attunement)_
 **Locations**: Lethica's Quarters at Memory's Rest  
   
 
-### Fallen Knight's Tabard  
-
----  
+### Fallen Knight's Tabard
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -3810,9 +3320,7 @@ _Mundane_
 **Locations**: Lethica's Quarters at Memory's Rest  
   
 
-### Weathered Sonnet  
-
----  
+### Weathered Sonnet
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -3822,9 +3330,7 @@ _Mundane_
 **Locations**: Lethica's Quarters at Memory's Rest  
   
 
-### Mnemonic Residue  
-
----  
+### Mnemonic Residue
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -3833,9 +3339,7 @@ _?_
 **Locations**: Memory's Rest  
   
 
-### Noetic Extract  
-
----  
+### Noetic Extract
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -3844,9 +3348,7 @@ _?_
 **Locations**: Memory's Rest  
   
 
-### Unrefined Ichor  
-
----  
+### Unrefined Ichor
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _?_  
@@ -3855,9 +3357,7 @@ _?_
 **Locations**: Memory's Rest  
   
 
-### Numbing Agent  
-
----  
+### Numbing Agent
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Consumable_  
@@ -3868,9 +3368,7 @@ _Consumable_
 **Locations**: Hugo's Quarters at Memory's Rest  
   
 
-### Alkaline Stabilizer  
-
----  
+### Alkaline Stabilizer
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Consumable_  
@@ -3881,9 +3379,7 @@ _Consumable_
 **Locations**: Hugo's Quarters at Memory's Rest  
   
 
-### Adrenal Stimulant  
-
----  
+### Adrenal Stimulant
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Consumable_  
@@ -3894,9 +3390,7 @@ _Consumable_
 **Locations**: Hugo's Quarters at Memory's Rest  
   
 
-### Experimental Procedure File  
-
----  
+### Experimental Procedure File
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -3907,9 +3401,7 @@ _Mundane_
 **Locations**: Hugo's Quarters at Memory's Rest  
   
 
-### Belkin's Journal  
-
----  
+### Belkin's Journal
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Mundane_  
@@ -3919,9 +3411,7 @@ _Mundane_
 **Locations**: Belkin's Office at Memory's Rest  
   
 
-### Pheromones (Philter of Love)  
-
----  
+### Pheromones (Philter of Love)
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Potion (Uncommon)_  
@@ -3933,9 +3423,7 @@ _Potion (Uncommon)_
 **Locations**: Experiment Lab at Memory's Rest  
   
 
-### Potion of Healing (Greater)  
-
----  
+### Potion of Healing (Greater)
 **Monster(s)**: -  
 **Source**: Dungeon Master's Guide  
 _Potion (Uncommon)_  
@@ -3948,9 +3436,7 @@ _Potion (Uncommon)_
 **Locations**: Experiment Lab at Memory's Rest  
   
 
-### Lethic Serum  
-
----  
+### Lethic Serum
 **Monster(s)**: -  
 **Source**: The Crooked Moon  
 _Potion_  
@@ -3961,9 +3447,7 @@ _Potion_
 **Locations**: Experiment Lab at Memory's Rest  
   
 
-### Poison vial? (found in owlbear nest)(DM Eyes only: Owlbear Extract)  
-
----  
+### Poison vial? (found in owlbear nest)(DM Eyes only: Owlbear Extract)
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -3980,9 +3464,7 @@ _Consumable (Rare)_
 **Locations**: Moonsong Lake  
   
 
-### Owlbear Pellet  
-
----  
+### Owlbear Pellet
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -3997,9 +3479,7 @@ _Consumable (Common)_
 **Locations**: Moonsong Lake  
   
 
-### Bottled Soul  
-
----  
+### Bottled Soul
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4013,9 +3493,7 @@ _Consumable (Common)_
 **Find DCs**: 17(x1)  
   
 
-### Owlbear Pelt  
-
----  
+### Owlbear Pelt
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4029,9 +3507,7 @@ _Consumable (Common)_
 **Locations**: Moonsong Lake  
   
 
-### Owlbear Meat  
-
----  
+### Owlbear Meat
 **Monster(s)**: Owlbear  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4043,9 +3519,7 @@ _Consumable (Common)_
 **Locations**: Moonsong Lake  
   
 
-### Bulette Scale  
-
----  
+### Bulette Scale
 **Monster(s)**: Bulette (Land Shark)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4060,9 +3534,7 @@ _Consumable (Uncommon)_
 **Locations**: Moonsong Lake  
   
 
-### Bulette Claw  
-
----  
+### Bulette Claw
 **Monster(s)**: Bulette (Land Shark)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4077,9 +3549,7 @@ _Consumable (Uncommon)_
 **Locations**: Moonsong Lake  
   
 
-### Bulette Pick (Uncommon)  
-
----  
+### Bulette Pick (Uncommon)
 **Monster(s)**: Bulette (Land Shark)  
 **Source**: Home-brew  
 _Weapon (Uncommon)_  
@@ -4088,9 +3558,7 @@ _Weapon (Uncommon)_
 _Crafted Item_  
   
 
-### Snake Skin  
-
----  
+### Snake Skin
 **Monster(s)**: Flying Snake  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -4104,9 +3572,7 @@ _Ingredient (Common)_
 **Locations**: Moonsong Lake  
   
 
-### Snake Meat  
-
----  
+### Snake Meat
 **Monster(s)**: Flying Snake  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -4118,9 +3584,7 @@ _Ingredient (Common)_
 **Locations**: Moonsong Lake  
   
 
-### Snake Venom  
-
----  
+### Snake Venom
 **Monster(s)**: Flying Snake  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4135,9 +3599,7 @@ _Consumable (Common)_
 **Locations**: Moonsong Lake  
   
 
-### Antitoxin  
-
----  
+### Antitoxin
 **Monster(s)**: -  
 **Source**: Player's Handbook, Home-brew  
 _Consumable (Common)_  
@@ -4147,9 +3609,7 @@ _Consumable (Common)_
 
   
 
-### Troll Skin Patch  
-
----  
+### Troll Skin Patch
 **Monster(s)**: Troll  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4164,9 +3624,7 @@ _Consumable (Uncommon)_
 **Locations**: Moonsong Lake  
   
 
-### Troll Blood  
-
----  
+### Troll Blood
 **Monster(s)**: Troll  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4183,9 +3641,7 @@ _Consumable (Uncommon)_
 **Locations**: Moonsong Lake  
   
 
-### Troll Heart  
-
----  
+### Troll Heart
 **Monster(s)**: Troll  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -4202,9 +3658,7 @@ _Consumable (Rare)_
 **Locations**: Moonsong Lake  
   
 
-### Troll Amulet  
-
----  
+### Troll Amulet
 **Monster(s)**: Troll  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -4214,9 +3668,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Purple Worm Blood  
-
----  
+### Purple Worm Blood
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -4233,9 +3685,7 @@ _Consumable (Rare)_
 **Locations**: Moonsong Lake  
   
 
-### Purple Worm Tooth  
-
----  
+### Purple Worm Tooth
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -4250,9 +3700,7 @@ _Consumable (Very Rare)_
 **Locations**: Moonsong Lake  
   
 
-### Purple Worm Excavator Pick (Very Rare)  
-
----  
+### Purple Worm Excavator Pick (Very Rare)
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -4261,9 +3709,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Purple Worm Stomach Acid  
-
----  
+### Purple Worm Stomach Acid
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -4278,9 +3724,7 @@ _Consumable (Very Rare)_
 **Locations**: Moonsong Lake  
   
 
-### Purple Worm Stinger  
-
----  
+### Purple Worm Stinger
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -4297,9 +3741,7 @@ _Consumable (Very Rare)_
 **Locations**: Moonsong Lake  
   
 
-### Purple Worm Antitoxin  
-
----  
+### Purple Worm Antitoxin
 **Monster(s)**: Purple Worm  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -4310,9 +3752,7 @@ _Consumable (Very Rare)_
 _Crafted Item_  
   
 
-### Decaying Staff  
-
----  
+### Decaying Staff
 **Monster(s)**: Keeper of the Blight  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -4326,9 +3766,7 @@ _Consumable (Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### Staff of Decay  
-
----  
+### Staff of Decay
 **Monster(s)**: Keeper of the Blight  
 **Source**: Home-brew  
 _Staff (Rare)_  
@@ -4337,9 +3775,7 @@ _Staff (Rare)_
 _Crafted Item_  
   
 
-### Spongy Fungus Ball  
-
----  
+### Spongy Fungus Ball
 **Monster(s)**: Keeper of the Blight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4354,9 +3790,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Luminous Mushroom  
-
----  
+### Luminous Mushroom
 **Monster(s)**: Keeper of the Blight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4373,9 +3807,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Soporiphic Mushroom  
-
----  
+### Soporiphic Mushroom
 **Monster(s)**: Keeper of the Blight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4392,9 +3824,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Rotting Spores  
-
----  
+### Rotting Spores
 **Monster(s)**: Rotweaver, Violet Fungus  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4412,9 +3842,7 @@ _Consumable (Common)_
 **Locations (Violet Fungus)**: The Hartsblight Forest, Maidenmist Cementery  
   
 
-### Vine-wrapped Rib  
-
----  
+### Vine-wrapped Rib
 **Monster(s)**: Rotting Amalgamation (Mammoth), The Beast of Blight  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -4431,9 +3859,7 @@ _Consumable (Rare)_
 **Locations (The Beast of Blight)**: The Hartsblight Forest  
   
 
-### Halden Wreath's Memory Shard  
-
----  
+### Halden Wreath's Memory Shard
 **Monster(s)**: Hartsblighted Owlbear  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -4448,9 +3874,7 @@ _Consumable (Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### (Tainted) Strange fruit  
-
----  
+### (Tainted) Strange fruit
 **Monster(s)**: Hartsblighted Dryad  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4467,9 +3891,7 @@ _Consumable (Common)_
 **Locations**: The Hartsblight Forest  
   
 
-### Hartsblighted Dog's Saliva  
-
----  
+### Hartsblighted Dog's Saliva
 **Monster(s)**: Hartsblighted Dog (Death Dog)  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4486,9 +3908,7 @@ _Consumable (Common)_
 **Locations**: The Hartsblight Forest  
   
 
-### Necrotic Salve  
-
----  
+### Necrotic Salve
 **Monster(s)**: Rotting Shambling Mound  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4503,9 +3923,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Gloomwood Lichen Clump  
-
----  
+### Gloomwood Lichen Clump
 **Monster(s)**: Gloomwood  
 **Source**: Home-brew  
 _Comsumable (Rare)_  
@@ -4522,9 +3940,7 @@ _Comsumable (Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### Gloomwood Stump  
-
----  
+### Gloomwood Stump
 **Monster(s)**: Gloomwood  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -4539,9 +3955,7 @@ _Consumable (Very Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### Gloomwood Maul  
-
----  
+### Gloomwood Maul
 **Monster(s)**: Gloomwood  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -4550,9 +3964,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Poison Mushroom  
-
----  
+### Poison Mushroom
 **Monster(s)**: Gloomwood  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4569,9 +3981,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Green Man Sap (Nectar of the Green Man base)  
-
----  
+### Green Man Sap (Nectar of the Green Man base)
 **Monster(s)**: Glomwood  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -4585,9 +3995,7 @@ _Ingredient (Very Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### Gold Pine Resin  
-
----  
+### Gold Pine Resin
 **Monster(s)**: Gloomwood, Awakened Tree  
 **Source**: Home-brew  
 _ Consumable (Common)_  
@@ -4607,9 +4015,7 @@ _ Consumable (Common)_
 **Locations (Awakened Tree)**: The Hartsblight Forest  
   
 
-### Bouncing Mushroom  
-
----  
+### Bouncing Mushroom
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4626,9 +4032,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Bounceback Ring  
-
----  
+### Bounceback Ring
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Ring (Rare)_  
@@ -4638,9 +4042,7 @@ _Ring (Rare)_
 _Crafted Item_  
   
 
-### Poison Mushroom  
-
----  
+### Poison Mushroom
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4657,9 +4059,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Luminous Mushroom  
-
----  
+### Luminous Mushroom
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4676,9 +4076,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Soporiphic Mushroom  
-
----  
+### Soporiphic Mushroom
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4695,9 +4093,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Energetic Mushroom  
-
----  
+### Energetic Mushroom
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4714,9 +4110,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Cloranthy Ring  
-
----  
+### Cloranthy Ring
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Ring (Rare, Very Rare)_  
@@ -4726,9 +4120,7 @@ _Ring (Rare, Very Rare)_
 _Crafted Item_  
   
 
-### Steelcap Mushroom  
-
----  
+### Steelcap Mushroom
 **Monster(s)**: Festerhulk, The Beast of Blight  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4748,9 +4140,7 @@ _Consumable (Uncommon)_
 **Locations (The Beast of Blight)**: The Hartsblight Forest  
   
 
-### Ring of Fortitude  
-
----  
+### Ring of Fortitude
 **Monster(s)**: Festerhulk, The Beast of Blight  
 **Source**: Home-brew  
 _Ring (Rare, Very Rare)_  
@@ -4760,9 +4150,7 @@ _Ring (Rare, Very Rare)_
 _Crafted Item_  
   
 
-### Sharpcap Mushroom  
-
----  
+### Sharpcap Mushroom
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4779,9 +4167,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Paralytic Mushroom  
-
----  
+### Paralytic Mushroom
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4798,9 +4184,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Elizabeth's Mushroom  
-
----  
+### Elizabeth's Mushroom
 **Monster(s)**: Festerhulk  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -4817,9 +4201,7 @@ _Consumable (Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### Festering Skull Mushroom  
-
----  
+### Festering Skull Mushroom
 **Monster(s)**: Festerhulk, The Beast of Blight  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -4839,9 +4221,7 @@ _Consumable (Very Rare)_
 **Locations (The Beast of Blight)**: The Hartsblight Forest  
   
 
-### Black Ooze  
-
----  
+### Black Ooze
 **Monster(s)**: Slime Mold (Black Pudding)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4856,9 +4236,7 @@ _Consumable (Uncommon)_
 **Locations**: The Hartsblight Forest  
   
 
-### Hallucinatory Mushroom  
-
----  
+### Hallucinatory Mushroom
 **Monster(s)**: The Beast of Blight  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -4875,9 +4253,7 @@ _Consumable (Very Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### Random Relic (DMG p.331) (Very Rare)  
-
----  
+### Random Relic (DMG p.331) (Very Rare)
 **Monster(s)**: The Beast of Blight  
 **Source**: The Crooked Moon  
 _Relic (Very Rare)_  
@@ -4886,9 +4262,7 @@ _Relic (Very Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### Idol of the Beast of Blight  
-
----  
+### Idol of the Beast of Blight
 **Monster(s)**: The Beast of Blight  
 **Source**: The Crooked Moon  
 _Wondrous Item (Very Rare)_  
@@ -4899,9 +4273,7 @@ _Wondrous Item (Very Rare)_
 **Locations**: The Hartsblight Forest  
   
 
-### Strange Fruit  
-
----  
+### Strange Fruit
 **Monster(s)**: Awakened Tree  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4918,9 +4290,7 @@ _Consumable (Common)_
 **Locations**: The Hartsblight Forest  
   
 
-### Vengeful Essence (Reaper's Revenge base)  
-
----  
+### Vengeful Essence (Reaper's Revenge base)
 **Monster(s)**: Shrouded  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -4935,9 +4305,7 @@ _Consumable (Uncommon)_
 **Locations**: Maidenmist Cementery  
   
 
-### Mummified Finger  
-
----  
+### Mummified Finger
 **Monster(s)**: Mummy  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4954,9 +4322,7 @@ _Consumable (Common)_
 **Locations**: Maidenmist Cementery  
   
 
-### Mummy's Wraps  
-
----  
+### Mummy's Wraps
 **Monster(s)**: Mummy  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -4971,9 +4337,7 @@ _Consumable (Common)_
 **Locations**: Maidenmist Cementery  
   
 
-### Wraps of the Lotus  
-
----  
+### Wraps of the Lotus
 **Monster(s)**: Mummy  
 **Source**: Home-brew  
 _Wondrous Item (Varies)(Requires Attunement)_  
@@ -4982,9 +4346,7 @@ _Wondrous Item (Varies)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Vengeful Wrath  
-
----  
+### Vengeful Wrath
 **Monster(s)**: Wraith  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -4999,9 +4361,7 @@ _Consumable (Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Ghastly Horseshoe  
-
----  
+### Ghastly Horseshoe
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -5016,9 +4376,7 @@ _Consumable (Uncommon)_
 **Locations**: Maidenmist Cementery  
   
 
-### Tolling Bell  
-
----  
+### Tolling Bell
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5033,9 +4391,7 @@ _Consumable (Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Hearse's Toll  
-
----  
+### Hearse's Toll
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -5046,9 +4402,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Coachman's Whip  
-
----  
+### Coachman's Whip
 **Monster(s)**: Phantom Hearse  
 **Source**: Home-brew  
 _Weapon (Rare)_  
@@ -5061,9 +4415,7 @@ _Weapon (Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Mephit Muck ball  
-
----  
+### Mephit Muck ball
 **Monster(s)**: Mud Mephit  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -5080,9 +4432,7 @@ _Consumable (Common)_
 **Locations**: Maidenmist Cementery  
   
 
-### Necrolisk Slime  
-
----  
+### Necrolisk Slime
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5099,9 +4449,7 @@ _Consumable (Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Necrolisk Claw  
-
----  
+### Necrolisk Claw
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5116,9 +4464,7 @@ _Consumable (Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Spirit Hunting Knife  
-
----  
+### Spirit Hunting Knife
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Weapon (Rare)_  
@@ -5127,9 +4473,7 @@ _Weapon (Rare)_
 _Crafted Item_  
   
 
-### Necrolisk Blood  
-
----  
+### Necrolisk Blood
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -5146,9 +4490,7 @@ _Consumable (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Shroudbane Weapon  
-
----  
+### Shroudbane Weapon
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -5157,9 +4499,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Shroud Repellent Armor (Shield or Clothing)  
-
----  
+### Shroud Repellent Armor (Shield or Clothing)
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Equipment (Very Rare)(Requires Attunement)_  
@@ -5168,9 +4508,7 @@ _Equipment (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Silver Accessory of Coveting  
-
----  
+### Silver Accessory of Coveting
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -5179,9 +4517,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Necrolisk Extract  
-
----  
+### Necrolisk Extract
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 **Store in**: _vial_  
@@ -5191,9 +4527,7 @@ _Crafted Item_
 _Crafted Item_  
   
 
-### Necrolisk Tooth  
-
----  
+### Necrolisk Tooth
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -5208,9 +4542,7 @@ _Consumable (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Necrolisk Spiritbane  
-
----  
+### Necrolisk Spiritbane
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -5219,9 +4551,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Necrolisk Skin  
-
----  
+### Necrolisk Skin
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -5235,9 +4565,7 @@ _Ingredient (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Necrolisk Scale Armor  
-
----  
+### Necrolisk Scale Armor
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Armor (Very Rare)(Requires Attunement)_  
@@ -5246,9 +4574,7 @@ _Armor (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Necrolisk Vestigial Wings  
-
----  
+### Necrolisk Vestigial Wings
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -5262,9 +4588,7 @@ _Ingredient (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Cloak of the Necrolisk  
-
----  
+### Cloak of the Necrolisk
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
@@ -5273,9 +4597,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Necrolisk Bone  
-
----  
+### Necrolisk Bone
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -5291,9 +4613,7 @@ _Ingredient (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Soul Eater  
-
----  
+### Soul Eater
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -5302,9 +4622,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Necrolisk Heart  
-
----  
+### Necrolisk Heart
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -5321,9 +4639,7 @@ _Consumable (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Necrolisk Amulet  
-
----  
+### Necrolisk Amulet
 **Monster(s)**: Necrolisk  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
@@ -5332,9 +4648,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Bellowing Dragoncrest Ring  
-
----  
+### Bellowing Dragoncrest Ring
 **Monster(s)**: Dragon(any), Necrolisk, Wyvern, Hydra, Drakkenhob  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
@@ -5344,9 +4658,7 @@ _Ring (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Lingering Dragoncrest Ring  
-
----  
+### Lingering Dragoncrest Ring
 **Monster(s)**: Dragon(any), Necrolisk, Wyvern, Hydra, Drakkenhob  
 **Source**: Home-brew  
 _Ring (Very Rare)(Requires Attunement)_  
@@ -5356,9 +4668,7 @@ _Ring (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Memorial Slab Fragment  
-
----  
+### Memorial Slab Fragment
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -5373,9 +4683,7 @@ _Consumable (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Shred of Reaper Cloak  
-
----  
+### Shred of Reaper Cloak
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -5390,9 +4698,7 @@ _Consumable (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Balefire Oil  
-
----  
+### Balefire Oil
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -5409,9 +4715,7 @@ _Consumable (Very Rare)_
 **Locations**: Maidenmist Cementery  
   
 
-### Balefire Weapon  
-
----  
+### Balefire Weapon
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -5420,9 +4724,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Baleflame Annealed Shield or Armor  
-
----  
+### Baleflame Annealed Shield or Armor
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Armor (Very Rare)(Requires Attunement)_  
@@ -5431,9 +4733,7 @@ _Armor (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Balefire Accessory  
-
----  
+### Balefire Accessory
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)-_  
@@ -5442,9 +4742,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)-_
 _Crafted Item_  
   
 
-### Balefire Lantern  
-
----  
+### Balefire Lantern
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -5453,9 +4751,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Balefire Resin  
-
----  
+### Balefire Resin
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Wondrous Item(Very Rare)_  
@@ -5466,9 +4762,7 @@ _Wondrous Item(Very Rare)_
 _Crafted Item_  
   
 
-### Chains of the Reaper  
-
----  
+### Chains of the Reaper
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -5479,9 +4773,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 **Locations**: Maidenmist Cementery  
   
 
-### Cloak of the Reaper  
-
----  
+### Cloak of the Reaper
 **Monster(s)**: The Chained Reaper  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
@@ -5492,9 +4784,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 **Locations**: Maidenmist Cementery  
   
 
-### Lantern Of The Chained Reaper  
-
----  
+### Lantern Of The Chained Reaper
 **Monster(s)**: The Chained Reaper  
 **Source**: The Crooked Moon  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
@@ -5505,9 +4795,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 **Locations**: Maidenmist Cementery  
   
 
-### Seer's Webs  
-
----  
+### Seer's Webs
 **Monster(s)**: Ghost Crawler  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -5521,9 +4809,7 @@ _Ingredient (Uncommon)_
 **Locations**: Maidenmist Cementery  
   
 
-### Undelivered Message  
-
----  
+### Undelivered Message
 **Monster(s)**: Squabswarm  
 **Source**: Home-brew  
 _Mundane_  
@@ -5535,9 +4821,7 @@ _Mundane_
 **Locations**: Walking Dovecote  
   
 
-### Random Arcana (DMG p.327) (Rare)  
-
----  
+### Random Arcana (DMG p.327) (Rare)
 **Monster(s)**: Mage  
 **Source**: Monster Manual  
 _Arcane (Rare)_  
@@ -5546,9 +4830,7 @@ _Arcane (Rare)_
 **Locations**: Swamp  
   
 
-### Pocket Sand  
-
----  
+### Pocket Sand
 **Monster(s)**: Clay Golem  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -5560,9 +4842,7 @@ _Consumable (Common)_
 
   
 
-### Golem Clay  
-
----  
+### Golem Clay
 **Monster(s)**: Clay Golem  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -5578,9 +4858,7 @@ _Ingredient (Rare)_
 **Locations**: Swamp  
   
 
-### Golem Core  
-
----  
+### Golem Core
 **Monster(s)**: Clay Golem, Stone Golem  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -5597,9 +4875,7 @@ _Ingredient (Very Rare)_
 **Locations (Stone Golem)**: Swamp, Foothill  
   
 
-### Hydra Blood  
-
----  
+### Hydra Blood
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5616,9 +4892,7 @@ _Consumable (Rare)_
 **Locations**: Swamp  
   
 
-### Hydra Teeth  
-
----  
+### Hydra Teeth
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -5632,9 +4906,7 @@ _Ingredient (Rare)_
 **Locations**: Swamp  
   
 
-### Hydra Scales  
-
----  
+### Hydra Scales
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -5648,9 +4920,7 @@ _Ingredient (Rare)_
 **Locations**: Swamp  
   
 
-### Hydra Heart  
-
----  
+### Hydra Heart
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5667,9 +4937,7 @@ _Consumable (Rare)_
 **Locations**: Swamp  
   
 
-### Ring of the Dusk Hydra  
-
----  
+### Ring of the Dusk Hydra
 **Monster(s)**: Hydra  
 **Source**: Home-brew  
 _Ring (Rare)(Requires Attunement)_  
@@ -5678,9 +4946,7 @@ _Ring (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Water Elemental Water  
-
----  
+### Water Elemental Water
 **Monster(s)**: Water Elemental  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -5696,9 +4962,7 @@ _Ingredient (Uncommon)_
 **Locations**: Swamp  
   
 
-### Stone Golem Fragment  
-
----  
+### Stone Golem Fragment
 **Monster(s)**: Stone Golem  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -5712,9 +4976,7 @@ _Ingredient (Very Rare)_
 **Locations**: Foothill  
   
 
-### Earth Elemental Earth  
-
----  
+### Earth Elemental Earth
 **Monster(s)**: Earth Elemental  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -5728,9 +4990,7 @@ _Ingredient (Uncommon)_
 **Locations**: Foothill  
   
 
-### Wyvern Blood  
-
----  
+### Wyvern Blood
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5747,9 +5007,7 @@ _Consumable (Rare)_
 **Locations**: Foothill  
   
 
-### Wyvern Stinger Venom  
-
----  
+### Wyvern Stinger Venom
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5766,9 +5024,7 @@ _Consumable (Rare)_
 **Locations**: Foothill  
   
 
-### Wyvern Antitoxin  
-
----  
+### Wyvern Antitoxin
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5779,9 +5035,7 @@ _Consumable (Rare)_
 _Crafted Item_  
   
 
-### Wyvern Tooth  
-
----  
+### Wyvern Tooth
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -5795,9 +5049,7 @@ _Ingredient (Rare)_
 **Locations**: Foothill  
   
 
-### Wyvern Scales  
-
----  
+### Wyvern Scales
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -5811,9 +5063,7 @@ _Ingredient (Rare)_
 **Locations**: Foothill  
   
 
-### Wyvern Heart  
-
----  
+### Wyvern Heart
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5830,9 +5080,7 @@ _Consumable (Rare)_
 **Locations**: Foothill  
   
 
-### Wyvern Ring  
-
----  
+### Wyvern Ring
 **Monster(s)**: Wyvern  
 **Source**: Home-brew  
 _Ring (Rare)(Requires Attunement)_  
@@ -5841,9 +5089,7 @@ _Ring (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Vulture Feathers  
-
----  
+### Vulture Feathers
 **Monster(s)**: Giant Vulture, Boneflayer  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -5860,9 +5106,7 @@ _Ingredient (Common)_
 **Locations (Boneflayer)**: Foothill  
   
 
-### Vulture Stomach Acid  
-
----  
+### Vulture Stomach Acid
 **Monster(s)**: Giant Vulture, Boneflayer  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -5879,9 +5123,7 @@ _Ingredient (Common)_
 **Locations (Boneflayer)**: Foothill  
   
 
-### Fire Elemental Embers  
-
----  
+### Fire Elemental Embers
 **Monster(s)**: Fire Elemental  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -5895,9 +5137,7 @@ _Ingredient (Uncommon)_
 **Locations**: Prairie  
   
 
-### Shield Guardian Plates  
-
----  
+### Shield Guardian Plates
 **Monster(s)**: Shield Guardian  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5912,9 +5152,7 @@ _Consumable (Rare)_
 **Locations**: Prairie  
   
 
-### Shield Guardian Core  
-
----  
+### Shield Guardian Core
 **Monster(s)**: Shield Guardian  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -5929,9 +5167,7 @@ _Consumable (Rare)_
 **Locations**: Prairie  
   
 
-### Ettin Tusk  
-
----  
+### Ettin Tusk
 **Monster(s)**: Ettin  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -5945,9 +5181,7 @@ _Ingredient (Uncommon)_
 **Locations**: Prairie  
   
 
-### Nightmare Ashes  
-
----  
+### Nightmare Ashes
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -5962,9 +5196,7 @@ _Consumable (Uncommon)_
 **Locations**: Prairie  
   
 
-### Nightmare Mane  
-
----  
+### Nightmare Mane
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -5978,9 +5210,7 @@ _Ingredient (Uncommon)_
 **Locations**: Prairie  
   
 
-### Nightmare Tail  
-
----  
+### Nightmare Tail
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -5994,9 +5224,7 @@ _Ingredient (Uncommon)_
 **Locations**: Prairie  
   
 
-### Nightmare Hooves  
-
----  
+### Nightmare Hooves
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6011,9 +5239,7 @@ _Consumable (Uncommon)_
 **Locations**: Prairie  
   
 
-### Totem of Nightmare Recall  
-
----  
+### Totem of Nightmare Recall
 **Monster(s)**: Nightmare  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -6022,9 +5248,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Air Elemental Dust  
-
----  
+### Air Elemental Dust
 **Monster(s)**: Air Elemental  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -6038,9 +5262,7 @@ _Ingredient (Uncommon)_
 **Locations**: Lakeshore  
   
 
-### Oni Blood  
-
----  
+### Oni Blood
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6057,9 +5279,7 @@ _Consumable (Rare)_
 **Locations**: Lakeshore  
   
 
-### Oni Horn  
-
----  
+### Oni Horn
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6074,9 +5294,7 @@ _Consumable (Rare)_
 **Locations**: Lakeshore  
   
 
-### Oni Claws  
-
----  
+### Oni Claws
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6091,9 +5309,7 @@ _Consumable (Rare)_
 **Locations**: Lakeshore  
   
 
-### Oni Claw Ammunition  
-
----  
+### Oni Claw Ammunition
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Ammunition (Rare)_  
@@ -6102,9 +5318,7 @@ _Ammunition (Rare)_
 _Crafted Item_  
   
 
-### Oni Heart  
-
----  
+### Oni Heart
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -6121,9 +5335,7 @@ _Consumable (Very Rare)_
 **Locations**: Lakeshore  
   
 
-### Oni Amulet  
-
----  
+### Oni Amulet
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
@@ -6132,9 +5344,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Oni Mask  
-
----  
+### Oni Mask
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
@@ -6143,9 +5353,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Belt of the Oni  
-
----  
+### Belt of the Oni
 **Monster(s)**: Oni  
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
@@ -6157,9 +5365,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 **Locations**: Lakeshore  
   
 
-### Paralytic Chuul Venom  
-
----  
+### Paralytic Chuul Venom
 **Monster(s)**: Chuul  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6174,9 +5380,7 @@ _Consumable (Uncommon)_
 **Locations**: Lakeshore  
   
 
-### Antiparalytic  
-
----  
+### Antiparalytic
 **Monster(s)**: Chuul  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6186,9 +5390,7 @@ _Consumable (Uncommon)_
 _Crafted Item_  
   
 
-### Spider Silk  
-
----  
+### Spider Silk
 **Monster(s)**: Giant Spider  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -6202,9 +5404,7 @@ _Ingredient (Common)_
 **Locations**: Lakeshore  
   
 
-### Spider Venom  
-
----  
+### Spider Venom
 **Monster(s)**: Giant Spider  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -6219,9 +5419,7 @@ _Consumable (Common)_
 **Locations**: Lakeshore  
   
 
-### History of the Lilac Eyed  
-
----  
+### History of the Lilac Eyed
 **Monster(s)**: Pigeon Hag  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6236,9 +5434,7 @@ _Consumable (Rare)_
 **Locations**: Cornfield  
   
 
-### Tome of Many Secrets  
-
----  
+### Tome of Many Secrets
 **Monster(s)**: Pigeon Hag  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -6251,9 +5447,7 @@ _Consumable (Very Rare)_
 **Locations**: Walking Dovecote  
   
 
-### Bag of Hilarity  
-
----  
+### Bag of Hilarity
 **Monster(s)**: Reveler of Stories, Reveler of Song, Herald of Fools, The Lord of Fools  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6277,9 +5471,7 @@ _Consumable (Rare)_
 **Locations (The Lord of Fools)**: Moors, Fool's Day Festival  
   
 
-### Fool's Treat  
-
----  
+### Fool's Treat
 **Monster(s)**: Reveler of Stories, Reveler of Song, Herald of Fools, The Lord of Fools  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6301,9 +5493,7 @@ _Consumable (Uncommon)_
 **Locations (The Lord of Fools)**: Moors, Fool's Day Festival  
   
 
-### Drama Prop  
-
----  
+### Drama Prop
 **Monster(s)**: Reveler of Stories  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -6315,9 +5505,7 @@ _Wondrous Item (Very Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Medallion of the Hero  
-
----  
+### Medallion of the Hero
 **Monster(s)**: Reveler of Stories (Hero)  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -6329,9 +5517,7 @@ _Wondrous Item (Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Booklet of the Riddler  
-
----  
+### Booklet of the Riddler
 **Monster(s)**: Reveler of Stories (Hero)  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6344,9 +5530,7 @@ _Consumable (Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Crown of the Great Beast Reveler  
-
----  
+### Crown of the Great Beast Reveler
 **Monster(s)**: Reveler of Stories (Great Beast)  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -6358,9 +5542,7 @@ _Wondrous Item (Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Charm of the Wrestler  
-
----  
+### Charm of the Wrestler
 **Monster(s)**: Reveler of Stories (Great Beast)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6373,9 +5555,7 @@ _Consumable (Uncommon)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Wicked Wind-vane  
-
----  
+### Wicked Wind-vane
 **Monster(s)**: Reveler of Stories (Witch)  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -6387,9 +5567,7 @@ _Wondrous Item (Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Badge of the Drinking Champion  
-
----  
+### Badge of the Drinking Champion
 **Monster(s)**: Reveler of Stories (Witch)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6402,9 +5580,7 @@ _Consumable (Uncommon)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Drone of the Reveler  
-
----  
+### Drone of the Reveler
 **Monster(s)**: Reveler of Song (Drone)  
 **Source**: Home-brew  
 _Instrument (Rare)_  
@@ -6415,9 +5591,7 @@ _Instrument (Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Apiary Dart  
-
----  
+### Apiary Dart
 **Monster(s)**: Reveler of Song (Drone)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6430,9 +5604,7 @@ _Consumable (Uncommon)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Beesting Ring  
-
----  
+### Beesting Ring
 **Monster(s)**: Reveler of Song (Drone)  
 **Source**: Home-brew  
 _Ring(Very Rare)_  
@@ -6443,9 +5615,7 @@ _Ring(Very Rare)_
 **Find DCs**: 20(x1)  
   
 
-### Bell of the Reveler  
-
----  
+### Bell of the Reveler
 **Monster(s)**: Reveler of Song (Bell)  
 **Source**: Home-brew  
 _Instrument (Rare)_  
@@ -6456,9 +5626,7 @@ _Instrument (Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Chime of Confusion  
-
----  
+### Chime of Confusion
 **Monster(s)**: Reveler of Song (Bell)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6471,9 +5639,7 @@ _Consumable (Uncommon)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Drum of the Reveler  
-
----  
+### Drum of the Reveler
 **Monster(s)**: Reveler of Song (Drum)  
 **Source**: Home-brew  
 _Instrument (Rare)_  
@@ -6484,9 +5650,7 @@ _Instrument (Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Drumstick of Rhythm  
-
----  
+### Drumstick of Rhythm
 **Monster(s)**: Reveler of Song (Drum)  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -6498,9 +5662,7 @@ _Consumable (Uncommon)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Flag of the Herald  
-
----  
+### Flag of the Herald
 **Monster(s)**: Herald of Fools  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -6513,9 +5675,7 @@ _Wondrous Item (Rare)_
 **Locations**: Moors, Fool's Day Festival  
   
 
-### Toy Car  
-
----  
+### Toy Car
 **Monster(s)**: Herald of Fools  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -6530,9 +5690,7 @@ _Consumable (Very Rare)_
 **Locations**: Fool's Day Festival  
   
 
-### Personalized Clown Car  
-
----  
+### Personalized Clown Car
 **Monster(s)**: Herald of Fools  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -6542,9 +5700,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Bottle  
-
----  
+### Bottle
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Mundane_  
@@ -6556,9 +5712,7 @@ _Mundane_
 **Locations**: Fool's Day Festival  
   
 
-### Flower of Endless Water  
-
----  
+### Flower of Endless Water
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)_  
@@ -6570,9 +5724,7 @@ _Wondrous Item (Uncommon)_
 **Locations**: Fool's Day Festival  
   
 
-### Hat of the Fool  
-
----  
+### Hat of the Fool
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -6584,9 +5736,7 @@ _Wondrous Item (Very Rare)_
 **Locations**: Fool's Day Festival  
   
 
-### Party Favors  
-
----  
+### Party Favors
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -6600,9 +5750,7 @@ _Ingredient (Very Rare)_
 **Locations**: Fool's Day Festival  
   
 
-### Ring of Pies  
-
----  
+### Ring of Pies
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Ring (Very Rare)_  
@@ -6614,9 +5762,7 @@ _Ring (Very Rare)_
 **Locations**: Fool's Day Festival  
   
 
-### Ribbons of the Fool  
-
----  
+### Ribbons of the Fool
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
@@ -6628,9 +5774,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 **Locations**: Fool's Day Festival  
   
 
-### Buzzer of the Fool  
-
----  
+### Buzzer of the Fool
 **Monster(s)**: The Lord of Fools  
 **Source**: Home-brew  
 _Weapon (Very Rare)_  
@@ -6641,9 +5785,7 @@ _Weapon (Very Rare)_
 **Locations**: Fool's Day Festival  
   
 
-### Marotte Of The Lord Of Fools  
-
----  
+### Marotte Of The Lord Of Fools
 **Monster(s)**: The Lord of Fools  
 **Source**: The Crooked Moon  
 _Weapon (Very Rare)(Requires Attunement)_  
@@ -6655,9 +5797,7 @@ _Weapon (Very Rare)(Requires Attunement)_
 **Locations**: Fool's Day Festival  
   
 
-### Mirror Twig  
-
----  
+### Mirror Twig
 **Monster(s)**: The Crooked Man  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -6672,9 +5812,7 @@ _Consumable (Very Rare)_
 **Locations**: The Crooked Nightmare  
   
 
-### Gobblegeist Petrified Eye  
-
----  
+### Gobblegeist Petrified Eye
 **Monster(s)**: Gobblegeist, Frederick (Gobblegeist)  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6692,9 +5830,7 @@ _Consumable (Rare)_
 **Locations (Frederick (Gobblegeist))**: Moors, The Crooked Nightmare, The Wytchwood, Foxwillow (Galloping Headsman riled), The Drowned Crossroads (Jinxed Leviathan riled), Webwoods (Dusk Mother dolls)  
   
 
-### Gobblegeist Meat  
-
----  
+### Gobblegeist Meat
 **Monster(s)**: Gobblegeist  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -6710,9 +5846,7 @@ _Ingredient (Rare)_
 **Locations**: Moors, The Crooked Nightmare, The Wytchwood, Foxwillow (Galloping Headsman riled), The Drowned Crossroads (Jinxed Leviathan riled), Webwoods (Dusk Mother dolls)  
   
 
-### Unravelling Whispers  
-
----  
+### Unravelling Whispers
 **Monster(s)**: Nightmare Wisp (Sphinx of Lore)  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -6727,9 +5861,7 @@ _Consumable (Very Rare)_
 **Locations**: The Crooked Nightmare  
   
 
-### Drakkenhob Blood  
-
----  
+### Drakkenhob Blood
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6746,9 +5878,7 @@ _Consumable (Rare)_
 **Locations**: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls)  
   
 
-### Covetous Weapon  
-
----  
+### Covetous Weapon
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Weapon (Rare)_  
@@ -6757,9 +5887,7 @@ _Weapon (Rare)_
 _Crafted Item_  
   
 
-### Covetous Harvesting Knife  
-
----  
+### Covetous Harvesting Knife
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Weapon (Rare)_  
@@ -6768,9 +5896,7 @@ _Weapon (Rare)_
 _Crafted Item_  
   
 
-### Fright Shield  
-
----  
+### Fright Shield
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Shield (Rare)_  
@@ -6779,9 +5905,7 @@ _Shield (Rare)_
 _Crafted Item_  
   
 
-### Gold Accessory of Coveting  
-
----  
+### Gold Accessory of Coveting
 **Monster(s)**: Drakken Hob  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -6790,9 +5914,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Drakkenhob Scales  
-
----  
+### Drakkenhob Scales
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -6806,9 +5928,7 @@ _Ingredient (Rare)_
 **Locations**: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls)  
   
 
-### Drakkenhob Scale Armor  
-
----  
+### Drakkenhob Scale Armor
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Armor (Rare)(Requires Attunement)_  
@@ -6817,9 +5937,7 @@ _Armor (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Drakkenhob Horn  
-
----  
+### Drakkenhob Horn
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -6834,9 +5952,7 @@ _Ingredient (Rare)_
 **Locations**: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls)  
   
 
-### Helm of the Drakkenhob  
-
----  
+### Helm of the Drakkenhob
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Wondrous Item (Rare)(Requires Attunement)_  
@@ -6847,9 +5963,7 @@ _Wondrous Item (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Drakkenhob Mantle  
-
----  
+### Drakkenhob Mantle
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -6863,9 +5977,7 @@ _Ingredient (Rare)_
 **Locations**: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls)  
   
 
-### Drakkenhob Cloak  
-
----  
+### Drakkenhob Cloak
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
@@ -6874,9 +5986,7 @@ _Wondrous Item (Rare)_
 _Crafted Item_  
   
 
-### Drakkenhob Heart  
-
----  
+### Drakkenhob Heart
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6893,9 +6003,7 @@ _Consumable (Rare)_
 **Locations**: The Crooked Nightmare, Foxwillow (The Galloping Headsman riled), Webwoods (Dusk Mother dolls)  
   
 
-### Ring of the Night Terror  
-
----  
+### Ring of the Night Terror
 **Monster(s)**: Drakkenhob  
 **Source**: Home-brew  
 _Ring (Rare)(Requires Attunement)_  
@@ -6905,9 +6013,7 @@ _Ring (Rare)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Pearl of Infighting  
-
----  
+### Pearl of Infighting
 **Monster(s)**: Vermin Infestation  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -6922,9 +6028,7 @@ _Consumable (Common)_
 **Locations**: The Crooked Nightmare  
   
 
-### Caustic Brew  
-
----  
+### Caustic Brew
 **Monster(s)**: The Vermintoll Abomination  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -6939,9 +6043,7 @@ _Consumable (Very Rare)_
 **Locations**: The Crooked Nightmare  
   
 
-### Random Spell Scroll (spell level 7 or several which sum to 7)  
-
----  
+### Random Spell Scroll (spell level 7 or several which sum to 7)
 **Monster(s)**: The Vermintoll Abomination  
 **Source**: Home-brew  
 _Spell Scroll (Very Rare)_  
@@ -6950,9 +6052,7 @@ _Spell Scroll (Very Rare)_
 **Locations**: The Crooked Nightmare  
   
 
-### Crooked Moon Gem  
-
----  
+### Crooked Moon Gem
 **Monster(s)**: The Vermintoll Abomination  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -6966,9 +6066,7 @@ _Consumable (Very Rare)_
 **Locations**: The Crooked Nightmare  
   
 
-### Cauldron of the Vermintoll Coven  
-
----  
+### Cauldron of the Vermintoll Coven
 **Monster(s)**: The Vermintoll Abomination  
 **Source**: The Crooked Moon  
 _Wondrous Item (Legendary)(Requires Attunement)_  
@@ -6980,9 +6078,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 **Locations**: The Crooked Nightmare  
   
 
-### Large Dark Shard  
-
----  
+### Large Dark Shard
 **Monster(s)**: Undead Centaur  
 **Source**: Home-brew  
 _Consumable (Rare)_  
@@ -6997,9 +6093,7 @@ _Consumable (Rare)_
 **Locations**: Moors, Foxwillow (Galloping Headsman riled)  
   
 
-### Blessing of the Harvest Charm  
-
----  
+### Blessing of the Harvest Charm
 **Monster(s)**: Old Ways Chosen  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -7014,9 +6108,7 @@ _Consumable (Uncommon)_
 **Locations**: Moors, Rowan's Rise (Wicker's Vigil)  
   
 
-### Random Relic (DMG p.331) (Uncommon)  
-
----  
+### Random Relic (DMG p.331) (Uncommon)
 **Monster(s)**: Old Ways Chosen  
 **Source**: The Crooked Moon  
 _Relic (Uncommon)_  
@@ -7025,9 +6117,7 @@ _Relic (Uncommon)_
 **Locations**: Moors, Rowan's Rise (Wicker's Vigil)  
   
 
-### Random Armament (DMG p.328) (Common)  
-
----  
+### Random Armament (DMG p.328) (Common)
 **Monster(s)**: Warrior Veteran, Berserker, Knight, Tough  
 **Source**: Monster Manual  
 _Armament (Common)_  
@@ -7045,9 +6135,7 @@ _Armament (Common)_
 **Locations (Tough)**: Moors, The Crimson Monastery, Foxwillow  
   
 
-### Nightwatcher's Salve  
-
----  
+### Nightwatcher's Salve
 **Monster(s)**: Woodwarped  
 **Source**: Home-brew  
 _Consumable (Uncommon)_  
@@ -7064,9 +6152,7 @@ _Consumable (Uncommon)_
 **Locations**: Moors  
   
 
-### Charm of Quick Action  
-
----  
+### Charm of Quick Action
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -7080,9 +6166,7 @@ _Ingredient (Very Rare)_
 **Locations**: Rowan's Rise (Wicker's Vigil)  
   
 
-### Charm of the Crooked Faith  
-
----  
+### Charm of the Crooked Faith
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -7091,9 +6175,7 @@ _Wondrous Item (Very Rare)_
 
   
 
-### Accessory of Quick Action  
-
----  
+### Accessory of Quick Action
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -7103,9 +6185,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Accursed Wicker  
-
----  
+### Accursed Wicker
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -7119,9 +6199,7 @@ _Ingredient (Very Rare)_
 **Locations**: Rowan's Rise (Wicker's Vigil)  
   
 
-### Soul Mote Totem  
-
----  
+### Soul Mote Totem
 **Monster(s)**: The Wicker Man  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)(Requires Attunement)_  
@@ -7133,9 +6211,7 @@ _Wondrous Item (Very Rare)(Requires Attunement)_
 **Locations**: Rowan's Rise (Wicker's Vigil)  
   
 
-### Visage of the old ways  
-
----  
+### Visage of the old ways
 **Monster(s)**: The Wicker Man  
 **Source**: The Crooked Moon  
 _Wondrous Item (Legendary)(Requires Attunement)_  
@@ -7147,9 +6223,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 **Locations**: Rowan's Rise (Wicker's Vigil)  
   
 
-### Hypnovulfen Meat  
-
----  
+### Hypnovulfen Meat
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -7161,9 +6235,7 @@ _Ingredient (Very Rare)_
 **Locations**: The Wytchwood  
   
 
-### Hypnovulfen Pelt  
-
----  
+### Hypnovulfen Pelt
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Ingredient (Very Rare)_  
@@ -7177,9 +6249,7 @@ _Ingredient (Very Rare)_
 **Locations**: The Wytchwood  
   
 
-### Boots of the Hypnovulfen  
-
----  
+### Boots of the Hypnovulfen
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -7188,9 +6258,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Hypnovulfen Eye  
-
----  
+### Hypnovulfen Eye
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -7205,9 +6273,7 @@ _Consumable (Very Rare)_
 **Locations**: The Wytchwood  
   
 
-### Hypnovulfen Pendulum  
-
----  
+### Hypnovulfen Pendulum
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Wondrous Item (Very Rare)_  
@@ -7217,9 +6283,7 @@ _Wondrous Item (Very Rare)_
 _Crafted Item_  
   
 
-### Large Memory Fragment  
-
----  
+### Large Memory Fragment
 **Monster(s)**: Hypnovulfen  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -7232,9 +6296,7 @@ _Consumable (Very Rare)_
 **Locations**: The Wytchwood  
   
 
-### Twisting Venom  
-
----  
+### Twisting Venom
 **Monster(s)**: Crooked Hare  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -7249,9 +6311,7 @@ _Consumable (Common)_
 **Locations**: The Wytchwood  
   
 
-### Twisted Antitoxin  
-
----  
+### Twisted Antitoxin
 **Monster(s)**: Crooked Hare  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -7262,9 +6322,7 @@ _Consumable (Common)_
 _Crafted Item_  
   
 
-### Magic Absorbing Wood  
-
----  
+### Magic Absorbing Wood
 **Monster(s)**: Maidenwood  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -7278,9 +6336,7 @@ _Ingredient (Rare)_
 **Locations**: The Wytchwood  
   
 
-### Wytchwood Sap  
-
----  
+### Wytchwood Sap
 **Monster(s)**: Maidenwood  
 **Source**: Home-brew  
 _Potion (Rare)_  
@@ -7293,9 +6349,7 @@ _Potion (Rare)_
 **Locations**: The Wytchwood  
   
 
-### Wytchwood Ash  
-
----  
+### Wytchwood Ash
 **Monster(s)**: Maidenwood  
 **Source**: Home-brew  
 _Ingredient (Rare)_  
@@ -7307,9 +6361,7 @@ _Ingredient (Rare)_
 **Locations**: The Wytchwood  
   
 
-### Crooked Sap (Sight of Sin base)  
-
----  
+### Crooked Sap (Sight of Sin base)
 **Monster(s)**: Crooked Effigy  
 **Source**: Home-brew  
 _Ingredient (Uncommon)_  
@@ -7323,9 +6375,7 @@ _Ingredient (Uncommon)_
 **Locations**: The Wytchwood  
   
 
-### Blink Dog Blood  
-
----  
+### Blink Dog Blood
 **Monster(s)**: Blink Dog  
 **Source**: Home-brew  
 _Consummable (Uncommon)_  
@@ -7342,9 +6392,7 @@ _Consummable (Uncommon)_
 **Locations**: The Wytchwood  
   
 
-### Pixie Dust  
-
----  
+### Pixie Dust
 **Monster(s)**: Pixie  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -7359,9 +6407,7 @@ _Consumable (Common)_
 **Locations**: The Wytchwood  
   
 
-### Sprite Wings  
-
----  
+### Sprite Wings
 **Monster(s)**: Sprite  
 **Source**: Home-brew  
 _Ingredient (Common)_  
@@ -7375,9 +6421,7 @@ _Ingredient (Common)_
 **Locations**: The Wytchwood  
   
 
-### Sprite Dust  
-
----  
+### Sprite Dust
 **Monster(s)**: Sprite  
 **Source**: Home-brew  
 _Consumable (Common)_  
@@ -7392,9 +6436,7 @@ _Consumable (Common)_
 **Locations**: The Wytchwood  
   
 
-### Horned King's Battle Ashes  
-
----  
+### Horned King's Battle Ashes
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Ingredient (Legendary)_  
@@ -7408,9 +6450,7 @@ _Ingredient (Legendary)_
 **Locations**: The Wytchwood  
   
 
-### Circlet of the Horned King  
-
----  
+### Circlet of the Horned King
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
@@ -7419,9 +6459,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Ring of Malediction  
-
----  
+### Ring of Malediction
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
@@ -7430,9 +6468,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Embers of Corruption  
-
----  
+### Embers of Corruption
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Consumable (Legendary)_  
@@ -7449,9 +6485,7 @@ _Consumable (Legendary)_
 **Locations**: The Wytchwood  
   
 
-### Weapon of Corruption  
-
----  
+### Weapon of Corruption
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Weapon (Legendary)(Requires Attunement)_  
@@ -7460,9 +6494,7 @@ _Weapon (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Armor of Terror  
-
----  
+### Armor of Terror
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Armor (Legendary)(Requires Attunement)_  
@@ -7471,9 +6503,7 @@ _Armor (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Helm of Horns  
-
----  
+### Helm of Horns
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)(Requires Attunement)_  
@@ -7483,9 +6513,7 @@ _Wondrous Item (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Ring of Corruption  
-
----  
+### Ring of Corruption
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Ring (Legendary)(Requires Attunement)_  
@@ -7495,9 +6523,7 @@ _Ring (Legendary)(Requires Attunement)_
 _Crafted Item_  
   
 
-### Corrupting Sludge  
-
----  
+### Corrupting Sludge
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Consumable (Legendary)_  
@@ -7514,9 +6540,7 @@ _Consumable (Legendary)_
 **Locations**: The Wytchwood  
   
 
-### Goat Eye of Sin Amulet  
-
----  
+### Goat Eye of Sin Amulet
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)_  
@@ -7526,9 +6550,7 @@ _Wondrous Item (Legendary)_
 _Crafted Item_  
   
 
-### Ring of Temptation  
-
----  
+### Ring of Temptation
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Wondrous Item (Legendary)_  
@@ -7538,9 +6560,7 @@ _Wondrous Item (Legendary)_
 _Crafted Item_  
   
 
-### Crystallized Temptation  
-
----  
+### Crystallized Temptation
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Consumable (Legendary)_  
@@ -7553,9 +6573,7 @@ _Consumable (Legendary)_
 **Locations**: The Wytchwood  
   
 
-### Crooked Moonstone  
-
----  
+### Crooked Moonstone
 **Monster(s)**: The Horned King  
 **Source**: Home-brew  
 _Consumable (Very Rare)_  
@@ -7567,9 +6585,7 @@ _Consumable (Very Rare)_
 **Locations**: The Wytchwood  
   
 
-### Crooked Tree Ashes  
-
----  
+### Crooked Tree Ashes
 **Monster(s)**: The Crooked Tree  
 **Source**: Home-brew  
 _Ingredient (Legendary)_  
