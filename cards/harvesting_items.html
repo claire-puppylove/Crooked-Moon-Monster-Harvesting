@@ -47,14 +47,9 @@
   src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }*/</style>
-<style>@page {
-    size: A4;
-    margin: 20mm;    
-}
-
-body {
+<style>body {
     margin:0;
-    padding:27mm;
+    padding:0mm;
 }
 
 .cards-container {
@@ -122,6 +117,30 @@ body {
 
 .divider{
     padding:0.2em;
+}
+
+@page{
+  margin-top: 0.4in;
+  margin-bottom: 0.4in;
+}
+
+@media print {
+  body {
+    max-width: 100%;
+    margin: 0 15mm;
+  }
+
+  body .markdown-body
+  {
+    padding:0;
+  }
+
+  .markdown-body * {
+    background: transparent !important;
+    /*color: black !important;*/
+    filter:none !important;
+    -ms-filter: none !important;
+  }
 }
 </style><title>Crooked Moon Harvesting Items (Player Handout Cards)</title></head><body><div class='cards-container'>
     <div class='card'>
@@ -1284,7 +1303,7 @@ body {
         </div>
         <div class='section'>
             <span class='subtitle'>Use as ingredient for:</span>
-            <span class='short-desc'>Weapons, Armor, Shields</span>
+            <span class='short-desc'>Weapons, Shields</span>
         </div>
         <div class='section'>
             <span class='subtitle'>Crafting Value (when used as ingredient):</span>
@@ -1296,7 +1315,7 @@ body {
         </div>
         <div class='section'>
             <span class='subtitle'>Description:</span>
-            <span class='desc'>When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane piece of armor or a mundane shield, it becomes a magical armor or shield with a +1 bonus to Armor Class.</span>
+            <span class='desc'>When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane shield, it becomes a magical shield with a +1 bonus to Armor Class.</span>
         </div>
     </div>
 </div>
@@ -1319,7 +1338,7 @@ body {
         </div>
         <div class='section'>
             <span class='subtitle'>Use as ingredient for:</span>
-            <span class='short-desc'>Weapons, Armor, Shields</span>
+            <span class='short-desc'>Weapons, Shields</span>
         </div>
         <div class='section'>
             <span class='subtitle'>Crafting Value (when used as ingredient):</span>
@@ -1331,7 +1350,7 @@ body {
         </div>
         <div class='section'>
             <span class='subtitle'>Description:</span>
-            <span class='desc'>When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane piece of armor or a mundane shield, it becomes a magical armor or shield with a +1 bonus to Armor Class.</span>
+            <span class='desc'>When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane shield, it becomes a magical shield with a +1 bonus to Armor Class.</span>
         </div>
     </div>
 </div>
@@ -1354,7 +1373,7 @@ body {
         </div>
         <div class='section'>
             <span class='subtitle'>Use as ingredient for:</span>
-            <span class='short-desc'>Weapons, Armor, Shields</span>
+            <span class='short-desc'>Weapons, Shields</span>
         </div>
         <div class='section'>
             <span class='subtitle'>Crafting Value (when used as ingredient):</span>
@@ -1366,7 +1385,7 @@ body {
         </div>
         <div class='section'>
             <span class='subtitle'>Description:</span>
-            <span class='desc'>When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane piece of armor or a mundane shield, it becomes a magical armor or shield with a +1 bonus to Armor Class.</span>
+            <span class='desc'>When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane shield, it becomes a magical shield with a +1 bonus to Armor Class.</span>
         </div>
     </div>
 </div>
@@ -1389,7 +1408,7 @@ body {
         </div>
         <div class='section'>
             <span class='subtitle'>Use as ingredient for:</span>
-            <span class='short-desc'>Weapons, Armor, Shields</span>
+            <span class='short-desc'>Weapons, Shields</span>
         </div>
         <div class='section'>
             <span class='subtitle'>Crafting Value (when used as ingredient):</span>
@@ -1401,7 +1420,7 @@ body {
         </div>
         <div class='section'>
             <span class='subtitle'>Description:</span>
-            <span class='desc'>When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane piece of armor or a mundane shield, it becomes a magical armor or shield with a +1 bonus to Armor Class.</span>
+            <span class='desc'>When applied to a mundane weapon, that weapon permanently becomes a magic weapon with a +1 bonus to attack and damage rolls. When applied to a mundane shield, it becomes a magical shield with a +1 bonus to Armor Class.</span>
         </div>
     </div>
 </div>
@@ -1948,6 +1967,223 @@ body {
         <div class='section'>
             <span class='subtitle'>Cooking Effect:</span>
             <span class='desc'>You can cook this to make mundane food for 1 person</span>
+        </div>
+    </div>
+</div>
+
+<div class='cards-container'>
+    <div class='card'>
+        <div class='item_name'><h1>
+            Humanoid Tooth
+        </h1></div>
+        <div class='top-section'>
+            Ingredient (Common)
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Source:</span>
+            <span class='desc'>Home-brew</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Store in:</span>
+            <span class='short-desc'>pouch</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Use as ingredient for:</span>
+            <span class='short-desc'>Potion</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Crafting Value (when used as ingredient):</span>
+            <span class='short-desc'>1 GP</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Description:</span>
+            <span class='desc'>Ew, what are you gonna do with that?</span>
+        </div>
+    </div>
+</div>
+
+<div class='cards-container'>
+    <div class='card'>
+        <div class='item_name'><h1>
+            Humanoid Tooth
+        </h1></div>
+        <div class='top-section'>
+            Ingredient (Common)
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Source:</span>
+            <span class='desc'>Home-brew</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Store in:</span>
+            <span class='short-desc'>pouch</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Use as ingredient for:</span>
+            <span class='short-desc'>Potion</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Crafting Value (when used as ingredient):</span>
+            <span class='short-desc'>1 GP</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Description:</span>
+            <span class='desc'>Ew, what are you gonna do with that?</span>
+        </div>
+    </div>
+</div>
+
+<div class='cards-container'>
+    <div class='card'>
+        <div class='item_name'><h1>
+            Humanoid Tooth
+        </h1></div>
+        <div class='top-section'>
+            Ingredient (Common)
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Source:</span>
+            <span class='desc'>Home-brew</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Store in:</span>
+            <span class='short-desc'>pouch</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Use as ingredient for:</span>
+            <span class='short-desc'>Potion</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Crafting Value (when used as ingredient):</span>
+            <span class='short-desc'>1 GP</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Description:</span>
+            <span class='desc'>Ew, what are you gonna do with that?</span>
+        </div>
+    </div>
+</div>
+
+<div class='cards-container'>
+    <div class='card'>
+        <div class='item_name'><h1>
+            Humanoid Tooth
+        </h1></div>
+        <div class='top-section'>
+            Ingredient (Common)
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Source:</span>
+            <span class='desc'>Home-brew</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Store in:</span>
+            <span class='short-desc'>pouch</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Use as ingredient for:</span>
+            <span class='short-desc'>Potion</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Crafting Value (when used as ingredient):</span>
+            <span class='short-desc'>1 GP</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Description:</span>
+            <span class='desc'>Ew, what are you gonna do with that?</span>
+        </div>
+    </div>
+</div>
+
+<div class='cards-container'>
+    <div class='card'>
+        <div class='item_name'><h1>
+            Humanoid Tooth
+        </h1></div>
+        <div class='top-section'>
+            Ingredient (Common)
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Source:</span>
+            <span class='desc'>Home-brew</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Store in:</span>
+            <span class='short-desc'>pouch</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Use as ingredient for:</span>
+            <span class='short-desc'>Potion</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Crafting Value (when used as ingredient):</span>
+            <span class='short-desc'>1 GP</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Description:</span>
+            <span class='desc'>Ew, what are you gonna do with that?</span>
+        </div>
+    </div>
+</div>
+
+<div class='cards-container'>
+    <div class='card'>
+        <div class='item_name'><h1>
+            Humanoid Tooth
+        </h1></div>
+        <div class='top-section'>
+            Ingredient (Common)
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Source:</span>
+            <span class='desc'>Home-brew</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Store in:</span>
+            <span class='short-desc'>pouch</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Use as ingredient for:</span>
+            <span class='short-desc'>Potion</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Crafting Value (when used as ingredient):</span>
+            <span class='short-desc'>1 GP</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Description:</span>
+            <span class='desc'>Ew, what are you gonna do with that?</span>
+        </div>
+    </div>
+</div>
+
+<div class='cards-container'>
+    <div class='card'>
+        <div class='item_name'><h1>
+            Humanoid Tooth
+        </h1></div>
+        <div class='top-section'>
+            Ingredient (Common)
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Source:</span>
+            <span class='desc'>Home-brew</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Store in:</span>
+            <span class='short-desc'>pouch</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Use as ingredient for:</span>
+            <span class='short-desc'>Potion</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Crafting Value (when used as ingredient):</span>
+            <span class='short-desc'>1 GP</span>
+        </div>
+        <div class='section'>
+            <span class='subtitle'>Description:</span>
+            <span class='desc'>Ew, what are you gonna do with that?</span>
         </div>
     </div>
 </div>
