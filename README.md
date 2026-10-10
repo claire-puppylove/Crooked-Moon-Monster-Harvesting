@@ -1,7 +1,8 @@
-# Crooked Moon Monster Harvesting
+# Crooked Moon<br>Monster Harvesting
 
 Monster Harvesting options I added for my Crooked Moon campaign
 
+<a id="objective"></a>
 ## Objective
 
 Following the publication of [The Crooked Moon](https://thecrookedmoon.backerkit.com/hosted_preorders) I decided to DM it for my friends.
@@ -14,15 +15,15 @@ Now, because a lot of Crooked Moon characters don't really need to eat, I didn't
 
 Also to note is that I cannot be bothered with encumbrance rules so unless I am feeling particularly bored and had finished all the monsters, I'm not including item weight in any of the items for the moment.
 
+<a id="spoilers"></a>
 ## Spoilers
 
 This whole guide, the table, the item descriptions, everything here is for DM eyes only, since it is full of spoilers.
 
+<a id="use-guide"></a>
 ## Use guide
 
-There are two main files in assets: `monster_drops_all_dm.csv`, and `monster_drops_all_player_format.csv` (Not made yet). Both are for DM eyes only, but the second file is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.
-
-Eventually I plan to use these to make more readable HTML or PDF files.
+Go inside the `manuals` folder to access different versions of the harvesting items. There are two main files: `harvesting_items_dm_by_item`, and `harvesting_items_player_by_item`. There's also an alternative two files organized by monster: `harvesting_items_dm_by_monster`, and `harvesting_items_player_by_monster`. They each have a markdown and HTML version. You can download the HTML file and open it with a browser like Firefox, for example, or on your phone browser as well. All are for DM eyes only, but the second file of each group is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.
 
 There are (currently) mainly the following fields:
 
@@ -59,6 +60,7 @@ There are (currently) mainly the following fields:
 - **Find DC**: For my table, what I think is appropriate for the DC to find the item is. Often I will include the DC(quantity) of items if different rolls give more items for the check. For example "13(x1),15(x2),17(x3)" means that from the table, if anyone rolled over a 17 the party gets 3 items, but if the maximum that all of them got was a 16 then they only get 2. Sometimes, I will include Auto Success for certain enemies and the conditions for auto success. Often this happens with Fated Tarot Readings. If the player picked a Fated Tarot card that matches that boss fight, all the monster loot also drops at their maximum amount. This is also information you don't really need to share with your players.
 - **Location**: Although I haven't double checked it to be exhaustive, the location that the monster or monsters appear in, and therefore also potentially the loot.
 
+<a id="general-design-guidelines"></a>
 ## General Design Guidelines
 
 I mostly designed the item drops by these rules:
@@ -74,13 +76,22 @@ I mostly designed the item drops by these rules:
 - Consumables are priced at half their rarity cost or less
 - Exception when it is funny or thematic
 
+Lastly, You can probably give some of these without the players killing the monster, but some of them are only obtainable if the monster dies. Feel free to decide for yourself if some item might be available if your players took a pacifist route. For example, the _Haint Hooch base_ can probably be given when the Haint moves on, or the Wildpyre Fur and claws can appear even if they don't fight it. A lot of the items from the Fool's Day Festival can also probably be given if they win at the booths, for example.
 
+
+<a id="references"></a>
 ## References
 
 Although I mostly prefer to make my own, I have been consulting [The Thieves' Guild harvesting guide](https://www.thievesguild.cc/harvest/) as inspiration. I don't have anything against them, and their items are often good, but mostly they are only worth money, and I want my consumable items to do special things every time.
 
+<a id="donations"></a>
 ## Donations
 
 I won't charge for this content but honestly it is taking me several full on days of designing items. If you'd like to toss a coin to your local Witch I would be grateful.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B25VYE0)
+
+<!-- ## Table of Contents -->
+
+<!-- TOC -->
+<!-- TOC -->

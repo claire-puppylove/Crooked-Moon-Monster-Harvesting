@@ -1,4 +1,4 @@
-Item, Storage, Monster(s), Item Type, Ingredient Type, Crafting Value, Use, Effect, Cooking Effect, Find Checks, Find DC, Location
+item_name,storage,monsters,item_type,ingredient_type,crafting_value,use,description,cooking_effect,find_checks,find_dc,location,source
 Primordial Necrolisk Slime,bottle,Primordial Necrolisk (Home-Brew Side Quest Boss Monster),Consumable (Very Rare),"Potions, Rods, Wands, Staffs, Rings, Wondrous Items",5000 GP,Throw,"??","??","Survival, Nature, Arcana, Alchemist Kit","??", "Maidenmist Cementery"
 Primordial Necrolisk Claw,??,Primordial Necrolisk (Home-Brew Side Quest Boss Monster),Consumable (Very Rare),??,??,??,??,??,"Survival, Nature","??", "Maidenmist Cementery"
 Spirit Predator Weapon,-,-,-,-,-,-,-,-,-,-,-
