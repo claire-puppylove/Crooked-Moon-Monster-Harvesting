@@ -15,15 +15,8 @@ Now, because a lot of Crooked Moon characters don't really need to eat, I didn't
 
 Also to note is that I cannot be bothered with encumbrance rules so unless I am feeling particularly bored and had finished all the monsters, I'm not including item weight in any of the items for the moment.
 
-<a id="spoilers"></a>
-## Spoilers
-
-This whole guide, the table, the item descriptions, everything here is for DM eyes only, since it is full of spoilers.
-
 <a id="use-guide"></a>
 ## Use guide
-
-Go inside the `manuals` folder to access different versions of the harvesting items. There are two main files: `harvesting_items_dm_by_item`, and `harvesting_items_player_by_item`. There's also an alternative two files organized by monster: `harvesting_items_dm_by_monster`, and `harvesting_items_player_by_monster`. They each have a markdown and HTML version. You can download the HTML file and open it with a browser like Firefox, for example, or on your phone browser as well. All are for DM eyes only, but the second file of each group is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.
 
 There are (currently) mainly the following fields:
 
@@ -56,33 +49,7 @@ There are (currently) mainly the following fields:
     - Activate: Items that you mostly just...will into working. This might be a command word, or just the intention to use the item will activate the magic.
 - **Effect**: What the consumable does
 - **Cooking Effect**: What it does if you put it in food. This one is a work in progress.
-- **Find Checks**: For my table, what I think is appropriate to have them roll a check to find the item in the monster remains. In my case, I plan to just tell them to roll their favorite from the list and note the results. This is one of the fields you don't want to hand to the player.
-- **Find DC**: For my table, what I think is appropriate for the DC to find the item is. Often I will include the DC(quantity) of items if different rolls give more items for the check. For example "13(x1),15(x2),17(x3)" means that from the table, if anyone rolled over a 17 the party gets 3 items, but if the maximum that all of them got was a 16 then they only get 2. Sometimes, I will include Auto Success for certain enemies and the conditions for auto success. Often this happens with Fated Tarot Readings. If the player picked a Fated Tarot card that matches that boss fight, all the monster loot also drops at their maximum amount. This is also information you don't really need to share with your players.
-- **Location**: Although I haven't double checked it to be exhaustive, the location that the monster or monsters appear in, and therefore also potentially the loot.
 
-<a id="general-design-guidelines"></a>
-## General Design Guidelines
-
-I mostly designed the item drops by these rules:
-
-- CR 0-3: Common Items
-- CR 4-5: Uncommon Items
-- CR 6-9: Rare Items
-- CR 10-15: Very Rare Items
-- CR 16+: Legendary Items
-- Bosses often have better items than their CR
-- High CR creatures can drop lower rarity items with greater numbers
-- Only mundane enemies (mundane beasts, CR\<1) have mundane drops
-- Consumables are priced at half their rarity cost or less
-- Exception when it is funny or thematic
-
-Lastly, You can probably give some of these without the players killing the monster, but some of them are only obtainable if the monster dies. Feel free to decide for yourself if some item might be available if your players took a pacifist route. For example, the _Haint Hooch base_ can probably be given when the Haint moves on, or the Wildpyre Fur and claws can appear even if they don't fight it. A lot of the items from the Fool's Day Festival can also probably be given if they win at the booths, for example.
-
-
-<a id="references"></a>
-## References
-
-Although I mostly prefer to make my own, I have been consulting [The Thieves' Guild harvesting guide](https://www.thievesguild.cc/harvest/) as inspiration. I don't have anything against them, and their items are often good, but mostly they are only worth money, and I want my consumable items to do special things every time.
 
 <a id="donations"></a>
 ## Donations
