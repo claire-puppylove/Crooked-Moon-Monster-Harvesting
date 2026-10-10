@@ -1,53 +1,53 @@
 <div class="wide"><h3> Conditions</h3></div>
 
-#### Blinded
+##### Blinded
 ***Can't See.*** You can't see and automatically fail any ability check that requires sight.<br>
 ***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
 
-#### Charmed
+##### Charmed
 
 ***Can't Harm the Charmer.*** You can't attack the charmer or target the charmer with damaging abilities or magical effects.<br>
 ***Social Advantage.*** The charmer has Advantage on any ability check to interact with you socially.
 
-#### Deafened
+##### Deafened
 ***Can't Hear.*** You can't hear and automatically fail any ability check that requires hearing.
 
-#### Exhaustion
+##### Exhaustion
 ***Exhaustion Levels.*** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.<br>
 ***d20 Tests Affected.*** When you make a d20 Test, the roll is reduced by 2 times your Exhaustion level.<br>
 ***Speed Reduced.*** Your Speed is reduced by a number of feet equal to 5 times your Exhaustion level.<br>
 ***Removing Exhaustion Levels.*** Finishing a Long Rest removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
 
-#### Frightened
+##### Frightened
 ***Ability Checks and Attacks Affected.*** You have Disadvantage on ability checks and attack rolls while the source of fear is within line of sight.<br>
 ***Can't Approach.*** You can't willingly move closer to the source of fear.
 
-#### Grappled
+##### Grappled
 ***Speed 0.*** Your Speed is 0 and can't increase.<br>
 ***Attacks Affected.*** You have Disadvantage on attack rolls against any target other than the grappler.<br>
 ***Movable.*** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
-#### Incapacitated
+##### Incapacitated
 ***Inactive.*** You can't take any action, Bonus Action, or Reaction.<br>
 ***No Concentration.*** Your Concentration is broken.<br>
 ***Speechless.*** You can't speak.<br>
 ***Surprised.*** If you're Incapacitated when you roll Initiative, you have Disadvantage on the roll.
 
-#### Invisible
+##### Invisible
 ***Surprise.*** If you're Invisible when you roll Initiative, you have Advantage on the roll.<br>
 ***Concealed.*** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.<br>
 ***Attacks Affected.*** Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 <br>
 
-#### Paralyzed
+##### Paralyzed
 ***Incapacitated.*** You have the Incapacitated condition.<br>
 ***Speed 0.*** Your Speed is 0 and can't increase.<br>
 ***Saving Throws Affected.*** You automatically fail Strength and Dexterity saving throws.<br>
 ***Attacks Affected.*** Attack rolls against you have Advantage.<br>
 ***Automatic Critical Hits.*** Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 
-#### Petrified
+##### Petrified
 ***Turned to Inanimate Substance.*** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.<br>
 ***Incapacitated.*** You have the Incapacitated condition.<br>
 ***Speed 0.*** Your Speed is 0 and can't increase.<br>
@@ -56,24 +56,24 @@
 ***Resist Damage.*** You have Resistance to all damage.<br>
 ***Poison Immunity.*** You have Immunity to the Poisoned condition.
 
-#### Poisoned
+##### Poisoned
 ***Ability Checks and Attacks Affected.*** You have Disadvantage on attack rolls and ability checks.
 
-#### Prone
+##### Prone
 ***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.<br>
 ***Attacks Affected.*** You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
 
-#### Restrained
+##### Restrained
 ***Speed 0.*** Your Speed is 0 and can't increase.<br>
 ***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.<br>
 ***Saving Throws Affected.*** You have Disadvantage on Dexterity saving throws.
 
-#### Stunned
+##### Stunned
 ***Incapacitated.*** You have the Incapacitated condition.<br>
 ***Saving Throws Affected.*** You automatically fail Strength and Dexterity saving throws.<br>
 ***Attacks Affected.*** Attack rolls against you have Advantage.)
 
-#### Unconscious
+##### Unconscious
 ***Inert.*** You have the Incapacitated and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.<br>
 ***Speed 0.*** Your Speed is 0 and can't increase.<br>
 ***Attacks Affected.*** Attack rolls against you have Advantage.<br>

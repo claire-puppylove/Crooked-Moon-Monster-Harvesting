@@ -1,27 +1,23 @@
-# Crooked Moon<br>Monster Harvesting
-
-Monster Harvesting options I added for my Crooked Moon campaign
+# Crooked Moon Monster Harvesting
 
 <a id="objective"></a>
-## Objective
+### Objective
 
 Following the publication of [The Crooked Moon](https://thecrookedmoon.com) I decided to DM it for my friends.
 
 Now in most video games I enjoy monster drops, monster harvesting, or otherwise having an item be part of the story-telling of the world the players are in. I take great inspiration from games like Dark Souls, where item descriptions are how we find out some of the lore of the monsters we just defeated, as well as Tears of the Kingdom, where you can do wacky things with items recovered from monster parts. 
 
-Therefore I decided to make items unique to most monsters of the Crooked Moon campaign. That includes some of the official Monster Manual monsters as well, but I did not cover all of them. 
-
-Now, because a lot of Crooked Moon characters don't really need to eat, I didn't really put all that much thought in cooking effects.
+Therefore I decided to make items unique to most monsters of the Crooked Moon campaign. That includes some of the official Monster Manual monsters as well, but I did not cover all of them. Now, because a lot of Crooked Moon characters don't really need to eat, I didn't really put all that much thought in cooking effects.
 
 Also to note is that I cannot be bothered with encumbrance rules so unless I am feeling particularly bored and had finished all the monsters, I'm not including item weight in any of the items for the moment.
 
 <a id="spoilers"></a>
-## Spoilers
+### Spoilers
 
 This whole guide, the table, the item descriptions, everything here is for DM eyes only, since it is full of spoilers.
 
 <a id="use-guide"></a>
-## Use guide
+### Use guide
 
 Go inside the `manuals` folder to access different versions of the harvesting items. There are two main files: `harvesting_items_dm_by_item`, and `harvesting_items_player_by_item`. There's also an alternative two files organized by monster: `harvesting_items_dm_by_monster`, and `harvesting_items_player_by_monster`. They each have a markdown and HTML version. You can download the HTML file and open it with a browser like Firefox, for example, or on your phone browser as well. All are for DM eyes only, but the second file of each group is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.
 
@@ -61,7 +57,7 @@ There are (currently) mainly the following fields:
 - **Location**: Although I haven't double checked it to be exhaustive, the location that the monster or monsters appear in, and therefore also potentially the loot.
 
 <a id="general-design-guidelines"></a>
-## General Design Guidelines
+### General Design Guidelines
 
 I mostly designed the item drops by these rules:
 
@@ -80,18 +76,13 @@ Lastly, You can probably give some of these without the players killing the mons
 
 
 <a id="references"></a>
-## References
+### References
 
 Although I mostly prefer to make my own, I have been consulting [The Thieves' Guild harvesting guide](https://www.thievesguild.cc/harvest/) as inspiration. I don't have anything against them, and their items are often good, but mostly they are only worth money, and I want my consumable items to do special things every time.
 
 <a id="donations"></a>
-## Donations
+### Donations
 
 I won't charge for this content but honestly it is taking me several full on days of designing items. If you'd like to toss a coin to your local Witch I would be grateful.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B25VYE0)
-
-<!-- ## Table of Contents -->
-
-<!-- TOC -->
-<!-- TOC -->

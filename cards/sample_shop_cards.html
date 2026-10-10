@@ -1,52 +1,7 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>/* latin-ext */
-/*@font-face {
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>@font-face {
   font-family: 'Libre Baskerville';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville'), local('LibreBaskerville'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville'), local('LibreBaskerville'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/
-
-/* latin-ext */
-/*@font-face {
-  font-family: 'Libre Baskerville Bold';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville Bold';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/
-/* latin-ext */
-/*@font-face {
-  font-family: 'Libre Baskerville Italic';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville Italic';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/</style>
+  src: local('Libre Baskerville'), local('LibreBaskerville'), url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
+}</style>
 <style>body {
     margin:0;
     padding:0mm;
@@ -67,7 +22,6 @@
     width: 55mm;
     column-width:70mm;
     column-gap:7mm;
-    column-rule:#ffffff solid 1mm;
     padding: 0mm 1.5mm 0mm 1.5mm;
     margin: 0.5mm 0 0 0;
     border:1.2mm #a99d8b solid;
@@ -78,23 +32,39 @@
     font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
 }
 
-.item_name h1{
-    font-weight:bold;
+.item_name {
     text-align: center;
-    font-size: 0.55rem;
     column-span:all;
-    padding-top:0.5mm;
-    padding-bottom:1.5mm;
-    border-bottom:1pt #a99d8b solid;
-    text-transform:uppercase;
     color:#4a3b27;
+    font-weight:bold;
+    font-size: 0.55rem;
+    text-transform:uppercase;
+    padding-top:1.5mm;
+    padding-bottom:1.5mm;
+    /*padding-bottom:0.5mm;*/
+    margin-top: 1mm;
+    margin-bottom: 0;
+    border-bottom:1pt #a99d8b solid;
+}
+
+.item_name h1 {
+    text-align: center;
+    column-span:all;
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size: 0.55rem;
+    color:#4a3b27;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin:0;
 }
 
 .top-section {
-    font-style:italic;
+    font-style: italic;
+    font-weight: 400;
     text-align: center;
     font-size:0.5rem;
-    padding-top:0mm;
+    padding-top:1.5mm;
     column-span:all;
     padding-bottom:1mm;
     border-bottom:1pt #a99d8b solid;
@@ -115,14 +85,12 @@
     font-style:italic;
 }
 
-.divider{
-    padding:0.2em;
-}
-
 @page{
   size:A4;
   margin-top: 0.4in;
   margin-bottom: 0.4in;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 @media print {
@@ -130,19 +98,13 @@
     max-width: 100% !important;
     margin: 0 15mm 0 15mm !important;
     background: transparent !important;
-  }
-
-  body .markdown-body
-  {
     padding:0 !important;
   }
 
-  .markdown-body * {
+  .cards-container {
     background: transparent !important;
-    /*color: black !important;*/
-    filter:none !important;
-    -ms-filter: none !important;
   }
+
 }
 </style><title>Sample Shop Cards</title></head><body><div class='cards-container'>
     <div class='card'>

@@ -68,7 +68,7 @@ _ Consumable (Uncommon)_
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant, Torch_  
-**Description**: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.  
+**Description**: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.<br>You can alternatively crush this item into 5 pieces of Soul Embers using blunt force. If you have proficiency with an Alchemist Kit, you can refine it more carefully into 10 pieces of Soul Embers. The process takes 30 minutes. Any resulting number of Soul Embers will add up to 50 GP when used as material for crafting.  
 
 **Cooking Effect**: When used as fuel in a fire to cook, you can prepare magic food for up to 4 people. When this food is eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation, whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, subtract 2 points of damage from the total instead.   
   
@@ -83,6 +83,16 @@ _ Consumable (Rare)_
 **Description**: The wheels of the Ghostlight Locomotive are lubricated with a ghostly grease that still keeps a bit of its power.<br>You can use a Bonus Action to apply this to a weapon. When applied to a weapon, add +1d6 Fire and +1d6 Necrotic damage to attacks with that weapon for 1 hour, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage. If used on an armor or a shield, it grants resistance to necrotic and fire damage for 1 hour.<br>When used as fuel for a torch or lantern, it temporarily becoems magical for the duration of the fuel (6 hours). Mixing other fuels does not extend this time, but turning the lantern off can be done to save the remaining fuel for later. In the case of a torch it sheds green-blue Bright Light for 30 ft and Dim Light for 30 ft, or Bright Light in a 50 ft radius and Dim Light for an additional 50 ft for a hooded lantern, or 70 ft cone Bright light and 70 ft Dim Light for a bullseye lantern, and incorporeal creatures illuminated by it become corporeal, losing any resistances to slashing, bludgeoning and piercing damage when affected like this.  
 
 **Cooking Effect**: When used as cooking oil, you can prepare food for up to 4 people. When eaten, for the next 12 hours you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation become semi-corporeal. Whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, they instead subtract 2 points of damage from the total.  
+
+  
+
+### Ghostlight Adventurer's Ring
+**Source**: Home-brew  
+_Ring (Uncommon)(Requires Attunement)_  
+**Store in**: _pouch_  
+**Crafting Value (when used as ingredient)**: _550 GP_  
+**Use**: _activate_  
+**Description**: A variant of the Adventurer's Ring, this ring provides ghostly light. The ring has 6 charges. While the cover on this ring is open, the ring produces a flame that creates no heat and consumes no fuel. It sheds a blue-green Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. You can spend a charge to create a hot spark from the ring. During this time, target 1 creature that is incorporeal and Undead within 20 feet of you, and that creature will not benefit from Resistance to Piercing, Slashing or Bludgeoning damage from being incorporeal for 1 round. You can instead target one weapon in your possession for 1 round. During this time, the weapon will ignore resistances to Piercing, Slashing, or Bludgeoning damage resulting from a target of the attack being incorporeal and Undead. The ring recovers 1d6 charges each Long Rest.  
 
   
 
@@ -150,7 +160,7 @@ _Wondrous Item (Uncommon) (Requires Attunement)_
 _Wondrous Item (Uncommon)_  
 **Store in**: _bag_  
 **Use**: _Take ball out_  
-**Description**: This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.<br>You can take a Magic action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the Monster Manual for the creature’s stat block. The creature vanishes at the next dawn or when it is reduced to 0 Hit Points.<br>The creature is Friendly to you and your allies, and it acts immediately after you on your Initiative count. You can take a Bonus Action to command how the creature moves and what action it takes on its next turn, such as attacking an enemy. In the absence of such orders, the creature acts in a fashion appropriate to its nature.<br>Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.<br>**1d8**&nbsp;**Creature**&nbsp;&nbsp;&nbsp;|&nbsp;**1d8**&nbsp;**Creature**<br>**1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weasel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Panther<br>**2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Rat&nbsp;&nbsp;|&nbsp;**6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Badger<br>**3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Badger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**7**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dire Wolf<br>**4**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**8**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Elk  
+**Description**: This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.<br>You can take a Magic action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the Monster Manual for the creature's stat block. The creature vanishes at the next dawn or when it is reduced to 0 Hit Points.<br>The creature is Friendly to you and your allies, and it acts immediately after you on your Initiative count. You can take a Bonus Action to command how the creature moves and what action it takes on its next turn, such as attacking an enemy. In the absence of such orders, the creature acts in a fashion appropriate to its nature.<br>Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.<br>**1d8**&nbsp;**Creature**&nbsp;&nbsp;&nbsp;|&nbsp;**1d8**&nbsp;**Creature**<br>**1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weasel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Panther<br>**2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Rat&nbsp;&nbsp;|&nbsp;**6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Badger<br>**3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Badger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**7**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dire Wolf<br>**4**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;**8**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Elk  
 
   
 
@@ -168,7 +178,7 @@ _Consumable (Uncommon)_
 _Wondrous Item (Uncommon)_  
 **Store in**: _bag_  
 **Use**: _Activate_  
-**Description**: This iron rod has a button on one end. You can take a Utilize action to press the button, which causes the rod to become magically fixed in place. Until you or another creature takes a Utilize action to push the button again, the rod doesn’t move, even if it defies gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can take a Utilize action to make a DC 30 Strength (Athletics) check, moving the fixed rod up to 10 feet on a successful check.  
+**Description**: This iron rod has a button on one end. You can take a Utilize action to press the button, which causes the rod to become magically fixed in place. Until you or another creature takes a Utilize action to push the button again, the rod doesn't move, even if it defies gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can take a Utilize action to make a DC 30 Strength (Athletics) check, moving the fixed rod up to 10 feet on a successful check.  
 
   
 
@@ -288,7 +298,7 @@ _Consumable (Uncommon)_
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Weapon enchant, Armor enchant, Thrown_  
-**Description**: Wights are the withered corpses of relentless warriors whose wickedness and vengeful intent sustains them beyond death. Once slain, you can still find some of their ill intent crystalized in a Dark Shard. It is better not to absorb this shard for yourself, but you can still use it.<br>When applied to a weapon as a Bonus Action, a negative aura covers the weapon for 10 minutes, adding +1d6 Necrotic damage to hits with that weapon, and the target's maximum Hit Points decreases by an ammount equal to the extra damage added by this item, unless they have resistances or immunities to Necrotic damage.<br>When applied to an armor or shield, an aura covers it for 10 minutes, and when an enemy attacks the wearer they take 1d6 Necrotic damage, and can't regain Hit Points until the end of their next turn.<br>When thrown, an emanation of magical darkness appears in a 10 ft radius, creatures in the emanation make a DC 13 Wisdom Saving Throw, and take 2d6 Necrotic damage and become Frightened of the emanation, or half the damage with no additional effect.  
+**Description**: Wights are the withered corpses of relentless warriors whose wickedness and vengeful intent sustains them beyond death. Once slain, you can still find some of their ill intent crystalized in a Dark Shard.<br>When applied to a weapon as a Bonus Action, a negative aura covers the weapon for 10 minutes, adding +1d6 Necrotic damage to hits with that weapon, and the target's maximum Hit Points decreases by an ammount equal to the extra damage added by this item, unless they have resistances or immunities to Necrotic damage.<br>When applied to an armor or shield, an aura covers it for 10 minutes, and when an enemy attacks the wearer they take 1d6 Necrotic damage, and can't regain Hit Points until the end of their next turn.<br>When thrown, an emanation of magical darkness appears in a 10 ft radius, creatures in the emanation make a DC 13 Wisdom Saving Throw, and take 2d6 Necrotic damage and become Frightened of the emanation, or half the damage with no additional effect.  
 
   
 
@@ -348,7 +358,7 @@ _Consumable (Very Rare)_
 ### Broom of Flying
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)(Requires Attunement)_  
-**Description**: This wooden broom functions like a mundane broom until you stand astride it and take a Magic action to make it hover beneath you, at which time it can be ridden in the air. It has a Fly Speed of 50 feet. It can carry up to 400 pounds, but its Fly Speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you’re no longer riding it.<br><br>As a Magic action, you can send the broom to travel alone to a destination within 1 mile of you if you name the location and are familiar with it. The broom comes back to you when you take a Magic action and use a command word if the broom is still within 1 mile of you.  
+**Description**: This wooden broom functions like a mundane broom until you stand astride it and take a Magic action to make it hover beneath you, at which time it can be ridden in the air. It has a Fly Speed of 50 feet. It can carry up to 400 pounds, but its Fly Speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you're no longer riding it.<br><br>As a Magic action, you can send the broom to travel alone to a destination within 1 mile of you if you name the location and are familiar with it. The broom comes back to you when you take a Magic action and use a command word if the broom is still within 1 mile of you.  
 
   
 
@@ -414,7 +424,7 @@ _?_
 _Wondrous Item (Uncommon) (Requires Attunement by a Spellcaster)_  
 **Store in**: _pouch_  
 **Use**: _Use_  
-**Description**: While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can’t be used again until the next dawn.  
+**Description**: While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can't be used again until the next dawn.  
 
   
 
@@ -466,9 +476,9 @@ _Consumable (Uncommon)_
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _50 GP_  
 **Use**: _Sprinkle_  
-**Description**: A Lurker hides in the shadows and appears hither and thither without struggle, as long as there is Dark. When teleporting like this, the Lurker only leaves behind a trace of gray dust.<br>When sprinkled at a character's feet as a Magic Action, the character can teleport to a place within 60 ft that is not in Bright Light. A creature the user is grappling must succeed on a DC 13 Charisma Saving Throw or be teleported to an unoccupied space closest to the user's destination. When using the dust, you must succeed on a DC 13 Charisma Saving Throw or take 1d6 Psychic damage.  
+**Description**: A Lurker hides in the shadows and appears hither and thither without struggle, as long as there is Dark. When teleporting, the Lurker only leaves behind a trace of gray dust.<br>When sprinkled at a character's feet as a Magic Action, the character can teleport to a place within 60 ft that is not in Bright Light. A creature the user is grappling must succeed on a DC 13 Charisma Saving Throw or be teleported to an unoccupied space closest to the destination. When using the dust, you must succeed on a DC 13 Charisma Saving Throw or take 1d6 Psychic damage.  
 
-**Cooking Effect**: When added as a spice, you can make food with a special effect for up to 4 people. When eaten, for 1 hour, you become slightly unnoticeable and unnerving. When in Dim Light or Darkness, you can take the Hide Action using Charisma (Deception), and creatures have 1d6 subtracted from their Perception or Insight checks against you. However, if a creature that succeeds on seeing you is Friendly towards you, they make a DC 15 Wisdom Saving Throw or have the Frightened condition until the start of their next turn.  
+**Cooking Effect**: When used as a spice, you can make food with a special effect for up to 4 people. When eaten, for 1 hour, you become slightly unnoticeable and unnerving. When in Dim Light or Darkness, you can take the Hide Action using Charisma (Deception), and creatures subtract 1d6 from Perception or Insight checks against you. If a creature that sees you is Friendly towards you, they make a DC 15 Wisdom Saving Throw or have the Frightened condition until the start of their next turn.  
 
   
 
@@ -477,7 +487,7 @@ _Consumable (Uncommon)_
 _Wondrous Item (Uncommon)_  
 **Store in**: _pouch_  
 **Use**: _Activate_  
-**Description**: This wooden statuette of a toy bath duckie can become a Duck for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in duck form, the figurine grants you the ability to cast Animal Messenger on it.<br><br>**Animal Messenger**<br>**Casting Time**:Action<br>**Range**:30 ft<br>**Components**:V,S,M(A morsel of food)<br>**Duration**:24 hours<br><br>A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target’s Challenge Rating isn’t 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as “a person dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.<br><br>When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn’t reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.  
+**Description**: This wooden statuette of a toy bath duckie can become a Duck for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in duck form, the figurine grants you the ability to cast Animal Messenger on it.<br><br>**Animal Messenger**<br>**Casting Time**:Action<br>**Range**:30 ft<br>**Components**:V,S,M(A morsel of food)<br>**Duration**:24 hours<br><br>A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as “a person dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.<br><br>When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn't reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.  
 
   
 
@@ -556,7 +566,7 @@ _Spell Scroll (Uncommon)_
 **Source**: Home-brew  
 _Wondrous Item (Uncommon)_  
 **Store in**: _pouch_  
-**Description**: Once per day, you can describe an object that is familiar to you, and make a DC 15 Arcana check. On a success, the compass will point in the objects direction if it is within 500 ft of you. The compass can locate a specific object known to you if you have seen it up close (within 30 feet) at least once. Alternatively, the compass can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon. The check can be made with Advantage if the object of interest is a specific type of teeth. This compass can’t locate an object if any thickness of lead blocks a direct path between you and the object.  
+**Description**: Once per day, you can describe an object that is familiar to you, and make a DC 15 Arcana check. On a success, the compass will point in the objects direction if it is within 500 ft of you. The compass can locate a specific object known to you if you have seen it up close (within 30 feet) at least once. Alternatively, the compass can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon. The check can be made with Advantage if the object of interest is a specific type of teeth. This compass can't locate an object if any thickness of lead blocks a direct path between you and the object.  
 
   
 
@@ -602,6 +612,16 @@ _Consumable (Uncommon)_
 **Description**: While wearing the visage of a crow, these are clearly something demonic, as is clear by the Ichor they leave behind. You can use a Bonus Action to apply this to a weapon. When applied to a weapon, you can make 1 more attack than you are normally able to per turn for 1 minute, and the wielder of the weapon gains Temporary Hit Points equal to half the damage that was dealt. However, you must succeed on a DC 13 Wisdom Saving Throw or fail to recognize friend from foe until the start of your next turn.  
 
 **Cooking Effect**: When used in cooking, you can cook food with a special effect for up to 2 people. When eaten, your eyes become slightly demonic for 1 hour, and you gain the ability to see in Darkness as if it was Bright Light up to 40 ft, and as if it was Dim Light up to 80 ft for the duration.   
+  
+
+### False Crow Amber Eye
+**Source**: Home-brew  
+_Consumable (Common)_  
+**Store in**: _pouch_  
+**Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items_  
+**Crafting Value (when used as ingredient)**: _5 GP_  
+**Description**: A blood stained piece of amber in the shape of a crow eye, from a creature that is clearly not a crow. If you hold it to your ear, you can hear what it sounds like to be surrounded by murderous crow-like fiends, although extremely loudly. You can use a Bonus Action, or a Reaction when being attacked to throw it to a target within 10 ft of you. The target must succeed on a DC 14 Dexterity Saving Throw or take 1d10 Thunder damage from the cacophany, and have Disadvantage on their next attack, including the one that triggered the reaction. On a success, the target only takes half the damage.  
+
   
 
 ### False Crow Feather
@@ -710,7 +730,7 @@ _Mundane_
 ### Bloody Bundle
 **Source**: The Crooked Moon  
 _Mundane_  
-**Description**: A ritual circle drawn in dried calf ’s blood hidden under a rug, a cow skull, a chicken skull, and a lamb skull on a shelf, all marked with a bloody thumbprint, and a bundle of dried wheat, barley, and flax, bound in a blood-drenched rag, all found in the Butcher's shop's back room.  
+**Description**: A ritual circle drawn in dried calf 's blood hidden under a rug, a cow skull, a chicken skull, and a lamb skull on a shelf, all marked with a bloody thumbprint, and a bundle of dried wheat, barley, and flax, bound in a blood-drenched rag, all found in the Butcher's shop's back room.  
 
   
 
@@ -789,7 +809,7 @@ _Consumable (Rare)_
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Lantern_  
-**Description**: When used to light a mundane hooded or bullseye lantern, it temporarily becomes magical for the duration of the fuel (6 hours). Mixing other fuels does not extend this time, but turning the lantern off can be done to save the remaining fuel for later.<br>As a Magic Action you can use the langern to produce a melee or ranged (60 ft) flame of a specific color, using a +7 to hit. The following colors have these effects:<br>**Blue** does 1d6 + 4 Cold damage, and the target has the Restrained condition until the end of its next turn.<br>**Green** does 3d10 + 4 Necrotic damage, and the target’s Speed is 0 until the end of its next turn.<br>**Purple** does 1d12 + 4 Psychic damage, and the target has the Frightened condition until the end of its next turn.<br>**Red** does 2d10 + 4 Fire damage, and the target starts burning, taking 1d10 Fire damage instead of the regular burning damage.<br>Any time you use the lantern to attack you must succeed on a DC 10 Wisdom Saving Throw or be affected by laughter which gives you the Incapacitated condition until the start of your next turn.  
+**Description**: When used to light a mundane hooded or bullseye lantern, it temporarily becomes magical for the duration of the fuel (6 hours). Mixing other fuels does not extend this time, but turning the lantern off can be done to save the remaining fuel for later.<br>As a Magic Action you can use the langern to produce a melee or ranged (60 ft) flame of a specific color, using a +7 to hit. The following colors have these effects:<br>**Blue** does 1d6 + 4 Cold damage, and the target has the Restrained condition until the end of its next turn.<br>**Green** does 3d10 + 4 Necrotic damage, and the target's Speed is 0 until the end of its next turn.<br>**Purple** does 1d12 + 4 Psychic damage, and the target has the Frightened condition until the end of its next turn.<br>**Red** does 2d10 + 4 Fire damage, and the target starts burning, taking 1d10 Fire damage instead of the regular burning damage.<br>Any time you use the lantern to attack you must succeed on a DC 10 Wisdom Saving Throw or be affected by laughter which gives you the Incapacitated condition until the start of your next turn.  
 
 **Cooking Effect**: When used as cooking oil, you can prepare food with a special effect for up to 4 people. When eaten, your eyes can glow Bright Light for a 10 ft cone, and Dim Light a 20 ft cone, of one of the colors for 1 hour, and you can make a Kackle Fire Breath attack as a Magic Action. You spit fire in a 15 ft cone, and creatures in the area make a DC 14 Dexterity Saving Throw. On a Failure, they suffer the following effects for each color, while on a save they suffer no damage or effect.<br>**Blue** does 1d4 Cold damage, and the target has the Restrained Condition until the end of its next turn.<br>**Green** does 3d8 Necrotic damage, and the target's Speed is 0 until the end of its next turn.<br>**Purple** does 1d10 Psychic damage, and the target has the Frightened condition until the end of its next turn.<br>**Red** does 2d8 Fire damage, and the target starts burning, taking 1d8 Fire damage instead of the regular burning damage.<br>Any time you use the fire breath to attack you must succeed on a DC 10 Wisdom Saving Throw or be affected by laughter which gives you the Incapacitated condition until the start of your next turn.  
 
@@ -798,7 +818,7 @@ _Consumable (Rare)_
 ### Kackle Charm
 **Source**: Home-brew  
 _Consumable (Rare)_  
-**Store in**: _flask_  
+**Store in**: _pouch_  
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Crush_  
@@ -1224,7 +1244,7 @@ _Mundane_
 ### Liturgical Book of Crimson Prayers
 **Source**: The Crooked Moon  
 _Mundane_  
-**Description**: Tucked away in a drawer within Olaf's writing desk is his personal missal, a liturgical book that contains the prayers and rituals of the Crimson Faith.<br><br>It contains details on the ritual to enter the secret chamber beneath the monastery where the Bloodless receive the gift of the Crimson Rose, and where he, Cromwell, and Jaeger had been anointed as the goddess’s chosen. To access this chamber, a hidden goblet beneath the altar in the cathedral must be filled with a pint of blood.  
+**Description**: Tucked away in a drawer within Olaf's writing desk is his personal missal, a liturgical book that contains the prayers and rituals of the Crimson Faith.<br><br>It contains details on the ritual to enter the secret chamber beneath the monastery where the Bloodless receive the gift of the Crimson Rose, and where he, Cromwell, and Jaeger had been anointed as the goddess's chosen. To access this chamber, a hidden goblet beneath the altar in the cathedral must be filled with a pint of blood.  
 
   
 
@@ -1258,7 +1278,7 @@ _Ingredient_
 ### Lethica Nightborne painting
 **Source**: The Crooked Moon  
 _Mundane_  
-**Description**: The painting on the altar is of the wife Renathyr abandoned—Lethica Nightborne. It’s of fine craftsmanship and has a haunting quality, easily worth 500 GP to a collector in Wickermoor Village.  
+**Description**: The painting on the altar is of the wife Renathyr abandoned—Lethica Nightborne. It's of fine craftsmanship and has a haunting quality, easily worth 500 GP to a collector in Wickermoor Village.  
 
   
 
@@ -1563,7 +1583,7 @@ _Consumable (common)_
 **Use as ingredient for**: _Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)_  
 **Crafting Value (when used as ingredient)**: _13 GP_  
 **Use**: _Weapon enchant, Torch_  
-**Description**: Blue-green embers, reminiscent of soul coal. You can use a Bonus Action to apply this to a weapon. When applied to a weapon, it glows with a faint green-blue light for 1 minute, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage for the duration. If sprinkled on a torch, the light will shift to blue-green light, and incorporeal creatures in a 10 ft radius to the torch become corporeal losing any resistances to slashing, bludgeoning and piercing damage when affected like this.  
+**Description**: Blue-green embers, reminiscent of soul coal. You can use a Bonus Action to apply this to a weapon. When applied to a weapon, it glows with a faint green-blue light for 2 rounds, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage for the duration. If sprinkled on a torch, the light will shift to blue-green light for 1 minute, and incorporeal creatures in a 10 ft radius to the torch become corporeal losing any resistances to slashing, bludgeoning and piercing damage when affected like this.  
 
   
 
@@ -1743,20 +1763,23 @@ _Mundane_
 ### Dungeoneer's Pack
 **Source**: Player's Handbook  
 _Mundane_  
-**Description**: A Dungeoneer’s Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.  
+**Description**: A Dungeoneer's Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.  
 
   
 
 ### Alchemist's Fire
 **Source**: Player's Handbook  
 _Consumable (Common)_  
-**Description**: When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).  
+**Description**: When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).  
 
   
 
 ### Oil
 **Source**: Player's Handbook  
 _Mundane_  
+**Store in**: _flask_  
+**Description**: You can douse a creature, object, or space with Oil or use it as fuel, as detailed below.<br>**Dousing a Creature or an Object**. When you take the Attack action, you can replace one of your attacks with throwing an Oil Flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.<br>**Dousing a Space**. You can take the Utilize action to pour an Oil Flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oilburns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.<br>Fuel. Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.  
+
   
 
 ### Ring of Evasion
@@ -1776,7 +1799,7 @@ _Wondrous Item (Uncommon)(Requires Attunement)_
 ### Alarm (Spell Scroll)
 **Source**: Player's Handbook  
 _Scroll (Common)_  
-**Description**: Level 1 Abjuration<br><br>**Casting Time**: 1 minute or Ritual<br>**Range**: 30 feet<br>**Components**: V, S, M (a bell and silver wire)<br>**Duration**: 8 hours<br><br>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is audible or mental:<br><br>**Audible Alarm**. The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.<br><br>**Mental Alarm**. You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you’re asleep.  
+**Description**: Level 1 Abjuration<br><br>**Casting Time**: 1 minute or Ritual<br>**Range**: 30 feet<br>**Components**: V, S, M (a bell and silver wire)<br>**Duration**: 8 hours<br><br>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:<br><br>**Audible Alarm**. The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.<br><br>**Mental Alarm**. You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep.  
 
   
 
@@ -1790,7 +1813,7 @@ _Scroll (Common)_
 ### Sleep (Spell Scroll)
 **Source**: Player's Handbook  
 _Scroll (Common)_  
-**Description**: Level 1 Enchantment<br><br>**Casting Time**: Action<br>**Range**: 60 feet<br>**Components**: V, S, M (a pinch of sand or rose petals)<br>**Duration**: Concentration, up to 1 minute<br><br>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect.<br><br>Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.  
+**Description**: Level 1 Enchantment<br><br>**Casting Time**: Action<br>**Range**: 60 feet<br>**Components**: V, S, M (a pinch of sand or rose petals)<br>**Duration**: Concentration, up to 1 minute<br><br>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.<br><br>Creatures that don't sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.  
 
   
 
@@ -1954,7 +1977,7 @@ _Mundane_
 ### Healer's Kit
 **Source**: Player's Handbook  
 _Consumable (Common)_  
-**Description**: A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  
+**Description**: A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  
 
   
 
@@ -1982,7 +2005,7 @@ _Mundane_
 ### Healer's Kit
 **Source**: Player's Handbook  
 _Consumable (Common)_  
-**Description**: A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  
+**Description**: A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  
 
   
 
@@ -2004,7 +2027,7 @@ _Potion (Uncommon)_
 
 ### Alchemist's Supplies
 **Source**: The Crooked Moon  
-**Description**: Utilize: Identify a substance (DC 15), or start a fire (DC 15). Craft: Acid, Alchemist’s Fire, Component Pouch, Oil, Paper, Perfume  
+**Description**: Utilize: Identify a substance (DC 15), or start a fire (DC 15). Craft: Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume  
 
   
 
@@ -2123,7 +2146,7 @@ _Potion (?)_
 _Potion (?)_  
 **Store in**: _vial_  
 **Use**: _drink_  
-**Description**: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can’t Concentrate on spells or similar effects while Poisoned in this way.  
+**Description**: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can't Concentrate on spells or similar effects while Poisoned in this way.  
 
   
 
@@ -2132,7 +2155,7 @@ _Potion (?)_
 _Potion (?)_  
 **Store in**: _vial_  
 **Use**: _drink_  
-**Description**: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can’t knowingly speak a lie, as if under the effect of a Zone of Truth spell, while Poisoned in this way.  
+**Description**: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can't knowingly speak a lie, as if under the effect of a Zone of Truth spell, while Poisoned in this way.  
 
   
 
@@ -2140,14 +2163,14 @@ _Potion (?)_
 **Source**: Dungeon Master's Guide  
 _Consumable (Rare)_  
 **Store in**: _pouch_  
-**Description**: This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. <br><br>You can take a Magic action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius Sphere on impact and is destroyed. Each creature in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can pass through.<br><br>An enclosed creature can take a Utilize action to push against the sphere’s wall, moving the sphere up to half the creature’s Speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.  
+**Description**: This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. <br><br>You can take a Magic action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius Sphere on impact and is destroyed. Each creature in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can pass through.<br><br>An enclosed creature can take a Utilize action to push against the sphere's wall, moving the sphere up to half the creature's Speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.  
 
   
 
 ### Wand of Magic Missiles
 **Source**: Dungeon Master's Guide  
 _Wand (Uncommon)_  
-**Description**: This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Magic Missile from it. For 1 charge, you cast the level 1 version of the spell. You can increase the spell’s level by 1 for each additional charge you expend.<br><br>**Regaining Charges**. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.  
+**Description**: This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Magic Missile from it. For 1 charge, you cast the level 1 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.<br><br>**Regaining Charges**. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.  
 
   
 
@@ -2158,9 +2181,9 @@ _Ring (Uncommon)_
 
   
 
-### Diplomat’s Pack
+### Diplomat's Pack
 **Source**: Player's Handbook  
-**Description**: A Diplomat’s Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.  
+**Description**: A Diplomat's Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.  
 
   
 
@@ -2175,7 +2198,7 @@ _Ring (Uncommon)_
 ### Godlee's Diary
 **Source**: The Crooked Moon  
 _Mundane_  
-**Description**: A small diary showcasing Godlee’s admiration for and obsession with Matron Lethica, revealing that the way to enter her personal Laboratory (area L27) is to inject a dose of Lethic Serum into the eye of the owl painted on the wall of the second floor hallway.  
+**Description**: A small diary showcasing Godlee's admiration for and obsession with Matron Lethica, revealing that the way to enter her personal Laboratory (area L27) is to inject a dose of Lethic Serum into the eye of the owl painted on the wall of the second floor hallway.  
 
   
 
@@ -2196,7 +2219,7 @@ _Ring (Rare) (Requires Attunement)_
 ### Fallen Knight's Tabard
 **Source**: The Crooked Moon  
 _Mundane_  
-**Description**: A blood-stained knight’s tabard bearing heraldry depicting a rising sun  
+**Description**: A blood-stained knight's tabard bearing heraldry depicting a rising sun  
 
   
 
@@ -2224,35 +2247,35 @@ _?_
 ### Unrefined Ichor
 **Source**: The Crooked Moon  
 _?_  
-**Description**: An amethyst-purple liquid produced by the White Worm, found in Lethica’s Quarters (area L19), the Laboratory (area L27)  
+**Description**: An amethyst-purple liquid produced by the White Worm, found in Lethica's Quarters (area L19), the Laboratory (area L27)  
 
   
 
 ### Numbing Agent
 **Source**: The Crooked Moon  
 _Consumable_  
-**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Stoneskin (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
+**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Stoneskin (no Concentration required), which deals 1d4 Piercing damage to the target that can't be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial's contents.  
 
   
 
 ### Alkaline Stabilizer
 **Source**: The Crooked Moon  
 _Consumable_  
-**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Protection from Energy (Acid) (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
+**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Protection from Energy (Acid) (no Concentration required), which deals 1d4 Piercing damage to the target that can't be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial's contents.  
 
   
 
 ### Adrenal Stimulant
 **Source**: The Crooked Moon  
 _Consumable_  
-**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Enhance Ability (Strength) (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  
+**Description**: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Enhance Ability (Strength) (no Concentration required), which deals 1d4 Piercing damage to the target that can't be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial's contents.  
 
   
 
 ### Experimental Procedure File
 **Source**: The Crooked Moon  
 _Mundane_  
-**Description**: A yellowing file folder tucked beneath one side of the woven bed. It includes a detailed record of Hugo’s surgeries and transformation.  
+**Description**: A yellowing file folder tucked beneath one side of the woven bed. It includes a detailed record of Hugo's surgeries and transformation.  
 
   
 
@@ -2449,7 +2472,7 @@ _Consumable (Rare)_
 **Source**: Home-brew  
 _Wondrous Item (Rare)_  
 **Store in**: _pouch_  
-**Description**: This amulet contains the crystallised form of a troll heart preserved in tar. While wearing and attuned to this amulet, you may spend an action to activate it. For the next minute, you regain 10 hit points at the start of your turn so long as you haven’t taken acid or fire damage since the end of your last turn and so long as you start your turn with at least 1 hit point. Once you have used this ability once, you cannot use it again until the next dawn.  
+**Description**: This amulet contains the crystallised form of a troll heart preserved in tar. While wearing and attuned to this amulet, you may spend an action to activate it. For the next minute, you regain 10 hit points at the start of your turn so long as you haven't taken acid or fire damage since the end of your last turn and so long as you start your turn with at least 1 hit point. Once you have used this ability once, you cannot use it again until the next dawn.  
 
 _Crafted Item_  
   
@@ -2481,7 +2504,7 @@ _Consumable (Very Rare)_
 ### Purple Worm Excavator Pick (Very Rare)
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
-**Description**: While you are attuned to this weapon you gain the following benefits. This weapon deals 1d12 Piercing damage and 1d8 Acid damage on a hit. You can also use this weapon as a focus for your spells.<br>As a Magic Action, you can use it to destroy rock or dirt in a 20 ft cube, making a traversable path, or creating difficult terrain. You can also use a Magic Action to create an Earthquake effect in a 40 ft square adjacent to a point you can swing the pick at. The area immediately becomes shaking earth and difficult terrain, and creatures in the area make a DC 20 Dexterity Saving Throw, failing which they take 4d6 Bludgeoning damage and are Prone until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. On subsequent turns for 1 minute, the area continues to shake and creatures ending their movement in the area make another DC 20 Dexterity Saving Throw and take 2d6 Bludgeoning damage and become Prone again until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. Once you use the Earthquake effect, it can’t be used again until the next dawn.  
+**Description**: While you are attuned to this weapon you gain the following benefits. This weapon deals 1d12 Piercing damage and 1d8 Acid damage on a hit. You can also use this weapon as a focus for your spells.<br>As a Magic Action, you can use it to destroy rock or dirt in a 20 ft cube, making a traversable path, or creating difficult terrain. You can also use a Magic Action to create an Earthquake effect in a 40 ft square adjacent to a point you can swing the pick at. The area immediately becomes shaking earth and difficult terrain, and creatures in the area make a DC 20 Dexterity Saving Throw, failing which they take 4d6 Bludgeoning damage and are Prone until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. On subsequent turns for 1 minute, the area continues to shake and creatures ending their movement in the area make another DC 20 Dexterity Saving Throw and take 2d6 Bludgeoning damage and become Prone again until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. Once you use the Earthquake effect, it can't be used again until the next dawn.  
 
 _Crafted Item_  
   
@@ -2504,9 +2527,9 @@ _Consumable (Very Rare)_
 **Use as ingredient for**: _Weapons_  
 **Crafting Value (when used as ingredient)**: _2500 GP_  
 **Use**: _Weapon Enchant_  
-**Description**: The Purple Worm is deadly not only from its mouth but from its stinger as well. You can only imagine what it needs such a big stinger for, and you don't want to find out.<br>The poison from the stinger can be applied directly to a weapon or 3 pieces of ammunition 1 time, or you can refine the poison with the Poisoner Kit or the Alchemist Kit for 1 hour to make an extract that allows you to have 3 vials of poison with the same effect instead.<br>When coating a weapon with either the stinger secretions or the extract as a Bonus Action, your weapon becomes poisonus for 3 hits. On a hit, the target takes he mundane damage normally, and immediately makes a DC 19 Constitution saving throw. On a failure they take 10d6 Poison damage, and have the Poisoned condition for 1 hour. On a failure, they take half as much damage, and have no additional effect.  
+**Description**: The Purple Worm is deadly not only from its mouth but from its stinger as well. You can only imagine what it needs such a big stinger for, and you don't want to find out.<br>The poison from the stinger can be applied directly to a weapon or 3 pieces of ammunition 1 time, or you can refine the poison with the Poisoner Kit or the Alchemist Kit for 1 hour to make an extract that allows you to have 3 vials with the same effect.<br>When coating a weapon with either the stinger secretions or the extract as a Bonus Action, your weapon becomes poisonus for 3 hits. On a hit, the target takes he mundane damage normally, and immediately makes a DC 19 Constitution saving throw. On a failure they take 10d6 Poison damage, and have the Poisoned condition for 1 hour. On a failure, they take half as much damage, and have no additional effect.  
 
-**Cooking Effect**: If you have proficiency with the Poisoner Kit or the Alchemist Kit, you can refine 8 vials of an antidote in 2 hours. When the antidote is injected, you have immunity to the Poisoned condition and resistance to Poison damage for 24 hours.  
+**Cooking Effect**: If you have proficiency with the Poisoner Kit or the Alchemist Kit, you can refine 8 vials of an antidote in 2 hours. When injected, you have immunity to the Poisoned condition and resistance to Poison damage for 24 hours.  
 
   
 
@@ -2985,7 +3008,7 @@ _Consumable (Rare)_
 **Use as ingredient for**: _Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items_  
 **Crafting Value (when used as ingredient)**: _500 GP_  
 **Use**: _Ring_  
-**Description**: The tolling bell on the carriage precedes the apparition’s appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 5 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn. On a success, they take half damage only. Undead creatures make this save at disadvantage.<br>Alternatively, if the bell still has at least 3 charges, you can spend an additional 500 GP to reinforce its magic to make it a permanent magic item, Hearse's Toll (Rare)  
+**Description**: The tolling bell on the carriage precedes the apparition's appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 5 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn. On a success, they take half damage only. Undead creatures make this save at disadvantage.<br>Alternatively, if the bell still has at least 3 charges, you can spend an additional 500 GP to reinforce its magic to make it a permanent magic item, Hearse's Toll (Rare)  
 
   
 
@@ -2994,7 +3017,7 @@ _Consumable (Rare)_
 _Wondrous Item (Rare)_  
 **Store in**: _bag_  
 **Use**: _Ring_  
-**Description**: The tolling bell on the carriage precedes the apparition’s appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 2 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn.<br>The bell regains 1d2 charges per long rest.  
+**Description**: The tolling bell on the carriage precedes the apparition's appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 2 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn.<br>The bell regains 1d2 charges per long rest.  
 
 _Crafted Item_  
   
@@ -3060,7 +3083,7 @@ _Consumable (Very Rare)_
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring_  
 **Crafting Value (when used as ingredient)**: _4000 GP_  
 **Use**: _Weapon Enchant, Armor Enchant, Accessory Enchant, Drink_  
-**Description**: The blood of a Necrolisk flows with the energy of the spirits it devoured during its lifetime.<br><br>You can use it in a ritual lasting 10 minutes to coat a weapon with it, which will permanently turns it into a Shroudbane Weapon (Very Rare).<br><br>You can also use it in a ritual lasting 10 minutes to coat a piece of armor, shield or clothing, which permanently become a Shroud Repellent (Very Rare) equipment.<br><br>You can also use it to coat a silver accessory, such as a ring or amulet, which permanently becomes a Silver Accessory of Coveting (Very Rare). <br><br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br><br>If you consume the blood it will permanently grant 15 ft of Tremorsense, and 5 ft of Blindsight, which are added to your range of Tremorsense and Blindsight if you already have it from other features, as well as the ability to once per long rest sense incorporeal entities within 200 ft of you, or you add 200 ft to whichever feature allows you to sense incorporeal creatures that you might have.  
+**Description**: The blood of a Necrolisk flows with the energy of the spirits it devoured during its lifetime.<br>You can use it in a ritual lasting 10 minutes to coat a weapon with it, which will permanently turns it into a Shroudbane Weapon (Very Rare).<br>You can also use it in a ritual lasting 10 minutes to coat a piece of armor, shield or clothing, which permanently become a Shroud Repellent (Very Rare) equipment.<br>You can also use it to coat a silver accessory, such as a ring or amulet, which permanently becomes a Silver Accessory of Coveting (Very Rare). <br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br>If you consume the blood it will permanently grant 15 ft of Tremorsense, and 5 ft of Blindsight, which are added to your range of Tremorsense and Blindsight if you already have it from other features, as well as the ability to once per long rest sense incorporeal entities within 200 ft of you, or you add 200 ft to whichever feature allows you to sense incorporeal creatures that you might have.  
 
 **Cooking Effect**: If you have proficiency in the Alchemist Kit, you can refine the magic in the blood to make 8 vials of Necrolisk Extract  
 
@@ -3131,7 +3154,7 @@ _Ingredient (Very Rare)_
 ### Necrolisk Scale Armor
 **Source**: Home-brew  
 _Armor (Very Rare)(Requires Attunement)_  
-**Description**: This armor is made from the scales of the Necrolisk, which is highly valued. While wearing this armor, you gain a +1 bonus to your Armor Class, you have Advantage on saving throws against the breath weapons of Dragons and the Saliva of the Necrolisk, and you have Resistance to Force damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Necrolisk within 30 miles of yourself. This action can’t be used again until you take a Long Rest.  
+**Description**: This armor is made from the scales of the Necrolisk, which is highly valued. While wearing this armor, you gain a +1 bonus to your Armor Class, you have Advantage on saving throws against the breath weapons of Dragons and the Saliva of the Necrolisk, and you have Resistance to Force damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Necrolisk within 30 miles of yourself. This action can't be used again until you take a Long Rest.  
 
 _Crafted Item_  
   
@@ -3169,7 +3192,7 @@ _Ingredient (Very Rare)_
 ### Soul Eater
 **Source**: Home-brew  
 _Weapon (Very Rare)(Requires Attunement)_  
-**Description**: The Necrolisk is hungry for spirits and souls, and so is this weapon made from the teeth and bones of the beast itself. <br><br>You can also use this weapon as a focus for your spells, and have a +1 bonus to attack rolls and damage rolls against incorporeal creatures. The weapon also has a +1 bonus to spell attack and spell damage rolls and a +1 bonus to spell save DC. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d6 Force damage on any hit, and +4d6 damage to incorporeal creatures, and you gain half of that damage as Temporary Hit Points.<br><br>As a Magic Action, you can choose any number of creatures you can see in a 60 ft radius of you, in addition to automatically affecting incorporeal creatures you cannot see in the same range. You call the hunger of souls within your Soul Eater, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed.<br><br>You can also use a Magic Action to sense the presence of spirits or incorporeal creatures in a 300 ft radius.<br><br>Once you use either feature you can't use that feature again until you take a Long Rest.  
+**Description**: The Necrolisk is hungry for spirits and souls, and so is this weapon made from the teeth and bones of the beast itself. <br><br>You can also use this weapon as a focus for your spells, and have a +1 bonus to attack rolls and damage rolls against incorporeal creatures. The weapon also has a +1 bonus to spell attack and spell damage rolls and a +1 bonus to spell save DC. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d6 Force damage on any hit, and +4d6 damage to incorporeal creatures, and you gain half of that damage as Temporary Hit Points.<br><br>As a Magic Action, you can choose any number of creatures you can see in a 60 ft radius of you, in addition to automatically affecting incorporeal creatures you cannot see in the same range. You call the hunger of souls within your Soul Eater, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed.<br>You can also use a Magic Action to sense the presence of spirits or incorporeal creatures in a 300 ft radius.<br>Once you use either feature you can't use that feature again until you take a Long Rest.  
 
 _Crafted Item_  
   
@@ -3786,7 +3809,7 @@ _Consumable (Rare)_
 _Consumable (Very Rare)_  
 **Store in**: _bag_  
 **Use**: _Read_  
-**Description**: A tome filled with many secrets that the Pigeon Hag obsessively collected over the years. Some of it Arcane, some of it mundane. If you spend 12 hours studying the book’s contents, you increase one of your Ability Scores by 2 to a maximum of 24.  
+**Description**: A tome filled with many secrets that the Pigeon Hag obsessively collected over the years. Some of it Arcane, some of it mundane. If you spend 12 hours studying the book's contents, you increase one of your Ability Scores by 2 to a maximum of 24.  
 
   
 
@@ -4118,7 +4141,7 @@ _Ingredient (Rare)_
 ### Drakkenhob Scale Armor
 **Source**: Home-brew  
 _Armor (Rare)(Requires Attunement)_  
-**Description**: An armor made with the scales of a Drakkenhob. You gain Advantage on saving throws against the Drakkenhob's Terrifying Breath. Whenever you would take Psychic damage, roll 1d10 and subtract the total from the damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Drakkenhob within 30 miles of you. This action can’t be used again until the next time you take a Long Rest.  
+**Description**: An armor made with the scales of a Drakkenhob. You gain Advantage on saving throws against the Drakkenhob's Terrifying Breath. Whenever you would take Psychic damage, roll 1d10 and subtract the total from the damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Drakkenhob within 30 miles of you. This action can't be used again until the next time you take a Long Rest.  
 
 _Crafted Item_  
   
@@ -4169,7 +4192,7 @@ _Consumable (Rare)_
 **Use as ingredient for**: _Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring, Ring of the Night Terror_  
 **Crafting Value (when used as ingredient)**: _1000 GP_  
 **Use**: _Eat_  
-**Description**: You can use the heart of a Drakkenhob as 1000 GP in crafting magic items, particularly of note is it's the only item that allows you to craft a Ring of the Night Terror (Rare), which costs 2000 GP to craft.<br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br>You could, however, eat the Drakkenhob Heart and take in some of its effects, with consequences. You can take 8 hours studying the heart and monster literature with a DC 18 Nature or Arcana check to know what happens if you eat the heart. You can try to remember if you had read something on the matter before by making a DC 23 Nature or Arcana check.<br>  
+**Description**: You can use the heart of a Drakkenhob as 1000 GP in crafting magic items, particularly of note is it's the only item that allows you to craft a Ring of the Night Terror (Rare), which costs 2000 GP to craft.<br><br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br><br>You could, however, eat the Drakkenhob Heart and take in some of its effects, with consequences. You can take 8 hours studying the heart and monster literature with a DC 18 Nature or Arcana check to know what happens if you eat the heart. You can try to remember if you had read something on the matter before by making a DC 23 Nature or Arcana check.<br>  
 
 **Cooking Effect**: You can cook this to make food with a special effect for up to 4 people. When eaten, you gain draconic powers for 1 hour. You can speak and understand Draconic, gain Blindsight to 60 ft, and a Dragon's Breath for the duration. When using the breath weapon, you exhale terror flames in a 20 ft Cone. Creatures in the area must succeed on a DC 15 Dexterity Saving Throw or take 4d6 Psychic damage and become Frightened until the start of your next turn.  
 
@@ -4360,7 +4383,7 @@ _Consumable (Very Rare)_
 **Use as ingredient for**: _Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Hypnovulfen Amulet_  
 **Crafting Value (when used as ingredient)**: _10,000 GP_  
 **Use**: _Point_  
-**Description**: The gaze of the Hypnovulfen is largely what grants it the ability to hunt despite its size. The Hypnovulfen uses its gaze to beguile its victims into seeing a loved one beckoning them closer for a warm embrace, as you have now bitterly been able to learn first-hand. You can use this eye to cast a few more illusions before it loses its power. The eye has 2 charges. You can use 1 charge and a Magic Action to cast an illusion to tragic victims in a 20 ft Cone emanating from the eye. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or have the Charmed condition and percieve a loved one or something it wants until it takes damage, or for 1 minute, whichever happens first. While charmed, it has the Incapacitated condition and must move as close to the eye as possible by the safest route. The creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. Alternatively, as long as the eye has at least 1 charge, you can use it as 10,000 GP worth in materials towards the 20,000 GP necessary to craft a Hypnovulfen Pendulum (Very Rare).  
+**Description**: The gaze of the Hypnovulfen is what grants it the ability to hunt despite its size. The Hypnovulfen uses its gaze to beguile its victims into seeing a loved one beckoning them closer for a warm embrace, as you have now bitterly been able to learn first-hand. You can use this eye to cast illusions before it loses its power. The eye has 2 charges. You can use 1 charge and a Magic Action to cast an illusion to tragic victims in a 20 ft Cone emanating from the eye. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or have the Charmed condition and percieve a loved one or a desire until it takes damage, or for 1 minute, whichever happens first. While charmed, it has the Incapacitated condition and must move as close to the eye as possible by the safest route. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success. Alternatively, as long as it has 1 charge, you can use it as 10,000 GP worth in materials towards the 20,000 GP needed to craft a Hypnovulfen Pendulum (Very Rare).  
 
   
 

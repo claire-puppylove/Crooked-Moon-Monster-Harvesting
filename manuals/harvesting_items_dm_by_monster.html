@@ -1,4 +1,12 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>body {
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>@font-face {
+  font-family: 'Libre Baskerville';
+  src: local('Libre Baskerville'), local('LibreBaskerville'), url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
+}</style>
+<style>@font-face {
+  font-family: 'Noto Sans';
+  src: local('Noto Sans'), local('NotoSans'), url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+}</style>
+<style>body {
   max-width: 980px;
   margin: 16px auto;
 }
@@ -18,7 +26,8 @@ body .markdown-body
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   color: #333333;
-  overflow: hidden;
+  /*overflow: hidden;*/
+  overflow: visible;
   font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
   font-size: 1em;
   line-height: 1.3;
@@ -507,6 +516,13 @@ body .markdown-body
   display:block;
   width: 100%;
   column-span: all;
+  break-inside: auto;
+  overflow: auto;
+}
+
+.markdown-body .wide,
+.markdown-body .wide *{
+  page-break-inside: auto!important;
 }
 
 .markdown-body code,
@@ -947,12 +963,15 @@ body .markdown-body
   size:A4;
   margin-top: 0.4in;
   margin-bottom: 0.4in;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 @media print {
   body {
     max-width: 100% !important;
     margin: 0 15mm 0 15mm !important;
+    background: transparent !important;
   }
 
   body .markdown-body
@@ -961,7 +980,7 @@ body .markdown-body
     background: transparent !important;
   }
 
-  .markdown-body * {
+  .markdown-body *:not(hr) {
     background: transparent !important;
     filter:none !important;
     -ms-filter: none !important;
@@ -984,9 +1003,9 @@ body .markdown-body
     display: none !important;
   }
 
-  .markdown-body a[href]:after {
+  /*.markdown-body a[href]:after {
     content: " (" attr(href) ")" !important;
-  }
+  }*/
 
   .markdown-body abbr[title]:after {
     content: " (" attr(title) ")" !important;
@@ -1030,6 +1049,7 @@ body .markdown-body
   .markdown-body tr,
   .markdown-body img {
     page-break-inside: avoid !important;
+    break-inside: avoid !important;
   }
 
   .markdown-body img {
@@ -1043,9 +1063,12 @@ body .markdown-body
     widows: 3 !important;
   }
 
+  .markdown-body h1,
   .markdown-body h2,
   .markdown-body h3,
-  .markdown-body h4 {
+  .markdown-body h4,
+  .markdown-body h5,
+  .markdown-body h6, {
     page-break-after: avoid !important;
   }
 
@@ -1071,317 +1094,20 @@ body .markdown-body
     border-top:0 !important;
     border-bottom: 1pt solid #ccc !important;
   }
+
+  .pagebreak {
+    page-break-after:always;
+    display: block;
+  } /* page-break-before works, as well */
+
+  .markdown-body .wide {
+    page-break-inside:auto !important;
+  }
+
 }
 
 </style>
-<style>/* latin-ext */
-/*@font-face {
-  font-family: 'Libre Baskerville';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville'), local('LibreBaskerville'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville'), local('LibreBaskerville'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/
-
-/* latin-ext */
-/*@font-face {
-  font-family: 'Libre Baskerville Bold';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville Bold';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/
-/* latin-ext */
-/*@font-face {
-  font-family: 'Libre Baskerville Italic';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville Italic';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/</style>
-<style>/* cyrillic-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARPQ_m87A.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARGQ_m87A.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* devanagari */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARDQ_m87A.woff2) format('woff2');
-  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4AROQ_m87A.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARBQ_m87A.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARNQ_m87A.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARMQ_m87A.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARCQ_k.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyOzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyHzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* devanagari */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyCzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyPzW1aPQ.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyAzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyMzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyNzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW0.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr6DRAW_0.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr4TRAW_0.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* devanagari */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr5DRAW_0.woff2) format('woff2');
-  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr6TRAW_0.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr5jRAW_0.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr6jRAW_0.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr6zRAW_0.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr5TRA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVadyB1Wk.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVYNyB1Wk.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* devanagari */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVZdyB1Wk.woff2) format('woff2');
-  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVaNyB1Wk.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVZ9yB1Wk.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVa9yB1Wk.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVatyB1Wk.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVZNyB.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-</style>
-<style>@import "https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap";
-body{
+<style>body{
     background:#f7ebcb;
     font-family:Libre Baskerville,serif;
     -webkit-font-smoothing:antialiased;
@@ -1392,7 +1118,12 @@ h1,h2,h3,h4,h5,h6{
     color:#7a2b17;
     text-transform:uppercase;
     line-height:1.1;
-    margin:24px 0 12px
+    margin:0 0 9px !important;
+    padding-bottom: 0;
+}
+
+h4,h5,h6 {
+    margin-bottom: 1px !important;
 }
 
 h1:first-letter,h2:first-letter,h3:first-letter,h4:first-letter,h5:first-letter,h6:first-letter{
@@ -1403,9 +1134,10 @@ h1{
     /*font-size:24px;*/
     font-weight:700;
 }
-h1,h2,h3{
+
+/*h1,h2,h3{
     border-bottom:2px solid tan
-}
+}*/
 
 p{
     line-height:1.4;
@@ -1425,16 +1157,14 @@ p+p{
     overflow:hidden;
     margin:16px 0
 }
-/*# sourceMappingURL=/dnd.min.css.map */</style>
-<style>hr {
+/*# sourceMappingURL=/dnd.min.css.map */
+
+hr,
+.markdown-body hr {
     display: block;
     width: 100%;
-    /*height: 2px!important;*/
     height: 2px;
-    /*background-color: #922610!important;*/
-    background-color: #922610;
-    color: #922610;
-    fill: #922610;
+    background-color: #922610!important;
 }
 
 h1 {
@@ -1460,29 +1190,23 @@ h3 {
     border-bottom: 2px solid #922610!important;
 }
 
+h4:has(+hr) {
+    margin-bottom:6px !important;
+    padding-bottom: 0 !important;
+}
+
+h4+hr {
+    margin-top:0 !important;
+    margin-bottom: 9px !important;
+}
+
 h5,h6,p {
     margin: 0;
 }
 
 a{
     color:#922610;
-}</style><title>Crooked Moon Harvesting Items (dm - by monster)</title></head><body><article class="markdown-body"><div class="wide"><h1>Crooked Moon<br>Monster Harvesting</h1>
-<p>Monster Harvesting options I added for my Crooked Moon campaign</p>
-<p><a id="objective"></a></p>
-<h2>Objective</h2>
-<p>Following the publication of <a href="https://thecrookedmoon.com">The Crooked Moon</a> I decided to DM it for my friends.</p>
-<p>Now in most video games I enjoy monster drops, monster harvesting, or otherwise having an item be part of the story-telling of the world the players are in. I take great inspiration from games like Dark Souls, where item descriptions are how we find out some of the lore of the monsters we just defeated, as well as Tears of the Kingdom, where you can do wacky things with items recovered from monster parts. </p>
-<p>Therefore I decided to make items unique to most monsters of the Crooked Moon campaign. That includes some of the official Monster Manual monsters as well, but I did not cover all of them. </p>
-<p>Now, because a lot of Crooked Moon characters don't really need to eat, I didn't really put all that much thought in cooking effects.</p>
-<p>Also to note is that I cannot be bothered with encumbrance rules so unless I am feeling particularly bored and had finished all the monsters, I'm not including item weight in any of the items for the moment.</p>
-<p><a id="spoilers"></a></p>
-<h2>Spoilers</h2>
-<p>This whole guide, the table, the item descriptions, everything here is for DM eyes only, since it is full of spoilers.</p>
-<p><a id="use-guide"></a></p>
-<h2>Use guide</h2>
-<p>Go inside the <code>manuals</code> folder to access different versions of the harvesting items. There are two main files: <code>harvesting_items_dm_by_item</code>, and <code>harvesting_items_player_by_item</code>. There's also an alternative two files organized by monster: <code>harvesting_items_dm_by_monster</code>, and <code>harvesting_items_player_by_monster</code>. They each have a markdown and HTML version. You can download the HTML file and open it with a browser like Firefox, for example, or on your phone browser as well. All are for DM eyes only, but the second file of each group is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.</p>
-<p>There are (currently) mainly the following fields:</p>
-<ul>
+}</style><title>Crooked Moon Harvesting Items (dm - by monster)</title></head><body><article class="markdown-body"><div class="wide"><h1>Crooked Moon Monster Harvesting</h1></div><div class="wide"><p><a id="objective"></a></p></div><div class="wide"><h3>Objective</h3></div><div class="wide"><p>Following the publication of <a href="https://thecrookedmoon.com">The Crooked Moon</a> I decided to DM it for my friends.</p></div><div class="wide"><p>Now in most video games I enjoy monster drops, monster harvesting, or otherwise having an item be part of the story-telling of the world the players are in. I take great inspiration from games like Dark Souls, where item descriptions are how we find out some of the lore of the monsters we just defeated, as well as Tears of the Kingdom, where you can do wacky things with items recovered from monster parts. </p></div><div class="wide"><p>Therefore I decided to make items unique to most monsters of the Crooked Moon campaign. That includes some of the official Monster Manual monsters as well, but I did not cover all of them. Now, because a lot of Crooked Moon characters don't really need to eat, I didn't really put all that much thought in cooking effects.</p></div><div class="wide"><p>Also to note is that I cannot be bothered with encumbrance rules so unless I am feeling particularly bored and had finished all the monsters, I'm not including item weight in any of the items for the moment.</p></div><div class="wide"><p><a id="spoilers"></a></p></div><div class="wide"><h3>Spoilers</h3></div><div class="wide"><p>This whole guide, the table, the item descriptions, everything here is for DM eyes only, since it is full of spoilers.</p></div><div class="wide"><p><a id="use-guide"></a></p></div><div class="wide"><h3>Use guide</h3></div><div class="wide"><p>Go inside the <code>manuals</code> folder to access different versions of the harvesting items. There are two main files: <code>harvesting_items_dm_by_item</code>, and <code>harvesting_items_player_by_item</code>. There's also an alternative two files organized by monster: <code>harvesting_items_dm_by_monster</code>, and <code>harvesting_items_player_by_monster</code>. They each have a markdown and HTML version. You can download the HTML file and open it with a browser like Firefox, for example, or on your phone browser as well. All are for DM eyes only, but the second file of each group is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.</p></div><div class="wide"><p>There are (currently) mainly the following fields:</p></div><div class="wide"><ul>
 <li><strong>Item</strong>: The item name</li>
 <li><strong>Storage</strong>: Where to store the item once harvested. Usually vials, and I ruled a bottle can be filled with the content of 10 vials. I would assume a flask is about 5 vials. I am not American and can't really be bothered to check what an "ounce" or a "pint" is, so this will have to do. For most other items, I imagine a pouch can fit small items and a bag the larger items. Dust and other items, I wold think a small piece of cloth with a string to tie it will do.</li>
 <li><strong>Monster(s)</strong>: The name of the monster or monsters that drop the item. I tried making it one item per monster, but sometimes it is thematic that many monsters will have the same drop. Now, when you release the information to the players make sure it doesn't spoil a monster they haven't harvested yet.</li>
@@ -1521,11 +1245,7 @@ a{
 <li><strong>Find Checks</strong>: For my table, what I think is appropriate to have them roll a check to find the item in the monster remains. In my case, I plan to just tell them to roll their favorite from the list and note the results. This is one of the fields you don't want to hand to the player.</li>
 <li><strong>Find DC</strong>: For my table, what I think is appropriate for the DC to find the item is. Often I will include the DC(quantity) of items if different rolls give more items for the check. For example "13(x1),15(x2),17(x3)" means that from the table, if anyone rolled over a 17 the party gets 3 items, but if the maximum that all of them got was a 16 then they only get 2. Sometimes, I will include Auto Success for certain enemies and the conditions for auto success. Often this happens with Fated Tarot Readings. If the player picked a Fated Tarot card that matches that boss fight, all the monster loot also drops at their maximum amount. This is also information you don't really need to share with your players.</li>
 <li><strong>Location</strong>: Although I haven't double checked it to be exhaustive, the location that the monster or monsters appear in, and therefore also potentially the loot.</li>
-</ul>
-<p><a id="general-design-guidelines"></a></p>
-<h2>General Design Guidelines</h2>
-<p>I mostly designed the item drops by these rules:</p>
-<ul>
+</ul></div><div class="wide"><p><a id="general-design-guidelines"></a></p></div><div class="wide"><h3>General Design Guidelines</h3></div><div class="wide"><p>I mostly designed the item drops by these rules:</p></div><div class="wide"><ul>
 <li>CR 0-3: Common Items</li>
 <li>CR 4-5: Uncommon Items</li>
 <li>CR 6-9: Rare Items</li>
@@ -1536,20 +1256,17 @@ a{
 <li>Only mundane enemies (mundane beasts, CR\&lt;1) have mundane drops</li>
 <li>Consumables are priced at half their rarity cost or less</li>
 <li>Exception when it is funny or thematic</li>
-</ul>
-<p>Lastly, You can probably give some of these without the players killing the monster, but some of them are only obtainable if the monster dies. Feel free to decide for yourself if some item might be available if your players took a pacifist route. For example, the <em>Haint Hooch base</em> can probably be given when the Haint moves on, or the Wildpyre Fur and claws can appear even if they don't fight it. A lot of the items from the Fool's Day Festival can also probably be given if they win at the booths, for example.</p>
-<p><a id="references"></a></p>
-<h2>References</h2>
-<p>Although I mostly prefer to make my own, I have been consulting <a href="https://www.thievesguild.cc/harvest/">The Thieves' Guild harvesting guide</a> as inspiration. I don't have anything against them, and their items are often good, but mostly they are only worth money, and I want my consumable items to do special things every time.</p>
-<p><a id="donations"></a></p>
-<h2>Donations</h2>
-<p>I won't charge for this content but honestly it is taking me several full on days of designing items. If you'd like to toss a coin to your local Witch I would be grateful.</p>
-<p><a href="https://ko-fi.com/B0B25VYE0"><img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></p>
-<!-- ## Table of Contents -->
-
-<!-- TOC -->
-<!-- TOC --></div><h2>Harvesting Items (By Monster, repeating items where necessary)</h2>
+</ul></div><div class="wide"><p>Lastly, You can probably give some of these without the players killing the monster, but some of them are only obtainable if the monster dies. Feel free to decide for yourself if some item might be available if your players took a pacifist route. For example, the <em>Haint Hooch base</em> can probably be given when the Haint moves on, or the Wildpyre Fur and claws can appear even if they don't fight it. A lot of the items from the Fool's Day Festival can also probably be given if they win at the booths, for example.</p></div><div class="wide"><p><a id="references"></a></p></div><div class="wide"><h3>References</h3></div><div class="wide"><p>Although I mostly prefer to make my own, I have been consulting <a href="https://www.thievesguild.cc/harvest/">The Thieves' Guild harvesting guide</a> as inspiration. I don't have anything against them, and their items are often good, but mostly they are only worth money, and I want my consumable items to do special things every time.</p></div><div class="wide"><p><a id="donations"></a></p></div><div class="wide"><h3>Donations</h3></div><div class="wide"><p>I won't charge for this content but honestly it is taking me several full on days of designing items. If you'd like to toss a coin to your local Witch I would be grateful.</p></div><div class="wide"><p><a href="https://ko-fi.com/B0B25VYE0"><img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"/></a></p></div><h2>Harvesting Items (By Monster, repeating items where necessary)</h2>
 <h3>-</h3>
+<h4>Ghostlight Adventurer's Ring</h4>
+<hr />
+<p><strong>Monster(s)</strong>: -<br />
+<strong>Source</strong>: Home-brew<br />
+<em>Ring (Uncommon)(Requires Attunement)</em><br />
+<strong>Store in</strong>: <em>pouch</em><br />
+<strong>Crafting Value (when used as ingredient)</strong>: <em>550 GP</em><br />
+<strong>Use</strong>: <em>activate</em><br />
+<strong>Description</strong>: A variant of the Adventurer's Ring, this ring provides ghostly light. The ring has 6 charges. While the cover on this ring is open, the ring produces a flame that creates no heat and consumes no fuel. It sheds a blue-green Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. You can spend a charge to create a hot spark from the ring. During this time, target 1 creature that is incorporeal and Undead within 20 feet of you, and that creature will not benefit from Resistance to Piercing, Slashing or Bludgeoning damage from being incorporeal for 1 round. You can instead target one weapon in your possession for 1 round. During this time, the weapon will ignore resistances to Piercing, Slashing, or Bludgeoning damage resulting from a target of the attack being incorporeal and Undead. The ring recovers 1d6 charges each Long Rest.  </p>
 <h4>Goggles of Night</h4>
 <hr />
 <p><strong>Monster(s)</strong>: -<br />
@@ -1611,7 +1328,7 @@ a{
 <em>Wondrous Item (Uncommon)</em><br />
 <strong>Store in</strong>: <em>bag</em><br />
 <strong>Use</strong>: <em>Take ball out</em><br />
-<strong>Description</strong>: This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.<br>You can take a Magic action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the Monster Manual for the creature’s stat block. The creature vanishes at the next dawn or when it is reduced to 0 Hit Points.<br>The creature is Friendly to you and your allies, and it acts immediately after you on your Initiative count. You can take a Bonus Action to command how the creature moves and what action it takes on its next turn, such as attacking an enemy. In the absence of such orders, the creature acts in a fashion appropriate to its nature.<br>Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.<br><strong>1d8</strong>&nbsp;<strong>Creature</strong>&nbsp;&nbsp;&nbsp;|&nbsp;<strong>1d8</strong>&nbsp;<strong>Creature</strong><br><strong>1</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weasel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;<strong>5</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Panther<br><strong>2</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Rat&nbsp;&nbsp;|&nbsp;<strong>6</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Badger<br><strong>3</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Badger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;<strong>7</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dire Wolf<br><strong>4</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;<strong>8</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Elk  </p>
+<strong>Description</strong>: This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.<br>You can take a Magic action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the Monster Manual for the creature's stat block. The creature vanishes at the next dawn or when it is reduced to 0 Hit Points.<br>The creature is Friendly to you and your allies, and it acts immediately after you on your Initiative count. You can take a Bonus Action to command how the creature moves and what action it takes on its next turn, such as attacking an enemy. In the absence of such orders, the creature acts in a fashion appropriate to its nature.<br>Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.<br><strong>1d8</strong>&nbsp;<strong>Creature</strong>&nbsp;&nbsp;&nbsp;|&nbsp;<strong>1d8</strong>&nbsp;<strong>Creature</strong><br><strong>1</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weasel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;<strong>5</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Panther<br><strong>2</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Rat&nbsp;&nbsp;|&nbsp;<strong>6</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Badger<br><strong>3</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Badger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;<strong>7</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dire Wolf<br><strong>4</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;<strong>8</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giant Elk  </p>
 <p><strong>Find DCs</strong>: Given as a choice of a reward (1 for each party member) by Adela and Philip as a reward for saving them from the Ghostlight Locomotive.<br />
 <strong>Locations</strong>: Ghostlight Crashsite  </p>
 <h4>Dust of Disappearance</h4>
@@ -1631,7 +1348,7 @@ a{
 <em>Wondrous Item (Uncommon)</em><br />
 <strong>Store in</strong>: <em>bag</em><br />
 <strong>Use</strong>: <em>Activate</em><br />
-<strong>Description</strong>: This iron rod has a button on one end. You can take a Utilize action to press the button, which causes the rod to become magically fixed in place. Until you or another creature takes a Utilize action to push the button again, the rod doesn’t move, even if it defies gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can take a Utilize action to make a DC 30 Strength (Athletics) check, moving the fixed rod up to 10 feet on a successful check.  </p>
+<strong>Description</strong>: This iron rod has a button on one end. You can take a Utilize action to press the button, which causes the rod to become magically fixed in place. Until you or another creature takes a Utilize action to push the button again, the rod doesn't move, even if it defies gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can take a Utilize action to make a DC 30 Strength (Athletics) check, moving the fixed rod up to 10 feet on a successful check.  </p>
 <p><strong>Find DCs</strong>: Given as a choice of a reward (1 for each party member) by Adela and Philip as a reward for saving them from the Ghostlight Locomotive.<br />
 <strong>Locations</strong>: Ghostlight Crashsite  </p>
 <h4>Medallion of Thoughts</h4>
@@ -1667,7 +1384,7 @@ a{
 <em>Wondrous Item (Uncommon) (Requires Attunement by a Spellcaster)</em><br />
 <strong>Store in</strong>: <em>pouch</em><br />
 <strong>Use</strong>: <em>Use</em><br />
-<strong>Description</strong>: While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can’t be used again until the next dawn.  </p>
+<strong>Description</strong>: While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can't be used again until the next dawn.  </p>
 <p><strong>Find Checks</strong>: Perception<br />
 <strong>Find DCs</strong>: 10(x1)<br />
 <strong>Locations</strong>: Dining Room at The Crooked House  </p>
@@ -1726,7 +1443,7 @@ a{
 <em>Wondrous Item (Uncommon)</em><br />
 <strong>Store in</strong>: <em>pouch</em><br />
 <strong>Use</strong>: <em>Activate</em><br />
-<strong>Description</strong>: This wooden statuette of a toy bath duckie can become a Duck for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in duck form, the figurine grants you the ability to cast Animal Messenger on it.<br><br><strong>Animal Messenger</strong><br><strong>Casting Time</strong>:Action<br><strong>Range</strong>:30 ft<br><strong>Components</strong>:V,S,M(A morsel of food)<br><strong>Duration</strong>:24 hours<br><br>A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target’s Challenge Rating isn’t 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as “a person dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.<br><br>When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn’t reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.  </p>
+<strong>Description</strong>: This wooden statuette of a toy bath duckie can become a Duck for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in duck form, the figurine grants you the ability to cast Animal Messenger on it.<br><br><strong>Animal Messenger</strong><br><strong>Casting Time</strong>:Action<br><strong>Range</strong>:30 ft<br><strong>Components</strong>:V,S,M(A morsel of food)<br><strong>Duration</strong>:24 hours<br><br>A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as “a person dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.<br><br>When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn't reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.  </p>
 <p><strong>Find DCs</strong>: Auto Success (x1)<br />
 <strong>Locations</strong>: Bathroom at The Crooked House  </p>
 <h4>Philip Druskenvald's Journal</h4>
@@ -1803,7 +1520,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Mundane</em><br />
-<strong>Description</strong>: A ritual circle drawn in dried calf ’s blood hidden under a rug, a cow skull, a chicken skull, and a lamb skull on a shelf, all marked with a bloody thumbprint, and a bundle of dried wheat, barley, and flax, bound in a blood-drenched rag, all found in the Butcher's shop's back room.  </p>
+<strong>Description</strong>: A ritual circle drawn in dried calf 's blood hidden under a rug, a cow skull, a chicken skull, and a lamb skull on a shelf, all marked with a bloody thumbprint, and a bundle of dried wheat, barley, and flax, bound in a blood-drenched rag, all found in the Butcher's shop's back room.  </p>
 <p><strong>Find Checks</strong>: Investigation<br />
 <strong>Find DCs</strong>: 13(x1)<br />
 <strong>Locations</strong>: Foxwillow  </p>
@@ -1907,7 +1624,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Mundane</em><br />
-<strong>Description</strong>: Tucked away in a drawer within Olaf's writing desk is his personal missal, a liturgical book that contains the prayers and rituals of the Crimson Faith.<br><br>It contains details on the ritual to enter the secret chamber beneath the monastery where the Bloodless receive the gift of the Crimson Rose, and where he, Cromwell, and Jaeger had been anointed as the goddess’s chosen. To access this chamber, a hidden goblet beneath the altar in the cathedral must be filled with a pint of blood.  </p>
+<strong>Description</strong>: Tucked away in a drawer within Olaf's writing desk is his personal missal, a liturgical book that contains the prayers and rituals of the Crimson Faith.<br><br>It contains details on the ritual to enter the secret chamber beneath the monastery where the Bloodless receive the gift of the Crimson Rose, and where he, Cromwell, and Jaeger had been anointed as the goddess's chosen. To access this chamber, a hidden goblet beneath the altar in the cathedral must be filled with a pint of blood.  </p>
 <p><strong>Find Checks</strong>: Perception<br />
 <strong>Find DCs</strong>: 15(x1)<br />
 <strong>Locations</strong>: Crimson Monastery  </p>
@@ -1949,7 +1666,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Mundane</em><br />
-<strong>Description</strong>: The painting on the altar is of the wife Renathyr abandoned—Lethica Nightborne. It’s of fine craftsmanship and has a haunting quality, easily worth 500 GP to a collector in Wickermoor Village.  </p>
+<strong>Description</strong>: The painting on the altar is of the wife Renathyr abandoned—Lethica Nightborne. It's of fine craftsmanship and has a haunting quality, easily worth 500 GP to a collector in Wickermoor Village.  </p>
 <p><strong>Find Checks</strong>: Sleight of Hand<br />
 <strong>Find DCs</strong>: 15(x1)<br />
 <strong>Locations</strong>: Crimson Monastery  </p>
@@ -2014,7 +1731,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: Player's Handbook<br />
 <em>Mundane</em><br />
-<strong>Description</strong>: A Dungeoneer’s Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.  </p>
+<strong>Description</strong>: A Dungeoneer's Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.  </p>
 <p><strong>Find Checks</strong>: Perception<br />
 <strong>Find DCs</strong>: 20(x1)<br />
 <strong>Locations</strong>: Skitterdeep Mine  </p>
@@ -2023,7 +1740,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: Player's Handbook<br />
 <em>Consumable (Common)</em><br />
-<strong>Description</strong>: When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).  </p>
+<strong>Description</strong>: When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).  </p>
 <p><strong>Find Checks</strong>: Perception<br />
 <strong>Find DCs</strong>: 20(x1)<br />
 <strong>Locations</strong>: Skitterdeep Mine  </p>
@@ -2032,7 +1749,9 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: Player's Handbook<br />
 <em>Mundane</em><br />
-<strong>Find Checks</strong>: Perception<br />
+<strong>Store in</strong>: <em>flask</em><br />
+<strong>Description</strong>: You can douse a creature, object, or space with Oil or use it as fuel, as detailed below.<br><strong>Dousing a Creature or an Object</strong>. When you take the Attack action, you can replace one of your attacks with throwing an Oil Flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.<br><strong>Dousing a Space</strong>. You can take the Utilize action to pour an Oil Flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oilburns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.<br>Fuel. Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.  </p>
+<p><strong>Find Checks</strong>: Perception<br />
 <strong>Find DCs</strong>: 20(x1)<br />
 <strong>Locations</strong>: Skitterdeep Mine  </p>
 <h4>Potion of Healing</h4>
@@ -2058,7 +1777,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: Player's Handbook<br />
 <em>Consumable (Common)</em><br />
-<strong>Description</strong>: A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  </p>
+<strong>Description</strong>: A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  </p>
 <p><strong>Find Checks</strong>: Sleight of Hand<br />
 <strong>Find DCs</strong>: 15(x1), Auto Success (x1) with Ward Key<br />
 <strong>Locations</strong>: Left Nurse Station at Memory's Rest  </p>
@@ -2094,7 +1813,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: Player's Handbook<br />
 <em>Consumable (Common)</em><br />
-<strong>Description</strong>: A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  </p>
+<strong>Description</strong>: A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.  </p>
 <p><strong>Find Checks</strong>: Sleight of Hand<br />
 <strong>Find DCs</strong>: 15(x1), Auto Success (x1) with Ward Key<br />
 <strong>Locations</strong>: Right Nurse Station at Memory's Rest  </p>
@@ -2121,7 +1840,7 @@ a{
 <hr />
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
-<strong>Description</strong>: Utilize: Identify a substance (DC 15), or start a fire (DC 15). Craft: Acid, Alchemist’s Fire, Component Pouch, Oil, Paper, Perfume  </p>
+<strong>Description</strong>: Utilize: Identify a substance (DC 15), or start a fire (DC 15). Craft: Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume  </p>
 <p><strong>Find DCs</strong>: Auto Success(x2)<br />
 <strong>Locations</strong>: Pharmacy at Memory's Rest  </p>
 <h4>Tranquilizer</h4>
@@ -2264,7 +1983,7 @@ a{
 <em>Potion (?)</em><br />
 <strong>Store in</strong>: <em>vial</em><br />
 <strong>Use</strong>: <em>drink</em><br />
-<strong>Description</strong>: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can’t Concentrate on spells or similar effects while Poisoned in this way.  </p>
+<strong>Description</strong>: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can't Concentrate on spells or similar effects while Poisoned in this way.  </p>
 <p><strong>Find Checks</strong>: Alchemist Supplies<br />
 <strong>Find DCs</strong>: 23(x1)<br />
 <strong>Locations</strong>: Pharmacy at Memory's Rest  </p>
@@ -2275,7 +1994,7 @@ a{
 <em>Potion (?)</em><br />
 <strong>Store in</strong>: <em>vial</em><br />
 <strong>Use</strong>: <em>drink</em><br />
-<strong>Description</strong>: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can’t knowingly speak a lie, as if under the effect of a Zone of Truth spell, while Poisoned in this way.  </p>
+<strong>Description</strong>: A creature that ingests this medicine has the Poisoned condition for 1d4 hours, and it can't knowingly speak a lie, as if under the effect of a Zone of Truth spell, while Poisoned in this way.  </p>
 <p><strong>Find Checks</strong>: Alchemist Supplies<br />
 <strong>Find DCs</strong>: 23(x1)<br />
 <strong>Locations</strong>: Pharmacy at Memory's Rest  </p>
@@ -2285,7 +2004,7 @@ a{
 <strong>Source</strong>: Dungeon Master's Guide<br />
 <em>Consumable (Rare)</em><br />
 <strong>Store in</strong>: <em>pouch</em><br />
-<strong>Description</strong>: This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. <br><br>You can take a Magic action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius Sphere on impact and is destroyed. Each creature in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can pass through.<br><br>An enclosed creature can take a Utilize action to push against the sphere’s wall, moving the sphere up to half the creature’s Speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.  </p>
+<strong>Description</strong>: This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. <br><br>You can take a Magic action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius Sphere on impact and is destroyed. Each creature in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can pass through.<br><br>An enclosed creature can take a Utilize action to push against the sphere's wall, moving the sphere up to half the creature's Speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.  </p>
 <p><strong>Find Checks</strong>: Perception, Investigation<br />
 <strong>Find DCs</strong>: 14(x1)<br />
 <strong>Locations</strong>: Godlee's Quarters at Memory's Rest  </p>
@@ -2294,7 +2013,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: Dungeon Master's Guide<br />
 <em>Wand (Uncommon)</em><br />
-<strong>Description</strong>: This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Magic Missile from it. For 1 charge, you cast the level 1 version of the spell. You can increase the spell’s level by 1 for each additional charge you expend.<br><br><strong>Regaining Charges</strong>. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.  </p>
+<strong>Description</strong>: This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Magic Missile from it. For 1 charge, you cast the level 1 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.<br><br><strong>Regaining Charges</strong>. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.  </p>
 <p><strong>Find Checks</strong>: Perception, Investigation<br />
 <strong>Find DCs</strong>: 14(x1)<br />
 <strong>Locations</strong>: Godlee's Quarters at Memory's Rest  </p>
@@ -2307,11 +2026,11 @@ a{
 <p><strong>Find Checks</strong>: Perception, Investigation<br />
 <strong>Find DCs</strong>: 14(x1)<br />
 <strong>Locations</strong>: Godlee's Quarters at Memory's Rest  </p>
-<h4>Diplomat’s Pack</h4>
+<h4>Diplomat's Pack</h4>
 <hr />
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: Player's Handbook<br />
-<strong>Description</strong>: A Diplomat’s Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.  </p>
+<strong>Description</strong>: A Diplomat's Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.  </p>
 <p><strong>Find Checks</strong>: Perception, Investigation<br />
 <strong>Find DCs</strong>: 14(x1)<br />
 <strong>Locations</strong>: Godlee's Quarters at Memory's Rest  </p>
@@ -2330,7 +2049,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Mundane</em><br />
-<strong>Description</strong>: A small diary showcasing Godlee’s admiration for and obsession with Matron Lethica, revealing that the way to enter her personal Laboratory (area L27) is to inject a dose of Lethic Serum into the eye of the owl painted on the wall of the second floor hallway.  </p>
+<strong>Description</strong>: A small diary showcasing Godlee's admiration for and obsession with Matron Lethica, revealing that the way to enter her personal Laboratory (area L27) is to inject a dose of Lethic Serum into the eye of the owl painted on the wall of the second floor hallway.  </p>
 <p><strong>Find Checks</strong>: Perception, Investigation<br />
 <strong>Find DCs</strong>: 14(x1)<br />
 <strong>Locations</strong>: Godlee's Quarters at Memory's Rest  </p>
@@ -2355,7 +2074,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Mundane</em><br />
-<strong>Description</strong>: A blood-stained knight’s tabard bearing heraldry depicting a rising sun  </p>
+<strong>Description</strong>: A blood-stained knight's tabard bearing heraldry depicting a rising sun  </p>
 <p><strong>Find DCs</strong>: Auto Success (x1)<br />
 <strong>Locations</strong>: Lethica's Quarters at Memory's Rest  </p>
 <h4>Weathered Sonnet</h4>
@@ -2385,14 +2104,14 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>?</em><br />
-<strong>Description</strong>: An amethyst-purple liquid produced by the White Worm, found in Lethica’s Quarters (area L19), the Laboratory (area L27)  </p>
+<strong>Description</strong>: An amethyst-purple liquid produced by the White Worm, found in Lethica's Quarters (area L19), the Laboratory (area L27)  </p>
 <p><strong>Locations</strong>: Memory's Rest  </p>
 <h4>Numbing Agent</h4>
 <hr />
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Consumable</em><br />
-<strong>Description</strong>: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Stoneskin (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  </p>
+<strong>Description</strong>: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Stoneskin (no Concentration required), which deals 1d4 Piercing damage to the target that can't be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial's contents.  </p>
 <p><strong>Find Checks</strong>: Perception, Investigation, Medicine<br />
 <strong>Find DCs</strong>: 13(x1)<br />
 <strong>Locations</strong>: Hugo's Quarters at Memory's Rest  </p>
@@ -2401,7 +2120,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Consumable</em><br />
-<strong>Description</strong>: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Protection from Energy (Acid) (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  </p>
+<strong>Description</strong>: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Protection from Energy (Acid) (no Concentration required), which deals 1d4 Piercing damage to the target that can't be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial's contents.  </p>
 <p><strong>Find Checks</strong>: Perception, Investigation, Medicine<br />
 <strong>Find DCs</strong>: 13(x1)<br />
 <strong>Locations</strong>: Hugo's Quarters at Memory's Rest  </p>
@@ -2410,7 +2129,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Consumable</em><br />
-<strong>Description</strong>: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Enhance Ability (Strength) (no Concentration required), which deals 1d4 Piercing damage to the target that can’t be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial’s contents.  </p>
+<strong>Description</strong>: As an action or a Bonus Action, a vial can be loaded into an injector. It can then be injected into a creature with a Utilize action to grant it the effect of Enhance Ability (Strength) (no Concentration required), which deals 1d4 Piercing damage to the target that can't be reduced or prevented in any way. Attempting to extract or collect the compounds without using an injector destroys a vial's contents.  </p>
 <p><strong>Find Checks</strong>: Perception, Investigation, Medicine<br />
 <strong>Find DCs</strong>: 13(x1)<br />
 <strong>Locations</strong>: Hugo's Quarters at Memory's Rest  </p>
@@ -2419,7 +2138,7 @@ a{
 <p><strong>Monster(s)</strong>: -<br />
 <strong>Source</strong>: The Crooked Moon<br />
 <em>Mundane</em><br />
-<strong>Description</strong>: A yellowing file folder tucked beneath one side of the woven bed. It includes a detailed record of Hugo’s surgeries and transformation.  </p>
+<strong>Description</strong>: A yellowing file folder tucked beneath one side of the woven bed. It includes a detailed record of Hugo's surgeries and transformation.  </p>
 <p><strong>Find Checks</strong>: Perception<br />
 <strong>Find DCs</strong>: 15 (x1)<br />
 <strong>Locations</strong>: Hugo's Quarters at Memory's Rest  </p>
@@ -2936,7 +2655,7 @@ a{
 <p><strong>Monster(s)</strong>: Centipede Hag<br />
 <strong>Source</strong>: Player's Handbook<br />
 <em>Scroll (Common)</em><br />
-<strong>Description</strong>: Level 1 Abjuration<br><br><strong>Casting Time</strong>: 1 minute or Ritual<br><strong>Range</strong>: 30 feet<br><strong>Components</strong>: V, S, M (a bell and silver wire)<br><strong>Duration</strong>: 8 hours<br><br>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is audible or mental:<br><br><strong>Audible Alarm</strong>. The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.<br><br><strong>Mental Alarm</strong>. You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you’re asleep.  </p>
+<strong>Description</strong>: Level 1 Abjuration<br><br><strong>Casting Time</strong>: 1 minute or Ritual<br><strong>Range</strong>: 30 feet<br><strong>Components</strong>: V, S, M (a bell and silver wire)<br><strong>Duration</strong>: 8 hours<br><br>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:<br><br><strong>Audible Alarm</strong>. The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.<br><br><strong>Mental Alarm</strong>. You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep.  </p>
 <p><strong>Find Checks</strong>: ?<br />
 <strong>Find DCs</strong>: Auto Success(x1)<br />
 <strong>Locations</strong>: Skitterdeep Mine  </p>
@@ -2954,7 +2673,7 @@ a{
 <p><strong>Monster(s)</strong>: Centipede Hag<br />
 <strong>Source</strong>: Player's Handbook<br />
 <em>Scroll (Common)</em><br />
-<strong>Description</strong>: Level 1 Enchantment<br><br><strong>Casting Time</strong>: Action<br><strong>Range</strong>: 60 feet<br><strong>Components</strong>: V, S, M (a pinch of sand or rose petals)<br><strong>Duration</strong>: Concentration, up to 1 minute<br><br>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect.<br><br>Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.  </p>
+<strong>Description</strong>: Level 1 Enchantment<br><br><strong>Casting Time</strong>: Action<br><strong>Range</strong>: 60 feet<br><strong>Components</strong>: V, S, M (a pinch of sand or rose petals)<br><strong>Duration</strong>: Concentration, up to 1 minute<br><br>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.<br><br>Creatures that don't sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.  </p>
 <p><strong>Find Checks</strong>: ?<br />
 <strong>Find DCs</strong>: Auto Success(x1)<br />
 <strong>Locations</strong>: Skitterdeep Mine  </p>
@@ -3177,6 +2896,18 @@ a{
 <strong>Description</strong>: An antitoxin made from the venom of a Crooked Hare. When drunk, it removes the effects of the bite of the Crooked Hare, and gives Advantage on saving throws cuased by its venom for 1 hour.  </p>
 <p><em>Crafted Item</em>  </p>
 <h3>Crowstorm</h3>
+<h4>False Crow Amber Eye</h4>
+<hr />
+<p><strong>Monster(s)</strong>: Crowstorm<br />
+<strong>Source</strong>: Home-brew<br />
+<em>Consumable (Common)</em><br />
+<strong>Store in</strong>: <em>pouch</em><br />
+<strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items</em><br />
+<strong>Crafting Value (when used as ingredient)</strong>: <em>5 GP</em><br />
+<strong>Description</strong>: A blood stained piece of amber in the shape of a crow eye, from a creature that is clearly not a crow. If you hold it to your ear, you can hear what it sounds like to be surrounded by murderous crow-like fiends, although extremely loudly. You can use a Bonus Action, or a Reaction when being attacked to throw it to a target within 10 ft of you. The target must succeed on a DC 14 Dexterity Saving Throw or take 1d10 Thunder damage from the cacophany, and have Disadvantage on their next attack, including the one that triggered the reaction. On a success, the target only takes half the damage.  </p>
+<p><strong>Find Checks</strong>: Survival, Perception, Investigation, Nature, Fated Tarot Reading<br />
+<strong>Find DCs</strong>: 13(x1), 15(x3), 17(x5), Auto Success on Fated Tarot: The Hanged Man (x5)<br />
+<strong>Locations</strong>: Foxwillow, Cornfield  </p>
 <h4>False Crow Feather</h4>
 <hr />
 <p><strong>Monster(s)</strong>: Crowstorm<br />
@@ -3414,7 +3145,7 @@ a{
 <p><strong>Monster(s)</strong>: Drakkenhob<br />
 <strong>Source</strong>: Home-brew<br />
 <em>Armor (Rare)(Requires Attunement)</em><br />
-<strong>Description</strong>: An armor made with the scales of a Drakkenhob. You gain Advantage on saving throws against the Drakkenhob's Terrifying Breath. Whenever you would take Psychic damage, roll 1d10 and subtract the total from the damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Drakkenhob within 30 miles of you. This action can’t be used again until the next time you take a Long Rest.  </p>
+<strong>Description</strong>: An armor made with the scales of a Drakkenhob. You gain Advantage on saving throws against the Drakkenhob's Terrifying Breath. Whenever you would take Psychic damage, roll 1d10 and subtract the total from the damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Drakkenhob within 30 miles of you. This action can't be used again until the next time you take a Long Rest.  </p>
 <p><em>Crafted Item</em>  </p>
 <h4>Drakkenhob Horn</h4>
 <hr />
@@ -3466,7 +3197,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring, Ring of the Night Terror</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>1000 GP</em><br />
 <strong>Use</strong>: <em>Eat</em><br />
-<strong>Description</strong>: You can use the heart of a Drakkenhob as 1000 GP in crafting magic items, particularly of note is it's the only item that allows you to craft a Ring of the Night Terror (Rare), which costs 2000 GP to craft.<br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br>You could, however, eat the Drakkenhob Heart and take in some of its effects, with consequences. You can take 8 hours studying the heart and monster literature with a DC 18 Nature or Arcana check to know what happens if you eat the heart. You can try to remember if you had read something on the matter before by making a DC 23 Nature or Arcana check.<br>(DM Eyes only: When eaten, you are ridden with a <strong>Minor Draconic Curse</strong>, and become afflicted with the effects of the Phantasmal Force spell. You can speak and understand Draconic, become blind in one eye, and gain Blindsight to 60 ft.<br><strong>Drakkenhob Scales</strong>: You also grow scales, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers, and you stop having proficiency to wear armor.<br>You can use a Magic Action to cast Alter Self, which also takes 2d6 Necrotic damage from the painful transformation. You can use this feature once until you take a short or long rest.<br><strong>Drakkenhob Breath</strong>: You can use a Bonus Action to grow a snout, you take 2d6 Necrotic damage from the transformation, and be able to use the Drakkenhob's Terrifying Breath for 1 hour. When using the breath weapon, you exhale terror flames in a 30 ft Cone. Creatures in the area must succeed on a DC 17 Dexterity Saving Throw or take 4d6 Psychic damage and become Frightened until the start of your next turn.<br><strong>Drakkenhob Howl</strong>: While you have the snout, you can also use a Magic Action to to howl to the moon and cast Conjure Animals (wolf form). You can use this feature once until you take a Short or Long Rest.<br>You can only remove this with a Remove Curse spell.)  </p>
+<strong>Description</strong>: You can use the heart of a Drakkenhob as 1000 GP in crafting magic items, particularly of note is it's the only item that allows you to craft a Ring of the Night Terror (Rare), which costs 2000 GP to craft.<br><br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br><br>You could, however, eat the Drakkenhob Heart and take in some of its effects, with consequences. You can take 8 hours studying the heart and monster literature with a DC 18 Nature or Arcana check to know what happens if you eat the heart. You can try to remember if you had read something on the matter before by making a DC 23 Nature or Arcana check.<br>(DM Eyes only: When eaten, you are ridden with a <strong>Minor Draconic Curse</strong>, and become afflicted with the effects of the Phantasmal Force spell. You can speak and understand Draconic, become blind in one eye, and gain Blindsight to 60 ft.<br><strong>Drakkenhob Scales</strong>: You also grow scales, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers, and you stop having proficiency to wear armor.<br>You can use a Magic Action to cast Alter Self, which also takes 2d6 Necrotic damage from the painful transformation. You can use this feature once until you take a short or long rest.<br><strong>Drakkenhob Breath</strong>: You can use a Bonus Action to grow a snout, you take 2d6 Necrotic damage from the transformation, and be able to use the Drakkenhob's Terrifying Breath for 1 hour. When using the breath weapon, you exhale terror flames in a 30 ft Cone. Creatures in the area must succeed on a DC 17 Dexterity Saving Throw or take 4d6 Psychic damage and become Frightened until the start of your next turn.<br><strong>Drakkenhob Howl</strong>: While you have the snout, you can also use a Magic Action to to howl to the moon and cast Conjure Animals (wolf form). You can use this feature once until you take a Short or Long Rest.<br>You can only remove this with a Remove Curse spell.)  </p>
 <p><strong>Cooking Effect</strong>: You can cook this to make food with a special effect for up to 4 people. When eaten, you gain draconic powers for 1 hour. You can speak and understand Draconic, gain Blindsight to 60 ft, and a Dragon's Breath for the duration. When using the breath weapon, you exhale terror flames in a 20 ft Cone. Creatures in the area must succeed on a DC 15 Dexterity Saving Throw or take 4d6 Psychic damage and become Frightened until the start of your next turn.  </p>
 <p><strong>Find Checks</strong>: Survival, Nature, Arcana<br />
 <strong>Find DCs</strong>: 21(x1)<br />
@@ -3992,7 +3723,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant, Torch</em><br />
-<strong>Description</strong>: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.  </p>
+<strong>Description</strong>: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.<br>You can alternatively crush this item into 5 pieces of Soul Embers using blunt force. If you have proficiency with an Alchemist Kit, you can refine it more carefully into 10 pieces of Soul Embers. The process takes 30 minutes. Any resulting number of Soul Embers will add up to 50 GP when used as material for crafting.  </p>
 <p><strong>Cooking Effect</strong>: When used as fuel in a fire to cook, you can prepare magic food for up to 4 people. When this food is eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation, whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, subtract 2 points of damage from the total instead.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br />
 <strong>Find DCs</strong>: 13(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: The Fool(x3)<br />
@@ -4433,7 +4164,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant, Torch</em><br />
-<strong>Description</strong>: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.  </p>
+<strong>Description</strong>: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.<br>You can alternatively crush this item into 5 pieces of Soul Embers using blunt force. If you have proficiency with an Alchemist Kit, you can refine it more carefully into 10 pieces of Soul Embers. The process takes 30 minutes. Any resulting number of Soul Embers will add up to 50 GP when used as material for crafting.  </p>
 <p><strong>Cooking Effect</strong>: When used as fuel in a fire to cook, you can prepare magic food for up to 4 people. When this food is eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation, whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, subtract 2 points of damage from the total instead.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana<br />
 <strong>Find DCs</strong>: 13(x1), 17(x2), 20(x3)<br />
@@ -4456,7 +4187,7 @@ a{
 <p><strong>Monster(s)</strong>: House of Horror<br />
 <strong>Source</strong>: Home-brew<br />
 <em>Wondrous Item (Uncommon)(Requires Attunement)</em><br />
-<strong>Description</strong>: This wooden broom functions like a mundane broom until you stand astride it and take a Magic action to make it hover beneath you, at which time it can be ridden in the air. It has a Fly Speed of 50 feet. It can carry up to 400 pounds, but its Fly Speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you’re no longer riding it.<br><br>As a Magic action, you can send the broom to travel alone to a destination within 1 mile of you if you name the location and are familiar with it. The broom comes back to you when you take a Magic action and use a command word if the broom is still within 1 mile of you.  </p>
+<strong>Description</strong>: This wooden broom functions like a mundane broom until you stand astride it and take a Magic action to make it hover beneath you, at which time it can be ridden in the air. It has a Fly Speed of 50 feet. It can carry up to 400 pounds, but its Fly Speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you're no longer riding it.<br><br>As a Magic action, you can send the broom to travel alone to a destination within 1 mile of you if you name the location and are familiar with it. The broom comes back to you when you take a Magic action and use a command word if the broom is still within 1 mile of you.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana<br />
 <strong>Find DCs</strong>: 15(x1)<br />
 <strong>Locations</strong>: Wickermoor Village (The old pyethymer place)  </p>
@@ -4631,7 +4362,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Rods, Wands, Staffs, Rings, Wondrous Items, Hypnovulfen Amulet</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>10,000 GP</em><br />
 <strong>Use</strong>: <em>Point</em><br />
-<strong>Description</strong>: The gaze of the Hypnovulfen is largely what grants it the ability to hunt despite its size. The Hypnovulfen uses its gaze to beguile its victims into seeing a loved one beckoning them closer for a warm embrace, as you have now bitterly been able to learn first-hand. You can use this eye to cast a few more illusions before it loses its power. The eye has 2 charges. You can use 1 charge and a Magic Action to cast an illusion to tragic victims in a 20 ft Cone emanating from the eye. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or have the Charmed condition and percieve a loved one or something it wants until it takes damage, or for 1 minute, whichever happens first. While charmed, it has the Incapacitated condition and must move as close to the eye as possible by the safest route. The creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. Alternatively, as long as the eye has at least 1 charge, you can use it as 10,000 GP worth in materials towards the 20,000 GP necessary to craft a Hypnovulfen Pendulum (Very Rare).  </p>
+<strong>Description</strong>: The gaze of the Hypnovulfen is what grants it the ability to hunt despite its size. The Hypnovulfen uses its gaze to beguile its victims into seeing a loved one beckoning them closer for a warm embrace, as you have now bitterly been able to learn first-hand. You can use this eye to cast illusions before it loses its power. The eye has 2 charges. You can use 1 charge and a Magic Action to cast an illusion to tragic victims in a 20 ft Cone emanating from the eye. Creatures in the area must succeed on a DC 19 Wisdom Saving Throw or have the Charmed condition and percieve a loved one or a desire until it takes damage, or for 1 minute, whichever happens first. While charmed, it has the Incapacitated condition and must move as close to the eye as possible by the safest route. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success. Alternatively, as long as it has 1 charge, you can use it as 10,000 GP worth in materials towards the 20,000 GP needed to craft a Hypnovulfen Pendulum (Very Rare).  </p>
 <p><strong>Find Checks</strong>: Survival, Nature, Arcana<br />
 <strong>Find DCs</strong>: 17(x1), 25(x2), Auto Success on Fated Tarot: The Devil(x2)<br />
 <strong>Locations</strong>: The Wytchwood  </p>
@@ -4720,23 +4451,23 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>500 GP</em><br />
 <strong>Use</strong>: <em>Lantern</em><br />
-<strong>Description</strong>: When used to light a mundane hooded or bullseye lantern, it temporarily becomes magical for the duration of the fuel (6 hours). Mixing other fuels does not extend this time, but turning the lantern off can be done to save the remaining fuel for later.<br>As a Magic Action you can use the langern to produce a melee or ranged (60 ft) flame of a specific color, using a +7 to hit. The following colors have these effects:<br><strong>Blue</strong> does 1d6 + 4 Cold damage, and the target has the Restrained condition until the end of its next turn.<br><strong>Green</strong> does 3d10 + 4 Necrotic damage, and the target’s Speed is 0 until the end of its next turn.<br><strong>Purple</strong> does 1d12 + 4 Psychic damage, and the target has the Frightened condition until the end of its next turn.<br><strong>Red</strong> does 2d10 + 4 Fire damage, and the target starts burning, taking 1d10 Fire damage instead of the regular burning damage.<br>Any time you use the lantern to attack you must succeed on a DC 10 Wisdom Saving Throw or be affected by laughter which gives you the Incapacitated condition until the start of your next turn.  </p>
+<strong>Description</strong>: When used to light a mundane hooded or bullseye lantern, it temporarily becomes magical for the duration of the fuel (6 hours). Mixing other fuels does not extend this time, but turning the lantern off can be done to save the remaining fuel for later.<br>As a Magic Action you can use the langern to produce a melee or ranged (60 ft) flame of a specific color, using a +7 to hit. The following colors have these effects:<br><strong>Blue</strong> does 1d6 + 4 Cold damage, and the target has the Restrained condition until the end of its next turn.<br><strong>Green</strong> does 3d10 + 4 Necrotic damage, and the target's Speed is 0 until the end of its next turn.<br><strong>Purple</strong> does 1d12 + 4 Psychic damage, and the target has the Frightened condition until the end of its next turn.<br><strong>Red</strong> does 2d10 + 4 Fire damage, and the target starts burning, taking 1d10 Fire damage instead of the regular burning damage.<br>Any time you use the lantern to attack you must succeed on a DC 10 Wisdom Saving Throw or be affected by laughter which gives you the Incapacitated condition until the start of your next turn.  </p>
 <p><strong>Cooking Effect</strong>: When used as cooking oil, you can prepare food with a special effect for up to 4 people. When eaten, your eyes can glow Bright Light for a 10 ft cone, and Dim Light a 20 ft cone, of one of the colors for 1 hour, and you can make a Kackle Fire Breath attack as a Magic Action. You spit fire in a 15 ft cone, and creatures in the area make a DC 14 Dexterity Saving Throw. On a Failure, they suffer the following effects for each color, while on a save they suffer no damage or effect.<br><strong>Blue</strong> does 1d4 Cold damage, and the target has the Restrained Condition until the end of its next turn.<br><strong>Green</strong> does 3d8 Necrotic damage, and the target's Speed is 0 until the end of its next turn.<br><strong>Purple</strong> does 1d10 Psychic damage, and the target has the Frightened condition until the end of its next turn.<br><strong>Red</strong> does 2d8 Fire damage, and the target starts burning, taking 1d8 Fire damage instead of the regular burning damage.<br>Any time you use the fire breath to attack you must succeed on a DC 10 Wisdom Saving Throw or be affected by laughter which gives you the Incapacitated condition until the start of your next turn.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana<br />
-<strong>Find DCs</strong>: 15(x1)<br />
+<strong>Find DCs</strong>: 16(x1)<br />
 <strong>Locations</strong>: Maidenmist Cementery, Foxwillow (Galloping Headsman riled), Maidenmist Cementery (The Barrow King)  </p>
 <h4>Kackle Charm</h4>
 <hr />
 <p><strong>Monster(s)</strong>: Kackle<br />
 <strong>Source</strong>: Home-brew<br />
 <em>Consumable (Rare)</em><br />
-<strong>Store in</strong>: <em>flask</em><br />
+<strong>Store in</strong>: <em>pouch</em><br />
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>500 GP</em><br />
 <strong>Use</strong>: <em>Crush</em><br />
 <strong>Description</strong>: This doll reminiscent of a Kackle holds some of its magic. When crushed as a Bonus Action, the user can teleport to an unoccupied space they can see up to 30 ft and a faint ghostly laugh can be heard in the place they used to be. When used, you must succeed on a DC 10 Wisdom Saving Throw or giggle and reveal your new position.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana<br />
-<strong>Find DCs</strong>: 15(x1)<br />
+<strong>Find DCs</strong>: 18(x1)<br />
 <strong>Locations</strong>: Maidenmist Cementery, Foxwillow (Galloping Headsman riled), Maidenmist Cementery (The Barrow King)  </p>
 <h3>Keeper of the Blight</h3>
 <h4>Decaying Staff</h4>
@@ -4876,8 +4607,8 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Sprinkle</em><br />
-<strong>Description</strong>: A Lurker hides in the shadows and appears hither and thither without struggle, as long as there is Dark. When teleporting like this, the Lurker only leaves behind a trace of gray dust.<br>When sprinkled at a character's feet as a Magic Action, the character can teleport to a place within 60 ft that is not in Bright Light. A creature the user is grappling must succeed on a DC 13 Charisma Saving Throw or be teleported to an unoccupied space closest to the user's destination. When using the dust, you must succeed on a DC 13 Charisma Saving Throw or take 1d6 Psychic damage.  </p>
-<p><strong>Cooking Effect</strong>: When added as a spice, you can make food with a special effect for up to 4 people. When eaten, for 1 hour, you become slightly unnoticeable and unnerving. When in Dim Light or Darkness, you can take the Hide Action using Charisma (Deception), and creatures have 1d6 subtracted from their Perception or Insight checks against you. However, if a creature that succeeds on seeing you is Friendly towards you, they make a DC 15 Wisdom Saving Throw or have the Frightened condition until the start of their next turn.  </p>
+<strong>Description</strong>: A Lurker hides in the shadows and appears hither and thither without struggle, as long as there is Dark. When teleporting, the Lurker only leaves behind a trace of gray dust.<br>When sprinkled at a character's feet as a Magic Action, the character can teleport to a place within 60 ft that is not in Bright Light. A creature the user is grappling must succeed on a DC 13 Charisma Saving Throw or be teleported to an unoccupied space closest to the destination. When using the dust, you must succeed on a DC 13 Charisma Saving Throw or take 1d6 Psychic damage.  </p>
+<p><strong>Cooking Effect</strong>: When used as a spice, you can make food with a special effect for up to 4 people. When eaten, for 1 hour, you become slightly unnoticeable and unnerving. When in Dim Light or Darkness, you can take the Hide Action using Charisma (Deception), and creatures subtract 1d6 from Perception or Insight checks against you. If a creature that sees you is Friendly towards you, they make a DC 15 Wisdom Saving Throw or have the Frightened condition until the start of their next turn.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Insight, Arcana<br />
 <strong>Find DCs</strong>: 15(x1), 17(x2)<br />
 <strong>Locations</strong>: The Crooked House, The Bag  </p>
@@ -5073,7 +4804,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items, Bellowing Dragoncrest Ring, Lingering Dragoncrest Ring</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>4000 GP</em><br />
 <strong>Use</strong>: <em>Weapon Enchant, Armor Enchant, Accessory Enchant, Drink</em><br />
-<strong>Description</strong>: The blood of a Necrolisk flows with the energy of the spirits it devoured during its lifetime.<br><br>You can use it in a ritual lasting 10 minutes to coat a weapon with it, which will permanently turns it into a Shroudbane Weapon (Very Rare).<br><br>You can also use it in a ritual lasting 10 minutes to coat a piece of armor, shield or clothing, which permanently become a Shroud Repellent (Very Rare) equipment.<br><br>You can also use it to coat a silver accessory, such as a ring or amulet, which permanently becomes a Silver Accessory of Coveting (Very Rare). <br><br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br><br>If you consume the blood it will permanently grant 15 ft of Tremorsense, and 5 ft of Blindsight, which are added to your range of Tremorsense and Blindsight if you already have it from other features, as well as the ability to once per long rest sense incorporeal entities within 200 ft of you, or you add 200 ft to whichever feature allows you to sense incorporeal creatures that you might have.  </p>
+<strong>Description</strong>: The blood of a Necrolisk flows with the energy of the spirits it devoured during its lifetime.<br>You can use it in a ritual lasting 10 minutes to coat a weapon with it, which will permanently turns it into a Shroudbane Weapon (Very Rare).<br>You can also use it in a ritual lasting 10 minutes to coat a piece of armor, shield or clothing, which permanently become a Shroud Repellent (Very Rare) equipment.<br>You can also use it to coat a silver accessory, such as a ring or amulet, which permanently becomes a Silver Accessory of Coveting (Very Rare). <br>As with the blood of any dragon, you can also use it as materials towards the 20,000 GP necessary to craft a Bellowing Dragoncrest Ring (Very Rare), or a Lingering Dragoncrest Ring (Very Rare).<br>If you consume the blood it will permanently grant 15 ft of Tremorsense, and 5 ft of Blindsight, which are added to your range of Tremorsense and Blindsight if you already have it from other features, as well as the ability to once per long rest sense incorporeal entities within 200 ft of you, or you add 200 ft to whichever feature allows you to sense incorporeal creatures that you might have.  </p>
 <p><strong>Cooking Effect</strong>: If you have proficiency in the Alchemist Kit, you can refine the magic in the blood to make 8 vials of Necrolisk Extract  </p>
 <p><strong>Find Checks</strong>: Survival, Nature, Arcana, Alchemist Kit, Fated Tarot Reading<br />
 <strong>Find DCs</strong>: 15(x1), 17(x2), 20(x3), Auto Success on Fated Tarot: Strength (x3)<br />
@@ -5144,7 +4875,7 @@ a{
 <p><strong>Monster(s)</strong>: Necrolisk<br />
 <strong>Source</strong>: Home-brew<br />
 <em>Armor (Very Rare)(Requires Attunement)</em><br />
-<strong>Description</strong>: This armor is made from the scales of the Necrolisk, which is highly valued. While wearing this armor, you gain a +1 bonus to your Armor Class, you have Advantage on saving throws against the breath weapons of Dragons and the Saliva of the Necrolisk, and you have Resistance to Force damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Necrolisk within 30 miles of yourself. This action can’t be used again until you take a Long Rest.  </p>
+<strong>Description</strong>: This armor is made from the scales of the Necrolisk, which is highly valued. While wearing this armor, you gain a +1 bonus to your Armor Class, you have Advantage on saving throws against the breath weapons of Dragons and the Saliva of the Necrolisk, and you have Resistance to Force damage. Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest Necrolisk within 30 miles of yourself. This action can't be used again until you take a Long Rest.  </p>
 <p><em>Crafted Item</em>  </p>
 <h4>Necrolisk Vestigial Wings</h4>
 <hr />
@@ -5183,7 +4914,7 @@ a{
 <p><strong>Monster(s)</strong>: Necrolisk<br />
 <strong>Source</strong>: Home-brew<br />
 <em>Weapon (Very Rare)(Requires Attunement)</em><br />
-<strong>Description</strong>: The Necrolisk is hungry for spirits and souls, and so is this weapon made from the teeth and bones of the beast itself. <br><br>You can also use this weapon as a focus for your spells, and have a +1 bonus to attack rolls and damage rolls against incorporeal creatures. The weapon also has a +1 bonus to spell attack and spell damage rolls and a +1 bonus to spell save DC. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d6 Force damage on any hit, and +4d6 damage to incorporeal creatures, and you gain half of that damage as Temporary Hit Points.<br><br>As a Magic Action, you can choose any number of creatures you can see in a 60 ft radius of you, in addition to automatically affecting incorporeal creatures you cannot see in the same range. You call the hunger of souls within your Soul Eater, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed.<br><br>You can also use a Magic Action to sense the presence of spirits or incorporeal creatures in a 300 ft radius.<br><br>Once you use either feature you can't use that feature again until you take a Long Rest.  </p>
+<strong>Description</strong>: The Necrolisk is hungry for spirits and souls, and so is this weapon made from the teeth and bones of the beast itself. <br><br>You can also use this weapon as a focus for your spells, and have a +1 bonus to attack rolls and damage rolls against incorporeal creatures. The weapon also has a +1 bonus to spell attack and spell damage rolls and a +1 bonus to spell save DC. The weapon ignores any sort of resistance or immunity to Piercing, Slashing, or Bludgeoning damage caused by the enemy being incorporeal. Depending on what weapon you made, it makes that type of damage. In addition, it deals +2d6 Force damage on any hit, and +4d6 damage to incorporeal creatures, and you gain half of that damage as Temporary Hit Points.<br><br>As a Magic Action, you can choose any number of creatures you can see in a 60 ft radius of you, in addition to automatically affecting incorporeal creatures you cannot see in the same range. You call the hunger of souls within your Soul Eater, and cause each of these creatures to succumb to it. Each affected creature must succeed on a DC 20 Wisdom Saving Throw or take 4d6 Force damage, or 8d6 Force damage if they are incorporeal, taking half damage on a successful save. If you bring any creature to 0 HP when using this feature, you gain 5 plus your character level Hit Points per creature killed.<br>You can also use a Magic Action to sense the presence of spirits or incorporeal creatures in a 300 ft radius.<br>Once you use either feature you can't use that feature again until you take a Long Rest.  </p>
 <p><em>Crafted Item</em>  </p>
 <h4>Necrolisk Heart</h4>
 <hr />
@@ -5577,7 +5308,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>500 GP</em><br />
 <strong>Use</strong>: <em>Ring</em><br />
-<strong>Description</strong>: The tolling bell on the carriage precedes the apparition’s appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 5 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn. On a success, they take half damage only. Undead creatures make this save at disadvantage.<br>Alternatively, if the bell still has at least 3 charges, you can spend an additional 500 GP to reinforce its magic to make it a permanent magic item, Hearse's Toll (Rare)  </p>
+<strong>Description</strong>: The tolling bell on the carriage precedes the apparition's appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 5 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn. On a success, they take half damage only. Undead creatures make this save at disadvantage.<br>Alternatively, if the bell still has at least 3 charges, you can spend an additional 500 GP to reinforce its magic to make it a permanent magic item, Hearse's Toll (Rare)  </p>
 <p><strong>Find Checks</strong>: Religion, Investigation, Arcana<br />
 <strong>Find DCs</strong>: 20(x1)<br />
 <strong>Locations</strong>: Maidenmist Cementery  </p>
@@ -5588,7 +5319,7 @@ a{
 <em>Wondrous Item (Rare)</em><br />
 <strong>Store in</strong>: <em>bag</em><br />
 <strong>Use</strong>: <em>Ring</em><br />
-<strong>Description</strong>: The tolling bell on the carriage precedes the apparition’s appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 2 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn.<br>The bell regains 1d2 charges per long rest.  </p>
+<strong>Description</strong>: The tolling bell on the carriage precedes the apparition's appearance, and its sepulchral sound has caused more than a few witnesses to drop dead on the spot.<br>The bell has 2 charges.<br>You can spend 1 charge to ring the bell you choose any number of creatures within 30 ft of the bell, and all targets make a DC 16 Wisdom Saving Throw. On a failure, they take 8d10 Psychic damage, and the creature's Speed is haled until the start of your next turn.<br>The bell regains 1d2 charges per long rest.  </p>
 <p><em>Crafted Item</em>  </p>
 <h4>Coachman's Whip</h4>
 <hr />
@@ -5653,7 +5384,7 @@ a{
 <em>Consumable (Very Rare)</em><br />
 <strong>Store in</strong>: <em>bag</em><br />
 <strong>Use</strong>: <em>Read</em><br />
-<strong>Description</strong>: A tome filled with many secrets that the Pigeon Hag obsessively collected over the years. Some of it Arcane, some of it mundane. If you spend 12 hours studying the book’s contents, you increase one of your Ability Scores by 2 to a maximum of 24.  </p>
+<strong>Description</strong>: A tome filled with many secrets that the Pigeon Hag obsessively collected over the years. Some of it Arcane, some of it mundane. If you spend 12 hours studying the book's contents, you increase one of your Ability Scores by 2 to a maximum of 24.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br />
 <strong>Find DCs</strong>: 23(x1), Auto Success on Fated Tarot: The Sun(x1)<br />
 <strong>Locations</strong>: Walking Dovecote  </p>
@@ -5748,7 +5479,7 @@ a{
 <p><strong>Monster(s)</strong>: Purple Worm<br />
 <strong>Source</strong>: Home-brew<br />
 <em>Weapon (Very Rare)(Requires Attunement)</em><br />
-<strong>Description</strong>: While you are attuned to this weapon you gain the following benefits. This weapon deals 1d12 Piercing damage and 1d8 Acid damage on a hit. You can also use this weapon as a focus for your spells.<br>As a Magic Action, you can use it to destroy rock or dirt in a 20 ft cube, making a traversable path, or creating difficult terrain. You can also use a Magic Action to create an Earthquake effect in a 40 ft square adjacent to a point you can swing the pick at. The area immediately becomes shaking earth and difficult terrain, and creatures in the area make a DC 20 Dexterity Saving Throw, failing which they take 4d6 Bludgeoning damage and are Prone until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. On subsequent turns for 1 minute, the area continues to shake and creatures ending their movement in the area make another DC 20 Dexterity Saving Throw and take 2d6 Bludgeoning damage and become Prone again until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. Once you use the Earthquake effect, it can’t be used again until the next dawn.  </p>
+<strong>Description</strong>: While you are attuned to this weapon you gain the following benefits. This weapon deals 1d12 Piercing damage and 1d8 Acid damage on a hit. You can also use this weapon as a focus for your spells.<br>As a Magic Action, you can use it to destroy rock or dirt in a 20 ft cube, making a traversable path, or creating difficult terrain. You can also use a Magic Action to create an Earthquake effect in a 40 ft square adjacent to a point you can swing the pick at. The area immediately becomes shaking earth and difficult terrain, and creatures in the area make a DC 20 Dexterity Saving Throw, failing which they take 4d6 Bludgeoning damage and are Prone until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. On subsequent turns for 1 minute, the area continues to shake and creatures ending their movement in the area make another DC 20 Dexterity Saving Throw and take 2d6 Bludgeoning damage and become Prone again until the start of their next turn. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw or its Concentration is broken. Once you use the Earthquake effect, it can't be used again until the next dawn.  </p>
 <p><em>Crafted Item</em>  </p>
 <h4>Purple Worm Stomach Acid</h4>
 <hr />
@@ -5772,8 +5503,8 @@ a{
 <strong>Use as ingredient for</strong>: <em>Weapons</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>2500 GP</em><br />
 <strong>Use</strong>: <em>Weapon Enchant</em><br />
-<strong>Description</strong>: The Purple Worm is deadly not only from its mouth but from its stinger as well. You can only imagine what it needs such a big stinger for, and you don't want to find out.<br>The poison from the stinger can be applied directly to a weapon or 3 pieces of ammunition 1 time, or you can refine the poison with the Poisoner Kit or the Alchemist Kit for 1 hour to make an extract that allows you to have 3 vials of poison with the same effect instead.<br>When coating a weapon with either the stinger secretions or the extract as a Bonus Action, your weapon becomes poisonus for 3 hits. On a hit, the target takes he mundane damage normally, and immediately makes a DC 19 Constitution saving throw. On a failure they take 10d6 Poison damage, and have the Poisoned condition for 1 hour. On a failure, they take half as much damage, and have no additional effect.  </p>
-<p><strong>Cooking Effect</strong>: If you have proficiency with the Poisoner Kit or the Alchemist Kit, you can refine 8 vials of an antidote in 2 hours. When the antidote is injected, you have immunity to the Poisoned condition and resistance to Poison damage for 24 hours.  </p>
+<strong>Description</strong>: The Purple Worm is deadly not only from its mouth but from its stinger as well. You can only imagine what it needs such a big stinger for, and you don't want to find out.<br>The poison from the stinger can be applied directly to a weapon or 3 pieces of ammunition 1 time, or you can refine the poison with the Poisoner Kit or the Alchemist Kit for 1 hour to make an extract that allows you to have 3 vials with the same effect.<br>When coating a weapon with either the stinger secretions or the extract as a Bonus Action, your weapon becomes poisonus for 3 hits. On a hit, the target takes he mundane damage normally, and immediately makes a DC 19 Constitution saving throw. On a failure they take 10d6 Poison damage, and have the Poisoned condition for 1 hour. On a failure, they take half as much damage, and have no additional effect.  </p>
+<p><strong>Cooking Effect</strong>: If you have proficiency with the Poisoner Kit or the Alchemist Kit, you can refine 8 vials of an antidote in 2 hours. When injected, you have immunity to the Poisoned condition and resistance to Poison damage for 24 hours.  </p>
 <p><strong>Find Checks</strong>: Survival, Nature, Poisoner Kit, Alchemist Kit<br />
 <strong>Find DCs</strong>: 23(x1)<br />
 <strong>Locations</strong>: Moonsong Lake  </p>
@@ -6200,7 +5931,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant, Torch</em><br />
-<strong>Description</strong>: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.  </p>
+<strong>Description</strong>: Left behind Haints that don't find peace for too long end up becoming Soul Coal.<br>When applied to a weapon as a Bonus Action, add +1d4 Fire and +1d4 Necrotic damage to attacks with that weapon for 10 minutes, and attacks to incorporeal creatures ignore resistances to Slashing, Bludgeoning and Piercing damage.<br>If used on the end of a torch, the fuel lasts for 1 hour, it sheds green-blue Bright Light in a 30 ft radius and Dim Light for an additional 30 ft, and incorporeal creatures become corporeal losing resistances to Slashing, Bludgeoning and Piercing damage while illuminated.<br>You can alternatively crush this item into 5 pieces of Soul Embers using blunt force. If you have proficiency with an Alchemist Kit, you can refine it more carefully into 10 pieces of Soul Embers. The process takes 30 minutes. Any resulting number of Soul Embers will add up to 50 GP when used as material for crafting.  </p>
 <p><strong>Cooking Effect</strong>: When used as fuel in a fire to cook, you can prepare magic food for up to 4 people. When this food is eaten, for the next hour you emit a faint blue-green glow and are surrounded by a 5 ft emanation of Bright Light. Incorporeal creatures in the emanation, whenever they would resist Bludgeoning, Slashing, or Piercing damage because of their being incorporeal, subtract 2 points of damage from the total instead.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana<br />
 <strong>Find DCs</strong>: 13(x1), 17(x2)<br />
@@ -6681,7 +6412,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Spells, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>2500 GP</em><br />
 <strong>Use</strong>: <em>Weapon Enchant, Armor Enchant, Drink</em><br />
-<strong>Description</strong>: While drinking Vampire Blood is not adviseable, it can still be used for its magical potential in place of 2500 GP worth of materials to craft magic items or cast expensive spells. You can alternatively use it to coat your weapon with it in an unholy ritual lasting 10 minutes, permanently making it a Vampiric Weapon (Very Rare).<br>Alternatively you can use it to coat a shield with it in an unholy ritual lasting 10 minutes, permanently making it a Vampiric Shield (Very Rare).<br>You can also use it to coat an accessory in an unholy ritual lasting 10 minutes, permanently making it a Vampiric Accessory (Very Rare).<br><br>(DM Eyes only: If your players are still hellbent on drinking the Vampire Blood, they permanently enter a Vampiric Spawn Curse, which slowly progresses to completion for the next 4 days. This can only be removed using Remove Curse upcasted to the 6th spell level or the spell Wish. Choose one benefit, and one penalty at random with two 1d2 - <br> <strong>Benefit: Inured to Undeath</strong>. You have Resistance to Necrotic damage, and you have Advantage on saving throws against spells and effects created by Undead.<br><strong>Benefit: Bat Form</strong> Once per day, you can use your action to to yell 'Bat!' and cast Polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores, and can speak. You can dismiss the effect by yelling '(your species here) Form!' or 'Normal Form!' to transform back to your original form.<br><strong>Penalty: Sunlight Sensitivity</strong>You have Disadvantage on D20 Tests while in direct sunlight, and are vulnerable to Radiant damage.<br><strong>Penalty: Unholy Appetite.</strong> You must consume one vial of blood (it needn’t be fresh) per day or suffer Malnutrition.<br>- These effects slowly appear the first 4 days. For example, the bat form might be deformed and slow at first, or clumsy.)  </p>
+<strong>Description</strong>: While drinking Vampire Blood is not adviseable, it can still be used for its magical potential in place of 2500 GP worth of materials to craft magic items or cast expensive spells. You can alternatively use it to coat your weapon with it in an unholy ritual lasting 10 minutes, permanently making it a Vampiric Weapon (Very Rare).<br>Alternatively you can use it to coat a shield with it in an unholy ritual lasting 10 minutes, permanently making it a Vampiric Shield (Very Rare).<br>You can also use it to coat an accessory in an unholy ritual lasting 10 minutes, permanently making it a Vampiric Accessory (Very Rare).<br><br>(DM Eyes only: If your players are still hellbent on drinking the Vampire Blood, they permanently enter a Vampiric Spawn Curse, which slowly progresses to completion for the next 4 days. This can only be removed using Remove Curse upcasted to the 6th spell level or the spell Wish. Choose one benefit, and one penalty at random with two 1d2 - <br> <strong>Benefit: Inured to Undeath</strong>. You have Resistance to Necrotic damage, and you have Advantage on saving throws against spells and effects created by Undead.<br><strong>Benefit: Bat Form</strong> Once per day, you can use your action to to yell 'Bat!' and cast Polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores, and can speak. You can dismiss the effect by yelling '(your species here) Form!' or 'Normal Form!' to transform back to your original form.<br><strong>Penalty: Sunlight Sensitivity</strong>You have Disadvantage on D20 Tests while in direct sunlight, and are vulnerable to Radiant damage.<br><strong>Penalty: Unholy Appetite.</strong> You must consume one vial of blood (it needn't be fresh) per day or suffer Malnutrition.<br>- These effects slowly appear the first 4 days. For example, the bat form might be deformed and slow at first, or clumsy.)  </p>
 <p><strong>Cooking Effect</strong>: When used in cooking, you can prepare an unholy meal that gives a special effect to up to 4 people. When eating it, you recover 8d4+8 Hit Points. (DM Eyes only: Permanently after eating it, whenever you have the Frightened condition, you turn into a Bat. You return to your regular self after the Frightened condition is ended. This can only be removed with the Remove Curse spell.)  </p>
 <p><strong>Find Checks</strong>: Survival, Nature, Religion, Arcana, Fated Tarot Reading<br />
 <strong>Find DCs</strong>: 17(x1), 25(x2), Auto Success on Fated Tarot: The Hierophant (x2)<br />
@@ -6716,7 +6447,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>10,000 GP</em><br />
 <strong>Use</strong>: <em>Eat</em><br />
-<strong>Description</strong>: The heart of a Vampire is as arcane as it is forbidden. You can use it in place of 10,000 GP towards the 100,000 GP necessary to craft a Vampiric Locket (Legendary). Alternatively, you can use it to improve on the rituals made to create a Vampiric Weapon (Vampire Heart)(Legendary), or a Vampiric Shield (Vampire Heart) (Legendary). Eating the heart would save you the trouble of crafting, but it would have unholy consequences. You can take 8 hours studying the heart and vampiric literature with a DC 18 Religion or Arcana check to know what happens if you eat the heart. You can try to remember if you had read something on the matter before by making a DC 23 Religion or Arcana check. (DM Eyes only: If your players are still hellbent on eating the Vampire Heart, they permanently enter a Vampiric Curse, which slowly progresses to completion for the next 4 days. This can only be removed using Remove Curse upcasted to the 6th spell level or the spell Wish. - <strong>Vampiric Senses</strong> You have Darkvision up to 120 ft. Your speed increases by 20 ft, and you gain a Climb Speed and Fly Speed of 20 ft, in addition to any you might already have. <strong>Inured to Undeath</strong>. You have Resistance to Necrotic damage, and you have Advantage on saving throws against spells and effects created by Undead. <strong>Bat Form</strong> Once per day, you can use a Magic Action to to yell 'Bat!' and cast Polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores, and can speak. You can dismiss the effect by yelling '(your species here) Form!' or 'Normal Form!' to transform back to your original form. <strong>Sunlight Sensitivity</strong>You have Disadvantage on D20 Tests while in direct sunlight, and are vulnerable to Radiant damage. <strong>Unholy Appetite.</strong> You must consume one vial of blood (it needn’t be fresh) per day or suffer Malnutrition. <strong>Searing Silver</strong>. Damage from Silvered Weapons ignores any Resistance or Immunity to damage you have. If you take damage from a Silvered Weapon or touch silver with your bare skin (or its equivalent), you can’t regain Hit Points until you finish a Short or Long Rest. - These effects slowly appear the first 4 days. For example, the bat form might be deformed and slow at first, or clumsy.)  </p>
+<strong>Description</strong>: The heart of a Vampire is as arcane as it is forbidden. You can use it in place of 10,000 GP towards the 100,000 GP necessary to craft a Vampiric Locket (Legendary). Alternatively, you can use it to improve on the rituals made to create a Vampiric Weapon (Vampire Heart)(Legendary), or a Vampiric Shield (Vampire Heart) (Legendary). Eating the heart would save you the trouble of crafting, but it would have unholy consequences. You can take 8 hours studying the heart and vampiric literature with a DC 18 Religion or Arcana check to know what happens if you eat the heart. You can try to remember if you had read something on the matter before by making a DC 23 Religion or Arcana check. (DM Eyes only: If your players are still hellbent on eating the Vampire Heart, they permanently enter a Vampiric Curse, which slowly progresses to completion for the next 4 days. This can only be removed using Remove Curse upcasted to the 6th spell level or the spell Wish. - <strong>Vampiric Senses</strong> You have Darkvision up to 120 ft. Your speed increases by 20 ft, and you gain a Climb Speed and Fly Speed of 20 ft, in addition to any you might already have. <strong>Inured to Undeath</strong>. You have Resistance to Necrotic damage, and you have Advantage on saving throws against spells and effects created by Undead. <strong>Bat Form</strong> Once per day, you can use a Magic Action to to yell 'Bat!' and cast Polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores, and can speak. You can dismiss the effect by yelling '(your species here) Form!' or 'Normal Form!' to transform back to your original form. <strong>Sunlight Sensitivity</strong>You have Disadvantage on D20 Tests while in direct sunlight, and are vulnerable to Radiant damage. <strong>Unholy Appetite.</strong> You must consume one vial of blood (it needn't be fresh) per day or suffer Malnutrition. <strong>Searing Silver</strong>. Damage from Silvered Weapons ignores any Resistance or Immunity to damage you have. If you take damage from a Silvered Weapon or touch silver with your bare skin (or its equivalent), you can't regain Hit Points until you finish a Short or Long Rest. - These effects slowly appear the first 4 days. For example, the bat form might be deformed and slow at first, or clumsy.)  </p>
 <p><strong>Cooking Effect</strong>: When used in cooking, you prepare an unholy meal that gives a special effect to up to 4 people. When eating it, you recover 12d4+12 Hit Points.(DM Eyes only: Permanently after eating it, whenever you have the Frightened condition, you turn into a Bat. You return to your regular self after the Frightened condition is ended. Additionally, whenever they take Radiant damage, they must succeed on a DC 15 Wisdom Saving Throw or become a Bat until the end of their next turn. This can only be removed with the Remove Curse spell.)  </p>
 <p><strong>Find Checks</strong>: Survival, Nature, Religion, Arcana, Fated Tarot Reading<br />
 <strong>Find DCs</strong>: 25(x1), Auto Success on Fated Tarot: The Hierophant<br />
@@ -7398,7 +7129,7 @@ a{
 <strong>Source</strong>: Home-brew<br />
 <em>Wondrous Item (Rare)</em><br />
 <strong>Store in</strong>: <em>pouch</em><br />
-<strong>Description</strong>: This amulet contains the crystallised form of a troll heart preserved in tar. While wearing and attuned to this amulet, you may spend an action to activate it. For the next minute, you regain 10 hit points at the start of your turn so long as you haven’t taken acid or fire damage since the end of your last turn and so long as you start your turn with at least 1 hit point. Once you have used this ability once, you cannot use it again until the next dawn.  </p>
+<strong>Description</strong>: This amulet contains the crystallised form of a troll heart preserved in tar. While wearing and attuned to this amulet, you may spend an action to activate it. For the next minute, you regain 10 hit points at the start of your turn so long as you haven't taken acid or fire damage since the end of your last turn and so long as you start your turn with at least 1 hit point. Once you have used this ability once, you cannot use it again until the next dawn.  </p>
 <p><em>Crafted Item</em>  </p>
 <h3>Undead Centaur</h3>
 <h4>Random Armament (DMG p.328) (Rare or Uncommon)</h4>
@@ -7643,7 +7374,7 @@ a{
 <strong>Source</strong>: Home-brew<br />
 <em>Wondrous Item (Uncommon)</em><br />
 <strong>Store in</strong>: <em>pouch</em><br />
-<strong>Description</strong>: Once per day, you can describe an object that is familiar to you, and make a DC 15 Arcana check. On a success, the compass will point in the objects direction if it is within 500 ft of you. The compass can locate a specific object known to you if you have seen it up close (within 30 feet) at least once. Alternatively, the compass can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon. The check can be made with Advantage if the object of interest is a specific type of teeth. This compass can’t locate an object if any thickness of lead blocks a direct path between you and the object.  </p>
+<strong>Description</strong>: Once per day, you can describe an object that is familiar to you, and make a DC 15 Arcana check. On a success, the compass will point in the objects direction if it is within 500 ft of you. The compass can locate a specific object known to you if you have seen it up close (within 30 feet) at least once. Alternatively, the compass can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon. The check can be made with Advantage if the object of interest is a specific type of teeth. This compass can't locate an object if any thickness of lead blocks a direct path between you and the object.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana, Fated Tarot Reading<br />
 <strong>Find DCs</strong>: 15(x1), Auto Success on Fated Tarot: The Moon (x1)<br />
 <strong>Locations</strong>: The Crooked House  </p>
@@ -7713,7 +7444,7 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods, Wands, Staffs, Rings, Wondrous Items</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>50 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant, Armor enchant, Thrown</em><br />
-<strong>Description</strong>: Wights are the withered corpses of relentless warriors whose wickedness and vengeful intent sustains them beyond death. Once slain, you can still find some of their ill intent crystalized in a Dark Shard. It is better not to absorb this shard for yourself, but you can still use it.<br>When applied to a weapon as a Bonus Action, a negative aura covers the weapon for 10 minutes, adding +1d6 Necrotic damage to hits with that weapon, and the target's maximum Hit Points decreases by an ammount equal to the extra damage added by this item, unless they have resistances or immunities to Necrotic damage.<br>When applied to an armor or shield, an aura covers it for 10 minutes, and when an enemy attacks the wearer they take 1d6 Necrotic damage, and can't regain Hit Points until the end of their next turn.<br>When thrown, an emanation of magical darkness appears in a 10 ft radius, creatures in the emanation make a DC 13 Wisdom Saving Throw, and take 2d6 Necrotic damage and become Frightened of the emanation, or half the damage with no additional effect.  </p>
+<strong>Description</strong>: Wights are the withered corpses of relentless warriors whose wickedness and vengeful intent sustains them beyond death. Once slain, you can still find some of their ill intent crystalized in a Dark Shard.<br>When applied to a weapon as a Bonus Action, a negative aura covers the weapon for 10 minutes, adding +1d6 Necrotic damage to hits with that weapon, and the target's maximum Hit Points decreases by an ammount equal to the extra damage added by this item, unless they have resistances or immunities to Necrotic damage.<br>When applied to an armor or shield, an aura covers it for 10 minutes, and when an enemy attacks the wearer they take 1d6 Necrotic damage, and can't regain Hit Points until the end of their next turn.<br>When thrown, an emanation of magical darkness appears in a 10 ft radius, creatures in the emanation make a DC 13 Wisdom Saving Throw, and take 2d6 Necrotic damage and become Frightened of the emanation, or half the damage with no additional effect.  </p>
 <p><strong>Find Checks</strong>: Survival, Arcana<br />
 <strong>Find DCs</strong>: 15(x1), 20(x2)<br />
 <strong>Locations</strong>: The Crooked House, Drowned Crossroads, Wickermoor Village (The Barrow King waves)  </p>
@@ -7754,9 +7485,9 @@ a{
 <strong>Use as ingredient for</strong>: <em>Potions, Scrolls, Weapons, Armor, Shields, Rods (Fire), Wands (Fire), Staffs (Fire), Rings (Fire), Wondrous Items (fire)</em><br />
 <strong>Crafting Value (when used as ingredient)</strong>: <em>13 GP</em><br />
 <strong>Use</strong>: <em>Weapon enchant, Torch</em><br />
-<strong>Description</strong>: Blue-green embers, reminiscent of soul coal. You can use a Bonus Action to apply this to a weapon. When applied to a weapon, it glows with a faint green-blue light for 1 minute, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage for the duration. If sprinkled on a torch, the light will shift to blue-green light, and incorporeal creatures in a 10 ft radius to the torch become corporeal losing any resistances to slashing, bludgeoning and piercing damage when affected like this.  </p>
+<strong>Description</strong>: Blue-green embers, reminiscent of soul coal. You can use a Bonus Action to apply this to a weapon. When applied to a weapon, it glows with a faint green-blue light for 2 rounds, and attacks to incorporeal creatures ignore resistances to slashing, bludgeoning or piercing damage for the duration. If sprinkled on a torch, the light will shift to blue-green light for 1 minute, and incorporeal creatures in a 10 ft radius to the torch become corporeal losing any resistances to slashing, bludgeoning and piercing damage when affected like this.  </p>
 <p><strong>Find Checks</strong>: Survival, Perception, Investigation, Arcana<br />
-<strong>Find DCs</strong>: 17(x1)<br />
+<strong>Find DCs</strong>: 17(x3)<br />
 <strong>Locations</strong>: The Drowned Crossroads  </p>
 <h3>Wolf</h3>
 <h4>Wolf Pelt</h4>

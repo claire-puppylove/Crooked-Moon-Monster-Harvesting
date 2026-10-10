@@ -1,4 +1,12 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>body {
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>@font-face {
+  font-family: 'Libre Baskerville';
+  src: local('Libre Baskerville'), local('LibreBaskerville'), url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
+}</style>
+<style>@font-face {
+  font-family: 'Noto Sans';
+  src: local('Noto Sans'), local('NotoSans'), url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+}</style>
+<style>body {
   max-width: 980px;
   margin: 16px auto;
 }
@@ -18,7 +26,8 @@ body .markdown-body
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   color: #333333;
-  overflow: hidden;
+  /*overflow: hidden;*/
+  overflow: visible;
   font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
   font-size: 1em;
   line-height: 1.3;
@@ -507,6 +516,13 @@ body .markdown-body
   display:block;
   width: 100%;
   column-span: all;
+  break-inside: auto;
+  overflow: auto;
+}
+
+.markdown-body .wide,
+.markdown-body .wide *{
+  page-break-inside: auto!important;
 }
 
 .markdown-body code,
@@ -947,12 +963,15 @@ body .markdown-body
   size:A4;
   margin-top: 0.4in;
   margin-bottom: 0.4in;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 @media print {
   body {
     max-width: 100% !important;
     margin: 0 15mm 0 15mm !important;
+    background: transparent !important;
   }
 
   body .markdown-body
@@ -961,7 +980,7 @@ body .markdown-body
     background: transparent !important;
   }
 
-  .markdown-body * {
+  .markdown-body *:not(hr) {
     background: transparent !important;
     filter:none !important;
     -ms-filter: none !important;
@@ -984,9 +1003,9 @@ body .markdown-body
     display: none !important;
   }
 
-  .markdown-body a[href]:after {
+  /*.markdown-body a[href]:after {
     content: " (" attr(href) ")" !important;
-  }
+  }*/
 
   .markdown-body abbr[title]:after {
     content: " (" attr(title) ")" !important;
@@ -1030,6 +1049,7 @@ body .markdown-body
   .markdown-body tr,
   .markdown-body img {
     page-break-inside: avoid !important;
+    break-inside: avoid !important;
   }
 
   .markdown-body img {
@@ -1043,9 +1063,12 @@ body .markdown-body
     widows: 3 !important;
   }
 
+  .markdown-body h1,
   .markdown-body h2,
   .markdown-body h3,
-  .markdown-body h4 {
+  .markdown-body h4,
+  .markdown-body h5,
+  .markdown-body h6, {
     page-break-after: avoid !important;
   }
 
@@ -1071,317 +1094,20 @@ body .markdown-body
     border-top:0 !important;
     border-bottom: 1pt solid #ccc !important;
   }
+
+  .pagebreak {
+    page-break-after:always;
+    display: block;
+  } /* page-break-before works, as well */
+
+  .markdown-body .wide {
+    page-break-inside:auto !important;
+  }
+
 }
 
 </style>
-<style>/* latin-ext */
-/*@font-face {
-  font-family: 'Libre Baskerville';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville'), local('LibreBaskerville'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville'), local('LibreBaskerville'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/
-
-/* latin-ext */
-/*@font-face {
-  font-family: 'Libre Baskerville Bold';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville Bold';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/
-/* latin-ext */
-/*@font-face {
-  font-family: 'Libre Baskerville Italic';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcCsww.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}*/
-/* latin */
-/*@font-face {
-  font-family: 'Libre Baskerville Italic';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'), url(https://fonts.gstatic.com/s/librebaskerville/v6/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}*/</style>
-<style>/* cyrillic-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARPQ_m87A.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARGQ_m87A.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* devanagari */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARDQ_m87A.woff2) format('woff2');
-  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4AROQ_m87A.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARBQ_m87A.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARNQ_m87A.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARMQ_m87A.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0OIpQlx3QUlC5A4PNr4ARCQ_k.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyOzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyHzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* devanagari */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyCzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyPzW1aPQ.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyAzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyMzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyNzW1aPQ.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(https://fonts.gstatic.com/s/notosans/v8/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW0.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr6DRAW_0.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr4TRAW_0.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* devanagari */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr5DRAW_0.woff2) format('woff2');
-  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr6TRAW_0.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr5jRAW_0.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr6jRAW_0.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr6zRAW_0.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v8/o-0IIpQlx3QUlC5A4PNr5TRA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVadyB1Wk.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVYNyB1Wk.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* devanagari */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVZdyB1Wk.woff2) format('woff2');
-  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVaNyB1Wk.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVZ9yB1Wk.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVa9yB1Wk.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVatyB1Wk.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Noto Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v8/o-0NIpQlx3QUlC5A4PNjXhFVZNyB.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-</style>
-<style>@import "https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap";
-body{
+<style>body{
     background:#f7ebcb;
     font-family:Libre Baskerville,serif;
     -webkit-font-smoothing:antialiased;
@@ -1392,7 +1118,12 @@ h1,h2,h3,h4,h5,h6{
     color:#7a2b17;
     text-transform:uppercase;
     line-height:1.1;
-    margin:24px 0 12px
+    margin:0 0 9px !important;
+    padding-bottom: 0;
+}
+
+h4,h5,h6 {
+    margin-bottom: 1px !important;
 }
 
 h1:first-letter,h2:first-letter,h3:first-letter,h4:first-letter,h5:first-letter,h6:first-letter{
@@ -1403,9 +1134,10 @@ h1{
     /*font-size:24px;*/
     font-weight:700;
 }
-h1,h2,h3{
+
+/*h1,h2,h3{
     border-bottom:2px solid tan
-}
+}*/
 
 p{
     line-height:1.4;
@@ -1425,16 +1157,14 @@ p+p{
     overflow:hidden;
     margin:16px 0
 }
-/*# sourceMappingURL=/dnd.min.css.map */</style>
-<style>hr {
+/*# sourceMappingURL=/dnd.min.css.map */
+
+hr,
+.markdown-body hr {
     display: block;
     width: 100%;
-    /*height: 2px!important;*/
     height: 2px;
-    /*background-color: #922610!important;*/
-    background-color: #922610;
-    color: #922610;
-    fill: #922610;
+    background-color: #922610!important;
 }
 
 h1 {
@@ -1460,6 +1190,16 @@ h3 {
     border-bottom: 2px solid #922610!important;
 }
 
+h4:has(+hr) {
+    margin-bottom:6px !important;
+    padding-bottom: 0 !important;
+}
+
+h4+hr {
+    margin-top:0 !important;
+    margin-bottom: 9px !important;
+}
+
 h5,h6,p {
     margin: 0;
 }
@@ -1468,43 +1208,43 @@ a{
     color:#922610;
 }</style><title>Crooked Moon DM Screen</title></head><body><article class="markdown-body"><div class="wide"><h3> Conditions</h3></div>
 
-<h4>Blinded</h4>
+<h5>Blinded</h5>
 <p><strong><em>Can't See.</em></strong> You can't see and automatically fail any ability check that requires sight.<br>
 <strong><em>Attacks Affected.</em></strong> Attack rolls against you have Advantage, and your attack rolls have Disadvantage.</p>
-<h4>Charmed</h4>
+<h5>Charmed</h5>
 <p><strong><em>Can't Harm the Charmer.</em></strong> You can't attack the charmer or target the charmer with damaging abilities or magical effects.<br>
 <strong><em>Social Advantage.</em></strong> The charmer has Advantage on any ability check to interact with you socially.</p>
-<h4>Deafened</h4>
+<h5>Deafened</h5>
 <p><strong><em>Can't Hear.</em></strong> You can't hear and automatically fail any ability check that requires hearing.</p>
-<h4>Exhaustion</h4>
+<h5>Exhaustion</h5>
 <p><strong><em>Exhaustion Levels.</em></strong> This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.<br>
 <strong><em>d20 Tests Affected.</em></strong> When you make a d20 Test, the roll is reduced by 2 times your Exhaustion level.<br>
 <strong><em>Speed Reduced.</em></strong> Your Speed is reduced by a number of feet equal to 5 times your Exhaustion level.<br>
 <strong><em>Removing Exhaustion Levels.</em></strong> Finishing a Long Rest removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.</p>
-<h4>Frightened</h4>
+<h5>Frightened</h5>
 <p><strong><em>Ability Checks and Attacks Affected.</em></strong> You have Disadvantage on ability checks and attack rolls while the source of fear is within line of sight.<br>
 <strong><em>Can't Approach.</em></strong> You can't willingly move closer to the source of fear.</p>
-<h4>Grappled</h4>
+<h5>Grappled</h5>
 <p><strong><em>Speed 0.</em></strong> Your Speed is 0 and can't increase.<br>
 <strong><em>Attacks Affected.</em></strong> You have Disadvantage on attack rolls against any target other than the grappler.<br>
 <strong><em>Movable.</em></strong> The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.</p>
-<h4>Incapacitated</h4>
+<h5>Incapacitated</h5>
 <p><strong><em>Inactive.</em></strong> You can't take any action, Bonus Action, or Reaction.<br>
 <strong><em>No Concentration.</em></strong> Your Concentration is broken.<br>
 <strong><em>Speechless.</em></strong> You can't speak.<br>
 <strong><em>Surprised.</em></strong> If you're Incapacitated when you roll Initiative, you have Disadvantage on the roll.</p>
-<h4>Invisible</h4>
+<h5>Invisible</h5>
 <p><strong><em>Surprise.</em></strong> If you're Invisible when you roll Initiative, you have Advantage on the roll.<br>
 <strong><em>Concealed.</em></strong> You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.<br>
 <strong><em>Attacks Affected.</em></strong> Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.</p>
 <p><br></p>
-<h4>Paralyzed</h4>
+<h5>Paralyzed</h5>
 <p><strong><em>Incapacitated.</em></strong> You have the Incapacitated condition.<br>
 <strong><em>Speed 0.</em></strong> Your Speed is 0 and can't increase.<br>
 <strong><em>Saving Throws Affected.</em></strong> You automatically fail Strength and Dexterity saving throws.<br>
 <strong><em>Attacks Affected.</em></strong> Attack rolls against you have Advantage.<br>
 <strong><em>Automatic Critical Hits.</em></strong> Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.</p>
-<h4>Petrified</h4>
+<h5>Petrified</h5>
 <p><strong><em>Turned to Inanimate Substance.</em></strong> You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.<br>
 <strong><em>Incapacitated.</em></strong> You have the Incapacitated condition.<br>
 <strong><em>Speed 0.</em></strong> Your Speed is 0 and can't increase.<br>
@@ -1512,20 +1252,20 @@ a{
 <strong><em>Saving Throws Affected.</em></strong> You automatically fail Strength and Dexterity saving throws.<br>
 <strong><em>Resist Damage.</em></strong> You have Resistance to all damage.<br>
 <strong><em>Poison Immunity.</em></strong> You have Immunity to the Poisoned condition.</p>
-<h4>Poisoned</h4>
+<h5>Poisoned</h5>
 <p><strong><em>Ability Checks and Attacks Affected.</em></strong> You have Disadvantage on attack rolls and ability checks.</p>
-<h4>Prone</h4>
+<h5>Prone</h5>
 <p><strong><em>Restricted Movement.</em></strong> Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.<br>
 <strong><em>Attacks Affected.</em></strong> You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.</p>
-<h4>Restrained</h4>
+<h5>Restrained</h5>
 <p><strong><em>Speed 0.</em></strong> Your Speed is 0 and can't increase.<br>
 <strong><em>Attacks Affected.</em></strong> Attack rolls against you have Advantage, and your attack rolls have Disadvantage.<br>
 <strong><em>Saving Throws Affected.</em></strong> You have Disadvantage on Dexterity saving throws.</p>
-<h4>Stunned</h4>
+<h5>Stunned</h5>
 <p><strong><em>Incapacitated.</em></strong> You have the Incapacitated condition.<br>
 <strong><em>Saving Throws Affected.</em></strong> You automatically fail Strength and Dexterity saving throws.<br>
 <strong><em>Attacks Affected.</em></strong> Attack rolls against you have Advantage.)</p>
-<h4>Unconscious</h4>
+<h5>Unconscious</h5>
 <p><strong><em>Inert.</em></strong> You have the Incapacitated and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.<br>
 <strong><em>Speed 0.</em></strong> Your Speed is 0 and can't increase.<br>
 <strong><em>Attacks Affected.</em></strong> Attack rolls against you have Advantage.<br>

@@ -1,22 +1,18 @@
-# Crooked Moon<br>Monster Harvesting
-
-Monster Harvesting options I added for my Crooked Moon campaign
+# Crooked Moon Monster Harvesting
 
 <a id="objective"></a>
-## Objective
+### Objective
 
 Following the publication of [The Crooked Moon](https://thecrookedmoon.com) I decided to DM it for my friends.
 
 Now in most video games I enjoy monster drops, monster harvesting, or otherwise having an item be part of the story-telling of the world the players are in. I take great inspiration from games like Dark Souls, where item descriptions are how we find out some of the lore of the monsters we just defeated, as well as Tears of the Kingdom, where you can do wacky things with items recovered from monster parts. 
 
-Therefore I decided to make items unique to most monsters of the Crooked Moon campaign. That includes some of the official Monster Manual monsters as well, but I did not cover all of them. 
-
-Now, because a lot of Crooked Moon characters don't really need to eat, I didn't really put all that much thought in cooking effects.
+Therefore I decided to make items unique to most monsters of the Crooked Moon campaign. That includes some of the official Monster Manual monsters as well, but I did not cover all of them. Now, because a lot of Crooked Moon characters don't really need to eat, I didn't really put all that much thought in cooking effects.
 
 Also to note is that I cannot be bothered with encumbrance rules so unless I am feeling particularly bored and had finished all the monsters, I'm not including item weight in any of the items for the moment.
 
 <a id="use-guide"></a>
-## Use guide
+### Use guide
 
 There are (currently) mainly the following fields:
 
@@ -52,13 +48,8 @@ There are (currently) mainly the following fields:
 
 
 <a id="donations"></a>
-## Donations
+### Donations
 
 I won't charge for this content but honestly it is taking me several full on days of designing items. If you'd like to toss a coin to your local Witch I would be grateful.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B25VYE0)
-
-<!-- ## Table of Contents -->
-
-<!-- TOC -->
-<!-- TOC -->
