@@ -19,7 +19,7 @@ This whole guide, the table, the item descriptions, everything here is for DM ey
 <a id="use-guide"></a>
 ### Use guide
 
-Go inside the `manuals` folder to access different versions of the harvesting items. There are two main files: `harvesting_items_dm_by_item`, and `harvesting_items_player_by_item`. There's also an alternative two files organized by monster: `harvesting_items_dm_by_monster`, and `harvesting_items_player_by_monster`. They each have a markdown and HTML version. You can download the HTML file and open it with a browser like Firefox, for example, or on your phone browser as well. All are for DM eyes only, but the second file of each group is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.
+Go inside the `harvesting_manuals` folder to access different versions of the harvesting items. There are two main files: `harvesting_items_dm_by_item`, and `harvesting_items_player_by_item`. There's also an alternative two files organized by monster: `harvesting_items_dm_by_monster`, and `harvesting_items_player_by_monster`. They each have a markdown and HTML version. You can download the HTML file and open it with a browser like Firefox, for example, or on your phone browser as well. All are for DM eyes only, but the second file of each group is information that you can gradually give to the players, while the first file has details that the players won't learn even if they cast Identify on the item. There is almost always no difference, but it can avoid some meta-gaming.
 
 There are (currently) mainly the following fields:
 
@@ -55,6 +55,12 @@ There are (currently) mainly the following fields:
 - **Find Checks**: For my table, what I think is appropriate to have them roll a check to find the item in the monster remains. In my case, I plan to just tell them to roll their favorite from the list and note the results. This is one of the fields you don't want to hand to the player.
 - **Find DC**: For my table, what I think is appropriate for the DC to find the item is. Often I will include the DC(quantity) of items if different rolls give more items for the check. For example "13(x1),15(x2),17(x3)" means that from the table, if anyone rolled over a 17 the party gets 3 items, but if the maximum that all of them got was a 16 then they only get 2. Sometimes, I will include Auto Success for certain enemies and the conditions for auto success. Often this happens with Fated Tarot Readings. If the player picked a Fated Tarot card that matches that boss fight, all the monster loot also drops at their maximum amount. This is also information you don't really need to share with your players.
 - **Location**: Although I haven't double checked it to be exhaustive, the location that the monster or monsters appear in, and therefore also potentially the loot.
+
+To generate your own documents, you can use the [dnd document generator](https://github.com/claire-puppylove/dnd_document_generator) repository that I made separately to make Markdown documents of the CSV for readability.
+
+You don't need to install it for the full manuals I already provide in `/harvesting_manuals`, but if you do want to make smaller handouts to your players with only the items they've discovered so far, you might want to install it. This project uses python with Poetry. You don't need to know Python to install this, but you need to be comfortable with a terminal.
+
+Alternatively, if you really want to make a handout for your players but don't want to install it, you can just duplicate the manual files I have and delete the extra information using a text editor.
 
 <a id="general-design-guidelines"></a>
 ### General Design Guidelines
